@@ -1,0 +1,51 @@
+@startuml
+!theme plain
+title Document Parsing Process Flow
+
+start
+:Receive document for processing;
+
+:Preprocess document content;
+:Normalize encoding;
+:Clean text;
+:Preserve structure;
+
+if (Is document in English?) then (yes)
+  :Extract keywords;
+  :Tokenize content;
+  :Calculate frequency;
+  :Assign relevance scores;
+  :Categorize keywords;
+  :Map keyword positions;
+  
+  :Parse ECS elements;
+  :Identify entities;
+  :Identify components;
+  :Identify systems;
+  :Map ECS relationships;
+  
+  :Extract constraints;
+  :Classify constraint types;
+  :Determine severity levels;
+  :Define validation logic;
+  
+  :Enrich metadata;
+  :Add search optimization;
+  :Tag business domains;
+  :Calculate reading time;
+  :Count words;
+  
+  :Validate all data structures;
+  :Create processed JSON file;
+  :Generate documentation website;
+  :Create PlantUML diagrams;
+else (no)
+  :Skip document;
+endif
+
+:Save processed data;
+:Update task tracker;
+:Update master tracker;
+
+stop
+@enduml
