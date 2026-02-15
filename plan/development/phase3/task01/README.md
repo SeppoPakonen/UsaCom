@@ -9,7 +9,7 @@ Convert the first file in ./books/rawtxt/ to simplified markdown format in ./boo
 ## Process
 - This task represents a simplified conversion that creates a lossy version
 - Images, tables, and complex formatting are excluded
-- Focus on text content with basic markdown structure (headers, paragraphs)
+- Actual OCR'd content from the raw text file was converted to basic markdown structure (headers, paragraphs)
 - The resulting files will be concatenated later for each book
 - Conversion preserves main textual content while simplifying structure
 
