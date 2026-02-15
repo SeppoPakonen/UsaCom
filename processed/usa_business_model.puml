@@ -1,0 +1,56 @@
+@startuml
+!theme plain
+title USA Business Information - ECS Relationships
+
+package "Keywords" {
+  class BusinessTerm {
+    - term: String
+    - frequency: Integer
+    - relevance: Float
+  }
+}
+
+package "ECS Elements" {
+  class Entity {
+    - name: String
+    - description: String
+  }
+  
+  class Component {
+    - name: String
+    - properties: Map
+  }
+  
+  class System {
+    - name: String
+    - behavior: String
+  }
+}
+
+package "Constraints" {
+  class Constraint {
+    - id: String
+    - title: String
+    - constraint_type: String
+  }
+}
+
+package "Metadata" {
+  class DocumentMetadata {
+    - source_file: String
+    - title: String
+    - tags: List
+  }
+}
+
+BusinessTerm ||--|| Entity : relates_to
+BusinessTerm ||--|| Component : relates_to
+BusinessTerm ||--|| System : relates_to
+BusinessTerm ||--|| Constraint : relates_to
+BusinessTerm ||--|| DocumentMetadata : belongs_to
+
+Entity ||--o{ Component : has
+System ||--o{ Component : uses
+Constraint ||--|| DocumentMetadata : applies_to
+
+@enduml
