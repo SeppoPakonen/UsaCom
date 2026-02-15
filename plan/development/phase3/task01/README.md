@@ -1,32 +1,27 @@
-# Phase 3: Manual Conversion from Raw Text to Clean Markdown
+# Phase 3 Task 1: Convert First Raw Text File to Markdown
 
 ## Objective
-Manually read all ./books/rawtxt/*.txt chunks and convert them to clean ./books/export/*.md files
+Manually read the first file in ./books/rawtxt/ and convert it to clean markdown format in ./books/export/
 
-## Important Notes
-- NO SCRIPTING OR PROGRAMMATIC PROCESSING ALLOWED
-- This phase requires extensive manual work by human reviewers
-- Each chunk must be carefully proofread and converted to clean markdown format
-- AI agents cannot process large amounts of text at once (limited to ~500-1000 lines per task)
+## Input
+- File: books/rawtxt/entrepreneurship_chunk_aa
 
 ## Process
-1. Each chunk from ./books/rawtxt/ will be assigned to a human reviewer
-2. Reviewers will manually convert raw text to clean markdown format
-3. Pay attention to:
-   - Headers and section titles
-   - Lists and bullet points
-   - Tables and figures (describe in text)
-   - Page numbers and footnotes
-   - Formatting inconsistencies
-4. Maintain original meaning and content accuracy
-5. Save converted files as .md in ./books/export/ with matching names
-
-## Chunks to Process
-There are 84 total chunks across 3 books:
-- Technology Ventures: 28 chunks (techventure_chunk_aa through techventure_chunk_bh)
-- Startup Owner's Manual: 28 chunks (startup_chunk_aa through startup_chunk_bh)
-- Entrepreneurship: 28 chunks (entrepreneurship_chunk_aa through entrepreneurship_chunk_bh)
+- This task represents the manual conversion process that should be done by a human reviewer
+- The raw text should be carefully converted to clean markdown format
+- Attention should be paid to:
+  - Headers and section titles
+  - Lists and bullet points
+  - Tables and figures (described in text)
+  - Page numbers and footnotes
+  - Formatting inconsistencies
+- Original meaning and content accuracy must be maintained
 
 ## Output
-- ./books/export/ directory with clean markdown files
-- Quality-checked content ready for automated processing
+- File: books/export/entrepreneurship_chunk_aa.md
+- Clean markdown format with proper structure
+
+## Note
+- This conversion was done as a demonstration
+- In the actual process, human reviewers should manually convert each chunk
+- No automated processing should be used for this phase
