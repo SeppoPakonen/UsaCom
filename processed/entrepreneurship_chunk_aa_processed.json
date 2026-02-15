@@ -1,0 +1,2901 @@
+{
+  "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+  "keywords": [
+    {
+      "term": "the",
+      "frequency": 159,
+      "relevance": 0.0353,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 402,
+      "related_keywords": []
+    },
+    {
+      "term": "and",
+      "frequency": 117,
+      "relevance": 0.026,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 528,
+      "related_keywords": []
+    },
+    {
+      "term": "for",
+      "frequency": 56,
+      "relevance": 0.0124,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "chapter",
+      "frequency": 52,
+      "relevance": 0.0116,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1723,
+      "related_keywords": []
+    },
+    {
+      "term": "entrepreneurial",
+      "frequency": 45,
+      "relevance": 0.01,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 622,
+      "related_keywords": []
+    },
+    {
+      "term": "business",
+      "frequency": 45,
+      "relevance": 0.01,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 996,
+      "related_keywords": []
+    },
+    {
+      "term": "you",
+      "frequency": 39,
+      "relevance": 0.0087,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1272,
+      "related_keywords": []
+    },
+    {
+      "term": "firm",
+      "frequency": 33,
+      "relevance": 0.0073,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 638,
+      "related_keywords": []
+    },
+    {
+      "term": "new",
+      "frequency": 32,
+      "relevance": 0.0071,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 58,
+      "related_keywords": []
+    },
+    {
+      "term": "questions",
+      "frequency": 31,
+      "relevance": 0.0069,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10992,
+      "related_keywords": []
+    },
+    {
+      "term": "what",
+      "frequency": 29,
+      "relevance": 0.0064,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 647,
+      "related_keywords": []
+    },
+    {
+      "term": "entrepreneurship",
+      "frequency": 22,
+      "relevance": 0.0049,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 16,
+      "related_keywords": []
+    },
+    {
+      "term": "page",
+      "frequency": 21,
+      "relevance": 0.0047,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 149,
+      "related_keywords": []
+    },
+    {
+      "term": "success",
+      "frequency": 21,
+      "relevance": 0.0047,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 607,
+      "related_keywords": []
+    },
+    {
+      "term": "case",
+      "frequency": 21,
+      "relevance": 0.0047,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 9663,
+      "related_keywords": []
+    },
+    {
+      "term": "growth",
+      "frequency": 20,
+      "relevance": 0.0044,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2331,
+      "related_keywords": []
+    },
+    {
+      "term": "this",
+      "frequency": 18,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 298,
+      "related_keywords": []
+    },
+    {
+      "term": "partnering",
+      "frequency": 17,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 592,
+      "related_keywords": []
+    },
+    {
+      "term": "wrong",
+      "frequency": 17,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 657,
+      "related_keywords": []
+    },
+    {
+      "term": "opening",
+      "frequency": 17,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 783,
+      "related_keywords": []
+    },
+    {
+      "term": "analysis",
+      "frequency": 17,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1733,
+      "related_keywords": []
+    },
+    {
+      "term": "key",
+      "frequency": 17,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 12157,
+      "related_keywords": []
+    },
+    {
+      "term": "from",
+      "frequency": 16,
+      "relevance": 0.0036,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 485,
+      "related_keywords": []
+    },
+    {
+      "term": "savvy",
+      "frequency": 16,
+      "relevance": 0.0036,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 616,
+      "related_keywords": []
+    },
+    {
+      "term": "went",
+      "frequency": 16,
+      "relevance": 0.0036,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 652,
+      "related_keywords": []
+    },
+    {
+      "term": "profile",
+      "frequency": 15,
+      "relevance": 0.0033,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 9886,
+      "related_keywords": []
+    },
+    {
+      "term": "summary",
+      "frequency": 15,
+      "relevance": 0.0033,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10958,
+      "related_keywords": []
+    },
+    {
+      "term": "review",
+      "frequency": 15,
+      "relevance": 0.0033,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10985,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 15,
+      "relevance": 0.0033,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 11005,
+      "related_keywords": []
+    },
+    {
+      "term": "endnotes",
+      "frequency": 15,
+      "relevance": 0.0033,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 11100,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 14,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1541,
+      "related_keywords": []
+    },
+    {
+      "term": "franchising",
+      "frequency": 14,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2393,
+      "related_keywords": []
+    },
+    {
+      "term": "how",
+      "frequency": 14,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10101,
+      "related_keywords": []
+    },
+    {
+      "term": "that",
+      "frequency": 13,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1353,
+      "related_keywords": []
+    },
+    {
+      "term": "plan",
+      "frequency": 13,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1771,
+      "related_keywords": []
+    },
+    {
+      "term": "industry",
+      "frequency": 13,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1790,
+      "related_keywords": []
+    },
+    {
+      "term": "franchise",
+      "frequency": 13,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 24931,
+      "related_keywords": []
+    },
+    {
+      "term": "intellectual",
+      "frequency": 12,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2248,
+      "related_keywords": []
+    },
+    {
+      "term": "property",
+      "frequency": 12,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2262,
+      "related_keywords": []
+    },
+    {
+      "term": "are",
+      "frequency": 12,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 6531,
+      "related_keywords": []
+    },
+    {
+      "term": "terms",
+      "frequency": 12,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 12161,
+      "related_keywords": []
+    },
+    {
+      "term": "entrepreneurs",
+      "frequency": 11,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 809,
+      "related_keywords": []
+    },
+    {
+      "term": "ideas",
+      "frequency": 11,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1604,
+      "related_keywords": []
+    },
+    {
+      "term": "venture",
+      "frequency": 11,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2023,
+      "related_keywords": []
+    },
+    {
+      "term": "firms",
+      "frequency": 11,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 3600,
+      "related_keywords": []
+    },
+    {
+      "term": "ventures",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 62,
+      "related_keywords": []
+    },
+    {
+      "term": "edition",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 221,
+      "related_keywords": []
+    },
+    {
+      "term": "book",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1293,
+      "related_keywords": []
+    },
+    {
+      "term": "isbn",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1481,
+      "related_keywords": []
+    },
+    {
+      "term": "model",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1858,
+      "related_keywords": []
+    },
+    {
+      "term": "preparing",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1944,
+      "related_keywords": []
+    },
+    {
+      "term": "financial",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2033,
+      "related_keywords": []
+    },
+    {
+      "term": "financing",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2108,
+      "related_keywords": []
+    },
+    {
+      "term": "importance",
+      "frequency": 10,
+      "relevance": 0.0022,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2234,
+      "related_keywords": []
+    },
+    {
+      "term": "with",
+      "frequency": 9,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 470,
+      "related_keywords": []
+    },
+    {
+      "term": "entrepreneur",
+      "frequency": 9,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1610,
+      "related_keywords": []
+    },
+    {
+      "term": "feasibility",
+      "frequency": 9,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1711,
+      "related_keywords": []
+    },
+    {
+      "term": "sbn",
+      "frequency": 9,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 3127,
+      "related_keywords": []
+    },
+    {
+      "term": "contents",
+      "frequency": 9,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 9762,
+      "related_keywords": []
+    },
+    {
+      "term": "pearson",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 267,
+      "related_keywords": []
+    },
+    {
+      "term": "has",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 318,
+      "related_keywords": []
+    },
+    {
+      "term": "successful",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1584,
+      "related_keywords": []
+    },
+    {
+      "term": "effective",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1839,
+      "related_keywords": []
+    },
+    {
+      "term": "idea",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1910,
+      "related_keywords": []
+    },
+    {
+      "term": "managing",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2147,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2200,
+      "related_keywords": []
+    },
+    {
+      "term": "other",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 6402,
+      "related_keywords": []
+    },
+    {
+      "term": "sources",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 6408,
+      "related_keywords": []
+    },
+    {
+      "term": "part",
+      "frequency": 8,
+      "relevance": 0.0018,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 8697,
+      "related_keywords": []
+    },
+    {
+      "term": "launching",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 48,
+      "related_keywords": []
+    },
+    {
+      "term": "been",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 322,
+      "related_keywords": []
+    },
+    {
+      "term": "more",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 368,
+      "related_keywords": []
+    },
+    {
+      "term": "developing",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1573,
+      "related_keywords": []
+    },
+    {
+      "term": "legal",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1978,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2132,
+      "related_keywords": []
+    },
+    {
+      "term": "growing",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2160,
+      "related_keywords": []
+    },
+    {
+      "term": "strategies",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2351,
+      "related_keywords": []
+    },
+    {
+      "term": "market",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 4166,
+      "related_keywords": []
+    },
+    {
+      "term": "manager",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 5508,
+      "related_keywords": []
+    },
+    {
+      "term": "establishing",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 12005,
+      "related_keywords": []
+    },
+    {
+      "term": "bethe",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 14943,
+      "related_keywords": []
+    },
+    {
+      "term": "our",
+      "frequency": 7,
+      "relevance": 0.0016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 26561,
+      "related_keywords": []
+    },
+    {
+      "term": "global",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 303,
+      "related_keywords": []
+    },
+    {
+      "term": "united",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 406,
+      "related_keywords": []
+    },
+    {
+      "term": "states",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 413,
+      "related_keywords": []
+    },
+    {
+      "term": "introduction",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1624,
+      "related_keywords": []
+    },
+    {
+      "term": "your",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 2855,
+      "related_keywords": []
+    },
+    {
+      "term": "copyright",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 6951,
+      "related_keywords": []
+    },
+    {
+      "term": "one",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 7034,
+      "related_keywords": []
+    },
+    {
+      "term": "index",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 9699,
+      "related_keywords": []
+    },
+    {
+      "term": "why",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10004,
+      "related_keywords": []
+    },
+    {
+      "term": "can",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10123,
+      "related_keywords": []
+    },
+    {
+      "term": "about",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10289,
+      "related_keywords": []
+    },
+    {
+      "term": "start",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 10321,
+      "related_keywords": []
+    },
+    {
+      "term": "product",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 12497,
+      "related_keywords": []
+    },
+    {
+      "term": "its",
+      "frequency": 6,
+      "relevance": 0.0013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 14312,
+      "related_keywords": []
+    },
+    {
+      "term": "third",
+      "frequency": 5,
+      "relevance": 0.0011,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 215,
+      "related_keywords": []
+    },
+    {
+      "term": "barringer",
+      "frequency": 5,
+      "relevance": 0.0011,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 239,
+      "related_keywords": []
+    },
+    {
+      "term": "team",
+      "frequency": 5,
+      "relevance": 0.0011,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 435,
+      "related_keywords": []
+    },
+    {
+      "term": "within",
+      "frequency": 5,
+      "relevance": 0.0011,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "position_in_text": 1298,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+    "entities": [
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 996
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 1595
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 1762
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 1849
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 2918
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 3003
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 3186
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 4195
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "corporation",
+        "description": "Entity mentioned in document: Corporation",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 6574
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "corporation",
+        "description": "Entity mentioned in document: Corporation",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 6688
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "corporation",
+        "description": "Entity mentioned in document: Corporation",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 6776
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 8824
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 8980
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 9061
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: Company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 9727
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 10785
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 11144
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 12386
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 12670
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 12758
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13184
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13206
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13246
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13278
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13352
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13462
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13584
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13704
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 13815
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15051
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15142
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15216
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15278
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15302
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15354
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15401
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 15498
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 16690
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 16724
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 16746
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: BUSINESS",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 16786
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "organization",
+        "description": "Entity mentioned in document: ORGANIZATION",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 16795
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: Company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 16888
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 18356
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 19395
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: Company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 20681
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 23044
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 24780
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 25084
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: Company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 26456
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 27520
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 28443
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 28471
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "director",
+        "description": "Entity mentioned in document: Director",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5349
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5508
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "director",
+        "description": "Entity mentioned in document: Director",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5536
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "director",
+        "description": "Entity mentioned in document: Director",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5582
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5642
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5708
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "director",
+        "description": "Entity mentioned in document: Director",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5783
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5843
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5883
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 5976
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "manager",
+        "description": "Entity mentioned in document: Manager",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 6056
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "department",
+        "description": "Entity mentioned in document: Department",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 7551
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "board",
+        "description": "Entity mentioned in document: Board",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 18440
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "board",
+        "description": "Entity mentioned in document: Board",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 18524
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      },
+      {
+        "name": "board",
+        "description": "Entity mentioned in document: Board",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 18648
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "location",
+        "description": "Component mentioned in document: Location",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 12769
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 2132
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 9355
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 18913
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: FUNDING",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 19037
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 19076
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: FUNDING",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 19288
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "capital",
+        "description": "Component mentioned in document: Capital",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 19424
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: FUNDING",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/rawtxt/entrepreneurship_chunk_aa",
+          "position": 19765
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      }
+    ],
+    "systems": [
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "audit",
+        "description": "System/process mentioned in document: AUDIT",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "audit",
+        "description": "System/process mentioned in document: Audit",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "audit",
+        "description": "System/process mentioned in document: Audit",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: MANAGEMENT",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/rawtxt/entrepreneurship_chunk_aa"
+      }
+    ],
+    "extraction_date": "2026-02-15T14:32:40.271338"
+  },
+  "constraints": [
+    {
+      "id": "constraint_d0e6ef34_0",
+      "title": "Must requirement from entrepreneurship_chunk_aa",
+      "description": "otivation\nalone is not enough; indeed, motivation must be coupled with accurate and\ntimely information, a solid business idea, an effective business plan,",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    },
+    {
+      "id": "constraint_55f19581_1",
+      "title": "Should requirement from entrepreneurship_chunk_aa",
+      "description": "this book within the United States\nor Canada you should be aware that it has\nbeen wrongfully imported without the\napproval of the Publisher or the Author.",
+      "constraint_type": "recommendation",
+      "condition": "text_contains('should')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_recommendation_requirement()",
+      "error_message": "Requirement 'should' not met"
+    },
+    {
+      "id": "constraint_55f19581_2",
+      "title": "Should requirement from entrepreneurship_chunk_aa",
+      "description": "this book within the United States or Canada you should be aware that it has\nbeen imported without the approval of the Publisher or the Author.\n\nCopyright",
+      "constraint_type": "recommendation",
+      "condition": "text_contains('should')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_recommendation_requirement()",
+      "error_message": "Requirement 'should' not met"
+    },
+    {
+      "id": "constraint_55f19581_3",
+      "title": "Should requirement from entrepreneurship_chunk_aa",
+      "description": "ication is protected by Copyright, and permission should be obtained\nfrom the publisher prior to any prohibited reproduction, storage in a retrieval system,",
+      "constraint_type": "recommendation",
+      "condition": "text_contains('should')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_recommendation_requirement()",
+      "error_message": "Requirement 'should' not met"
+    }
+  ],
+  "metadata": {
+    "source_file": "books/rawtxt/entrepreneurship_chunk_aa",
+    "title": "USA Business Info: entrepreneurship_chunk_aa",
+    "description": "USA business information from entrepreneurship_chunk_aa",
+    "tags": [
+      "usa_business",
+      "information",
+      "documentation"
+    ],
+    "categories": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-15T14:32:40.646971",
+    "last_modified": "2026-02-15T14:32:40.646978",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "book_chapter",
+    "business_domains": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 22,
+    "word_count": 4499,
+    "language": "en",
+    "keywords": [
+      "the",
+      "and",
+      "for",
+      "chapter",
+      "entrepreneurial",
+      "business",
+      "you",
+      "firm",
+      "new",
+      "questions"
+    ],
+    "related_entities": [],
+    "related_components": [],
+    "related_systems": [],
+    "related_constraints": [],
+    "custom_fields": {
+      "document_type": "book_chapter",
+      "processing_status": "completed",
+      "original_file_name": "entrepreneurship_chunk_aa"
+    }
+  },
+  "processing_timestamp": "2026-02-15T14:32:40.647038"
+}
