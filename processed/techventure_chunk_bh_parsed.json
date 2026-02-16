@@ -1,0 +1,3046 @@
+{
+  "source_file": "books/export/techventure_chunk_bh.md",
+  "keywords": [
+    {
+      "term": "risk",
+      "frequency": 272,
+      "relevance": 0.0927,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 75,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 60,
+      "relevance": 0.0205,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 80,
+      "related_keywords": []
+    },
+    {
+      "term": "market",
+      "frequency": 45,
+      "relevance": 0.0153,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 893,
+      "related_keywords": []
+    },
+    {
+      "term": "risks",
+      "frequency": 38,
+      "relevance": 0.013,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 317,
+      "related_keywords": []
+    },
+    {
+      "term": "from",
+      "frequency": 34,
+      "relevance": 0.0116,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 23,
+      "related_keywords": []
+    },
+    {
+      "term": "communication",
+      "frequency": 33,
+      "relevance": 0.0113,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6229,
+      "related_keywords": []
+    },
+    {
+      "term": "and",
+      "frequency": 30,
+      "relevance": 0.0102,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 91,
+      "related_keywords": []
+    },
+    {
+      "term": "impact",
+      "frequency": 30,
+      "relevance": 0.0102,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1391,
+      "related_keywords": []
+    },
+    {
+      "term": "with",
+      "frequency": 30,
+      "relevance": 0.0102,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6439,
+      "related_keywords": []
+    },
+    {
+      "term": "technology",
+      "frequency": 26,
+      "relevance": 0.0089,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "performance",
+      "frequency": 26,
+      "relevance": 0.0089,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1902,
+      "related_keywords": []
+    },
+    {
+      "term": "systems",
+      "frequency": 26,
+      "relevance": 0.0089,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 7859,
+      "related_keywords": []
+    },
+    {
+      "term": "implement",
+      "frequency": 25,
+      "relevance": 0.0085,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4427,
+      "related_keywords": []
+    },
+    {
+      "term": "cost",
+      "frequency": 25,
+      "relevance": 0.0085,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 5726,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 24,
+      "relevance": 0.0082,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 10262,
+      "related_keywords": []
+    },
+    {
+      "term": "recovery",
+      "frequency": 20,
+      "relevance": 0.0068,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 9545,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 19,
+      "relevance": 0.0065,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 115,
+      "related_keywords": []
+    },
+    {
+      "term": "financial",
+      "frequency": 19,
+      "relevance": 0.0065,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 840,
+      "related_keywords": []
+    },
+    {
+      "term": "monitoring",
+      "frequency": 18,
+      "relevance": 0.0061,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4187,
+      "related_keywords": []
+    },
+    {
+      "term": "quality",
+      "frequency": 18,
+      "relevance": 0.0061,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4519,
+      "related_keywords": []
+    },
+    {
+      "term": "analysis",
+      "frequency": 15,
+      "relevance": 0.0051,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 657,
+      "related_keywords": []
+    },
+    {
+      "term": "communicate",
+      "frequency": 15,
+      "relevance": 0.0051,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6246,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 15,
+      "relevance": 0.0051,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 14258,
+      "related_keywords": []
+    },
+    {
+      "term": "monitor",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2279,
+      "related_keywords": []
+    },
+    {
+      "term": "response",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2736,
+      "related_keywords": []
+    },
+    {
+      "term": "develop",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6961,
+      "related_keywords": []
+    },
+    {
+      "term": "patent",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 8025,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 8966,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 12780,
+      "related_keywords": []
+    },
+    {
+      "term": "metrics",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 16093,
+      "related_keywords": []
+    },
+    {
+      "term": "trends",
+      "frequency": 14,
+      "relevance": 0.0048,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 18601,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 13,
+      "relevance": 0.0044,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 151,
+      "related_keywords": []
+    },
+    {
+      "term": "probability",
+      "frequency": 13,
+      "relevance": 0.0044,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 454,
+      "related_keywords": []
+    },
+    {
+      "term": "competitive",
+      "frequency": 13,
+      "relevance": 0.0044,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3588,
+      "related_keywords": []
+    },
+    {
+      "term": "training",
+      "frequency": 13,
+      "relevance": 0.0044,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4318,
+      "related_keywords": []
+    },
+    {
+      "term": "integrate",
+      "frequency": 13,
+      "relevance": 0.0044,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 24586,
+      "related_keywords": []
+    },
+    {
+      "term": "for",
+      "frequency": 12,
+      "relevance": 0.0041,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 516,
+      "related_keywords": []
+    },
+    {
+      "term": "key",
+      "frequency": 12,
+      "relevance": 0.0041,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1332,
+      "related_keywords": []
+    },
+    {
+      "term": "crisis",
+      "frequency": 12,
+      "relevance": 0.0041,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 22372,
+      "related_keywords": []
+    },
+    {
+      "term": "assess",
+      "frequency": 11,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 310,
+      "related_keywords": []
+    },
+    {
+      "term": "operational",
+      "frequency": 11,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 940,
+      "related_keywords": []
+    },
+    {
+      "term": "resource",
+      "frequency": 11,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1748,
+      "related_keywords": []
+    },
+    {
+      "term": "that",
+      "frequency": 11,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2954,
+      "related_keywords": []
+    },
+    {
+      "term": "growth",
+      "frequency": 11,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3709,
+      "related_keywords": []
+    },
+    {
+      "term": "strategy",
+      "frequency": 11,
+      "relevance": 0.0038,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 8699,
+      "related_keywords": []
+    },
+    {
+      "term": "when",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2841,
+      "related_keywords": []
+    },
+    {
+      "term": "mitigation",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3856,
+      "related_keywords": []
+    },
+    {
+      "term": "early",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4094,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4639,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4945,
+      "related_keywords": []
+    },
+    {
+      "term": "time",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 5955,
+      "related_keywords": []
+    },
+    {
+      "term": "functions",
+      "frequency": 10,
+      "relevance": 0.0034,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 20581,
+      "related_keywords": []
+    },
+    {
+      "term": "business",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 95,
+      "related_keywords": []
+    },
+    {
+      "term": "factors",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1688,
+      "related_keywords": []
+    },
+    {
+      "term": "reduce",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4004,
+      "related_keywords": []
+    },
+    {
+      "term": "development",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6406,
+      "related_keywords": []
+    },
+    {
+      "term": "diversification",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 12393,
+      "related_keywords": []
+    },
+    {
+      "term": "diversify",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 12412,
+      "related_keywords": []
+    },
+    {
+      "term": "disruptions",
+      "frequency": 9,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 16330,
+      "related_keywords": []
+    },
+    {
+      "term": "changes",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1213,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1281,
+      "related_keywords": []
+    },
+    {
+      "term": "identify",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1323,
+      "related_keywords": []
+    },
+    {
+      "term": "critical",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1441,
+      "related_keywords": []
+    },
+    {
+      "term": "low",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2197,
+      "related_keywords": []
+    },
+    {
+      "term": "the",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2790,
+      "related_keywords": []
+    },
+    {
+      "term": "value",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2930,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3044,
+      "related_keywords": []
+    },
+    {
+      "term": "costs",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 5758,
+      "related_keywords": []
+    },
+    {
+      "term": "adjustment",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6121,
+      "related_keywords": []
+    },
+    {
+      "term": "adjust",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 6135,
+      "related_keywords": []
+    },
+    {
+      "term": "testing",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 7218,
+      "related_keywords": []
+    },
+    {
+      "term": "trade",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 8866,
+      "related_keywords": []
+    },
+    {
+      "term": "competition",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 9671,
+      "related_keywords": []
+    },
+    {
+      "term": "disruption",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 10706,
+      "related_keywords": []
+    },
+    {
+      "term": "team",
+      "frequency": 8,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 17744,
+      "related_keywords": []
+    },
+    {
+      "term": "model",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 400,
+      "related_keywords": []
+    },
+    {
+      "term": "scenarios",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 411,
+      "related_keywords": []
+    },
+    {
+      "term": "based",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2034,
+      "related_keywords": []
+    },
+    {
+      "term": "high",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2099,
+      "related_keywords": []
+    },
+    {
+      "term": "regulatory",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3033,
+      "related_keywords": []
+    },
+    {
+      "term": "innovation",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3655,
+      "related_keywords": []
+    },
+    {
+      "term": "plans",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4177,
+      "related_keywords": []
+    },
+    {
+      "term": "acceptance",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 5600,
+      "related_keywords": []
+    },
+    {
+      "term": "strategic",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 5838,
+      "related_keywords": []
+    },
+    {
+      "term": "related",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 8042,
+      "related_keywords": []
+    },
+    {
+      "term": "maintain",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 10228,
+      "related_keywords": []
+    },
+    {
+      "term": "supply",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 16200,
+      "related_keywords": []
+    },
+    {
+      "term": "culture",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 17332,
+      "related_keywords": []
+    },
+    {
+      "term": "reporting",
+      "frequency": 7,
+      "relevance": 0.0024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 19426,
+      "related_keywords": []
+    },
+    {
+      "term": "use",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 553,
+      "related_keywords": []
+    },
+    {
+      "term": "decision",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 1553,
+      "related_keywords": []
+    },
+    {
+      "term": "manage",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2211,
+      "related_keywords": []
+    },
+    {
+      "term": "strategies",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2745,
+      "related_keywords": []
+    },
+    {
+      "term": "alternative",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 2982,
+      "related_keywords": []
+    },
+    {
+      "term": "resources",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3175,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3429,
+      "related_keywords": []
+    },
+    {
+      "term": "loss",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3544,
+      "related_keywords": []
+    },
+    {
+      "term": "limitation",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 3666,
+      "related_keywords": []
+    },
+    {
+      "term": "indicators",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4214,
+      "related_keywords": []
+    },
+    {
+      "term": "personnel",
+      "frequency": 6,
+      "relevance": 0.002,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "position_in_text": 4336,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "books/export/techventure_chunk_bh.md",
+    "entities": [
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 95
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 4906
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 4936
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: Company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14488
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14521
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15740
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 17356
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 20418
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 20488
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 20572
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 24672
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 26417
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 26578
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "board",
+        "description": "Entity mentioned in document: Board",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 23204
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      },
+      {
+        "name": "board",
+        "description": "Entity mentioned in document: board",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 23244
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "investment",
+        "description": "Component mentioned in document: Investment",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 1101
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "investment",
+        "description": "Component mentioned in document: investment",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 1126
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14258
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "capital",
+        "description": "Component mentioned in document: Capital",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14278
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "capital",
+        "description": "Component mentioned in document: capital",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14340
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14352
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14639
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14671
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14689
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14757
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14906
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14944
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 14975
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15127
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15160
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15225
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15248
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: Funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15274
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/techventure_chunk_bh.md",
+          "position": 15302
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: Reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: Reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: Reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: Reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "reporting",
+        "description": "System/process mentioned in document: reporting",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "compliance",
+        "description": "System/process mentioned in document: Compliance",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "compliance",
+        "description": "System/process mentioned in document: compliance",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "compliance",
+        "description": "System/process mentioned in document: Compliance",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "compliance",
+        "description": "System/process mentioned in document: compliance",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "compliance",
+        "description": "System/process mentioned in document: Compliance",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "compliance",
+        "description": "System/process mentioned in document: Compliance",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: Management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      },
+      {
+        "name": "management",
+        "description": "System/process mentioned in document: management",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/techventure_chunk_bh.md"
+      }
+    ],
+    "extraction_date": "2026-02-16T15:04:34.364779"
+  },
+  "constraints": [
+    {
+      "id": "constraint_d0e6ef34_0",
+      "title": "Must requirement from techventure_chunk_bh.md",
+      "description": "ial for technology venture success. Entrepreneurs must identify, assess, and manage risks across all aspects of their business including technology, marke",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    },
+    {
+      "id": "constraint_55f19581_1",
+      "title": "Should requirement from techventure_chunk_bh.md",
+      "description": "ulture.\n\nKey takeaways include:\n- Risk management should be systematic and comprehensive\n- Technology risks require special attention in technology ventures",
+      "constraint_type": "recommendation",
+      "condition": "text_contains('should')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_recommendation_requirement()",
+      "error_message": "Requirement 'should' not met"
+    },
+    {
+      "id": "constraint_55f19581_2",
+      "title": "Should requirement from techventure_chunk_bh.md",
+      "description": "ks affect day-to-day operations\n- Risk management should be proactive rather than reactive\n- Risk management culture is critical for success\n- Risk monitori",
+      "constraint_type": "recommendation",
+      "condition": "text_contains('should')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_recommendation_requirement()",
+      "error_message": "Requirement 'should' not met"
+    },
+    {
+      "id": "constraint_ac67ede5_3",
+      "title": "Required requirement from techventure_chunk_bh.md",
+      "description": "natives exist\n- **Regulatory Requirements**: When required by regulation\n- **Ethical Considerations**: When ethically required\n- **Resource Constraints**: Whe",
+      "constraint_type": "requirement",
+      "condition": "text_contains('required')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'required' not met"
+    },
+    {
+      "id": "constraint_ac67ede5_4",
+      "title": "Required requirement from techventure_chunk_bh.md",
+      "description": "tion\n- **Ethical Considerations**: When ethically required\n- **Resource Constraints**: When resources are limited\n\n**Avoidance Benefits:**\n- **Complete Elimin",
+      "constraint_type": "requirement",
+      "condition": "text_contains('required')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'required' not met"
+    },
+    {
+      "id": "constraint_ac67ede5_5",
+      "title": "Required requirement from techventure_chunk_bh.md",
+      "description": "ital Access Risk\nRisk of not being able to access required capital.\n\n**Funding Risk Factors:**\n- **Market Conditions**: Risk from market conditions\n- **Invest",
+      "constraint_type": "requirement",
+      "condition": "text_contains('required')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_bh.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'required' not met"
+    }
+  ],
+  "metadata": {
+    "source_file": "books/export/techventure_chunk_bh.md",
+    "title": "USA Business Info: techventure_chunk_bh.md",
+    "description": "USA business information from techventure_chunk_bh.md",
+    "tags": [
+      "usa_business",
+      "information",
+      "documentation"
+    ],
+    "categories": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-16T15:04:34.894710",
+    "last_modified": "2026-02-16T15:04:34.894726",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "book_chapter",
+    "business_domains": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 14,
+    "word_count": 2933,
+    "language": "en",
+    "keywords": [
+      "risk",
+      "management",
+      "market",
+      "risks",
+      "from",
+      "communication",
+      "and",
+      "impact",
+      "with",
+      "technology"
+    ],
+    "related_entities": [],
+    "related_components": [],
+    "related_systems": [],
+    "related_constraints": [],
+    "custom_fields": {
+      "document_type": "book_chapter",
+      "processing_status": "completed",
+      "original_file_name": "techventure_chunk_bh.md"
+    }
+  },
+  "processing_timestamp": "2026-02-16T15:04:34.894942"
+}

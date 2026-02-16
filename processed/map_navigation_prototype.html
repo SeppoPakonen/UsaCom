@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USA Business Journey Map</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #eee;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        header {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #4a90d9;
+        }
+        
+        header h1 {
+            color: #4a90d9;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            color: #aaa;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .container {
+            display: flex;
+            min-height: calc(100vh - 150px);
+        }
+        
+        /* Region Navigation Sidebar */
+        .region-nav {
+            width: 250px;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            border-right: 1px solid #333;
+        }
+        
+        .region-nav h2 {
+            color: #4a90d9;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        
+        .region-btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            border: 1px solid #4a90d9;
+            border-radius: 8px;
+            color: #eee;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.3s ease;
+        }
+        
+        .region-btn:hover {
+            background: linear-gradient(135deg, #34495e 0%, #3d566e 100%);
+            transform: translateX(5px);
+        }
+        
+        .region-btn.active {
+            background: linear-gradient(135deg, #4a90d9 0%, #357abd 100%);
+            box-shadow: 0 0 15px rgba(74, 144, 217, 0.5);
+        }
+        
+        .region-btn .phase-num {
+            font-size: 0.8em;
+            color: #888;
+        }
+        
+        .region-btn.active .phase-num {
+            color: #ddd;
+        }
+        
+        /* Main Map Area */
+        .map-area {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+        }
+        
+        .region-display {
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+        
+        .region-display.active {
+            display: block;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .region-header {
+            background: rgba(74, 144, 217, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            border-left: 4px solid #4a90d9;
+        }
+        
+        .region-header h2 {
+            color: #4a90d9;
+            margin-bottom: 10px;
+        }
+        
+        .region-header .metaphor {
+            font-style: italic;
+            color: #aaa;
+            margin-bottom: 10px;
+        }
+        
+        /* Location Cards */
+        .locations-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .location-card {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            border: 1px solid #444;
+            border-radius: 10px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .location-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: #4a90d9;
+        }
+        
+        .location-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(74, 144, 217, 0.3);
+            border-color: #4a90d9;
+        }
+        
+        .location-card.completed {
+            border-color: #27ae60;
+        }
+        
+        .location-card.completed::before {
+            background: #27ae60;
+        }
+        
+        .location-card h3 {
+            color: #4a90d9;
+            margin-bottom: 10px;
+        }
+        
+        .location-card .type {
+            display: inline-block;
+            padding: 3px 10px;
+            background: rgba(74, 144, 217, 0.2);
+            border-radius: 15px;
+            font-size: 0.8em;
+            margin-bottom: 10px;
+        }
+        
+        .location-card .description {
+            color: #ccc;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+        
+        .location-card .visual {
+            font-style: italic;
+            color: #888;
+            font-size: 0.9em;
+        }
+        
+        /* Action Detail Panel */
+        .action-panel {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            padding: 25px;
+            margin-top: 20px;
+            display: none;
+        }
+        
+        .action-panel.active {
+            display: block;
+            animation: slideIn 0.3s ease;
+        }
+        
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .action-panel h3 {
+            color: #27ae60;
+            margin-bottom: 15px;
+        }
+        
+        .action-detail {
+            background: rgba(39, 174, 96, 0.1);
+            border-left: 3px solid #27ae60;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+        }
+        
+        .action-detail h4 {
+            color: #27ae60;
+            margin-bottom: 10px;
+        }
+        
+        .action-detail p {
+            color: #ccc;
+            line-height: 1.6;
+        }
+        
+        .action-detail .keywords {
+            margin-top: 10px;
+        }
+        
+        .action-detail .keyword {
+            display: inline-block;
+            padding: 3px 8px;
+            background: rgba(39, 174, 96, 0.2);
+            border-radius: 3px;
+            font-size: 0.85em;
+            margin: 2px;
+        }
+        
+        /* Challenges Section */
+        .challenges-section {
+            background: rgba(231, 76, 60, 0.1);
+            border: 1px solid #e74c3c;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+        
+        .challenges-section h3 {
+            color: #e74c3c;
+            margin-bottom: 15px;
+        }
+        
+        .challenge-item {
+            background: rgba(231, 76, 60, 0.05);
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            border-left: 3px solid #e74c3c;
+        }
+        
+        .challenge-item h4 {
+            color: #e74c3c;
+            margin-bottom: 5px;
+        }
+        
+        /* Allies Section */
+        .allies-section {
+            background: rgba(52, 152, 219, 0.1);
+            border: 1px solid #3498db;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        
+        .allies-section h3 {
+            color: #3498db;
+            margin-bottom: 15px;
+        }
+        
+        .ally-item {
+            background: rgba(52, 152, 219, 0.05);
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            border-left: 3px solid #3498db;
+        }
+        
+        .ally-item h4 {
+            color: #3498db;
+            margin-bottom: 5px;
+        }
+        
+        /* Progress Bar */
+        .progress-container {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 15px 30px;
+            border-top: 1px solid #4a90d9;
+        }
+        
+        .progress-bar {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        
+        .progress-label {
+            color: #aaa;
+            white-space: nowrap;
+        }
+        
+        .progress-track {
+            flex: 1;
+            height: 10px;
+            background: #333;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4a90d9 0%, #357abd 100%);
+            transition: width 0.5s ease;
+        }
+        
+        .progress-percent {
+            color: #4a90d9;
+            font-weight: bold;
+            min-width: 50px;
+            text-align: right;
+        }
+        
+        /* Resource Display */
+        .resources {
+            display: flex;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .resource {
+            background: rgba(74, 144, 217, 0.1);
+            padding: 10px 15px;
+            border-radius: 5px;
+            border: 1px solid #4a90d9;
+        }
+        
+        .resource .name {
+            font-size: 0.8em;
+            color: #888;
+        }
+        
+        .resource .value {
+            color: #4a90d9;
+            font-weight: bold;
+        }
+        
+        /* Responsive */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            
+            .region-nav {
+                width: 100%;
+                border-right: none;
+                border-bottom: 1px solid #333;
+            }
+            
+            .locations-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🗺️ USA Business Journey Map</h1>
+        <p>A metaphorical map representing the entrepreneurial journey through USA business landscape</p>
+    </header>
+    
+    <div class="container">
+        <nav class="region-nav">
+            <h2>📍 Regions</h2>
+
+            <button class="region-btn active" onclick="showRegion('region_1')">
+                <span class="phase-num">Phase 1</span>
+                <strong>The Planning Peaks</strong>
+                <br><small>3 locations</small>
+            </button>
+
+            <button class="region-btn " onclick="showRegion('region_2')">
+                <span class="phase-num">Phase 2</span>
+                <strong>The Legal Labyrinth</strong>
+                <br><small>4 locations</small>
+            </button>
+
+            <button class="region-btn " onclick="showRegion('region_3')">
+                <span class="phase-num">Phase 3</span>
+                <strong>Compliance Canyon</strong>
+                <br><small>3 locations</small>
+            </button>
+
+            <button class="region-btn " onclick="showRegion('region_4')">
+                <span class="phase-num">Phase 4</span>
+                <strong>Operations Ocean</strong>
+                <br><small>4 locations</small>
+            </button>
+
+            <button class="region-btn " onclick="showRegion('region_5')">
+                <span class="phase-num">Phase 5</span>
+                <strong>Growth Galaxy</strong>
+                <br><small>4 locations</small>
+            </button>
+
+        </nav>
+        
+        <main class="map-area">
+
+            <div class="region-display active" id="region_1">
+                <div class="region-header">
+                    <h2>🏔️ The Planning Peaks</h2>
+                    <p class="metaphor"><i>High elevation represents the clarity needed for strategic thinking</i></p>
+                    <p>Mountain range where ideas are forged into plans</p>
+                </div>
+                
+                <div class="locations-grid">
+
+                    <div class="location-card" onclick="showAction('loc_1_1', 'action_1_1')">
+                        <h3>📍 Vision Vista</h3>
+                        <span class="type">discovery</span>
+                        <p class="description">A high overlook where you spot business opportunities in the valley below</p>
+                        <p class="visual">🎨 Mountain peak with telescope</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_1_2', 'action_1_2')">
+                        <h3>📍 Strategy Summit</h3>
+                        <span class="type">creation</span>
+                        <p class="description">Where detailed business plans are carved into stone tablets</p>
+                        <p class="visual">🎨 Stone tablet with inscriptions</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_1_3', 'action_1_3')">
+                        <h3>📍 Resource Ravine</h3>
+                        <span class="type">assessment</span>
+                        <p class="description">Deep valley where funding sources flow like underground streams</p>
+                        <p class="visual">🎨 Underground cavern with treasure veins</p>
+                    </div>
+
+                </div>
+
+                <div class="challenges-section">
+                    <h3>⚠️ Challenges in The Planning Peaks</h3>
+
+                    <div class="challenge-item">
+                        <h4>Fog of Uncertainty</h4>
+                        <p><strong>Type:</strong> environmental | <strong>Effect:</strong> Reduces visibility of opportunities</p>
+                    </div>
+
+                </div>
+
+                <div class="allies-section">
+                    <h3>🤝 Allies in The Planning Peaks</h3>
+
+                    <div class="ally-item">
+                        <h4>Mentor Mountain Guide</h4>
+                        <p><strong>Type:</strong> npc | <strong>Role:</strong> Provides wisdom and direction</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="region-display " id="region_2">
+                <div class="region-header">
+                    <h2>🏔️ The Legal Labyrinth</h2>
+                    <p class="metaphor"><i>Complex pathways represent legal requirements and choices</i></p>
+                    <p>Ancient maze of bureaucratic corridors and registration chambers</p>
+                </div>
+                
+                <div class="locations-grid">
+
+                    <div class="location-card" onclick="showAction('loc_2_1', 'action_2_1')">
+                        <h3>📍 Hall of Structures</h3>
+                        <span class="type">decision</span>
+                        <p class="description">Grand hall with doors representing different business entities</p>
+                        <p class="visual">🎨 Multiple ornate doors with different symbols</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_2_2', 'action_2_2')">
+                        <h3>📍 Name Registry Office</h3>
+                        <span class="type">registration</span>
+                        <p class="description">Bureau where business names are recorded in the Great Book</p>
+                        <p class="visual">🎨 Ancient library with scribes</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_2_3', 'action_2_3')">
+                        <h3>📍 Federal Seal Chamber</h3>
+                        <span class="type">acquisition</span>
+                        <p class="description">Sacred room where the EIN seal is bestowed</p>
+                        <p class="visual">🎨 Chamber with federal eagle emblem</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_2_4', 'action_2_4')">
+                        <h3>📍 State Filing Fortress</h3>
+                        <span class="type">filing</span>
+                        <p class="description">Impressive building where formation documents become official</p>
+                        <p class="visual">🎨 Government building with columns</p>
+                    </div>
+
+                </div>
+
+                <div class="challenges-section">
+                    <h3>⚠️ Challenges in The Legal Labyrinth</h3>
+
+                    <div class="challenge-item">
+                        <h4>Paperwork Golems</h4>
+                        <p><strong>Type:</strong> obstacle | <strong>Effect:</strong> Slow progress with documentation requirements</p>
+                    </div>
+
+                    <div class="challenge-item">
+                        <h4>Fee Toll Bridges</h4>
+                        <p><strong>Type:</strong> resource | <strong>Effect:</strong> Require payment to cross</p>
+                    </div>
+
+                </div>
+
+                <div class="allies-section">
+                    <h3>🤝 Allies in The Legal Labyrinth</h3>
+
+                    <div class="ally-item">
+                        <h4>Legal Librarian</h4>
+                        <p><strong>Type:</strong> npc | <strong>Role:</strong> Helps navigate legal requirements</p>
+                    </div>
+
+                    <div class="ally-item">
+                        <h4>Registered Agent Spirit</h4>
+                        <p><strong>Type:</strong> guide | <strong>Role:</strong> Receives official communications</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="region-display " id="region_3">
+                <div class="region-header">
+                    <h2>🏔️ Compliance Canyon</h2>
+                    <p class="metaphor"><i>Navigating between requirements while avoiding pitfalls</i></p>
+                    <p>Deep gorge with bridges of regulation spanning across</p>
+                </div>
+                
+                <div class="locations-grid">
+
+                    <div class="location-card" onclick="showAction('loc_3_1', 'action_3_1')">
+                        <h3>📍 License Landing</h3>
+                        <span class="type">acquisition</span>
+                        <p class="description">Platform where various licenses are issued by different guilds</p>
+                        <p class="visual">🎨 Trading post with multiple windows</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_3_2', 'action_3_2')">
+                        <h3>📍 Tax Tower</h3>
+                        <span class="type">registration</span>
+                        <p class="description">Tall structure where state tax obligations are calculated</p>
+                        <p class="visual">🎨 Tower with abacus and scales</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_3_3', 'action_3_3')">
+                        <h3>📍 Compliance Citadel</h3>
+                        <span class="type">system_setup</span>
+                        <p class="description">Fortress of ongoing regulatory requirements</p>
+                        <p class="visual">🎨 Fortress with watchtowers</p>
+                    </div>
+
+                </div>
+
+                <div class="challenges-section">
+                    <h3>⚠️ Challenges in Compliance Canyon</h3>
+
+                    <div class="challenge-item">
+                        <h4>Deadline Dragons</h4>
+                        <p><strong>Type:</strong> enemy | <strong>Effect:</strong> Attack if filing deadlines are missed</p>
+                    </div>
+
+                    <div class="challenge-item">
+                        <h4>Regulation Rapids</h4>
+                        <p><strong>Type:</strong> environmental | <strong>Effect:</strong> Fast-changing rules require constant attention</p>
+                    </div>
+
+                </div>
+
+                <div class="allies-section">
+                    <h3>🤝 Allies in Compliance Canyon</h3>
+
+                    <div class="ally-item">
+                        <h4>Compliance Compass</h4>
+                        <p><strong>Type:</strong> item | <strong>Role:</strong> Points toward required actions</p>
+                    </div>
+
+                    <div class="ally-item">
+                        <h4>Tax Sage</h4>
+                        <p><strong>Type:</strong> npc | <strong>Role:</strong> Advises on tax obligations</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="region-display " id="region_4">
+                <div class="region-header">
+                    <h2>🏔️ Operations Ocean</h2>
+                    <p class="metaphor"><i>Fluid environment requiring navigation skills and proper vessel</i></p>
+                    <p>Vast waters where business ships sail and trade</p>
+                </div>
+                
+                <div class="locations-grid">
+
+                    <div class="location-card" onclick="showAction('loc_4_1', 'action_4_1')">
+                        <h3>📍 Banking Bay</h3>
+                        <span class="type">setup</span>
+                        <p class="description">Harbor where business accounts are established</p>
+                        <p class="visual">🎨 Harbor with vault-like lighthouse</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_4_2', 'action_4_2')">
+                        <h3>📍 Accounting Atoll</h3>
+                        <span class="type">setup</span>
+                        <p class="description">Island sanctuary for managing financial records</p>
+                        <p class="visual">🎨 Tropical island with ledger palm trees</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_4_3', 'action_4_3')">
+                        <h3>📍 Insurance Island</h3>
+                        <span class="type">acquisition</span>
+                        <p class="description">Safe haven providing protection from storms</p>
+                        <p class="visual">🎨 Island with shield-shaped rock formation</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_4_4', 'action_4_4')">
+                        <h3>📍 Governance Gulf</h3>
+                        <span class="type">documentation</span>
+                        <p class="description">Deep waters where operating agreements anchor the business</p>
+                        <p class="visual">🎨 Calm bay with anchored ships</p>
+                    </div>
+
+                </div>
+
+                <div class="challenges-section">
+                    <h3>⚠️ Challenges in Operations Ocean</h3>
+
+                    <div class="challenge-item">
+                        <h4>Cash Flow Currents</h4>
+                        <p><strong>Type:</strong> environmental | <strong>Effect:</strong> Strong currents affect business movement</p>
+                    </div>
+
+                    <div class="challenge-item">
+                        <h4>Liability Leviathan</h4>
+                        <p><strong>Type:</strong> enemy | <strong>Effect:</strong> Emerges without proper insurance</p>
+                    </div>
+
+                </div>
+
+                <div class="allies-section">
+                    <h3>🤝 Allies in Operations Ocean</h3>
+
+                    <div class="ally-item">
+                        <h4>Banking Beacon</h4>
+                        <p><strong>Type:</strong> item | <strong>Role:</strong> Guides financial decisions</p>
+                    </div>
+
+                    <div class="ally-item">
+                        <h4>Advisor Albatross</h4>
+                        <p><strong>Type:</strong> companion | <strong>Role:</strong> Flies ahead to spot opportunities</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="region-display " id="region_5">
+                <div class="region-header">
+                    <h2>🏔️ Growth Galaxy</h2>
+                    <p class="metaphor"><i>Infinite possibilities with gravitational pulls of different growth paths</i></p>
+                    <p>Expansive space where businesses expand like stars</p>
+                </div>
+                
+                <div class="locations-grid">
+
+                    <div class="location-card" onclick="showAction('loc_5_1', 'action_5_1')">
+                        <h3>📍 Marketing Nebula</h3>
+                        <span class="type">strategy</span>
+                        <p class="description">Colorful cloud where customer awareness is born</p>
+                        <p class="visual">🎨 Colorful gas cloud with megaphone shapes</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_5_2', 'action_5_2')">
+                        <h3>📍 Team Constellation</h3>
+                        <span class="type">building</span>
+                        <p class="description">Star cluster where team members align</p>
+                        <p class="visual">🎨 Connected stars forming team shapes</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_5_3', 'action_5_3')">
+                        <h3>📍 Compliance Comet</h3>
+                        <span class="type">maintenance</span>
+                        <p class="description">Recurring celestial body requiring regular attention</p>
+                        <p class="visual">🎨 Comet with checklist tail</p>
+                    </div>
+
+                    <div class="location-card" onclick="showAction('loc_5_4', 'action_5_4')">
+                        <h3>📍 Scale Supernova</h3>
+                        <span class="type">expansion</span>
+                        <p class="description">Explosive growth center where businesses expand rapidly</p>
+                        <p class="visual">🎨 Exploding star with growth rays</p>
+                    </div>
+
+                </div>
+
+                <div class="challenges-section">
+                    <h3>⚠️ Challenges in Growth Galaxy</h3>
+
+                    <div class="challenge-item">
+                        <h4>Competition Comets</h4>
+                        <p><strong>Type:</strong> enemy | <strong>Effect:</strong> Rival businesses crossing your path</p>
+                    </div>
+
+                    <div class="challenge-item">
+                        <h4>Burnout Black Hole</h4>
+                        <p><strong>Type:</strong> environmental | <strong>Effect:</strong> Pulls resources without proper balance</p>
+                    </div>
+
+                </div>
+
+                <div class="allies-section">
+                    <h3>🤝 Allies in Growth Galaxy</h3>
+
+                    <div class="ally-item">
+                        <h4>Growth Guardian</h4>
+                        <p><strong>Type:</strong> npc | <strong>Role:</strong> Protects sustainable expansion</p>
+                    </div>
+
+                    <div class="ally-item">
+                        <h4>Innovation Impulse</h4>
+                        <p><strong>Type:</strong> power-up | <strong>Role:</strong> Boosts creative solutions</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="action-panel" id="actionPanel">
+                <h3>📋 Action Details</h3>
+                <div id="actionContent"></div>
+            </div>
+        </main>
+    </div>
+    
+    <div class="progress-container">
+        <div class="progress-bar">
+            <span class="progress-label">Journey Progress:</span>
+            <div class="progress-track">
+                <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+            </div>
+            <span class="progress-percent" id="progressPercent">0%</span>
+        </div>
+    </div>
+    
+    <script>
+        // State
+        let completedLocations = new Set();
+        let currentRegion = 0;
+        const totalLocations = 18;
+        
+        // Action data
+        const actions = {"action_1_1": {"id": "action_1_1", "title": "Conduct Market Research", "description": "Analyze market needs, competition, and target customers", "keywords": ["market", "research", "customer", "competition", "analysis"], "estimated_time": "2-4 weeks", "output": "Market research report"}, "action_1_2": {"id": "action_1_2", "title": "Identify Business Opportunity", "description": "Define your value proposition and business concept", "keywords": ["opportunity", "value", "proposition", "business", "concept"], "estimated_time": "1-2 weeks", "output": "Business opportunity statement"}, "action_1_3": {"id": "action_1_3", "title": "Develop Business Plan", "description": "Create comprehensive business plan with goals, strategies, and financial projections", "keywords": ["plan", "strategy", "goals", "business", "financial", "projection"], "estimated_time": "2-4 weeks", "output": "Business plan document"}, "action_1_4": {"id": "action_1_4", "title": "Assess Funding Requirements", "description": "Determine capital needs and explore funding options", "keywords": ["funding", "capital", "investment", "finance", "development"], "estimated_time": "1-2 weeks", "output": "Funding requirements analysis"}, "action_1_5": {"id": "action_1_5", "title": "Evaluate Risks", "description": "Identify and assess business risks with mitigation strategies", "keywords": ["risk", "assessment", "mitigation", "planning", "control"], "estimated_time": "1 week", "output": "Risk assessment document"}, "action_2_1": {"id": "action_2_1", "title": "Choose Business Structure", "description": "Select between LLC, Corporation, Partnership, or Sole Proprietorship based on liability and tax considerations", "keywords": ["llc", "corporation", "partnership", "structure", "entity", "legal"], "estimated_time": "1 week", "output": "Business structure decision", "decision_points": [{"option": "LLC", "benefits": "Limited liability, pass-through taxation", "complexity": "Medium"}, {"option": "C-Corp", "benefits": "Investor-friendly, unlimited growth", "complexity": "High"}, {"option": "S-Corp", "benefits": "Tax advantages, limited shareholders", "complexity": "High"}, {"option": "Sole Proprietorship", "benefits": "Simple, full control", "complexity": "Low"}]}, "action_2_2": {"id": "action_2_2", "title": "Register Business Name", "description": "File DBA or register legal business name with state", "keywords": ["registration", "name", "dba", "state", "filing"], "estimated_time": "1-2 weeks", "output": "Registered business name"}, "action_2_3": {"id": "action_2_3", "title": "Obtain EIN (Employer Identification Number)", "description": "Apply for federal tax ID from IRS for tax purposes", "keywords": ["ein", "irs", "tax", "federal", "registration"], "estimated_time": "1 day", "output": "EIN confirmation letter"}, "action_2_4": {"id": "action_2_4", "title": "File Formation Documents", "description": "Submit Articles of Organization/Incorporation to state", "keywords": ["formation", "articles", "filing", "state", "legal"], "estimated_time": "1-4 weeks", "output": "Filed formation documents"}, "action_2_5": {"id": "action_2_5", "title": "Obtain Required Permits", "description": "Apply for industry-specific permits and local business permits", "keywords": ["permit", "license", "local", "industry", "compliance"], "estimated_time": "2-6 weeks", "output": "Business permits"}, "action_3_1": {"id": "action_3_1", "title": "Obtain Business Licenses", "description": "Apply for required local, state, and federal licenses", "keywords": ["license", "permit", "compliance", "regulation"], "estimated_time": "2-6 weeks", "output": "Business licenses"}, "action_3_2": {"id": "action_3_2", "title": "Register for State Taxes", "description": "Register with state tax authority for sales tax, employer taxes, and franchise tax", "keywords": ["tax", "state", "registration", "sales", "employer"], "estimated_time": "1-2 weeks", "output": "State tax registration"}, "action_3_3": {"id": "action_3_3", "title": "Set Up Compliance Systems", "description": "Establish processes for ongoing compliance requirements and regulatory tracking", "keywords": ["compliance", "system", "process", "requirement", "control"], "estimated_time": "2-3 weeks", "output": "Compliance management system"}, "action_3_4": {"id": "action_3_4", "title": "Understand Federal Regulations", "description": "Review applicable federal regulations for your industry", "keywords": ["federal", "regulation", "compliance", "industry"], "estimated_time": "1-2 weeks", "output": "Federal compliance checklist"}, "action_4_1": {"id": "action_4_1", "title": "Open Business Bank Account", "description": "Separate personal and business finances with dedicated accounts", "keywords": ["bank", "account", "finance", "business"], "estimated_time": "1 week", "output": "Business bank account"}, "action_4_2": {"id": "action_4_2", "title": "Set Up Accounting System", "description": "Implement bookkeeping and accounting processes with proper controls", "keywords": ["accounting", "bookkeeping", "finance", "system", "control"], "estimated_time": "1-2 weeks", "output": "Accounting system"}, "action_4_3": {"id": "action_4_3", "title": "Obtain Business Insurance", "description": "Secure appropriate insurance coverage for liability and risks", "keywords": ["insurance", "coverage", "liability", "risk"], "estimated_time": "1-2 weeks", "output": "Insurance policies"}, "action_4_4": {"id": "action_4_4", "title": "Establish Operating Agreements", "description": "Create bylaws, operating agreements, or partnership agreements", "keywords": ["agreement", "bylaws", "operating", "governance"], "estimated_time": "1-2 weeks", "output": "Governance documents"}, "action_4_5": {"id": "action_4_5", "title": "Set Up Technology Systems", "description": "Implement technology infrastructure for business operations", "keywords": ["technology", "system", "infrastructure", "development"], "estimated_time": "2-4 weeks", "output": "Technology systems operational"}, "action_5_1": {"id": "action_5_1", "title": "Develop Marketing Strategy", "description": "Create and implement marketing and customer acquisition plan", "keywords": ["marketing", "customer", "acquisition", "growth", "product"], "estimated_time": "Ongoing", "output": "Marketing strategy document"}, "action_5_2": {"id": "action_5_2", "title": "Build Team", "description": "Hire employees or engage contractors as needed for growth", "keywords": ["team", "employee", "hire", "management", "development"], "estimated_time": "Ongoing", "output": "Team members onboarded"}, "action_5_3": {"id": "action_5_3", "title": "Monitor Compliance & Reporting", "description": "Maintain ongoing compliance with annual reports and filings", "keywords": ["compliance", "reporting", "annual", "filing"], "estimated_time": "Ongoing", "output": "Compliance maintained"}, "action_5_4": {"id": "action_5_4", "title": "Scale Operations", "description": "Expand business operations based on growth metrics and market demand", "keywords": ["scale", "growth", "operations", "expansion", "product"], "estimated_time": "Ongoing", "output": "Scaled business operations"}, "action_5_5": {"id": "action_5_5", "title": "Develop New Products/Services", "description": "Innovate and expand product or service offerings", "keywords": ["product", "development", "innovation", "service"], "estimated_time": "Ongoing", "output": "New products/services launched"}};
+        
+        function showRegion(regionId) {{
+            // Hide all regions
+            document.querySelectorAll('.region-display').forEach(el => {{
+                el.classList.remove('active');
+            }});
+            
+            // Show selected region
+            document.getElementById(regionId).classList.add('active');
+            
+            // Update navigation buttons
+            document.querySelectorAll('.region-btn').forEach(btn => {{
+                btn.classList.remove('active');
+            }});
+            event.target.classList.add('active');
+            
+            // Hide action panel
+            document.getElementById('actionPanel').classList.remove('active');
+        }}
+        
+        function showAction(locId, actionRef) {{
+            const action = actions[actionRef];
+            const panel = document.getElementById('actionPanel');
+            const content = document.getElementById('actionContent');
+            
+            if (!action) {{
+                content.innerHTML = '<p>Action details not available.</p>';
+            }} else {{
+                const keywords = action.keywords ? action.keywords.map(k => `<span class="keyword">${{k}}</span>`).join('') : '';
+                
+                content.innerHTML = `
+                    <div class="action-detail">
+                        <h4>🎯 ${{action.title}}</h4>
+                        <p><strong>ID:</strong> ${{action.id}}</p>
+                        <p><strong>Description:</strong> ${{action.description}}</p>
+                        <p><strong>Estimated Time:</strong> ${{action.estimated_time || 'Not specified'}}</p>
+                        <p><strong>Output:</strong> ${{action.output || 'Not specified'}}</p>
+                        <div class="keywords"><strong>Keywords:</strong> ${{keywords}}</div>
+                    </div>
+                    <button class="region-btn" onclick="markComplete('${{locId}}')" style="margin-top: 15px; background: linear-gradient(135deg, #27ae60 0%, #229954 100%); border-color: #27ae60;">
+                        ✅ Mark as Completed
+                    </button>
+                `;
+            }}
+            
+            panel.classList.add('active');
+            panel.scrollIntoView({{ behavior: 'smooth', block: 'nearest' }});
+        }}
+        
+        function markComplete(locId) {{
+            completedLocations.add(locId);
+            
+            // Update UI
+            const cards = document.querySelectorAll('.location-card');
+            cards.forEach(card => {{
+                if (card.innerHTML.includes(locId)) {{
+                    card.classList.add('completed');
+                }}
+            }});
+            
+            // Update progress
+            updateProgress();
+            
+            // Show completion message
+            alert(`Location marked as completed! Progress: ${{completedLocations.size}} / ${{totalLocations}}`);
+        }}
+        
+        function updateProgress() {{
+            const percent = Math.round((completedLocations.size / totalLocations) * 100);
+            document.getElementById('progressFill').style.width = percent + '%';
+            document.getElementById('progressPercent').textContent = percent + '%';
+        }}
+        
+        // Initialize
+        console.log('USA Business Journey Map loaded');
+        console.log('Total locations:', totalLocations);
+        console.log('Regions:', 5 );
+    </script>
+</body>
+</html>

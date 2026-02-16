@@ -1,0 +1,203 @@
+{
+  "validation_date": "2026-02-16T15:17:07.907821",
+  "action_planner_summary": {
+    "total_phases": 5,
+    "total_actions": 24
+  },
+  "source_data_summary": {
+    "total_keywords": 1792,
+    "total_constraints": 403,
+    "total_entities": 1643,
+    "total_components": 993,
+    "total_systems": 2130
+  },
+  "coverage_analysis": {
+    "keyword_coverage": {
+      "action_planner_keywords": [
+        "employer",
+        "bylaws",
+        "reporting",
+        "infrastructure",
+        "license",
+        "goals",
+        "irs",
+        "service",
+        "corporation",
+        "permit",
+        "insurance",
+        "scale",
+        "technology",
+        "innovation",
+        "expansion",
+        "plan",
+        "proposition",
+        "state",
+        "hire",
+        "name",
+        "federal",
+        "local",
+        "ein",
+        "accounting",
+        "funding",
+        "market",
+        "product",
+        "acquisition",
+        "customer",
+        "industry",
+        "structure",
+        "business",
+        "process",
+        "agreement",
+        "marketing",
+        "operations",
+        "analysis",
+        "capital",
+        "competition",
+        "bank",
+        "finance",
+        "management",
+        "development",
+        "concept",
+        "investment",
+        "liability",
+        "registration",
+        "sales",
+        "system",
+        "opportunity",
+        "planning",
+        "dba",
+        "tax",
+        "articles",
+        "risk",
+        "filing",
+        "entity",
+        "growth",
+        "partnership",
+        "governance",
+        "research",
+        "control",
+        "operating",
+        "mitigation",
+        "projection",
+        "llc",
+        "assessment",
+        "strategy",
+        "employee",
+        "annual",
+        "requirement",
+        "bookkeeping",
+        "compliance",
+        "team",
+        "account",
+        "coverage",
+        "financial",
+        "legal",
+        "regulation",
+        "value",
+        "formation"
+      ],
+      "source_keywords_matched": 62,
+      "top_source_keywords_covered": 21,
+      "coverage_percentage": 3.46
+    },
+    "constraint_coverage": {
+      "phase_1": {
+        "expected_types": [
+          "recommendation",
+          "requirement"
+        ],
+        "available_constraints": 368
+      },
+      "phase_2": {
+        "expected_types": [
+          "requirement",
+          "compliance"
+        ],
+        "available_constraints": 246
+      },
+      "phase_3": {
+        "expected_types": [
+          "compliance",
+          "requirement",
+          "temporal"
+        ],
+        "available_constraints": 246
+      },
+      "phase_4": {
+        "expected_types": [
+          "requirement",
+          "financial"
+        ],
+        "available_constraints": 241
+      },
+      "phase_5": {
+        "expected_types": [
+          "recommendation",
+          "compliance"
+        ],
+        "available_constraints": 142
+      }
+    },
+    "ecs_coverage": {
+      "total_entities_in_source": 1643,
+      "entities_referenced_in_actions": 5,
+      "total_systems_in_source": 2130,
+      "systems_aligned_with_phases": 5
+    }
+  },
+  "gap_analysis": [
+    {
+      "gap_type": "keyword_coverage",
+      "description": "Top source keywords not explicitly covered in action planner",
+      "missing_keywords": [
+        "new",
+        "for",
+        "customers",
+        "with",
+        "performance",
+        "cost",
+        "communication",
+        "risks",
+        "and",
+        "from",
+        "competitive",
+        "implement",
+        "revenue",
+        "strategic",
+        "quality",
+        "requirements",
+        "company",
+        "processes",
+        "resources",
+        "model"
+      ],
+      "severity": "medium",
+      "recommendation": "Consider adding actions or keywords to cover these terms"
+    },
+    {
+      "gap_type": "business_process_coverage",
+      "description": "All expected business formation steps are covered",
+      "missing_steps": [],
+      "severity": "none",
+      "recommendation": "No action needed"
+    }
+  ],
+  "recommendations": [
+    {
+      "priority": "high",
+      "area": "keyword_coverage",
+      "recommendation": "Increase keyword coverage in action planner to better reflect source material"
+    },
+    {
+      "priority": "medium",
+      "area": "entity_integration",
+      "recommendation": "Consider explicitly linking ECS entities to specific actions for better traceability"
+    },
+    {
+      "priority": "low",
+      "area": "constraint_mapping",
+      "recommendation": "Add direct constraint references to actions for compliance tracking"
+    }
+  ],
+  "validation_status": "PASS"
+}

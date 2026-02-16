@@ -1,0 +1,158 @@
+@startuml USA_Business_Journey_Map
+!theme plain
+title USA Business Journey Map
+legend
+    A metaphorical map representing the entrepreneurial journey through USA business landscape
+    Created: 2026-02-16
+    Total Regions: 5
+    Total Locations: 18
+endlegend
+
+skinparam rectangle {
+  BackgroundColor<<region>> LightBlue
+  BorderColor<<region>> DarkBlue
+  BackgroundColor<<location>> LightYellow
+  BorderColor<<location>> DarkGreen
+  BackgroundColor<<decision>> LightCoral
+  BorderColor<<decision>> Red
+  BackgroundColor<<challenge>> LightGray
+  BorderColor<<challenge>> Black
+}
+
+skinparam note {
+  BackgroundColor Lavender
+  BorderColor Purple
+}
+
+
+rectangle "The Planning Peaks\n**Phase 1**\n<i>High elevation represents the clarity needed for strategic thinking</i>" <<region>> as region_1 {
+
+  rectangle "Vision Vista\n--\nA high overlook where you spot business opportunit...\n<i>Mountain peak with telescope</i>\n[Action: action_1_1]" <<location>> as loc_1_1
+
+  rectangle "Strategy Summit\n--\nWhere detailed business plans are carved into ston...\n<i>Stone tablet with inscriptions</i>\n[Action: action_1_2]" <<location>> as loc_1_2
+
+  rectangle "Resource Ravine\n--\nDeep valley where funding sources flow like underg...\n<i>Underground cavern with treasure veins</i>\n[Action: action_1_3]" <<location>> as loc_1_3
+
+  note right of region_1
+    <b>Challenges:</b>
+    • Fog of Uncertainty: Reduces visibility of opportunities\n  end note
+
+  note left of region_1
+    <b>Allies:</b>
+    • Mentor Mountain Guide: Provides wisdom and direction\n  end note
+
+}
+
+rectangle "The Legal Labyrinth\n**Phase 2**\n<i>Complex pathways represent legal requirements and choices</i>" <<region>> as region_2 {
+
+  rectangle "Hall of Structures\n--\nGrand hall with doors representing different busin...\n<i>Multiple ornate doors with different symbols</i>\n[Action: action_2_1]" <<decision>> as loc_2_1
+
+  rectangle "Name Registry Office\n--\nBureau where business names are recorded in the Gr...\n<i>Ancient library with scribes</i>\n[Action: action_2_2]" <<location>> as loc_2_2
+
+  rectangle "Federal Seal Chamber\n--\nSacred room where the EIN seal is bestowed\n<i>Chamber with federal eagle emblem</i>\n[Action: action_2_3]" <<location>> as loc_2_3
+
+  rectangle "State Filing Fortress\n--\nImpressive building where formation documents beco...\n<i>Government building with columns</i>\n[Action: action_2_4]" <<location>> as loc_2_4
+
+  note right of region_2
+    <b>Challenges:</b>
+    • Paperwork Golems: Slow progress with documentation requirements\n    • Fee Toll Bridges: Require payment to cross\n  end note
+
+  note left of region_2
+    <b>Allies:</b>
+    • Legal Librarian: Helps navigate legal requirements\n    • Registered Agent Spirit: Receives official communications\n  end note
+
+}
+
+rectangle "Compliance Canyon\n**Phase 3**\n<i>Navigating between requirements while avoiding pitfalls</i>" <<region>> as region_3 {
+
+  rectangle "License Landing\n--\nPlatform where various licenses are issued by diff...\n<i>Trading post with multiple windows</i>\n[Action: action_3_1]" <<location>> as loc_3_1
+
+  rectangle "Tax Tower\n--\nTall structure where state tax obligations are cal...\n<i>Tower with abacus and scales</i>\n[Action: action_3_2]" <<location>> as loc_3_2
+
+  rectangle "Compliance Citadel\n--\nFortress of ongoing regulatory requirements\n<i>Fortress with watchtowers</i>\n[Action: action_3_3]" <<location>> as loc_3_3
+
+  note right of region_3
+    <b>Challenges:</b>
+    • Deadline Dragons: Attack if filing deadlines are missed\n    • Regulation Rapids: Fast-changing rules require constant attention\n  end note
+
+  note left of region_3
+    <b>Allies:</b>
+    • Compliance Compass: Points toward required actions\n    • Tax Sage: Advises on tax obligations\n  end note
+
+}
+
+rectangle "Operations Ocean\n**Phase 4**\n<i>Fluid environment requiring navigation skills and proper vessel</i>" <<region>> as region_4 {
+
+  rectangle "Banking Bay\n--\nHarbor where business accounts are established\n<i>Harbor with vault-like lighthouse</i>\n[Action: action_4_1]" <<location>> as loc_4_1
+
+  rectangle "Accounting Atoll\n--\nIsland sanctuary for managing financial records\n<i>Tropical island with ledger palm trees</i>\n[Action: action_4_2]" <<location>> as loc_4_2
+
+  rectangle "Insurance Island\n--\nSafe haven providing protection from storms\n<i>Island with shield-shaped rock formation</i>\n[Action: action_4_3]" <<location>> as loc_4_3
+
+  rectangle "Governance Gulf\n--\nDeep waters where operating agreements anchor the ...\n<i>Calm bay with anchored ships</i>\n[Action: action_4_4]" <<location>> as loc_4_4
+
+  note right of region_4
+    <b>Challenges:</b>
+    • Cash Flow Currents: Strong currents affect business movement\n    • Liability Leviathan: Emerges without proper insurance\n  end note
+
+  note left of region_4
+    <b>Allies:</b>
+    • Banking Beacon: Guides financial decisions\n    • Advisor Albatross: Flies ahead to spot opportunities\n  end note
+
+}
+
+rectangle "Growth Galaxy\n**Phase 5**\n<i>Infinite possibilities with gravitational pulls of different growth paths</i>" <<region>> as region_5 {
+
+  rectangle "Marketing Nebula\n--\nColorful cloud where customer awareness is born\n<i>Colorful gas cloud with megaphone shapes</i>\n[Action: action_5_1]" <<location>> as loc_5_1
+
+  rectangle "Team Constellation\n--\nStar cluster where team members align\n<i>Connected stars forming team shapes</i>\n[Action: action_5_2]" <<location>> as loc_5_2
+
+  rectangle "Compliance Comet\n--\nRecurring celestial body requiring regular attenti...\n<i>Comet with checklist tail</i>\n[Action: action_5_3]" <<location>> as loc_5_3
+
+  rectangle "Scale Supernova\n--\nExplosive growth center where businesses expand ra...\n<i>Exploding star with growth rays</i>\n[Action: action_5_4]" <<location>> as loc_5_4
+
+  note right of region_5
+    <b>Challenges:</b>
+    • Competition Comets: Rival businesses crossing your path\n    • Burnout Black Hole: Pulls resources without proper balance\n  end note
+
+  note left of region_5
+    <b>Allies:</b>
+    • Growth Guardian: Protects sustainable expansion\n    • Innovation Impulse: Boosts creative solutions\n  end note
+
+}
+
+' Journey Paths between regions
+loc_1_3 --> loc_2_1 : Phase 1 → 2
+loc_2_4 --> loc_3_1 : Phase 2 → 3
+loc_3_3 --> loc_4_1 : Phase 3 → 4
+loc_4_4 --> loc_5_1 : Phase 4 → 5
+
+' Paths within each phase
+loc_1_1 -[hidden]- loc_1_2
+loc_1_2 -[hidden]- loc_1_3
+loc_2_1 -[hidden]- loc_2_2
+loc_2_2 -[hidden]- loc_2_3
+loc_2_3 -[hidden]- loc_2_4
+loc_3_1 -[hidden]- loc_3_2
+loc_3_2 -[hidden]- loc_3_3
+loc_4_1 -[hidden]- loc_4_2
+loc_4_2 -[hidden]- loc_4_3
+loc_4_3 -[hidden]- loc_4_4
+loc_5_1 -[hidden]- loc_5_2
+loc_5_2 -[hidden]- loc_5_3
+loc_5_3 -[hidden]- loc_5_4
+
+rectangle "Game Mechanics" <<region>> as game_mech {
+  note right
+    <b>Resources:</b>
+    • Capital: Financial resources for actions\n    • Time: Available time for tasks\n    • Knowledge: Understanding of requirements\n    • Network: Professional connections\n
+    <b>Progression:</b> Must complete phase requirements before advancing
+    <b>Success:</b>
+    • All phases completed\n    • Compliance maintained throughout\n    • Business operational and sustainable\n  end note
+}
+
+' Styling
+skinparam shadowing false
+skinparam defaultTextAlignment center
+
+@enduml

@@ -1,0 +1,396 @@
+{
+  "title": "USA Business Formation Action Planner",
+  "description": "Unified action planner for navigating USA business formation and operations",
+  "created": "2026-02-16T15:16:39.572616",
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Business Concept & Planning",
+      "description": "Define your business idea and create foundational plans",
+      "actions": [
+        {
+          "id": "action_1_1",
+          "title": "Conduct Market Research",
+          "description": "Analyze market needs, competition, and target customers",
+          "keywords": [
+            "market",
+            "research",
+            "customer",
+            "competition",
+            "analysis"
+          ],
+          "estimated_time": "2-4 weeks",
+          "output": "Market research report"
+        },
+        {
+          "id": "action_1_2",
+          "title": "Identify Business Opportunity",
+          "description": "Define your value proposition and business concept",
+          "keywords": [
+            "opportunity",
+            "value",
+            "proposition",
+            "business",
+            "concept"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Business opportunity statement"
+        },
+        {
+          "id": "action_1_3",
+          "title": "Develop Business Plan",
+          "description": "Create comprehensive business plan with goals, strategies, and financial projections",
+          "keywords": [
+            "plan",
+            "strategy",
+            "goals",
+            "business",
+            "financial",
+            "projection"
+          ],
+          "estimated_time": "2-4 weeks",
+          "output": "Business plan document"
+        },
+        {
+          "id": "action_1_4",
+          "title": "Assess Funding Requirements",
+          "description": "Determine capital needs and explore funding options",
+          "keywords": [
+            "funding",
+            "capital",
+            "investment",
+            "finance",
+            "development"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Funding requirements analysis"
+        },
+        {
+          "id": "action_1_5",
+          "title": "Evaluate Risks",
+          "description": "Identify and assess business risks with mitigation strategies",
+          "keywords": [
+            "risk",
+            "assessment",
+            "mitigation",
+            "planning",
+            "control"
+          ],
+          "estimated_time": "1 week",
+          "output": "Risk assessment document"
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "name": "Legal Structure & Registration",
+      "description": "Choose and establish your business legal structure",
+      "actions": [
+        {
+          "id": "action_2_1",
+          "title": "Choose Business Structure",
+          "description": "Select between LLC, Corporation, Partnership, or Sole Proprietorship based on liability and tax considerations",
+          "keywords": [
+            "llc",
+            "corporation",
+            "partnership",
+            "structure",
+            "entity",
+            "legal"
+          ],
+          "estimated_time": "1 week",
+          "output": "Business structure decision",
+          "decision_points": [
+            {
+              "option": "LLC",
+              "benefits": "Limited liability, pass-through taxation",
+              "complexity": "Medium"
+            },
+            {
+              "option": "C-Corp",
+              "benefits": "Investor-friendly, unlimited growth",
+              "complexity": "High"
+            },
+            {
+              "option": "S-Corp",
+              "benefits": "Tax advantages, limited shareholders",
+              "complexity": "High"
+            },
+            {
+              "option": "Sole Proprietorship",
+              "benefits": "Simple, full control",
+              "complexity": "Low"
+            }
+          ]
+        },
+        {
+          "id": "action_2_2",
+          "title": "Register Business Name",
+          "description": "File DBA or register legal business name with state",
+          "keywords": [
+            "registration",
+            "name",
+            "dba",
+            "state",
+            "filing"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Registered business name"
+        },
+        {
+          "id": "action_2_3",
+          "title": "Obtain EIN (Employer Identification Number)",
+          "description": "Apply for federal tax ID from IRS for tax purposes",
+          "keywords": [
+            "ein",
+            "irs",
+            "tax",
+            "federal",
+            "registration"
+          ],
+          "estimated_time": "1 day",
+          "output": "EIN confirmation letter"
+        },
+        {
+          "id": "action_2_4",
+          "title": "File Formation Documents",
+          "description": "Submit Articles of Organization/Incorporation to state",
+          "keywords": [
+            "formation",
+            "articles",
+            "filing",
+            "state",
+            "legal"
+          ],
+          "estimated_time": "1-4 weeks",
+          "output": "Filed formation documents"
+        },
+        {
+          "id": "action_2_5",
+          "title": "Obtain Required Permits",
+          "description": "Apply for industry-specific permits and local business permits",
+          "keywords": [
+            "permit",
+            "license",
+            "local",
+            "industry",
+            "compliance"
+          ],
+          "estimated_time": "2-6 weeks",
+          "output": "Business permits"
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Compliance & Licensing",
+      "description": "Obtain required licenses and ensure regulatory compliance",
+      "actions": [
+        {
+          "id": "action_3_1",
+          "title": "Obtain Business Licenses",
+          "description": "Apply for required local, state, and federal licenses",
+          "keywords": [
+            "license",
+            "permit",
+            "compliance",
+            "regulation"
+          ],
+          "estimated_time": "2-6 weeks",
+          "output": "Business licenses"
+        },
+        {
+          "id": "action_3_2",
+          "title": "Register for State Taxes",
+          "description": "Register with state tax authority for sales tax, employer taxes, and franchise tax",
+          "keywords": [
+            "tax",
+            "state",
+            "registration",
+            "sales",
+            "employer"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "State tax registration"
+        },
+        {
+          "id": "action_3_3",
+          "title": "Set Up Compliance Systems",
+          "description": "Establish processes for ongoing compliance requirements and regulatory tracking",
+          "keywords": [
+            "compliance",
+            "system",
+            "process",
+            "requirement",
+            "control"
+          ],
+          "estimated_time": "2-3 weeks",
+          "output": "Compliance management system"
+        },
+        {
+          "id": "action_3_4",
+          "title": "Understand Federal Regulations",
+          "description": "Review applicable federal regulations for your industry",
+          "keywords": [
+            "federal",
+            "regulation",
+            "compliance",
+            "industry"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Federal compliance checklist"
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "name": "Operations Setup",
+      "description": "Establish business operations infrastructure",
+      "actions": [
+        {
+          "id": "action_4_1",
+          "title": "Open Business Bank Account",
+          "description": "Separate personal and business finances with dedicated accounts",
+          "keywords": [
+            "bank",
+            "account",
+            "finance",
+            "business"
+          ],
+          "estimated_time": "1 week",
+          "output": "Business bank account"
+        },
+        {
+          "id": "action_4_2",
+          "title": "Set Up Accounting System",
+          "description": "Implement bookkeeping and accounting processes with proper controls",
+          "keywords": [
+            "accounting",
+            "bookkeeping",
+            "finance",
+            "system",
+            "control"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Accounting system"
+        },
+        {
+          "id": "action_4_3",
+          "title": "Obtain Business Insurance",
+          "description": "Secure appropriate insurance coverage for liability and risks",
+          "keywords": [
+            "insurance",
+            "coverage",
+            "liability",
+            "risk"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Insurance policies"
+        },
+        {
+          "id": "action_4_4",
+          "title": "Establish Operating Agreements",
+          "description": "Create bylaws, operating agreements, or partnership agreements",
+          "keywords": [
+            "agreement",
+            "bylaws",
+            "operating",
+            "governance"
+          ],
+          "estimated_time": "1-2 weeks",
+          "output": "Governance documents"
+        },
+        {
+          "id": "action_4_5",
+          "title": "Set Up Technology Systems",
+          "description": "Implement technology infrastructure for business operations",
+          "keywords": [
+            "technology",
+            "system",
+            "infrastructure",
+            "development"
+          ],
+          "estimated_time": "2-4 weeks",
+          "output": "Technology systems operational"
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "name": "Growth & Scaling",
+      "description": "Implement growth strategies and scale operations",
+      "actions": [
+        {
+          "id": "action_5_1",
+          "title": "Develop Marketing Strategy",
+          "description": "Create and implement marketing and customer acquisition plan",
+          "keywords": [
+            "marketing",
+            "customer",
+            "acquisition",
+            "growth",
+            "product"
+          ],
+          "estimated_time": "Ongoing",
+          "output": "Marketing strategy document"
+        },
+        {
+          "id": "action_5_2",
+          "title": "Build Team",
+          "description": "Hire employees or engage contractors as needed for growth",
+          "keywords": [
+            "team",
+            "employee",
+            "hire",
+            "management",
+            "development"
+          ],
+          "estimated_time": "Ongoing",
+          "output": "Team members onboarded"
+        },
+        {
+          "id": "action_5_3",
+          "title": "Monitor Compliance & Reporting",
+          "description": "Maintain ongoing compliance with annual reports and filings",
+          "keywords": [
+            "compliance",
+            "reporting",
+            "annual",
+            "filing"
+          ],
+          "estimated_time": "Ongoing",
+          "output": "Compliance maintained"
+        },
+        {
+          "id": "action_5_4",
+          "title": "Scale Operations",
+          "description": "Expand business operations based on growth metrics and market demand",
+          "keywords": [
+            "scale",
+            "growth",
+            "operations",
+            "expansion",
+            "product"
+          ],
+          "estimated_time": "Ongoing",
+          "output": "Scaled business operations"
+        },
+        {
+          "id": "action_5_5",
+          "title": "Develop New Products/Services",
+          "description": "Innovate and expand product or service offerings",
+          "keywords": [
+            "product",
+            "development",
+            "innovation",
+            "service"
+          ],
+          "estimated_time": "Ongoing",
+          "output": "New products/services launched"
+        }
+      ]
+    }
+  ],
+  "total_phases": 5,
+  "total_actions": 24
+}

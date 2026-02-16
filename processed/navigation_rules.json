@@ -1,0 +1,148 @@
+{
+  "title": "Virtual Map Navigation Rules",
+  "description": "Rules for navigating the USA Business Journey Map",
+  "movement_rules": [
+    {
+      "rule_id": "move_1",
+      "name": "Sequential Progression",
+      "description": "Players must complete locations in order within each region",
+      "constraint": "Cannot skip locations within a phase"
+    },
+    {
+      "rule_id": "move_2",
+      "name": "Phase Gate",
+      "description": "Must complete all locations in current region before entering next",
+      "constraint": "Regional completion required for advancement"
+    },
+    {
+      "rule_id": "move_3",
+      "name": "Resource Check",
+      "description": "Some locations require minimum resource levels to enter",
+      "constraint": "Resource requirements must be met"
+    }
+  ],
+  "decision_points": [
+    {
+      "decision_id": "dec_1",
+      "location": "loc_2_1",
+      "name": "Business Structure Choice",
+      "description": "Choose your business entity type",
+      "options": [
+        {
+          "choice": "LLC",
+          "consequence": "Medium complexity, flexible taxation"
+        },
+        {
+          "choice": "C-Corp",
+          "consequence": "High complexity, investor-ready"
+        },
+        {
+          "choice": "S-Corp",
+          "consequence": "Tax benefits, ownership limits"
+        },
+        {
+          "choice": "Sole Prop",
+          "consequence": "Simple setup, personal liability"
+        }
+      ]
+    },
+    {
+      "decision_id": "dec_2",
+      "location": "loc_3_1",
+      "name": "License Priority",
+      "description": "Choose which licenses to obtain first",
+      "options": [
+        {
+          "choice": "Federal First",
+          "consequence": "Required for regulated industries"
+        },
+        {
+          "choice": "State First",
+          "consequence": "Required for most businesses"
+        },
+        {
+          "choice": "Local First",
+          "consequence": "Quickest to obtain, limited scope"
+        }
+      ]
+    },
+    {
+      "decision_id": "dec_3",
+      "location": "loc_5_1",
+      "name": "Growth Strategy",
+      "description": "Choose primary marketing approach",
+      "options": [
+        {
+          "choice": "Digital First",
+          "consequence": "Lower cost, broader reach"
+        },
+        {
+          "choice": "Local First",
+          "consequence": "Community focus, higher trust"
+        },
+        {
+          "choice": "Partnership",
+          "consequence": "Leverage existing networks"
+        }
+      ]
+    }
+  ],
+  "challenge_resolution": [
+    {
+      "challenge": "Deadline Dragons",
+      "resolution_methods": [
+        "Set up calendar reminders (prevents spawn)",
+        "Hire compliance officer (reduces aggression)",
+        "Use automated filing service (complete avoidance)"
+      ]
+    },
+    {
+      "challenge": "Cash Flow Currents",
+      "resolution_methods": [
+        "Secure line of credit (stronger vessel)",
+        "Invoice factoring (navigate around)",
+        "Accelerate collections (improve steering)"
+      ]
+    },
+    {
+      "challenge": "Paperwork Golems",
+      "resolution_methods": [
+        "Use templates (reduces size)",
+        "Hire professional service (auto-defeat)",
+        "Software automation (efficiency boost)"
+      ]
+    }
+  ],
+  "ally_interactions": [
+    {
+      "ally": "Mentor Mountain Guide",
+      "interaction": "Provides hints when stuck at Planning Peaks",
+      "cost": "Free (available throughout journey)"
+    },
+    {
+      "ally": "Legal Librarian",
+      "interaction": "Explains legal requirements in plain language",
+      "cost": "Time investment for research"
+    },
+    {
+      "ally": "Compliance Compass",
+      "interaction": "Points to next required compliance action",
+      "cost": "Must be consulted regularly"
+    },
+    {
+      "ally": "Advisor Albatross",
+      "interaction": "Scouts ahead for opportunities and threats",
+      "cost": "Requires regular communication"
+    }
+  ],
+  "victory_conditions": {
+    "primary": "Reach loc_5_4 (Scale Supernova) with compliant business",
+    "secondary": [
+      "Maintain all compliance requirements",
+      "Achieve positive cash flow",
+      "Build sustainable team",
+      "Establish market presence"
+    ],
+    "ongoing": "Continue compliance comet visits (loc_5_3) indefinitely"
+  }
+}

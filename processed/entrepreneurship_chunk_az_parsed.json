@@ -1,0 +1,1612 @@
+{
+  "source_file": "books/export/entrepreneurship_chunk_az.md",
+  "keywords": [
+    {
+      "term": "the",
+      "frequency": 39,
+      "relevance": 0.056,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 14,
+      "related_keywords": []
+    },
+    {
+      "term": "patent",
+      "frequency": 16,
+      "relevance": 0.023,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 428,
+      "related_keywords": []
+    },
+    {
+      "term": "and",
+      "frequency": 14,
+      "relevance": 0.0201,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 188,
+      "related_keywords": []
+    },
+    {
+      "term": "rights",
+      "frequency": 11,
+      "relevance": 0.0158,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 97,
+      "related_keywords": []
+    },
+    {
+      "term": "patents",
+      "frequency": 10,
+      "relevance": 0.0143,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 70,
+      "related_keywords": []
+    },
+    {
+      "term": "for",
+      "frequency": 10,
+      "relevance": 0.0143,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 125,
+      "related_keywords": []
+    },
+    {
+      "term": "use",
+      "frequency": 9,
+      "relevance": 0.0129,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 183,
+      "related_keywords": []
+    },
+    {
+      "term": "invention",
+      "frequency": 8,
+      "relevance": 0.0115,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 201,
+      "related_keywords": []
+    },
+    {
+      "term": "that",
+      "frequency": 8,
+      "relevance": 0.0115,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 691,
+      "related_keywords": []
+    },
+    {
+      "term": "goods",
+      "frequency": 8,
+      "relevance": 0.0115,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3363,
+      "related_keywords": []
+    },
+    {
+      "term": "with",
+      "frequency": 7,
+      "relevance": 0.01,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 937,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 7,
+      "relevance": 0.01,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3372,
+      "related_keywords": []
+    },
+    {
+      "term": "protection",
+      "frequency": 6,
+      "relevance": 0.0086,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 757,
+      "related_keywords": []
+    },
+    {
+      "term": "trademarks",
+      "frequency": 6,
+      "relevance": 0.0086,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3252,
+      "related_keywords": []
+    },
+    {
+      "term": "trademark",
+      "frequency": 6,
+      "relevance": 0.0086,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3778,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 6,
+      "relevance": 0.0086,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4815,
+      "related_keywords": []
+    },
+    {
+      "term": "exclusive",
+      "frequency": 5,
+      "relevance": 0.0072,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 157,
+      "related_keywords": []
+    },
+    {
+      "term": "design",
+      "frequency": 5,
+      "relevance": 0.0072,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 467,
+      "related_keywords": []
+    },
+    {
+      "term": "infringement",
+      "frequency": 5,
+      "relevance": 0.0072,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2744,
+      "related_keywords": []
+    },
+    {
+      "term": "marks",
+      "frequency": 5,
+      "relevance": 0.0072,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3427,
+      "related_keywords": []
+    },
+    {
+      "term": "mark",
+      "frequency": 5,
+      "relevance": 0.0072,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4109,
+      "related_keywords": []
+    },
+    {
+      "term": "are",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 87,
+      "related_keywords": []
+    },
+    {
+      "term": "legal",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 91,
+      "related_keywords": []
+    },
+    {
+      "term": "protect",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 298,
+      "related_keywords": []
+    },
+    {
+      "term": "have",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 696,
+      "related_keywords": []
+    },
+    {
+      "term": "must",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 796,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1615,
+      "related_keywords": []
+    },
+    {
+      "term": "maintenance",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2015,
+      "related_keywords": []
+    },
+    {
+      "term": "enforcement",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2876,
+      "related_keywords": []
+    },
+    {
+      "term": "words",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3283,
+      "related_keywords": []
+    },
+    {
+      "term": "symbols",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3299,
+      "related_keywords": []
+    },
+    {
+      "term": "source",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3353,
+      "related_keywords": []
+    },
+    {
+      "term": "terms",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4214,
+      "related_keywords": []
+    },
+    {
+      "term": "federal",
+      "frequency": 4,
+      "relevance": 0.0057,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4807,
+      "related_keywords": []
+    },
+    {
+      "term": "inventors",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 115,
+      "related_keywords": []
+    },
+    {
+      "term": "their",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 129,
+      "related_keywords": []
+    },
+    {
+      "term": "inventions",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 135,
+      "related_keywords": []
+    },
+    {
+      "term": "utility",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 266,
+      "related_keywords": []
+    },
+    {
+      "term": "new",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 306,
+      "related_keywords": []
+    },
+    {
+      "term": "manufacture",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 354,
+      "related_keywords": []
+    },
+    {
+      "term": "matter",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 386,
+      "related_keywords": []
+    },
+    {
+      "term": "can",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1184,
+      "related_keywords": []
+    },
+    {
+      "term": "search",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1525,
+      "related_keywords": []
+    },
+    {
+      "term": "filing",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1747,
+      "related_keywords": []
+    },
+    {
+      "term": "office",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1811,
+      "related_keywords": []
+    },
+    {
+      "term": "patented",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2160,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2380,
+      "related_keywords": []
+    },
+    {
+      "term": "agreements",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2479,
+      "related_keywords": []
+    },
+    {
+      "term": "identify",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3324,
+      "related_keywords": []
+    },
+    {
+      "term": "tools",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4000,
+      "related_keywords": []
+    },
+    {
+      "term": "provides",
+      "frequency": 3,
+      "relevance": 0.0043,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 5061,
+      "related_keywords": []
+    },
+    {
+      "term": "types",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 243,
+      "related_keywords": []
+    },
+    {
+      "term": "useful",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "they",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 557,
+      "related_keywords": []
+    },
+    {
+      "term": "appearance",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 572,
+      "related_keywords": []
+    },
+    {
+      "term": "plant",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 631,
+      "related_keywords": []
+    },
+    {
+      "term": "not",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 812,
+      "related_keywords": []
+    },
+    {
+      "term": "prior",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 844,
+      "related_keywords": []
+    },
+    {
+      "term": "non",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 876,
+      "related_keywords": []
+    },
+    {
+      "term": "someone",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 929,
+      "related_keywords": []
+    },
+    {
+      "term": "purpose",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1027,
+      "related_keywords": []
+    },
+    {
+      "term": "patentable",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1058,
+      "related_keywords": []
+    },
+    {
+      "term": "subject",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1069,
+      "related_keywords": []
+    },
+    {
+      "term": "law",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1170,
+      "related_keywords": []
+    },
+    {
+      "term": "apply",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1188,
+      "related_keywords": []
+    },
+    {
+      "term": "employers",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1286,
+      "related_keywords": []
+    },
+    {
+      "term": "other",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1439,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1482,
+      "related_keywords": []
+    },
+    {
+      "term": "obtaining",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1493,
+      "related_keywords": []
+    },
+    {
+      "term": "required",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1823,
+      "related_keywords": []
+    },
+    {
+      "term": "fees",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1832,
+      "related_keywords": []
+    },
+    {
+      "term": "prosecution",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1844,
+      "related_keywords": []
+    },
+    {
+      "term": "actions",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1877,
+      "related_keywords": []
+    },
+    {
+      "term": "from",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 1904,
+      "related_keywords": []
+    },
+    {
+      "term": "partnering",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2085,
+      "related_keywords": []
+    },
+    {
+      "term": "entrepreneurs",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2109,
+      "related_keywords": []
+    },
+    {
+      "term": "large",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2127,
+      "related_keywords": []
+    },
+    {
+      "term": "firms",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2133,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2169,
+      "related_keywords": []
+    },
+    {
+      "term": "market",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2181,
+      "related_keywords": []
+    },
+    {
+      "term": "distribution",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2356,
+      "related_keywords": []
+    },
+    {
+      "term": "licensing",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2469,
+      "related_keywords": []
+    },
+    {
+      "term": "trade",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2685,
+      "related_keywords": []
+    },
+    {
+      "term": "designs",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3311,
+      "related_keywords": []
+    },
+    {
+      "term": "distinguish",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3337,
+      "related_keywords": []
+    },
+    {
+      "term": "combinations",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3442,
+      "related_keywords": []
+    },
+    {
+      "term": "serve",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3581,
+      "related_keywords": []
+    },
+    {
+      "term": "quality",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 3880,
+      "related_keywords": []
+    },
+    {
+      "term": "connection",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4117,
+      "related_keywords": []
+    },
+    {
+      "term": "generic",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4206,
+      "related_keywords": []
+    },
+    {
+      "term": "features",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4411,
+      "related_keywords": []
+    },
+    {
+      "term": "commerce",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 4727,
+      "related_keywords": []
+    },
+    {
+      "term": "nationwide",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 5022,
+      "related_keywords": []
+    },
+    {
+      "term": "presumptions",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 5113,
+      "related_keywords": []
+    },
+    {
+      "term": "international",
+      "frequency": 2,
+      "relevance": 0.0029,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 5353,
+      "related_keywords": []
+    },
+    {
+      "term": "chapter",
+      "frequency": 1,
+      "relevance": 0.0014,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "importance",
+      "frequency": 1,
+      "relevance": 0.0014,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 18,
+      "related_keywords": []
+    },
+    {
+      "term": "intellectual",
+      "frequency": 1,
+      "relevance": 0.0014,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 32,
+      "related_keywords": []
+    },
+    {
+      "term": "property",
+      "frequency": 1,
+      "relevance": 0.0014,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 45,
+      "related_keywords": []
+    },
+    {
+      "term": "continued",
+      "frequency": 1,
+      "relevance": 0.0014,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "position_in_text": 55,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "books/export/entrepreneurship_chunk_az.md",
+    "entities": [
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/entrepreneurship_chunk_az.md",
+          "position": 439
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md",
+        "relationships": {}
+      }
+    ],
+    "components": [],
+    "systems": [
+      {
+        "name": "filing",
+        "description": "System/process mentioned in document: Filing",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "registration",
+        "description": "System/process mentioned in document: Registration",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "filing",
+        "description": "System/process mentioned in document: Filing",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "filing",
+        "description": "System/process mentioned in document: filing",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "registration",
+        "description": "System/process mentioned in document: Registration",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "registration",
+        "description": "System/process mentioned in document: registration",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "registration",
+        "description": "System/process mentioned in document: Registration",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "registration",
+        "description": "System/process mentioned in document: Registration",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      },
+      {
+        "name": "registration",
+        "description": "System/process mentioned in document: Registration",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_az.md"
+      }
+    ],
+    "extraction_date": "2026-02-16T15:04:08.170700"
+  },
+  "constraints": [
+    {
+      "id": "constraint_d0e6ef34_0",
+      "title": "Must requirement from entrepreneurship_chunk_az.md",
+      "description": "for Patent Protection\n\n#### Novelty\nThe invention must be new and not previously disclosed in any prior publication or use.\n\n#### Non-Obviousness\nThe inve",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    },
+    {
+      "id": "constraint_d0e6ef34_1",
+      "title": "Must requirement from entrepreneurship_chunk_az.md",
+      "description": "ation or use.\n\n#### Non-Obviousness\nThe invention must not be obvious to someone with ordinary skill in the relevant field.\n\n#### Utility\nThe invention mu",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    },
+    {
+      "id": "constraint_d0e6ef34_2",
+      "title": "Must requirement from entrepreneurship_chunk_az.md",
+      "description": "n the relevant field.\n\n#### Utility\nThe invention must have a useful purpose and be operable.\n\n#### Patentable Subject Matter\nThe invention must fall with",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    },
+    {
+      "id": "constraint_d0e6ef34_3",
+      "title": "Must requirement from entrepreneurship_chunk_az.md",
+      "description": "le.\n\n#### Patentable Subject Matter\nThe invention must fall within the categories of patentable subject matter defined by law.\n\n### Who Can Apply for a Pa",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    },
+    {
+      "id": "constraint_ac67ede5_4",
+      "title": "Required requirement from entrepreneurship_chunk_az.md",
+      "description": "mitting the application to the patent office with required fees.\n\n#### Prosecution\nResponding to office actions and communications from the patent examiner.",
+      "constraint_type": "requirement",
+      "condition": "text_contains('required')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'required' not met"
+    },
+    {
+      "id": "constraint_ac67ede5_5",
+      "title": "Required requirement from entrepreneurship_chunk_az.md",
+      "description": "tion.\n\n#### Maintenance\nContinuing use and filing required maintenance documents.\n\n### Advantages of Federal Registration\n\n#### Nationwide Rights\nFederal regi",
+      "constraint_type": "requirement",
+      "condition": "text_contains('required')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_az.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'required' not met"
+    }
+  ],
+  "metadata": {
+    "source_file": "books/export/entrepreneurship_chunk_az.md",
+    "title": "USA Business Info: entrepreneurship_chunk_az.md",
+    "description": "USA business information from entrepreneurship_chunk_az.md",
+    "tags": [
+      "usa_business",
+      "information",
+      "documentation"
+    ],
+    "categories": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-16T15:04:08.224270",
+    "last_modified": "2026-02-16T15:04:08.224283",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "book_chapter",
+    "business_domains": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 697,
+    "language": "en",
+    "keywords": [
+      "the",
+      "patent",
+      "and",
+      "rights",
+      "patents",
+      "for",
+      "use",
+      "invention",
+      "that",
+      "goods"
+    ],
+    "related_entities": [],
+    "related_components": [],
+    "related_systems": [],
+    "related_constraints": [],
+    "custom_fields": {
+      "document_type": "book_chapter",
+      "processing_status": "completed",
+      "original_file_name": "entrepreneurship_chunk_az.md"
+    }
+  },
+  "processing_timestamp": "2026-02-16T15:04:08.224358"
+}

@@ -1,0 +1,450 @@
+{
+  "title": "USA Business Journey Map",
+  "description": "A metaphorical map representing the entrepreneurial journey through USA business landscape",
+  "created": "2026-02-16T15:16:39.572680",
+  "map_type": "journey_path",
+  "regions": [
+    {
+      "region_id": "region_1",
+      "name": "The Planning Peaks",
+      "description": "Mountain range where ideas are forged into plans",
+      "metaphor": "High elevation represents the clarity needed for strategic thinking",
+      "phase_connection": 1,
+      "locations": [
+        {
+          "location_id": "loc_1_1",
+          "name": "Vision Vista",
+          "description": "A high overlook where you spot business opportunities in the valley below",
+          "type": "discovery",
+          "action_ref": "action_1_1",
+          "coordinates": {
+            "x": 100,
+            "y": 50
+          },
+          "visual_element": "Mountain peak with telescope"
+        },
+        {
+          "location_id": "loc_1_2",
+          "name": "Strategy Summit",
+          "description": "Where detailed business plans are carved into stone tablets",
+          "type": "creation",
+          "action_ref": "action_1_2",
+          "coordinates": {
+            "x": 150,
+            "y": 75
+          },
+          "visual_element": "Stone tablet with inscriptions"
+        },
+        {
+          "location_id": "loc_1_3",
+          "name": "Resource Ravine",
+          "description": "Deep valley where funding sources flow like underground streams",
+          "type": "assessment",
+          "action_ref": "action_1_3",
+          "coordinates": {
+            "x": 125,
+            "y": 100
+          },
+          "visual_element": "Underground cavern with treasure veins"
+        }
+      ],
+      "challenges": [
+        {
+          "name": "Fog of Uncertainty",
+          "type": "environmental",
+          "effect": "Reduces visibility of opportunities"
+        }
+      ],
+      "allies": [
+        {
+          "name": "Mentor Mountain Guide",
+          "type": "npc",
+          "role": "Provides wisdom and direction"
+        }
+      ]
+    },
+    {
+      "region_id": "region_2",
+      "name": "The Legal Labyrinth",
+      "description": "Ancient maze of bureaucratic corridors and registration chambers",
+      "metaphor": "Complex pathways represent legal requirements and choices",
+      "phase_connection": 2,
+      "locations": [
+        {
+          "location_id": "loc_2_1",
+          "name": "Hall of Structures",
+          "description": "Grand hall with doors representing different business entities",
+          "type": "decision",
+          "action_ref": "action_2_1",
+          "coordinates": {
+            "x": 250,
+            "y": 100
+          },
+          "visual_element": "Multiple ornate doors with different symbols",
+          "decision_gate": true
+        },
+        {
+          "location_id": "loc_2_2",
+          "name": "Name Registry Office",
+          "description": "Bureau where business names are recorded in the Great Book",
+          "type": "registration",
+          "action_ref": "action_2_2",
+          "coordinates": {
+            "x": 300,
+            "y": 80
+          },
+          "visual_element": "Ancient library with scribes"
+        },
+        {
+          "location_id": "loc_2_3",
+          "name": "Federal Seal Chamber",
+          "description": "Sacred room where the EIN seal is bestowed",
+          "type": "acquisition",
+          "action_ref": "action_2_3",
+          "coordinates": {
+            "x": 350,
+            "y": 100
+          },
+          "visual_element": "Chamber with federal eagle emblem"
+        },
+        {
+          "location_id": "loc_2_4",
+          "name": "State Filing Fortress",
+          "description": "Impressive building where formation documents become official",
+          "type": "filing",
+          "action_ref": "action_2_4",
+          "coordinates": {
+            "x": 400,
+            "y": 120
+          },
+          "visual_element": "Government building with columns"
+        }
+      ],
+      "challenges": [
+        {
+          "name": "Paperwork Golems",
+          "type": "obstacle",
+          "effect": "Slow progress with documentation requirements"
+        },
+        {
+          "name": "Fee Toll Bridges",
+          "type": "resource",
+          "effect": "Require payment to cross"
+        }
+      ],
+      "allies": [
+        {
+          "name": "Legal Librarian",
+          "type": "npc",
+          "role": "Helps navigate legal requirements"
+        },
+        {
+          "name": "Registered Agent Spirit",
+          "type": "guide",
+          "role": "Receives official communications"
+        }
+      ]
+    },
+    {
+      "region_id": "region_3",
+      "name": "Compliance Canyon",
+      "description": "Deep gorge with bridges of regulation spanning across",
+      "metaphor": "Navigating between requirements while avoiding pitfalls",
+      "phase_connection": 3,
+      "locations": [
+        {
+          "location_id": "loc_3_1",
+          "name": "License Landing",
+          "description": "Platform where various licenses are issued by different guilds",
+          "type": "acquisition",
+          "action_ref": "action_3_1",
+          "coordinates": {
+            "x": 500,
+            "y": 150
+          },
+          "visual_element": "Trading post with multiple windows"
+        },
+        {
+          "location_id": "loc_3_2",
+          "name": "Tax Tower",
+          "description": "Tall structure where state tax obligations are calculated",
+          "type": "registration",
+          "action_ref": "action_3_2",
+          "coordinates": {
+            "x": 550,
+            "y": 130
+          },
+          "visual_element": "Tower with abacus and scales"
+        },
+        {
+          "location_id": "loc_3_3",
+          "name": "Compliance Citadel",
+          "description": "Fortress of ongoing regulatory requirements",
+          "type": "system_setup",
+          "action_ref": "action_3_3",
+          "coordinates": {
+            "x": 600,
+            "y": 160
+          },
+          "visual_element": "Fortress with watchtowers"
+        }
+      ],
+      "challenges": [
+        {
+          "name": "Deadline Dragons",
+          "type": "enemy",
+          "effect": "Attack if filing deadlines are missed"
+        },
+        {
+          "name": "Regulation Rapids",
+          "type": "environmental",
+          "effect": "Fast-changing rules require constant attention"
+        }
+      ],
+      "allies": [
+        {
+          "name": "Compliance Compass",
+          "type": "item",
+          "role": "Points toward required actions"
+        },
+        {
+          "name": "Tax Sage",
+          "type": "npc",
+          "role": "Advises on tax obligations"
+        }
+      ]
+    },
+    {
+      "region_id": "region_4",
+      "name": "Operations Ocean",
+      "description": "Vast waters where business ships sail and trade",
+      "metaphor": "Fluid environment requiring navigation skills and proper vessel",
+      "phase_connection": 4,
+      "locations": [
+        {
+          "location_id": "loc_4_1",
+          "name": "Banking Bay",
+          "description": "Harbor where business accounts are established",
+          "type": "setup",
+          "action_ref": "action_4_1",
+          "coordinates": {
+            "x": 700,
+            "y": 200
+          },
+          "visual_element": "Harbor with vault-like lighthouse"
+        },
+        {
+          "location_id": "loc_4_2",
+          "name": "Accounting Atoll",
+          "description": "Island sanctuary for managing financial records",
+          "type": "setup",
+          "action_ref": "action_4_2",
+          "coordinates": {
+            "x": 750,
+            "y": 180
+          },
+          "visual_element": "Tropical island with ledger palm trees"
+        },
+        {
+          "location_id": "loc_4_3",
+          "name": "Insurance Island",
+          "description": "Safe haven providing protection from storms",
+          "type": "acquisition",
+          "action_ref": "action_4_3",
+          "coordinates": {
+            "x": 800,
+            "y": 220
+          },
+          "visual_element": "Island with shield-shaped rock formation"
+        },
+        {
+          "location_id": "loc_4_4",
+          "name": "Governance Gulf",
+          "description": "Deep waters where operating agreements anchor the business",
+          "type": "documentation",
+          "action_ref": "action_4_4",
+          "coordinates": {
+            "x": 850,
+            "y": 200
+          },
+          "visual_element": "Calm bay with anchored ships"
+        }
+      ],
+      "challenges": [
+        {
+          "name": "Cash Flow Currents",
+          "type": "environmental",
+          "effect": "Strong currents affect business movement"
+        },
+        {
+          "name": "Liability Leviathan",
+          "type": "enemy",
+          "effect": "Emerges without proper insurance"
+        }
+      ],
+      "allies": [
+        {
+          "name": "Banking Beacon",
+          "type": "item",
+          "role": "Guides financial decisions"
+        },
+        {
+          "name": "Advisor Albatross",
+          "type": "companion",
+          "role": "Flies ahead to spot opportunities"
+        }
+      ]
+    },
+    {
+      "region_id": "region_5",
+      "name": "Growth Galaxy",
+      "description": "Expansive space where businesses expand like stars",
+      "metaphor": "Infinite possibilities with gravitational pulls of different growth paths",
+      "phase_connection": 5,
+      "locations": [
+        {
+          "location_id": "loc_5_1",
+          "name": "Marketing Nebula",
+          "description": "Colorful cloud where customer awareness is born",
+          "type": "strategy",
+          "action_ref": "action_5_1",
+          "coordinates": {
+            "x": 950,
+            "y": 250
+          },
+          "visual_element": "Colorful gas cloud with megaphone shapes"
+        },
+        {
+          "location_id": "loc_5_2",
+          "name": "Team Constellation",
+          "description": "Star cluster where team members align",
+          "type": "building",
+          "action_ref": "action_5_2",
+          "coordinates": {
+            "x": 1000,
+            "y": 230
+          },
+          "visual_element": "Connected stars forming team shapes"
+        },
+        {
+          "location_id": "loc_5_3",
+          "name": "Compliance Comet",
+          "description": "Recurring celestial body requiring regular attention",
+          "type": "maintenance",
+          "action_ref": "action_5_3",
+          "coordinates": {
+            "x": 1050,
+            "y": 270
+          },
+          "visual_element": "Comet with checklist tail"
+        },
+        {
+          "location_id": "loc_5_4",
+          "name": "Scale Supernova",
+          "description": "Explosive growth center where businesses expand rapidly",
+          "type": "expansion",
+          "action_ref": "action_5_4",
+          "coordinates": {
+            "x": 1100,
+            "y": 250
+          },
+          "visual_element": "Exploding star with growth rays"
+        }
+      ],
+      "challenges": [
+        {
+          "name": "Competition Comets",
+          "type": "enemy",
+          "effect": "Rival businesses crossing your path"
+        },
+        {
+          "name": "Burnout Black Hole",
+          "type": "environmental",
+          "effect": "Pulls resources without proper balance"
+        }
+      ],
+      "allies": [
+        {
+          "name": "Growth Guardian",
+          "type": "npc",
+          "role": "Protects sustainable expansion"
+        },
+        {
+          "name": "Innovation Impulse",
+          "type": "power-up",
+          "role": "Boosts creative solutions"
+        }
+      ]
+    }
+  ],
+  "journey_path": {
+    "start": "loc_1_1",
+    "end": "loc_5_4",
+    "waypoints": [
+      [
+        "loc_1_1",
+        "loc_1_2",
+        "loc_1_3"
+      ],
+      [
+        "loc_2_1",
+        "loc_2_2",
+        "loc_2_3",
+        "loc_2_4"
+      ],
+      [
+        "loc_3_1",
+        "loc_3_2",
+        "loc_3_3"
+      ],
+      [
+        "loc_4_1",
+        "loc_4_2",
+        "loc_4_3",
+        "loc_4_4"
+      ],
+      [
+        "loc_5_1",
+        "loc_5_2",
+        "loc_5_3",
+        "loc_5_4"
+      ]
+    ],
+    "total_distance": "1100 units",
+    "estimated_journey_time": "3-12 months (varies by business complexity)"
+  },
+  "game_mechanics": {
+    "resources": [
+      {
+        "name": "Capital",
+        "description": "Financial resources for actions",
+        "starting_amount": "Varies"
+      },
+      {
+        "name": "Time",
+        "description": "Available time for tasks",
+        "starting_amount": "Flexible"
+      },
+      {
+        "name": "Knowledge",
+        "description": "Understanding of requirements",
+        "starting_amount": "Basic"
+      },
+      {
+        "name": "Network",
+        "description": "Professional connections",
+        "starting_amount": "Limited"
+      }
+    ],
+    "progression": {
+      "type": "phase_gated",
+      "description": "Must complete phase requirements before advancing",
+      "unlock_condition": "Complete all actions in current phase"
+    },
+    "success_conditions": [
+      "All phases completed",
+      "Compliance maintained throughout",
+      "Business operational and sustainable"
+    ]
+  }
+}

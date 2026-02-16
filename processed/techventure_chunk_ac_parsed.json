@@ -1,0 +1,305 @@
+{
+  "source_file": "books/export/techventure_chunk_ac.md",
+  "keywords": [
+    {
+      "term": "technology",
+      "frequency": 18,
+      "relevance": 0.1125,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 15,
+      "related_keywords": ["ventures", "innovation", "commercialization", "development"]
+    },
+    {
+      "term": "innovation",
+      "frequency": 12,
+      "relevance": 0.0750,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 42,
+      "related_keywords": ["technology", "entrepreneurship", "commercialization", "development"]
+    },
+    {
+      "term": "commercialization",
+      "frequency": 8,
+      "relevance": 0.0500,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 78,
+      "related_keywords": ["technology", "innovation", "market", "development"]
+    },
+    {
+      "term": "entrepreneurship",
+      "frequency": 7,
+      "relevance": 0.0438,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 35,
+      "related_keywords": ["innovation", "opportunity", "business"]
+    },
+    {
+      "term": "market",
+      "frequency": 14,
+      "relevance": 0.0875,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 123,
+      "related_keywords": ["entry", "strategy", "analysis", "positioning"]
+    },
+    {
+      "term": "development",
+      "frequency": 10,
+      "relevance": 0.0625,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 67,
+      "related_keywords": ["technology", "innovation", "commercialization", "product"]
+    },
+    {
+      "term": "strategy",
+      "frequency": 9,
+      "relevance": 0.0563,
+      "category": "business_term",
+      "tags": ["auto_extraction", "usa_business"],
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "position_in_text": 156,
+      "related_keywords": ["business", "planning", "execution", "market"]
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "books/export/techventure_chunk_ac.md",
+    "entities": [
+      {
+        "name": "technology ventures",
+        "description": "Entity representing technology-based ventures",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 15
+        },
+        "tags": ["business_entity", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md",
+        "relationships": {}
+      },
+      {
+        "name": "entrepreneur",
+        "description": "Entity representing entrepreneurs",
+        "attributes": {
+          "type": "role_entity",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 35
+        },
+        "tags": ["role_entity", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md",
+        "relationships": {}
+      },
+      {
+        "name": "innovator",
+        "description": "Entity representing innovation-focused individuals",
+        "attributes": {
+          "type": "role_entity",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 42
+        },
+        "tags": ["role_entity", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md",
+        "relationships": {}
+      },
+      {
+        "name": "investor",
+        "description": "Entity representing investors in technology ventures",
+        "attributes": {
+          "type": "role_entity",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 201
+        },
+        "tags": ["role_entity", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "technology development",
+        "description": "Component related to technology development processes",
+        "properties": {
+          "type": "process_component",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 67
+        },
+        "data_schema": {},
+        "tags": ["process_component", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      },
+      {
+        "name": "market analysis",
+        "description": "Component related to market analysis processes",
+        "properties": {
+          "type": "analysis_component",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 123
+        },
+        "data_schema": {},
+        "tags": ["analysis_component", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      },
+      {
+        "name": "strategy development",
+        "description": "Component related to strategy development processes",
+        "properties": {
+          "type": "process_component",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 156
+        },
+        "data_schema": {},
+        "tags": ["process_component", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      },
+      {
+        "name": "commercialization process",
+        "description": "Component related to technology commercialization processes",
+        "properties": {
+          "type": "process_component",
+          "extracted_from": "books/export/techventure_chunk_ac.md",
+          "position": 78
+        },
+        "data_schema": {},
+        "tags": ["process_component", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "commercialization system",
+        "description": "System for commercializing technology innovations",
+        "behavior": "Process for moving technology from lab to market",
+        "dependencies": [],
+        "triggers": ["technology development completion"],
+        "tags": ["commercialization", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      },
+      {
+        "name": "innovation system",
+        "description": "System for managing innovation processes",
+        "behavior": "Process for identifying and developing innovations",
+        "dependencies": [],
+        "triggers": ["market opportunity identification"],
+        "tags": ["innovation", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      },
+      {
+        "name": "market entry system",
+        "description": "System for entering new markets",
+        "behavior": "Process for analyzing and entering new markets",
+        "dependencies": ["market analysis component"],
+        "triggers": ["market opportunity validation"],
+        "tags": ["market_entry", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      },
+      {
+        "name": "investment system",
+        "description": "System for managing investment processes",
+        "behavior": "Process for attracting and managing investment",
+        "dependencies": ["business plan component"],
+        "triggers": ["funding requirement identification"],
+        "tags": ["investment", "usa_context"],
+        "source_file": "books/export/techventure_chunk_ac.md"
+      }
+    ],
+    "extraction_date": "2026-02-15T15:25:30.123456"
+  },
+  "constraints": [
+    {
+      "id": "constraint_techventure_chunk_ac_1",
+      "title": "Technology Commercialization Requirement from techventure_chunk_ac.md",
+      "description": "Requirements related to technology commercialization processes",
+      "constraint_type": "procedural",
+      "condition": "technology_commercialization_processes_followed == True",
+      "scope": "technology_ventures",
+      "severity": "info",
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "tags": ["commercialization", "procedure"],
+      "related_constraints": [],
+      "validation_logic": "validate_technology_commercialization_processes()",
+      "error_message": "Technology commercialization processes not followed properly"
+    },
+    {
+      "id": "constraint_techventure_chunk_ac_2",
+      "title": "Market Entry Timing Constraint from techventure_chunk_ac.md",
+      "description": "Requirements related to appropriate timing for market entry",
+      "constraint_type": "strategic",
+      "condition": "market_entry_timing_appropriate == True",
+      "scope": "market_entry",
+      "severity": "warning",
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "tags": ["timing", "strategy"],
+      "related_constraints": [],
+      "validation_logic": "validate_market_entry_timing()",
+      "error_message": "Market entry timing may not be appropriate"
+    },
+    {
+      "id": "constraint_techventure_chunk_ac_3",
+      "title": "Innovation Investment Constraint from techventure_chunk_ac.md",
+      "description": "Requirements related to appropriate investment in innovation",
+      "constraint_type": "financial",
+      "condition": "innovation_investment_appropriate == True",
+      "scope": "innovation_management",
+      "severity": "warning",
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "tags": ["investment", "innovation"],
+      "related_constraints": [],
+      "validation_logic": "validate_innovation_investment_levels()",
+      "error_message": "Innovation investment levels may not be appropriate"
+    },
+    {
+      "id": "constraint_techventure_chunk_ac_4",
+      "title": "Technology Development Milestone Constraint from techventure_chunk_ac.md",
+      "description": "Requirements related to achieving technology development milestones",
+      "constraint_type": "operational",
+      "condition": "technology_development_milestones_achieved == True",
+      "scope": "technology_development",
+      "severity": "error",
+      "source_file": "books/export/techventure_chunk_ac.md",
+      "tags": ["milestone", "development"],
+      "related_constraints": [],
+      "validation_logic": "validate_technology_development_milestones()",
+      "error_message": "Technology development milestones not achieved"
+    }
+  ],
+  "metadata": {
+    "source_file": "books/export/techventure_chunk_ac.md",
+    "title": "USA Business Info: techventure_chunk_ac.md",
+    "description": "USA business information from techventure_chunk_ac.md",
+    "tags": ["usa_business", "information", "documentation", "technology", "ventures", "innovation", "commercialization"],
+    "categories": ["technology_ventures", "business_formation", "innovation_management", "commercialization"],
+    "related_files": ["techventure_chunk_aa.md", "techventure_chunk_ab.md"],
+    "creation_date": "2026-02-15T15:25:30.123456",
+    "last_modified": "2026-02-15T15:25:30.123456",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.8,
+    "content_type": "business_guide",
+    "business_domains": ["technology_ventures", "business_formation", "innovation", "commercialization"],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 580,
+    "language": "en",
+    "keywords": ["technology", "ventures", "innovation", "commercialization", "market", "strategy", "development"],
+    "related_entities": ["technology ventures", "entrepreneur", "innovator", "investor"],
+    "related_components": ["technology development", "market analysis", "strategy development", "commercialization process"],
+    "related_systems": ["commercialization system", "innovation system", "market entry system", "investment system"],
+    "related_constraints": ["constraint_techventure_chunk_ac_1", "constraint_techventure_chunk_ac_2", "constraint_techventure_chunk_ac_3", "constraint_techventure_chunk_ac_4"],
+    "custom_fields": {
+      "document_type": "business_guide",
+      "processing_status": "completed",
+      "original_file_name": "techventure_chunk_ac.md"
+    }
+  },
+  "processing_timestamp": "2026-02-15T15:25:30.123456"
+}

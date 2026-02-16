@@ -1,0 +1,1785 @@
+{
+  "source_file": "books/export/startup_chunk_ao.md",
+  "keywords": [
+    {
+      "term": "validation",
+      "frequency": 22,
+      "relevance": 0.0293,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 116,
+      "related_keywords": []
+    },
+    {
+      "term": "pivot",
+      "frequency": 21,
+      "relevance": 0.028,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 57,
+      "related_keywords": []
+    },
+    {
+      "term": "business",
+      "frequency": 18,
+      "relevance": 0.024,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 92,
+      "related_keywords": []
+    },
+    {
+      "term": "model",
+      "frequency": 18,
+      "relevance": 0.024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 101,
+      "related_keywords": []
+    },
+    {
+      "term": "decision",
+      "frequency": 18,
+      "relevance": 0.024,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 127,
+      "related_keywords": []
+    },
+    {
+      "term": "the",
+      "frequency": 17,
+      "relevance": 0.0226,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 16,
+      "relevance": 0.0213,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 160,
+      "related_keywords": []
+    },
+    {
+      "term": "market",
+      "frequency": 12,
+      "relevance": 0.016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 450,
+      "related_keywords": []
+    },
+    {
+      "term": "key",
+      "frequency": 12,
+      "relevance": 0.016,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1293,
+      "related_keywords": []
+    },
+    {
+      "term": "plan",
+      "frequency": 11,
+      "relevance": 0.0146,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 536,
+      "related_keywords": []
+    },
+    {
+      "term": "proceed",
+      "frequency": 9,
+      "relevance": 0.012,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 66,
+      "related_keywords": []
+    },
+    {
+      "term": "for",
+      "frequency": 9,
+      "relevance": 0.012,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 308,
+      "related_keywords": []
+    },
+    {
+      "term": "evaluate",
+      "frequency": 8,
+      "relevance": 0.0107,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 408,
+      "related_keywords": []
+    },
+    {
+      "term": "and",
+      "frequency": 7,
+      "relevance": 0.0093,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 179,
+      "related_keywords": []
+    },
+    {
+      "term": "metrics",
+      "frequency": 7,
+      "relevance": 0.0093,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 867,
+      "related_keywords": []
+    },
+    {
+      "term": "scaling",
+      "frequency": 6,
+      "relevance": 0.008,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 545,
+      "related_keywords": []
+    },
+    {
+      "term": "feedback",
+      "frequency": 6,
+      "relevance": 0.008,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 585,
+      "related_keywords": []
+    },
+    {
+      "term": "consider",
+      "frequency": 6,
+      "relevance": 0.008,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1086,
+      "related_keywords": []
+    },
+    {
+      "term": "assumptions",
+      "frequency": 6,
+      "relevance": 0.008,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1244,
+      "related_keywords": []
+    },
+    {
+      "term": "success",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 320,
+      "related_keywords": []
+    },
+    {
+      "term": "results",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 468,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 784,
+      "related_keywords": []
+    },
+    {
+      "term": "review",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1024,
+      "related_keywords": []
+    },
+    {
+      "term": "financial",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1031,
+      "related_keywords": []
+    },
+    {
+      "term": "projections",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1041,
+      "related_keywords": []
+    },
+    {
+      "term": "competitive",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1063,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1797,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1806,
+      "related_keywords": []
+    },
+    {
+      "term": "solutions",
+      "frequency": 5,
+      "relevance": 0.0067,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 4984,
+      "related_keywords": []
+    },
+    {
+      "term": "validate",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 567,
+      "related_keywords": []
+    },
+    {
+      "term": "making",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 627,
+      "related_keywords": []
+    },
+    {
+      "term": "validated",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 667,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 825,
+      "related_keywords": []
+    },
+    {
+      "term": "approach",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 917,
+      "related_keywords": []
+    },
+    {
+      "term": "when",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1171,
+      "related_keywords": []
+    },
+    {
+      "term": "customers",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1531,
+      "related_keywords": []
+    },
+    {
+      "term": "change",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1601,
+      "related_keywords": []
+    },
+    {
+      "term": "prepare",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2002,
+      "related_keywords": []
+    },
+    {
+      "term": "new",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2014,
+      "related_keywords": []
+    },
+    {
+      "term": "test",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2057,
+      "related_keywords": []
+    },
+    {
+      "term": "resources",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2653,
+      "related_keywords": []
+    },
+    {
+      "term": "analysis",
+      "frequency": 4,
+      "relevance": 0.0053,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 3179,
+      "related_keywords": []
+    },
+    {
+      "term": "startup",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 6,
+      "related_keywords": []
+    },
+    {
+      "term": "point",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 136,
+      "related_keywords": []
+    },
+    {
+      "term": "with",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 249,
+      "related_keywords": []
+    },
+    {
+      "term": "assess",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 443,
+      "related_keywords": []
+    },
+    {
+      "term": "next",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 488,
+      "related_keywords": []
+    },
+    {
+      "term": "steps",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 493,
+      "related_keywords": []
+    },
+    {
+      "term": "solution",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 712,
+      "related_keywords": []
+    },
+    {
+      "term": "processes",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 790,
+      "related_keywords": []
+    },
+    {
+      "term": "use",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 900,
+      "related_keywords": []
+    },
+    {
+      "term": "structured",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 906,
+      "related_keywords": []
+    },
+    {
+      "term": "hypotheses",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1297,
+      "related_keywords": []
+    },
+    {
+      "term": "costs",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1331,
+      "related_keywords": []
+    },
+    {
+      "term": "are",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1337,
+      "related_keywords": []
+    },
+    {
+      "term": "alternatives",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1898,
+      "related_keywords": []
+    },
+    {
+      "term": "confirms",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2187,
+      "related_keywords": []
+    },
+    {
+      "term": "documentation",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 3623,
+      "related_keywords": []
+    },
+    {
+      "term": "potential",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 3782,
+      "related_keywords": []
+    },
+    {
+      "term": "evidence",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 5202,
+      "related_keywords": []
+    },
+    {
+      "term": "seek",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 5262,
+      "related_keywords": []
+    },
+    {
+      "term": "decisions",
+      "frequency": 3,
+      "relevance": 0.004,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 5858,
+      "related_keywords": []
+    },
+    {
+      "term": "your",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 87,
+      "related_keywords": []
+    },
+    {
+      "term": "decide",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 214,
+      "related_keywords": []
+    },
+    {
+      "term": "critical",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 299,
+      "related_keywords": []
+    },
+    {
+      "term": "changes",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 526,
+      "related_keywords": []
+    },
+    {
+      "term": "pivoting",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 556,
+      "related_keywords": []
+    },
+    {
+      "term": "before",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 620,
+      "related_keywords": []
+    },
+    {
+      "term": "problems",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 691,
+      "related_keywords": []
+    },
+    {
+      "term": "willingness",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 756,
+      "related_keywords": []
+    },
+    {
+      "term": "pay",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 771,
+      "related_keywords": []
+    },
+    {
+      "term": "analyze",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1055,
+      "related_keywords": []
+    },
+    {
+      "term": "position",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1075,
+      "related_keywords": []
+    },
+    {
+      "term": "resource",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1095,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1104,
+      "related_keywords": []
+    },
+    {
+      "term": "confirm",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1285,
+      "related_keywords": []
+    },
+    {
+      "term": "acquisition",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1319,
+      "related_keywords": []
+    },
+    {
+      "term": "size",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1359,
+      "related_keywords": []
+    },
+    {
+      "term": "than",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1375,
+      "related_keywords": []
+    },
+    {
+      "term": "product",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1420,
+      "related_keywords": []
+    },
+    {
+      "term": "fit",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1435,
+      "related_keywords": []
+    },
+    {
+      "term": "achieved",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1445,
+      "related_keywords": []
+    },
+    {
+      "term": "different",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1521,
+      "related_keywords": []
+    },
+    {
+      "term": "how",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1654,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1682,
+      "related_keywords": []
+    },
+    {
+      "term": "value",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1714,
+      "related_keywords": []
+    },
+    {
+      "term": "technology",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1734,
+      "related_keywords": []
+    },
+    {
+      "term": "identify",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 1847,
+      "related_keywords": []
+    },
+    {
+      "term": "execute",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2032,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2432,
+      "related_keywords": []
+    },
+    {
+      "term": "build",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2502,
+      "related_keywords": []
+    },
+    {
+      "term": "infrastructure",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2516,
+      "related_keywords": []
+    },
+    {
+      "term": "develop",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2570,
+      "related_keywords": []
+    },
+    {
+      "term": "operational",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2578,
+      "related_keywords": []
+    },
+    {
+      "term": "growth",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2615,
+      "related_keywords": []
+    },
+    {
+      "term": "execution",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2622,
+      "related_keywords": []
+    },
+    {
+      "term": "secure",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2635,
+      "related_keywords": []
+    },
+    {
+      "term": "additional",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 2642,
+      "related_keywords": []
+    },
+    {
+      "term": "cost",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 3007,
+      "related_keywords": []
+    },
+    {
+      "term": "methods",
+      "frequency": 2,
+      "relevance": 0.0027,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/startup_chunk_ao.md",
+      "position_in_text": 3039,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "books/export/startup_chunk_ao.md",
+    "entities": [
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 92
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 260
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 417
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 511
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 942
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 1229
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 2066
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 2196
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 2451
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 2736
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 2758
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 2843
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 3588
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 3751
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: Business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 4208
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 4238
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 4278
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 4539
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "business",
+        "description": "Entity mentioned in document: business",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 6284
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "owner",
+        "description": "Entity mentioned in document: Owner",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 14
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      },
+      {
+        "name": "board",
+        "description": "Entity mentioned in document: Board",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 3994
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "funding",
+        "description": "Component mentioned in document: funding",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/startup_chunk_ao.md",
+          "position": 4845
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md"
+      },
+      {
+        "name": "review",
+        "description": "System/process mentioned in document: Review",
+        "behavior": "Process described in document context",
+        "dependencies": [],
+        "triggers": [
+          "document_mention"
+        ],
+        "tags": [
+          "business_process",
+          "usa_context"
+        ],
+        "source_file": "books/export/startup_chunk_ao.md"
+      }
+    ],
+    "extraction_date": "2026-02-16T15:04:13.141202"
+  },
+  "constraints": [
+    {
+      "id": "constraint_d0e6ef34_0",
+      "title": "Must requirement from startup_chunk_ao.md",
+      "description": "customer discovery and validation, entrepreneurs must decide whether to pivot or proceed with their business model. This decision point is critical for s",
+      "constraint_type": "requirement",
+      "condition": "text_contains('must')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/startup_chunk_ao.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'must' not met"
+    }
+  ],
+  "metadata": {
+    "source_file": "books/export/startup_chunk_ao.md",
+    "title": "USA Business Info: startup_chunk_ao.md",
+    "description": "USA business information from startup_chunk_ao.md",
+    "tags": [
+      "usa_business",
+      "information",
+      "documentation"
+    ],
+    "categories": [
+      "business_formation",
+      "compliance"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-16T15:04:13.221804",
+    "last_modified": "2026-02-16T15:04:13.221820",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "book_chapter",
+    "business_domains": [
+      "business_formation",
+      "compliance"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 751,
+    "language": "en",
+    "keywords": [
+      "validation",
+      "pivot",
+      "business",
+      "model",
+      "decision",
+      "the",
+      "customer",
+      "market",
+      "key",
+      "plan"
+    ],
+    "related_entities": [],
+    "related_components": [],
+    "related_systems": [],
+    "related_constraints": [],
+    "custom_fields": {
+      "document_type": "book_chapter",
+      "processing_status": "completed",
+      "original_file_name": "startup_chunk_ao.md"
+    }
+  },
+  "processing_timestamp": "2026-02-16T15:04:13.221923"
+}

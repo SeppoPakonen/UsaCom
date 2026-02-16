@@ -1,0 +1,1000 @@
+problem they wanted to solve was just plain wrong. The company’s later
+success was due to the four passionate entrepreneurs’ willingness to listen to
+customers and to the three painful pivots driven by customer feedback.
+
+The Browser Breakthrough
+During the ’90s, large corporations acquired different software applications to
+automate each part of their enterprise—finance, customer support,
+manufacturing, and sales among them. But the data these applications
+collected were accessed via reporting tools from the IT organization. More
+important, the data existed in “virtual silos,” with each functional system
+walled off from the other. The finance system didn’t talk to the sales system,
+which didn’t know that the manufacturing system even existed. Queries like
+“Compare the sales data of green dresses versus blue ones with current
+inventory for each by store, and contrast the gross margin by region to
+calculate discounts” were virtually impossible to answer to because they
+required combining data from three incompatible applications. As a result, it
+could often take days or even weeks to get a simple inventory-detail report.
+      E.piphany’s then-radical notion was to provide managers
+anytime/anywhere drill-downs and analysis in real time, without IT, through
+a revolutionary new technology called a web browser. One of the company’s
+key hypotheses was that the product should be a great fit for companies with
+lots of customers, tons of data on each one, and a recurring need for fast new
+data-driven, microsegmented marketing campaigns.
+
+                  An Epiphany at E.piphany
+Early on, E.piphany assembled an advisory board. A key adviser was the VP
+of database marketing at Schwab. She was incredibly generous with her time
+and said the system might work in their application. She introduced the
+company to five other database marketing executives, who essentially said,
+“If you get a system working at Schwab, we’ll have to buy one as well.” You
+couldn’t get much better than that. E.piphany had found its first
+earlyvangelist and first market.
+     But each time Schwab’s people looked at the system’s technical details,
+they politely said our product was missing a key feature for database
+marketing. It took two meetings before the founders realized they understood
+her problem, all right, but the solution—the underlying database schema of
+the software—was missing the most important feature for solving it. It didn’t
+include “householding,” and without this feature, she could never buy the
+E.piphany system. (Householding, well-known among database marketers,
+recognizes that two or more people at the same physical address live together
+and, in Schwab’s case, often invest together. This feature was crucial to
+direct-marketers who didn’t want to send multiple or differing ads to the
+same address.) And no amount of sales and marketing hand-waving was
+going to fix the problem.
+     It was a major mistake. Until this meeting, the founders hadn’t
+understood the customer problem well enough to provide the correct solution.
+     E.piphany’s co-founders, Ben Wegbreit and Steve Blank, joined the
+Schwab VP, and her engineering team in a deep technical discussion of what
+the software needed to do for Schwab’s business and what was needed. Ben
+asked five or 10 questions, everybody nodded and the meeting ended. On the
+long ride back to E.piphany’s living-room office, Steve asked, “Ben, how do
+we solve Schwab’s problem?”
+      After a moment of silence, he replied, “Show them page 6 of our
+product spec.”
+      “What do you mean page 6? Our spec only has five pages!”
+      Ben looked at Steve and smiled. “Not anymore.”
+      They had just pivoted the product and refined the minimum feature set.
+E.piphany’s first order from Schwab came the week after they demo’ed
+householding. Other orders followed soon after. A week later, the founders
+sat down to figure out what other feature they would toss out to make room
+for this one.
+      E.piphany would go through two additional equally painful pivots
+before its initial public offering, but that “householding” pivot sold the
+founders on the “power of the pivot” value.
+      The meeting and car ride from Schwab to the company headquarters
+illustrates the customer validation process every startup needs: a method for
+validating the business model with real customers and orders.
+      Customer validation turns hypotheses into facts about basic questions
+like:
+    • Do we understand the sales/user acquisition process?
+           Is it repeatable?
+           Can we prove it’s repeatable? (If our business model is single-sided
+             commerce, the only acceptable proof is enough full-price orders.)
+           Can we get these orders/users with the current product?
+    • Have we tested sales and distribution channels?
+    • Are we confident we can scale orders/users into a profitable business?
+    • Have we correctly positioned the product and the company?
+
+           The Customer Validation Philosophy
+Customer validation attempts to “test sell” at every stage. It runs a continuing
+series of quantitative pass/fail tests to determine whether there’s strong
+enough product/market fit to justify scaling sales and marketing spending.
+Most of your testing effort will be asking people to give you an order or
+engage with your app or website. At this point, you’re testing the entire
+business model, not its individual components, even as you learn more details
+about some, like price or channel.
+     Just as customer discovery was disorienting for experienced marketers,
+the customer validation process turns the world upside down for experienced
+salespeople and, in particular, those with sales responsibility. All the rules
+sales executives learned while selling in physical channels at large companies
+are not applicable to startups. In fact, they’re positively detrimental. It’s not
+all about the launch party!
+      In the customer validation step, you are not going to hire and staff a
+sales team. You are not going to execute to a sales plan or “the sales
+strategy.” The reality is that you don’t know enough yet to do any of these
+things. At the end of customer discovery, you have in hand firm hypotheses
+about who will buy, why they will buy, and at what price they will buy. But
+until those hypotheses are validated—with customer orders—they’re all little
+more than educated guesses, even with the work invested to develop them.
+
+From Business Model Canvas to the Sales Roadmap
+In customer discovery you tested some of the hypotheses of your business
+model:
+
+     Value proposition: You affirmed it with a few dozen to a few hundred
+     people
+     Customer segments: You have a hypothesis about customer archetypes
+     Customer relationships: You tested several “get, keep and grow”
+     activities
+     Channel: You understand your key channel partners, and some have
+     expressed interest
+     Revenue model: The company has an idea of how to price its offering
+
+     A sales roadmap uses all you’ve learned from customer discovery to
+guide the creation of a sales funnel specifically for your company. It answers:
+
+     Who influences a sale? Who recommends a sale?
+     Who is the decision-maker? Who is the economic buyer? The saboteur?
+     Where is the budget for purchasing the type of product you’re selling?
+     How many sales calls are needed to make one sale?
+     How long does an average sale take from beginning to end?
+     What is the selling strategy? Is this a solution sale?
+     If so, what are “key customer problems?”
+     What’s the profile of optimal visionary buyers, the earlyvangelists every
+     startup needs?
+
+      Unless a company has proven answers to these questions, few sales will
+happen, and those that do occur will result from heroic single-shot efforts. Of
+course, on some level, most sales VPs realize they lack the knowledge they
+need to draw a detailed sales roadmap, but most believe they and their newly
+hired sales team can acquire this information while simultaneously selling
+and closing orders. This is because most executives new to startups confuse
+searching for a business model with the execution of a known business model.
+A sales roadmap is part of the search for a business model. Only after it’s
+built can it be executed. Startups can’t learn and discover while they’re busy
+executing. As we can see from the rubble of any number of failed startups,
+attempting to execute before you have a sales roadmap in place is pure folly.
+
+Building a Sales Roadmap Versus Building a Sales
+Force
+Given how critical the validation step is, a CEO’s first instinct is to speed up
+the process by spending more on customer acquisition or adding salespeople.
+The reality is, this doesn’t speed up the validation phase. In fact, it most often
+slows it down. Instead, you’ll build a roadmap to figure out how to get
+repeatable sales (by explicitly testing product/ market fit). Once that’s done,
+then build a sales organization.
+
+Developing a sales roadmap is part of the search for
+a business model.
+     In an existing market, customer validation may simply validate that the
+sales VP’s rolodex or contact list is relevant, and that product performance
+metrics the company identified in customer discovery were correct. In a re-
+segmented, clone or new market, even a rolodex of infinite size (or tripling
+the AdWords budget) won’t substitute for a proven business model and a
+tested sales roadmap.
+     For an experienced sales or business development executive, these
+statements about customer validation are heretical. All the actions in
+Customer Development we consider to be mistakes are what traditional sales
+professionals have been trained to do. It seems counterintuitive and
+disorienting. So let’s look more closely at why the first sales in a startup are
+so different from later-stage sales or selling in a large company.
+
+Founders Must Lead the Customer Validation
+Team
+Founders who complete customer discovery often mistakenly ease up and
+delegate customer validation activities to Sales, Business Development,
+Marketing or Product Management. This is a bad idea. Middle and junior
+managers aren’t likely to be good at customer validation, which requires
+creative searching, probing, and turning on a dime—not execution of a
+repeatable process.
+     Why must the founders lead? First, founders and only founders call the
+shots on pivoting. To do so, they must hear about flaws in the product or
+business model directly from the customers. Nothing else has the same
+impact. Anyone other than a founder who learns of a serious product or
+business-plan flaw faces two challenges: he or she doesn’t have the authority
+to pivot, and he or she seldom has the courage to report bad customer
+feedback to the founder.
+
+Validation Proceeds at Different Speeds in Different
+Channels
+It takes far more time to set up visits in a physical channel with prospects in
+cellphone companies in Asia and Africa than to get customer feedback
+electronically for a website. And more customers can be reached via
+web/mobile channels than can ever be met face-to-face.
+Make Early Sales to Earlyvangelists
+In customer validation you will target Earlyvangelists as your first paying
+customers. (If you can’t sell to them, it doesn’t get better over time.)
+
+Constrain Spending in Customer Validation
+A typical failure scenario for startups is premature scaling, when there are
+more salespeople in the field burning cash than are needed while your
+business model is still unproven. Or running expensive demand-creation
+activities before you’re sure who your customers really are. Too often those
+sales people are fired and their marketing programs killed when the startup
+faces a major pivot after scaling too early. Customer validation delays sales-
+and-marketing hiring and spending until validation is nearly complete. This
+constraint is central to the process, which assumes startups will fail and
+iterate often. The spending constraint keeps enough cash in the bank to fund
+multiple pivots on the road to success.
+
+Prioritize What Needs to be Validated
+Prioritizing the business model elements that need validating is essential at
+the start of customer validation. Every startup business model has a zillion
+moving parts. Validation can’t possibly measure and affirm every variable or
+the founders will be 100 years old by the time they’re ready to scale—or,
+worse, exit—the business.
+     The business model canvas is an excellent guide here. Most startups will
+focus on the four core elements: value proposition, customer relationships,
+channel, and revenue model. This list works for many businesses but not all.
+Multi-sided markets need to prioritize all sides of the market. Think about the
+five or fewer things that will make this a huge, successful business—or not.
+
+Why Accountants Don’t Run Startups
+With all the process steps involved, it’s sometimes hard to remember that the
+Customer Development process isn’t a giant focus group. The goal is not to
+add up all the customer feedback and vote on what features to implement.
+Founders who are artists at heart run startups—the true purpose of Customer
+Development is to inform their vision. (In a new market, there’s no data at
+all!) A great entrepreneur may consider all the customer data, listen to his
+instincts and say, “Here’s why I’m going to ignore what we just heard.”
+
+The Customer Validation Philosophy, in Summary
+Customer discovery first tested your hypotheses about the company’s
+business model with a relatively tiny group of customers who were asked for
+opinions, not orders. Discovery itself didn’t deliver any proven, hard facts
+about who would buy or how scalable the business was.
+     Customer validation goes to the next step and determines whether a
+product/market fit can be validated by orders or usage. It does so by further
+developing the MVP as well as the company’s sales and marketing plans and
+materials. Then it gets founders out of the building (physically, virtually, or
+both) to test the MVP and every other key business model hypotheses,
+including product features, pricing, channel, and positioning. How? By
+asking for orders (or downloads, logons, or clicks)!
+
+Test the MVP. How? By asking for orders.
+     Customer validation is complete when the company has answers to these
+three questions:
+
+ 1. Can the business scale? Will a dollar spent on customer acquisition
+    yield more than a dollar’s worth of incremental revenue, page views,
+    downloads or clicks?
+ 2. Is there a repeatable and scalable sales roadmap? Does the company
+    know the right prospects to call on or acquire, and what to say to them to
+    consistently deliver sales?
+ 3. Is the sales funnel predictable? Do the same sales programs and tactics
+    consistently deliver an adequate, profitable flow of customers through
+    the funnel?
+
+     Now let’s get started.
+Overview of the Customer Validation Process
+
+
+
+
+    Customer Validation: Overview of the Process (Figure 7.1)
+     Customer Validation has Four Phases
+Phase 1 consists of six “get ready to sell” activities; product positioning,
+sales/ marketing materials for “test selling” efforts, the hiring of a sales
+closer, the creation of a distribution channel plan, refining a sales roadmap,
+and creating an advisory board. These activities make your team the best
+prepared early stage venture ever to hit the streets.
+
+Phase 2 gets founders out of the building to put the product to the ultimate
+test: will customers validate your business model by buying your product?
+You’ll attempt to actually sell customers an unfinished and unproven product
+without a professional sales organization. Getting feedback is as important as
+getting orders. Startups in the physical channel do this with brochures,
+PowerPoints, sales materials and, where possible, product demos or mockups.
+Dozens if not hundreds of meetings help refine the product presentation and
+channel plans, validate the sales roadmap, prove the predictability of the sales
+funnel, and validate that the business model is repeatable, scalable and
+profitable in a real-world test.
+      Startups in multi-sided markets (physical or web/mobile) need to get out
+of the building to test each side of the market. Web/Mobile marketers first
+test users and then validate a different set of hypotheses (value proposition,
+segment, revenue model, etc.) with the “payers,” who are marketers or
+advertisers willing to pay to reach people using the site for free.
+
+Phase 3 happens once you have a couple of orders under your belt and
+enough customer information to develop and refine your product and
+company positioning. The positioning is tested in meetings with industry
+pundits and analysts and face-to-face with the expanded customer audience.
+
+Phase 4 stops all activity for long enough to conduct a detailed pivot-or-
+proceed analysis and verify that, regardless of channel, customer validation is
+complete and the company knows how to scale. If so, it’s ready to reap the
+rewards for founders and investors alike. But first there are lots of tough
+questions and hard work to verify.
+     In sum, the question is simple: “is this a business worth doing,” and
+devoting several years of backbreaking work? Will it generate enough
+revenue, growth and profits to achieve the founders’ and investors’ goals?
+And has the team learned enough to make it happen?
+     Odds are overwhelming that the optimum business model won’t be
+found on the first or second try in validation.
+     The moment customer validation is over is when it’s clear that there are
+real orders, users, or clicks—not surveys or chats. Customer validation
+confirms that customers will accept the minimum viable product, proves that
+the customers exist, figures out how to reach them predictably, and crafts a
+scalable plan to engage and sell many more. It’s often called the “epiphany
+moment.”
+                            CHAPTER 8
+
+    Customer Validation, Phase One: “Get
+              Ready to Sell”
+PHASE 1 OF CUSTOMER VALIDATION PREPARES the tools to test the company’s
+ability to acquire customers. In this phase, you’ll craft your product
+positioning, which guides how you write the marketing, and online materials
+needed for the sales effort. For companies in the physical channel, other steps
+in this phase include development of collateral materials, channel sales plans,
+and a sales roadmap. Sometimes, a “sales closer” is also hired at this point.
+And you’ll finalize your advisory board.
+      Steps in this first phase are markedly different for each channel, so
+physical and web/mobile channels are addressed separately, as outlined in
+Figure 8.1.
+      When all these steps are in place, it’s time to get out of the building and
+start selling, in Phase 2. Here are the steps each channel requires before you
+are ready to sell.
+
+
+
+
+                     Phase 1 – Get Ready to Sell (Figure 8.1)
+
+Get Ready to Sell: Craft Positioning Statement
+From your customer’s perspective, what does your company stand for, what
+does your product do, and why should they care? You probably had an idea
+when you started the company, but now you have some real experience in
+interacting with customers. It’s time to revisit the product vision, features and
+competitive information in light of what you’ve learned in customer
+discovery.
+      Can you reduce all that you’ve learned into a single clear, compelling
+message explaining why your company is different and the product is worth
+buying (or spending time with). That’s the goal of a unique selling
+proposition. A unique selling proposition builds the bond between you and
+your customer, focuses marketing programs, and becomes the focal point for
+building the company. More relevant for this step, it gets the company’s story
+down to a short “elevator pitch” powerful enough to raise a customer’s heart
+rate. It’ll appear in lots of different places from billboards to banners and
+business cards from here on out and helps focus sales and marketing efforts.
+Don’t worry about getting it perfect, because it will change with feedback
+from customers, analysts, and investors. For now, take a first best shot.
+      While positioning messaging seems straightforward, it can be a
+challenge to execute. It takes serious work to get to a pithy statement that’s
+both understandable and compelling. It’s much easier to write (or think) long
+than to write (or think) short. Start by revisiting what customers said they
+valued during customer discovery. What were the top problems? Did a phrase
+keep coming up to describe the problem or solution? Where does the product
+affect customers most? How significant is the product’s impact? What does
+the new offering provide that competitors can’t or won’t? What does it do
+better? Think simple and short at all times. This may be a place where outside
+creative resources are worth the investment.
+      In technology startups, one of the biggest challenges for engineers is to
+realize the need for a simple message that grabs customers’ hearts and
+wallets, not their heads and calculators. It’s not about the product features.
+Seek a simple sentence that condenses the entire value proposition into a few
+pithy, catchy words that say it all: “Think Different,” from Apple; “Don’t
+Leave Home Without It,” American Express; “Just Do It,” Nike; “We Try
+Harder,” Avis; “Earth’s First Soft Drink,” Perrier; “The Ultimate Driving
+Machine,” BMW.
+     The exercises, in Figures 8.2 and 8.3, developed by Geoffrey Moore (of
+Crossing the Chasm fame) early in his career as a marketing consultant, can
+help evoke the necessary elements:
+
+
+
+
+                   Product Positioning Statement (Figure 8.2)
+
+    Here’s how a mobile expense-reporting application, Mobiledough, might
+have used the product position statement:
+
+
+
+
+              Product Positioning Statement Example (Figure 8.3)
+
+What might Mobiledough’s tag line be? A few candidates:
+
+    “Your dough, on the go. Fast, accurate, online”
+     “Track your expenses while you’re makin’ tracks”
+     “Mobiledough. It just adds up, instantly, online”
+
+     Use the Geoff Moore outline or one like it to brainstorm positioning
+statements with the Customer Development team. Consider a companywide
+contest or creative session. To see if the positioning is emotionally
+compelling, think about the following:
+
+     Do customers’ heart rates go up after they hear it?
+     Do they lean forward to hear more? Or do you get a blank stare?
+     Is it understandable in the users’ language or unique in their minds?
+     For B-to-B products, does the positioning imply a cost or competitive
+     advantage for the product?
+     For consumer products, does it save time or money or provide fun or
+     love, glamour or status?
+
+      Finally, does the positioning pass the reality test? Claims like “lose 30
+pounds in a week” or “increase sales 200 percent” or “fall in love tonight”
+strain credibility and probably legality as well. Moreover, it’s not only the
+claim that needs to pass this test. Is your company a credible supplier for the
+product you’re describing? When selling to corporate customers, there are
+additional hurdles to think about. Are your capabilities congruent with your
+claims?
+      One last thing to keep in mind is our continual question about what
+market type you’re in. If you’re offering a product in an existing market, your
+unique selling proposition is about better, faster, or higher performance. It’s
+framed by what you’ve learned from countless customer interviews about the
+basis of competition..
+      If you’re creating a new market or trying to reframe an existing one,
+you’ll probably come up with a transformational unique selling proposition.
+Transformational unique selling propositions deal with how the solution will
+create a new level or class of activity—i.e., something people could never do
+before.
+Checklist 27: Craft Company Positioning
+Goal: Create a clear, compelling message explaining why your company is
+different and the product is worth buying
+
+Reference: Chapter 8, Customer Validation Phase 1: “Get Ready to Sell”
+
+  Message statement
+    Condenses Value Proposition into single phrase or sentence
+    Emotionally compelling
+    Credible
+    Takes Market Type into account
+
+Exit criteria:
+      A short, pithy message that explains what the company stands for, what
+       the product does and why customers should buy from it, trust it, and
+       care
+Get Ready to Sell: Sales and Marketing Materials
+
+
+
+
+Acquiring customers in the physical channel evolves in a four-stage process:
+awareness, consideration, interest, and purchase. To facilitate this sales
+process, you’ll use the unique selling proposition you created in the last step
+to produce sales and marketing materials—product data sheets, presentations,
+a website, etc.—called “marketing collateral.” Your sales team will hand or
+present this collateral to potential customers and/or on your website to
+communicate the reasons customers should buy.
+        The “Get Customers” Funnel in Physical Channels (Figure 8.4)
+
+     In the physical channel, the job of marketing materials is not to close the
+sale but to drive prospective customers into the sales funnel, where physical
+locations, live salespeople, and supporting selling materials take over and
+effect a transaction. The material should give people enough information to
+raise their curiosity and spark an interaction with sales—but not so much
+information that they can decide not to buy without first interacting with the
+channel! Human helpers need a variety of tools to close the deal, and this step
+plans and creates a first version of the tool set that helps close the deal.
+     This section describes online tools, physical sales tools and how to tune
+both for your audience.
+     Much of the information for the materials (product features, benefits,
+specs) is found in the hypotheses developed and refined during customer
+discovery. Don’t spend money on flashy design or large print runs, but keep
+the materials crisp and professional, knowing they’ll change based on
+customer feedback.
+
+
+
+
+            “Get Customers” Tools for Physical Channels (Table 8.1)
+
+         Physical Sales Collateral and Materials
+Once they arrive in the physical channel, whether they’re driven by the web,
+Twitter, or an old-fashioned newspaper ad, the customer eventually gets face-
+to-face with a salesperson. When he does, sales materials and tools are often
+required. Instead of randomly writing product specs and presentations,
+develop a “collateral plan” listing all the items needed at each sales-process
+stage (see Table 8.2 for an example). A basic minimum collateral checklist
+for almost any company should include the following items:
+
+     website
+     PowerPoint sales presentation
+     Demos, prototypes and videos
+     Data sheets
+     Price lists, contracts and billing systems
+
+     Don’t forget the more obvious items: white papers, company press
+clippings, customer testimonials, letterhead, presentation folders and business
+cards!
+
+Sales Presentations
+Sales presentations should deliver an updated, integrated version of the
+problem, solution and product presentations developed during customer
+discovery, guided by the new positioning. The core audience during customer
+validation is earlyvangelists, not mainstream customers. Cover a brief outline
+of the problem, possible existing solutions, and your proposed new solution,
+and then product details. The presentation should run no more than 30
+minutes. In customer discovery, you may have found that different
+presentations were required, depending on the type of people who played a
+role in purchase decisions inside a company or with different types of
+consumer audiences. Were separate presentations required for senior
+management and lower-level employees? How about for a technical
+audience? How about for different companies in different industries? For
+consumer products, was there a different presentation based on
+demographics? Income? Geography?
+     A worthwhile investment at this stage of Customer Development is
+professional help in developing a PowerPoint template. It gives the company
+a professional, established appearance even if the office remains a garage or a
+basement.
+Demos/Prototypes/Video
+Most people you’re trying to sell to don’t have your skill in visualizing
+products that don’t exist. It’s why you’re the founder and they’re not. For
+many people, most product concepts are too hard to understand without some
+kind of demo or prototype. Wherever possible, prepare some kind of
+prototype, working or not, that illustrates how the product operates and its
+key selling points. At a minimum, provide a slide-based, nonworking
+illustration or a short video. Ideally, the presentation illustrates the old way
+and the new way of solving the problem. It can be made of cardboard or
+Styrofoam, or it can be a series of simple sketches, but it should “bring the
+product to life” wherever possible. Product development teams in physical-
+product startups sometimes confuse demos with working products. They’re
+not.
+      It’s these demos that “turn on the lightbulb” over the heads of many
+earlyvangelists and get their passionate about the product.
+
+Data Sheets
+It’s easy to confuse product data sheets, which detail product features and
+benefits, with solution data sheets, which address customer problems and big-
+picture solutions. Which ones you need depend on market type. When
+entering an existing market, your focus is on the product and why yours is
+better. Here, product data sheets are the best way to illustrate that. However,
+if you’re creating a new market or cloning a market, the solution data sheets
+are more appropriate. If you’re re-segmenting a market, both types of data
+sheets are essential.
+
+Price Lists, Contracts and Billing System
+Hopefully by now, someone has asked, “How much does it cost?” Prepare
+price lists, quote forms, and contracts. These documents makes a small
+startup look like a real company. They also force codification of assumptions
+about product pricing, configurations, delivery, discounts, and terms.
+Consumer products require a way to take early orders, usually involving
+credit card processing, e-commerce tools, and more.
+
+     Collateral Needs to Be Tuned to the Audience
+In validation, startups selling in business-to-business markets have two
+different audiences for collateral materials: the earlyvangelist, the technology
+gatekeepers and each require different messages and materials (see Table
+8.2). Earlyvangelists buy the vision first and then buy the product. Therefore,
+make sure materials are clear and detailed enough about vision and benefits
+to help earlyvangelists sell the idea by themselves, after the presentation
+ends, inside their companies or to friends or family.
+      Most business-to-business selling situations require a technical overview
+with a distinctly deeper level of information for other players in the sales
+cycle. Issue-specific white papers can address particular areas of interest or
+concern. Develop these as they become necessary but not before. Customers
+will tell you what they need. Especially in tight economic climates, business
+customers might require a return-on-investment (ROI) white paper. It’s a
+customer’s fancy way of saying, “Show me how I financially justify this
+purchase. Will it save me money in the long run?” Much of the development
+work for this was done as part of the customer discovery process.
+Earlyvangelist champions will usually have to pitch the product to others in
+their company—often without startup spokespeople present—before
+someone agrees to sign the check. For consumers the issue is the same; just
+imagine kids trying to make the ROI issue for an iPad. “I won’t have to carry
+DVD’s in the car, and promise to read more books if you buy them for me.”
+      On the other hand, startups selling in business-to-consumer marketers
+focus the collateral on materials for the sales channel: shelf-talkers, retail
+packaging, coupons, and ad slicks. The collateral plan distinguishes
+objectives, targets for, and timing of each piece.
+      Test-drive all the collateral, because what’s written in the confines of an
+office often has little relevance in the field. A/B-test online “collateral” such
+as landing pages, checkout pages, and product feature/benefit statements as
+ambitiously as possible (more on this in the next section). Consumers and
+business buyers have no obligation to memorize the company’s jargon or
+understand “inside jokes.” Keep the collateral plan handy. Update and add to
+it along the way.
+        Example of a Business-to-Business, Direct-Sales Collateral Plan
+                                 (Table 8.2)
+
+     Online Tools for Physical Channel Marketers
+Even if the company’s principal channel strategy involves physical
+distribution customers still search for products online, you’ll need an array of
+basic online tools to generate awareness and trials and to provide product
+information on the web. These tools almost always include a website, some
+kind of viral marketing program to find customers, and digital forms of
+brochures or other selling materials. In addition, social networks have
+become huge sources of customers, even for the most mundane physical
+goods, and lots of new product ideas surface every day in Twitter streams.
+
+Even the most complicated “old world” products
+are promoted through websites and online
+marketing.
+      Even the most complicated “old world” products like construction
+equipment and materials are promoted through expansive websites and
+massive online marketing programs. As a result, marketers in the physical
+channel must explore and develop online customer-acquisition and marketing
+plans even if their pumps, bushings and gravel are sold only over the counter
+in a dingy warehouse. Warehouse or not, today’s buyer will often search for
+those products online.
+      Modern marketing is as much about “pulling” customers to a product as
+it is about “pushing” that service at them. For example, an e-mail in your
+inbox or a sales rep at your desk is there to push a product at you. Samples at
+a Costco display or search engines invite, or pull, you toward the product,
+encouraging you to explore it voluntarily because it’s aroused your interest.
+Strong marketing campaigns and tools should be blended to do a good job of
+both push and pull marketing.
+      Here are some guidelines to consider in preparing those materials.
+
+Websites
+At this stage, websites for companies using the physical channel should
+provide clear information on the company’s vision and the problem it was
+founded to solve. Your job in this step is to learn how much detailed product
+information can pull the customer in to facilitate a sale. At a minimum, the
+website’s job is to arouse interest in and spark consideration of the product or
+company and to drive interested prospects into the physical sales channel.
+(For low-dollar-item products, you can even have the website close the sale.)
+However, the website shouldn’t provide customers with reasons not to buy (it
+shouldn’t display details about price, installation requirements, etc). It should
+instead encourage interested prospects to interact with the company. Use the
+site to collect as much information as the prospect will provide. (Remember,
+response rates drop in direct proportion to the number of “required fields” in
+a sign-up form.)
+
+Social Marketing Tools
+Many companies that sell physical products exclusively in a physical channel
+use Facebook pages, Twitter streams, and other social marketing tools to
+spread the word and attract customers. They also use these online tools to
+invite customers and prospects to introduce products to their colleagues and
+friends. Making all this readily available and promoting it ambitiously is a
+relatively inexpensive way to accelerate the Get process. (Details about these
+tools are found in Chapter 3, and later in this chapter.)
+
+E-mail and e-mailable Marketing Tools
+E-mail messages are an important tool for communicating with prospects and
+customers online, since they can be targeted and often individualized based
+on what you know about them. When crafted carefully to provide useful
+information beyond a flat-out sales pitch, they can break through the cluttered
+inboxes of even the most cynical prospects. Create e-mail messages and
+campaigns that reflect what you know about the individual and design multi-
+e-mail campaigns for optimum impact. Create digital versions of brochures,
+white papers, and other sales materials to accompany the e-mails themselves.
+(Learn more about e-mail campaigns in the customer-relationships section of
+Chapter 3.)
+Note to reader: Although tailored to web/mobile startups, the following pages
+include tips and guidelines that physical startups will find useful.
+
+Get Ready to Sell: Acquire/Activate Customers
+Plan (Web/Mobile)
+      Remember that “Get” activity is very different in web/mobile: you must
+attract customers to your site, app, or product or they won’t even know you
+exist! Review this section, which, in brief, says: figure out where your
+customers go when they’re searching for a solution; be visible and inviting in
+as many of those places as possible; and “earn” their visit to your product
+with helpful, friendly information, not hard-boiled sales pitches.
+
+
+
+
+         “Get Customers” Tools for Web/Mobile Channels (Table 8.3)
+
+The “Acquire” Plan and Tools
+The Acquire plan is short, to-the-point, and tactical in nature. The plan helps
+you find tools that predictably deliver large numbers of “good” customers
+(who engage with or spend heavily on the site or app) into the widest point of
+the funnel (at the left) at the lowest cost per customer.
+
+
+
+
+      The “Get Customers” Funnel in Web/Mobile Channels (Figure 8.5)
+     WARNING: There is no possible way you can read, process and act on
+     this section in one read. There’s a lot here. Skim it first, then go back
+     and read each section. Then think about what action you need to take for
+     your startup.
+
+
+      The Acquire plan (see sample plan) should fit on a single page. It details
+the first set of Acquire activities to test and includes:
+
+     Who: Who’s responsible for driving the program; who will add support
+     or expertise
+     What: Describe the tactic and its parts (see below for a list of tools)
+     Budget: Estimate of spending for the first round of testing
+     Timing: Outline the steps needed to launch (our example in Figure 8.6
+     uses a four-week cycle)
+     Why: Specific, measurable acquisition goals of each plan element
+
+     The acquire plan and tactics will change repeatedly, since in customer
+validation they’re basically a series of experiments.
+
+The acquire plan and tactics will change
+repeatedly... they’re basically a series of
+experiments.
+     In a physical consumer channel like Walmart, marketers seldom know
+which consumers see, touch, or buy any particular product. But in the
+web/mobile channels, every aspect of consumer behavior can be
+instrumented, analyzed and, often as not, optimized to improve business
+performance. Be sure your product is instrumented to track every consumer
+action or inaction. Without building the instrumentation upfront, optimizing
+your acquisition activities is more challenging, if not downright impossible.
+
+A Sample Acquire Spreadsheet
+Shown in Figure 8.6 is a sample of part of an Acquire plan for a web startup
+with a small budget. The plan is built around a few key assumptions:
+   Who: Two staffers are needed, one full-time and one half-time
+   What: The tactics, chosen by the team, seem best-suited to maximizing
+   leads and sales (see next section for a list of tools)
+   Budget: The startup has about $25,000 to spend for this
+
+
+
+
+               A Sample Acquire Plan and Timetable (Figure 8.6)
+
+   Timing: The team is allowing itself four weeks to prepare all elements for
+   the launch of validation
+   Why: The goal is to get 30,000 to 35,000 customers to download a free
+   trial and to get 15 percent of them to convert to paying customers. This
+   would achieve a customer acquisition cost of about $5, as suggested in
+   this plan’s revenue model hypothesis
+   Multi-sided or not?: Does your product have both users and payers? If so,
+   a multi-sided market requires a separate plan for each “side” of its
+   market. Users will be acquired one way, while reaching and selling
+   advertisers will demand a totally different approach. (Our sample is a
+   single-sided market)
+
+Guidelines for Developing the Acquire Plan
+Determining whom to acquire (i.e., which customers,) what promotional
+tactics to use, and what to say and how to say it (the content and messaging)
+is made easy because you did most of the research and planning in customer
+discovery. Start this plan by referring back to three hypothesis documents
+you devised when you created and tested your original business model canvas
+hypotheses:
+
+     Customer segments: customers to be reached (which guides e-mail,
+     targeting of marketing activities, ads, and PR)
+     Customer relationships: how customers will be reached (SEO, PPC, e-
+     mail, PR, etc.)
+     Value proposition: what will excite customers and persuade them to
+     engage, visit or buy
+
+     Don’t be afraid to update or change the hypotheses based on the latest
+feedback or even instinct at this point, since they’re still just “best guesses”
+confirmed by only a few customers. Other guidelines to keep in mind:
+
+     Remember that this is a test to figure out which tools work and cost-
+     effectively when they’re launched during customer creation, the next
+     step. This is not a company or product launch. Your goal is learning, not
+     revenue, so don’t be afraid to test lots of alternatives
+   Define success upfront for each test, using a pass/fail metric (such as
+   “one in five people will click”), and monitor results
+   Be the greatest, friendliest, coolest thing going. Your job is to attract or
+   invite customers to your product, site, or app, so be interesting and
+   welcoming (and, if appropriate, even fun or funny) rather than not just
+   offering a hard, cold sale. Think like your customers, and be prominent
+   and visible where you think they’ll be searching for a solution like
+   yours. (Think about forums and online communities)
+
+Running tests without collecting data is a cardinal
+sin.
+
+   Instrument everything. Running tests without collecting data is a
+   cardinal sin. Engineering needs to spend the extra effort to collect all
+   customer behavior data so it can be measured and optimized
+   continuously. Confront this upfront, as it’s hard to “bolt on” later
+   Don’t start everything at once, since that will create chaos both in the
+   market and in the company. For example, start search engine
+   optimization and pay-per-click tests on Day Five, and add e-mail and
+   affiliate marketing programs two or three weeks later. The individual,
+   program-by-program results will be easier to identify and measure
+   Don’t spend more than $2,000 or, if well-funded, $10,000 to test any
+   one thing. The startup usually can’t afford it at this stage, and the risks
+   of guessing wrong are too great
+   When a test seems to be working, ramp it up to be sure it withstands the
+   test of scale. If a $2,000 e-mail marketing campaign is performing,
+   double it, refine it and do it again
+   Choose agency partners very carefully, if at all. The costs and
+   management time needed to hire a pr, ad, or web agency this early in
+   your startup make it a very risky proposition. Most often, agencies are
+   great at execution of programs but not at developing and testing
+   strategies. Rely on founders and staff where possible, as they know the
+   product and the business model best. Consider freelance talent
+    specialized in developing tests and strategies or those who specialize in
+    specific tasks (e.g., pay-per-click, demos and other specialized skills) if
+    they don’t exist within the company
+    Don’t launch the Acquire effort by itself. Activation programs must be
+    ready to “catch” the customers you’ve acquired, so if there’s copy
+    saying, “Sign up today and get a free box of chocolates,” for example,
+    the site’s back-end system has to be operating, the chocolates have to be
+    ready to ship, and copy for the thank-you e-mail must be ready to go. If
+    you’re taking customers’ money, all back-end systems need to be
+    working, including such elements as receipts, credit-card processing,
+    and customer service. Similarly, site and app instrumentation must be up
+    and running, tested and feeding the management dashboard so it can
+    measure the behavior of every customer who passes through the funnel.
+    Remember that acquisition by itself is one of several integrated pieces of
+    the “Get” strategy (there’s also activation, retention, and “grow
+    customers,” to name a few).
+
+     The acquisition plan is managed through close monitoring of every step
+customers take as they move through the sales or “get customers” funnel.
+That monitoring, generally in a dashboard, enables constant effort to improve
+performance or “throughput”—customers movement from one step to the
+next—at every step of the funnel, using tools detailed in the next section,
+“optimizing the acquire plan.”
+
+Acquire Plan Tools
+
+Acquisition tools you can buy
+     The list of customer acquisition tools you can buy and use is virtually
+endless, but their customer impact and effectiveness vary over time.
+Acquisition is a numbers game based on your ability to cost-effectively
+deliver large volumes of customers to your site or app. Basic tools include:
+
+    search-engine marketing
+    e-mail marketing
+     outreach to bloggers
+     affiliate marketing
+     online lead generation
+     customer incentives
+
+    Use the web (and www.steveblank.com) to identify the latest
+innovations and to select vendors. Most tools are discussed in detail in
+Customer Relationships.
+
+
+     WARNING: There is no possible way you can read, process and act on
+     this section in one read. There’s a lot here. Skim it first, then go back
+     and read each section. Then think about what action you need to take for
+     your startup.
+
+
+
+     In the activation step, users decide—all by themselves—whether to
+engage with or buy your product, and the decision is often made in a matter
+of seconds. So the home or landing page must work hard and fast to activate
+newly acquired “lookers,” converting them into buyers, users, or tryers.
+(Activation sometimes happens in an app store, via e-mail, through the
+channel, or by telephone.) If you can’t get people to activate at once, ideally
+you can get them to at least sign up so they can perhaps be persuaded to try,
+engage, or buy later.
+      The landing page is where activation most often begins. (Figure 8.7)
+
+     Wherever the customer arrives, he or she typically knows little if
+anything about where he or she has just landed. Here’s what you need to
+address to activate a customer, using an oversimplified example of what goes
+through the visitor’s mind on arrival:
+
+     Why am I here? They want me to buy this new online multiplayer game
+     What makes it special? Oh, here’s a feature list and reasons to buy
+     How do I know it’s any good? Here’s a demo, list of endorsements, user
+     quotes, etc.
+     Where do I get more information? I see buttons pointing to free trials,
+     more info, etc.
+     Next? What does the company want me to do? Oh, click here to try/
+     buy/sign up
+
+Guidelines for Developing the “Activate” Plan
+In the customer validation phase, the activation plan is really a test plan, A/B-
+testing every key aspect of the home/landing page, from color and copy to
+offers and navigation. It’s OK to start with approximations or guesses, but
+they should iterate rapidly based on measured customer responses.
+      Should a landing-page offer scream “free” or subtly ask for a credit
+card? Should the “buy now” button be elegant and on top or bright orange
+and huge in the lower right-hand corner? Does an animated product demo
+activate more users than a simple graphic? There are scores if not hundreds of
+variables on almost any home page, and many tests must be repeated more
+than once to confirm results. Outside information architects and design
+professionals can help. They understand the range of tools available as well
+as the latest tricks of the trade in this highly creative process.
+      The list of tools, tricks, and variables to try is nearly endless, and it’s
+hard to predict which ones will win. That’s why repeated testing and
+measurement are so important, following the “test, measure, tweak” approach
+discussed earlier.
+Here’s what an activation plan should include:
+
+     Two types of action steps: Activation happens both on and off the home
+     page, so create two separate lists of the “Get” customers activities you
+     plan to test (like offering a premium with every signup)
+     First/second test: This is customer discovery, where you’re running
+     small-scale tests of your activation programs. Each of those programs
+     needs to be tested at least twice, if not far more frequently, as you try to
+     find the program that’ll generate the most users or customers. Identify at
+     least the first two tests
+     Pass/fail test: Every test should have a “pass/fail,” or an expectation that
+     defines what “success” will look like if you have it. Based on
+     experience, trials, or research, identify the metric that’ll determine if the
+     experiment was a success
+
+An “Activate” Plan Example
+Most activation happens on the home or landing page, where you’re doing
+anything you can to get a user or customer you’ve acquired (he or she came
+to your page) and trying to engage them—get them to click, sign up, post a
+comment, play, or buy.
+
+The home page is “where the action is” for
+activation.
+
+      And while the home page is “where the action is” for activation, there
+are other things you can also do—like send follow-up e-mails, for example—
+to further engage someone who’s expressed more than a passing interest.
+      Table 8.4 is a simplified example of what an activation plan might look
+like for a social network where new golfers can offer and solicit improvement
+tips. In this example, since the business is in a multi-sided market, activation
+goals include such non-monetary actions as registration, inviting friends,
+asking a question or answering one.
+       Sample Activation Plan for a Golfers’ Social Network (Table 8.4)
+
+Tools for the Activate plan
+Activation happens both on and off the home page. Key tools to consider for
+each are in the bullet points that follow.
+
+On the home or landing page
+
+The landing page itself offers lots of ways to drive activations, including
+content, look and feel, and navigation. It can also showcase these activation
+tools:
+
+    product demos
+    free trials
+    customer contact tools
+    animation
+Non-home page acquisition tools
+
+While the home page is the primary activation tool, consider these others too:
+
+     e-mail cascades
+     price/incentives
+     traditional tools
+
+On the home or landing page itself:
+Start with Content, Look and Feel, Functionality
+and Navigation
+Good landing pages bear little resemblance to online brochures. They’re
+invitations to “activate now,” working hard to invite customers to engage or
+interact with—or buy—the product. This must happen literally at once, often
+in seconds. Otherwise the customer (and the money spent to acquire him or
+her in the previous step) vanishes with the click of a mouse. Develop the
+home/landing page along four axes:
+
+ 1. Content: Does the site present everything for a customer needs to make
+    the “activation” decision simply, in multiple places (for example, does
+    every page say “join now”)? Is it friendly, informative, and inviting?
+ 2. Look and feel: Does the appearance relate to the audience (“corporate”
+    for business apps, “serious” for financial sites, “edgy” for teen or
+    skateboarding products)? Does it match the typical style of the
+    demographic or their country?
+ 3. Functionality: What tools, widgets, configurators, demos or other
+    devices can quickly engage customers, get them experimenting with and
+    experiencing the product itself, and figuring out what it costs, how much
+    time it would save, or how the game plays?
+ 4. Navigation/structure: How is information organized? How accessible is
+    it? How easy is it for users to complete high-value tasks (ordering,
+    searching, etc.)?
+Here’s how to approach each area.
+Home/Landing Page Content:
+    •    Tell me how I got here! Users arrive at the home/landing page in a
+        variety of ways (clicks, e-mails, referrals), but don’t assume they
+        know where they’ve landed. Welcome them; explain the site
+        (“Welcome to the No. 1 online gaming portal.”) to avoid fast
+        abandonment
+   • Reinforce the “scent” of the e-mail, ad, or tool that drove the customer
+      to the page. Use similar verbiage (and look and feel) to increase
+      confidence that the viewer has come to the right place
+    •    Issue a clear call to action. The “pitch,” or call to action, tells the
+        customer what you want him or her to do. It should reflect positioning
+        developed in Stage 1 of validation, whether it’s “buy now,” “sign up,”
+        or “attend a seminar.” Use redundant calls to action wherever you
+        can, but be sure they’re not confusing. Clearly tell visitors what to do
+        and why doing so delivers value to them. The landing page should
+        always accomplish the following:
+          Explain what problem the product solves and why it’s important to
+           users and worthy of their attention
+          Communicate ease of use and installation for the product
+          Clearly explain how the product works
+           Provide fast proof that it works (user quotes, competitive analysis,
+           demos, etc.)
+
+     Calls to action appear three ways on a home/landing page: hyperlinks,
+buttons, and forms. They should stand out and be obvious to every visitor.
+Highlight product features that make the most powerful pitch for activation or
+purchase, and always provide easy access to more information about all the
+above.
+
+Some guidelines for home or landing page content development:
+
+     Encourage me to “experience the offer:” Never think of the landing
+     page as a brochure. It’s effective only if it encourages customer
+    engagement, trial, or purchase. All content should invite involvement,
+    and offers should be judiciously sprinkled throughout headlines,
+    graphics and text, including “try now” textlinks embedded at least
+    occasionally in body copy
+    Offer multiple calls to action ranging from “buy now” and “learn more”
+    to “download our white paper” and “talk to someone.” Remember to
+    make one of these far more prominent than all the others—the action
+    most desired by the company
+    Write short! Web visitors are very fragile, temporary guests. Respect
+    their short attention spans and get to the point before they depart. The
+    best calls to action are generally written in 10 or fewer words and
+    displayed in an easily readable font
+    Be specific. One of the most powerful page elements should be the core
+    product-positioning statement developed in Step 1 of customer
+    validation. Succinctly tell users why they should buy or use what the
+    company’s selling
+    Use bold graphics such as snipes or bursts on the landing page to
+    promote a mobile site.
+    Deploy contests, promos and sweepstakes to encourage mobile
+    downloads. These are highly valuable in the online space—both for

@@ -1,0 +1,1463 @@
+{
+  "source_file": "books/export/entrepreneurship_chunk_al.md",
+  "keywords": [
+    {
+      "term": "the",
+      "frequency": 46,
+      "relevance": 0.0482,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 187,
+      "related_keywords": []
+    },
+    {
+      "term": "and",
+      "frequency": 24,
+      "relevance": 0.0251,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 22,
+      "related_keywords": []
+    },
+    {
+      "term": "industry",
+      "frequency": 15,
+      "relevance": 0.0157,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
+    {
+      "term": "competitive",
+      "frequency": 14,
+      "relevance": 0.0147,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1390,
+      "related_keywords": []
+    },
+    {
+      "term": "competitors",
+      "frequency": 13,
+      "relevance": 0.0136,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1685,
+      "related_keywords": []
+    },
+    {
+      "term": "market",
+      "frequency": 11,
+      "relevance": 0.0115,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 430,
+      "related_keywords": []
+    },
+    {
+      "term": "analysis",
+      "frequency": 10,
+      "relevance": 0.0105,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 37,
+      "related_keywords": []
+    },
+    {
+      "term": "for",
+      "frequency": 10,
+      "relevance": 0.0105,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1518,
+      "related_keywords": []
+    },
+    {
+      "term": "include",
+      "frequency": 10,
+      "relevance": 0.0105,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1726,
+      "related_keywords": []
+    },
+    {
+      "term": "opportunities",
+      "frequency": 10,
+      "relevance": 0.0105,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3711,
+      "related_keywords": []
+    },
+    {
+      "term": "competitor",
+      "frequency": 9,
+      "relevance": 0.0094,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 26,
+      "related_keywords": []
+    },
+    {
+      "term": "brand",
+      "frequency": 9,
+      "relevance": 0.0094,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 150,
+      "related_keywords": []
+    },
+    {
+      "term": "power",
+      "frequency": 9,
+      "relevance": 0.0094,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1926,
+      "related_keywords": []
+    },
+    {
+      "term": "its",
+      "frequency": 8,
+      "relevance": 0.0084,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 161,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 8,
+      "relevance": 0.0084,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2074,
+      "related_keywords": []
+    },
+    {
+      "term": "industries",
+      "frequency": 8,
+      "relevance": 0.0084,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 4324,
+      "related_keywords": []
+    },
+    {
+      "term": "factors",
+      "frequency": 7,
+      "relevance": 0.0073,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 491,
+      "related_keywords": []
+    },
+    {
+      "term": "that",
+      "frequency": 7,
+      "relevance": 0.0073,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1119,
+      "related_keywords": []
+    },
+    {
+      "term": "forces",
+      "frequency": 7,
+      "relevance": 0.0073,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1462,
+      "related_keywords": []
+    },
+    {
+      "term": "burberry",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 114,
+      "related_keywords": []
+    },
+    {
+      "term": "how",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 124,
+      "related_keywords": []
+    },
+    {
+      "term": "this",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 209,
+      "related_keywords": []
+    },
+    {
+      "term": "new",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1080,
+      "related_keywords": []
+    },
+    {
+      "term": "five",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1445,
+      "related_keywords": []
+    },
+    {
+      "term": "model",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1469,
+      "related_keywords": []
+    },
+    {
+      "term": "buyers",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2172,
+      "related_keywords": []
+    },
+    {
+      "term": "can",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2444,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2465,
+      "related_keywords": []
+    },
+    {
+      "term": "entrepreneurs",
+      "frequency": 6,
+      "relevance": 0.0063,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3559,
+      "related_keywords": []
+    },
+    {
+      "term": "understanding",
+      "frequency": 5,
+      "relevance": 0.0052,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 373,
+      "related_keywords": []
+    },
+    {
+      "term": "force",
+      "frequency": 5,
+      "relevance": 0.0052,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1634,
+      "related_keywords": []
+    },
+    {
+      "term": "bargaining",
+      "frequency": 5,
+      "relevance": 0.0052,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1915,
+      "related_keywords": []
+    },
+    {
+      "term": "position",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 175,
+      "related_keywords": []
+    },
+    {
+      "term": "examines",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 222,
+      "related_keywords": []
+    },
+    {
+      "term": "with",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 793,
+      "related_keywords": []
+    },
+    {
+      "term": "expansion",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1300,
+      "related_keywords": []
+    },
+    {
+      "term": "have",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1985,
+      "related_keywords": []
+    },
+    {
+      "term": "costs",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2095,
+      "related_keywords": []
+    },
+    {
+      "term": "price",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2321,
+      "related_keywords": []
+    },
+    {
+      "term": "success",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3011,
+      "related_keywords": []
+    },
+    {
+      "term": "their",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3309,
+      "related_keywords": []
+    },
+    {
+      "term": "helps",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3631,
+      "related_keywords": []
+    },
+    {
+      "term": "exchange",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5834,
+      "related_keywords": []
+    },
+    {
+      "term": "grid",
+      "frequency": 4,
+      "relevance": 0.0042,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 7113,
+      "related_keywords": []
+    },
+    {
+      "term": "continued",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 47,
+      "related_keywords": []
+    },
+    {
+      "term": "traditional",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 130,
+      "related_keywords": []
+    },
+    {
+      "term": "luxury",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 267,
+      "related_keywords": []
+    },
+    {
+      "term": "was",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 469,
+      "related_keywords": []
+    },
+    {
+      "term": "product",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 543,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 650,
+      "related_keywords": []
+    },
+    {
+      "term": "preferences",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 959,
+      "related_keywords": []
+    },
+    {
+      "term": "entrants",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1084,
+      "related_keywords": []
+    },
+    {
+      "term": "resources",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1896,
+      "related_keywords": []
+    },
+    {
+      "term": "suppliers",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1935,
+      "related_keywords": []
+    },
+    {
+      "term": "number",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2029,
+      "related_keywords": []
+    },
+    {
+      "term": "switching",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2085,
+      "related_keywords": []
+    },
+    {
+      "term": "buyer",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2281,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2347,
+      "related_keywords": []
+    },
+    {
+      "term": "substitute",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2378,
+      "related_keywords": []
+    },
+    {
+      "term": "same",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2460,
+      "related_keywords": []
+    },
+    {
+      "term": "existing",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2649,
+      "related_keywords": []
+    },
+    {
+      "term": "differentiation",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2838,
+      "related_keywords": []
+    },
+    {
+      "term": "sony",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 2958,
+      "related_keywords": []
+    },
+    {
+      "term": "early",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3005,
+      "related_keywords": []
+    },
+    {
+      "term": "different",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3080,
+      "related_keywords": []
+    },
+    {
+      "term": "strategic",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3602,
+      "related_keywords": []
+    },
+    {
+      "term": "identify",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 3692,
+      "related_keywords": []
+    },
+    {
+      "term": "identifying",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5230,
+      "related_keywords": []
+    },
+    {
+      "term": "direct",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5422,
+      "related_keywords": []
+    },
+    {
+      "term": "companies",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5441,
+      "related_keywords": []
+    },
+    {
+      "term": "offering",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5451,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5480,
+      "related_keywords": []
+    },
+    {
+      "term": "barista",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5826,
+      "related_keywords": []
+    },
+    {
+      "term": "independent",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5873,
+      "related_keywords": []
+    },
+    {
+      "term": "owners",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 5897,
+      "related_keywords": []
+    },
+    {
+      "term": "against",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 6006,
+      "related_keywords": []
+    },
+    {
+      "term": "reports",
+      "frequency": 3,
+      "relevance": 0.0031,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 6581,
+      "related_keywords": []
+    },
+    {
+      "term": "british",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 142,
+      "related_keywords": []
+    },
+    {
+      "term": "lost",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 156,
+      "related_keywords": []
+    },
+    {
+      "term": "favorable",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 165,
+      "related_keywords": []
+    },
+    {
+      "term": "fashion",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 191,
+      "related_keywords": []
+    },
+    {
+      "term": "case",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 338,
+      "related_keywords": []
+    },
+    {
+      "term": "importance",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 359,
+      "related_keywords": []
+    },
+    {
+      "term": "dynamics",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 396,
+      "related_keywords": []
+    },
+    {
+      "term": "adapting",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 409,
+      "related_keywords": []
+    },
+    {
+      "term": "changing",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 421,
+      "related_keywords": []
+    },
+    {
+      "term": "several",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 483,
+      "related_keywords": []
+    },
+    {
+      "term": "which",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 594,
+      "related_keywords": []
+    },
+    {
+      "term": "consumers",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 879,
+      "related_keywords": []
+    },
+    {
+      "term": "adapt",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 907,
+      "related_keywords": []
+    },
+    {
+      "term": "consumer",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 950,
+      "related_keywords": []
+    },
+    {
+      "term": "maintaining",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 990,
+      "related_keywords": []
+    },
+    {
+      "term": "competition",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1063,
+      "related_keywords": []
+    },
+    {
+      "term": "from",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1075,
+      "related_keywords": []
+    },
+    {
+      "term": "value",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1430,
+      "related_keywords": []
+    },
+    {
+      "term": "analyzing",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1522,
+      "related_keywords": []
+    },
+    {
+      "term": "are",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1592,
+      "related_keywords": []
+    },
+    {
+      "term": "threat",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1606,
+      "related_keywords": []
+    },
+    {
+      "term": "entry",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1737,
+      "related_keywords": []
+    },
+    {
+      "term": "barriers",
+      "frequency": 2,
+      "relevance": 0.0021,
+      "category": "general_term",
+      "tags": [
+        "auto_extraction",
+        "usa_business"
+      ],
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "position_in_text": 1743,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "books/export/entrepreneurship_chunk_al.md",
+    "entities": [
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/entrepreneurship_chunk_al.md",
+          "position": 650
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_al.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/entrepreneurship_chunk_al.md",
+          "position": 3110
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_al.md",
+        "relationships": {}
+      },
+      {
+        "name": "company",
+        "description": "Entity mentioned in document: Company",
+        "attributes": {
+          "type": "business_entity",
+          "extracted_from": "books/export/entrepreneurship_chunk_al.md",
+          "position": 6553
+        },
+        "tags": [
+          "business_entity",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_al.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "capital",
+        "description": "Component mentioned in document: capital",
+        "properties": {
+          "type": "business_component",
+          "extracted_from": "books/export/entrepreneurship_chunk_al.md",
+          "position": 1753
+        },
+        "data_schema": {},
+        "tags": [
+          "business_component",
+          "usa_context"
+        ],
+        "source_file": "books/export/entrepreneurship_chunk_al.md"
+      }
+    ],
+    "systems": [],
+    "extraction_date": "2026-02-16T15:04:04.692004"
+  },
+  "constraints": [
+    {
+      "id": "constraint_974cdcf3_0",
+      "title": "Have to requirement from entrepreneurship_chunk_al.md",
+      "description": "Suppliers\nThis force analyzes the power suppliers have to drive up prices. Factors include:\n- Number of suppliers\n- Uniqueness of supplier products\n- Switchi",
+      "constraint_type": "requirement",
+      "condition": "text_contains('have to')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'have to' not met"
+    },
+    {
+      "id": "constraint_974cdcf3_1",
+      "title": "Have to requirement from entrepreneurship_chunk_al.md",
+      "description": "er of Buyers\nThis force examines the power buyers have to drive down prices. Factors include:\n- Number of buyers\n- Buyer concentration\n- Switching costs\n- Pr",
+      "constraint_type": "requirement",
+      "condition": "text_contains('have to')",
+      "scope": "usa_business_compliance",
+      "severity": "info",
+      "source_file": "books/export/entrepreneurship_chunk_al.md",
+      "tags": [
+        "auto_extracted",
+        "usa_business"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_requirement_requirement()",
+      "error_message": "Requirement 'have to' not met"
+    }
+  ],
+  "metadata": {
+    "source_file": "books/export/entrepreneurship_chunk_al.md",
+    "title": "USA Business Info: entrepreneurship_chunk_al.md",
+    "description": "USA business information from entrepreneurship_chunk_al.md",
+    "tags": [
+      "usa_business",
+      "information",
+      "documentation"
+    ],
+    "categories": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-16T15:04:04.780160",
+    "last_modified": "2026-02-16T15:04:04.780181",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "book_chapter",
+    "business_domains": [
+      "business_formation",
+      "taxation",
+      "compliance"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 4,
+    "word_count": 955,
+    "language": "en",
+    "keywords": [
+      "the",
+      "and",
+      "industry",
+      "competitive",
+      "competitors",
+      "market",
+      "analysis",
+      "for",
+      "include",
+      "opportunities"
+    ],
+    "related_entities": [],
+    "related_components": [],
+    "related_systems": [],
+    "related_constraints": [],
+    "custom_fields": {
+      "document_type": "book_chapter",
+      "processing_status": "completed",
+      "original_file_name": "entrepreneurship_chunk_al.md"
+    }
+  },
+  "processing_timestamp": "2026-02-16T15:04:04.780314"
+}

@@ -1,0 +1,1000 @@
+Technology Ventures
+From Idea to Enterprise
+
+
+
+
+               Thomas H. Byers
+               Stanford University
+
+
+               Richard C. Dorf
+               University of California, Davis
+
+
+               Andrew J. Nelson
+               University of Oregon
+TECHNOLOGY VENTURES: FROM IDEA TO ENTERPRISE, FOURTH EDITION
+Published by McGraw-Hill Education, 2 Penn Plaza, New York, NY 10121. Copyright © 2015 by McGraw-Hill
+Education. All rights reserved. Printed in the United States of America. Previous editions © 2011, 2008, and
+2005. No part of this publication may be reproduced or distributed in any form or by any means, or stored in a
+database or retrieval system, without the prior written consent of McGraw-Hill Education, including, but not
+limited to, in any network or other electronic storage or transmission, or broadcast for distance learning.
+Some ancillaries, including electronic and print components, may not be available to customers outside the
+United States.
+This book is printed on acid-free paper.
+1 2 3 4 5 6 7 8 9 0 DOC/DOC 1 0 9 8 7 6 5 4
+ISBN 978–0–07–352342–2
+MHID 0–07–352342–9
+Senior Vice President, Products & Markets: Kurt L. Strand
+Vice President, General Manager, Products & Markets: Marty Lange
+Vice President, Content Production & Technology Services: Kimberly Meriwether David
+Managing Director: Thomas Timp
+Brand Manager: Raghothaman Srinivasan
+Editorial Coordinator: Samantha Donisi-Hamm
+Marketing Manager: Heather Wagner
+Director, Content Production: Terri Schiesl
+Content Project Manager: Melissa M. Leick
+Buyer: Susan K. Culbertson
+Media Project Manager: Sandy Schnee
+Cover Image Steel structure: Getty Images; Binary Code: Glow Images; Test Tubes: Comstock Images/Jupi-
+terimages; Android Tablet: McGraw-Hill Education, Mark Dierker, photographer.
+Compositor: Laserwords Private Limited
+Typeface: 10.5/12 Times New Roman
+Printer: R.R. Donnelley
+All credits appearing on page or at the end of the book are considered to be an extension of the copyright page.
+
+                            Library of Congress Cataloging-in-Publication Data
+
+Dorf, Richard C.
+  Technology ventures : from idea to enterprise / Thomas H. Byers, Stanford University, Richard C. Dorf,
+University of California, Davis, Andrew J. Nelson, University of Oregon.—Fourth edition. pages cm
+  Dorf’s name appears first on the earlier editions.
+  ISBN-13: 978-0-07-352342-2 (alk. paper)
+  ISBN-10: 0-07-352342-9 (alk. paper)
+ 1. Information technology. 2. Entrepreneurship. 3. New business enterprises. I. Byers, Thomas (Thomas H.) II.
+Nelson, Andrew J. III. Title.
+  HC79.I55D674 2014
+  658.1’1—dc23
+                                                                                                  2013033982
+
+
+
+www.mhhe.com
+                                                       DEDICATION
+
+
+
+                              For our wonderful families.
+  We warmly recognize their love and commitment to this
+       publication that will help others create important
+                        enterprises for the benefit of all.
+THOMAS H. BYERS, RICHARD C. DORF, ANDREW J. NELSON
+ABOUT THE AUTHORS
+
+
+
+        Thomas H. Byers is professor of management science and engineering at
+        Stanford University and the founding faculty director of the Stanford Technology
+        Ventures Program, which is dedicated to accelerating technology entrepreneur-
+        ship education around the globe. He is the first person to hold the Entrepreneur-
+        ship Professorship endowed chair in the School of Engineering at Stanford. He
+        also is a Bass University Fellow in Undergraduate Education. He is a principal
+        investigator and the director of the NSF’s Engineering Pathways to Innovation
+        Center (Epicenter), which seeks to spread entrepreneurship and innovation edu-
+        cation across all undergraduate schools. After receiving his B.S., MBA, and Ph.D.
+        from the University of California, Berkeley, Dr. Byers held leadership positions
+        in technology ventures including Symantec Corporation. His teaching awards
+        include Stanford University’s highest honor (Gores Award) and the Gordon Prize
+        from the National Academy of Engineering.
+
+
+        Richard C. Dorf is professor of electrical and computer engineering and pro-
+        fessor of management at the University of California, Davis. He is a Fellow of
+        the American Society for Engineering Education (ASEE) in recognition of his
+        outstanding contributions to the society, as well as a Fellow of the Institute of
+        Electrical and Electronic Engineering (IEEE). The best-selling author of Intro-
+        duction to Electric Circuits (9th ed.), Modern Control Systems (12th ed.), Hand-
+        book of Electrical Engineering (4th ed.), Handbook of Engineering (2nd ed.), and
+        Handbook of Technology Management, Dr. Dorf is cofounder of seven technol-
+        ogy firms.
+
+
+
+
+        Andrew J. Nelson       is assistant professor of management and Bramsen Fac-
+        ulty Fellow in innovation, entrepreneurship, and sustainability at the University
+        of Oregon’s Lundquist College of Business. Dr. Nelson holds a Ph.D. and a dual
+        B.A. from Stanford University, and an M.Sc. from Oxford University. He has
+        received numerous academic awards, including recognition from the Kauffman
+        Foundation, INFORMS, the NCIIA, and the Industry Studies Association. At
+        the University of Oregon, he is the four-time recipient of the James E. Reinmuth
+        MBA Teaching Excellence Award as well as the Business Advisory Council
+        Undergraduate Teaching Award.
+
+
+
+iv
+                                                                BRIEF CONTENTS
+
+
+
+       Foreword,   xi
+
+       Preface, xiii
+
+
+
+
+PART   I      VENTURE OPPORTUNITY AND STRATEGY
+
+   1 The Role and Promise of Entrepreneurship               3
+   2 Opportunities      25
+   3 Vision and the Business Model             51
+   4 Competitive Strategy          67
+   5 Innovation Strategies         99
+
+
+
+PART   II
+        CONCEPT DEVELOPMENT AND VENTURE
+FORMATION
+
+   6 The Business Story and Plan          121
+   7 Risk and Return         139
+   8 Creativity and Product Development               163
+   9 Marketing and Sales           183
+  10 Types of Ventures        213
+
+
+
+PART    III
+         INTELLECTUAL PROPERTY,
+ORGANIZATIONS, AND OPERATIONS
+
+  11 Intellectual Property         243
+  12 The New Enterprise Organization                257
+  13 Acquiring and Organizing Resources               289
+  14 Management of Operations            307
+  15 Acquisitions and Global Expansion               329
+
+                                                                             v
+vi   Brief Contents
+
+
+
+     PART
+     ENTERPRISE
+                IV
+                FINANCING AND LEADING THE
+
+
+          16 Profit and Harvest      349
+          17 The Financial Plan      371
+          18 Sources of Capital      395
+          19 Deal Presentations and Negotiations   439
+          20 Leading Ventures to Success   451
+
+               References,     473
+
+               Appendices,     493
+
+               Glossary,     581
+
+               Index,   590
+                                                                     CONTENTS
+
+
+
+        Foreword,   xi                     Chapter 3
+        Preface, xiii                      Vision and the Business Model         51
+                                           3.1   The Vision 52
+                                           3.2   The Mission Statement 54
+                                           3.3   The Value Proposition 55
+
+PART    I
+       VENTURE OPPORTUNITY
+AND STRATEGY  1
+                                           3.4
+                                           3.5
+                                                 The Business Model 59
+                                                 Business Model Innovation in
+                                                 Challenging Markets 63
+                                           3.6   Spotlight on Stratasys 65
+Chapter 1                                  3.7   Summary 65
+The Role and Promise
+of Entrepreneurship 3
+                                           Chapter 4
+1.1   Entrepreneurship in Context 4        Competitive Strategy 67
+1.2   Economics and the Firm 7
+                                           4.1  Venture Strategy 68
+1.3   Creative Destruction 12
+                                           4.2  Core Competencies 71
+1.4   Innovation and Technology 14
+                                           4.3  The Industry and Context for a Firm 72
+1.5   The Technology Entrepreneur 16
+                                           4.4  SWOT Analysis 76
+1.6   Spotlight on Facebook 21
+                                           4.5  Barriers to Entry 77
+1.7   Summary 21
+                                           4.6  Achieving a Sustainable Competitive
+                                                Advantage 79
+Chapter 2                                  4.7 Alliances 84
+Opportunities 25                           4.8 Matching Tactics to Markets 88
+                                           4.9 The Socially Responsible Firm 91
+2.1   Types of Opportunities 26
+                                           4.10 Spotlight on Google 95
+2.2   Market Engagement and Design
+                                           4.11 Summary 95
+      Thinking 31
+2.3   Types and Sources of Innovation 35
+2.4   Trends and Convergence 38            Chapter 5
+2.5   Opportunity Evaluation 40            Innovation Strategies    99
+2.6   Spotlight on Solazyme 46             5.1   First Movers versus Followers    100
+2.7   Summary 47                           5.2   Imitation 106
+
+
+
+
+                                                                                         vii
+viii                   Contents
+
+
+5.3    Technology and Innovation              8.3   Product Prototypes 174
+       Strategy 107                           8.4   Scenarios 177
+5.4    New Technology Ventures 111            8.5   Spotlight on Teva Pharmaceuticals   178
+5.5    Spotlight on AgraQuest 115             8.6   Summary 180
+5.6    Summary 115
+                                              Chapter 9
+                                              Marketing and Sales     183
+                                              9.1  Marketing 184
+PART      II
+       CONCEPT
+DEVELOPMENT AND VENTURE
+                                              9.2  Marketing Objectives and Customer
+                                                   Target Segments 185
+FORMATION  119                                9.3 Product and Offering Description 187
+                                              9.4 Brand Equity 189
+                                              9.5 Marketing Mix 190
+Chapter 6
+                                              9.6 Social Media and Marketing
+The Business Story and Plan 121
+                                                   Analytics 195
+6.1    Creating a New Business 122            9.7 Customer Relationship Management 197
+6.2    The Concept Summary and Story 123      9.8 Diffusion of Technology and
+6.3    The Business Plan 127                       Innovations 200
+6.4    The Elevator Pitch 131                 9.9 Crossing the Chasm 202
+6.5    An Annotated Table of Contents 132     9.10 Personal Selling and the Sales
+6.6    Spotlight on Amazon 135                     Force 206
+6.7    Summary 136                            9.11 Spotlight on DirecTV 208
+                                              9.12 Summary 209
+Chapter 7
+Risk and Return 139                           Chapter 10
+                                              Types of Ventures     213
+7.1    Risk and Uncertainty 140
+7.2    Scale and Scope 148                    10.1 Legal Form of the Firm 214
+7.3    Network Effects and Increasing         10.2 Independent versus Corporate
+       Returns 152                                 Ventures 217
+7.4    Risk versus Return 157                 10.3 Nonprofit and Social
+7.5    Managing Risk 157                           Ventures 219
+7.6    Spotlight on Dropbox 159               10.4 Corporate New Ventures 222
+7.7    Summary 159                            10.5 The Innovator’s Dilemma 227
+                                              10.6 Incentives for Corporate
+                                                   Entrepreneurs 229
+Chapter 8                                     10.7 Building and Managing Corporate
+Creativity and Product Development 163             Ventures 230
+8.1    Creativity and Invention 164           10.8 Spotlight on Twitter 237
+8.2    Product Design and Development   169   10.9 Summary 237
+                                                                 Contents                    ix
+
+
+
+
+PART     III
+         INTELLECTUAL
+PROPERTY, ORGANIZATIONS,
+                                              13.3
+                                              13.4
+                                                     Location and Cluster Dynamics 294
+                                                     Vertical Integration and Outsourcing 297
+                                              13.5   Innovation and Virtual
+AND OPERATIONS  241                                  Organizations 300
+                                              13.6   Acquiring Technology
+Chapter 11                                           and Knowledge 301
+Intellectual Property 243                     13.7   Spotlight on Netflix 303
+11.1   Protecting Intellectual Property 244   13.8   Summary 304
+11.2   Trade Secrets 245
+11.3   Patents 246                            Chapter 14
+11.4   Trademarks and Naming                  Management of Operations 307
+       the Venture 249                        14.1   The Value Chain 308
+11.5   Copyrights 251                         14.2   Processes and Operations
+11.6   Licensing and University Technology           Management 311
+       Transfer 251                           14.3   The Value Web 316
+11.7   Spotlight on Apple 253                 14.4   The Internet and Operations 320
+11.8   Summary 253                            14.5   Strategic Control and Operations 322
+                                              14.6   Spotlight on Clean Harbors 325
+Chapter 12                                    14.7   Summary 325
+The New Enterprise Organization 257
+12.1  The New Venture Team 258                Chapter 15
+12.2  Organizational Design 262               Acquisitions and Global Expansion        329
+12.3  Leadership 265                          15.1   Acquisitions and the Quest for Synergy 330
+12.4  Management 269                          15.2   Acquisitions as a Growth Strategy 332
+12.5  Recruiting and Retention 271            15.3   Global Business 336
+12.6  Organizational Culture and Social       15.4   Spotlight on Alibaba 343
+      Capital 274                             15.5   Summary 343
+12.7 Managing Knowledge Assets 279
+12.8 Learning Organizations 281
+12.9 Spotlight on Intuit 286
+12.10 Summary 286                             PART     IV
+                                                       FINANCING AND
+                                              LEADING THE ENTERPRISE                     347
+Chapter 13
+Acquiring and Organizing Resources 289        Chapter 16
+13.1   Acquiring Resources                    Profit and Harvest     349
+       and Capabilities 290                   16.1   The Revenue Model 350
+13.2   Influence and Persuasion   292         16.2   The Cost Model 351
+x                    Contents
+
+
+16.3   The Profit Model 352                Chapter 19
+16.4   Managing Revenue                    Deal Presentations and Negotiations        439
+       Growth 356
+                                           19.1    The Presentation 440
+16.5   The Harvest Plan 363
+                                           19.2    Critical Issues 442
+16.6   Exit and Failure 366
+                                           19.3    Negotiations and Relationships   444
+16.7   Spotlight on Baidu 367
+                                           19.4    Term Sheets 446
+16.8   Summary 368
+                                           19.5    Spotlight on LinkedIn 447
+                                           19.6    Summary 447
+Chapter 17
+The Financial Plan 371
+                                           Chapter 20
+17.1  Building a Financial Plan 372        Leading Ventures to Success       451
+17.2  Sales Projections 374
+                                           20.1 Execution 452
+17.3  Costs Forecast 375
+                                           20.2 Stages of an Enterprise 455
+17.4  Income Statement 375
+                                           20.3 The Adaptive Enterprise 462
+17.5  Cash Flow Statement 375
+                                           20.4 Ethics 466
+17.6  Balance Sheet 378
+                                           20.5 Spotlight on Intuitive Surgical     469
+17.7  Results for a Pessimistic
+      Growth Rate 381                      20.6 Summary 470
+17.8 Breakeven Analysis 384                References 473
+17.9 Measures of Profitability 389
+17.10 Spotlight on SolarCity 390
+                                           Appendices
+                                           A. Sample Business Plan 493
+17.11 Summary 391
+                                              Calcula Technologies 494
+                                           B. Cases
+Chapter 18                                      Method: Entrepreneurial Innovation,
+Sources of Capital   395                        Health, Environment, and Sustainable
+18.1  Financing the New Venture 396             Business Design 498
+18.2  Venture Investments as Real               Method Products: Sustainability
+      Options 398                               Innovation As Entrepreneurial
+                                                Strategy 505
+18.3 Sources and Types of Capital 401
+                                                Biodiesel Incorporated 518
+18.4 Bootstrapping and Crowdsourcing 404
+                                                Yahoo! 522
+18.5 Debt Financing and Grants 407
+                                                Barbara’s Options 538
+18.6 Angels 408
+                                                Artemis Images 542
+18.7 Venture Capital 410
+                                                Sirtris Pharmaceuticals: Living Healthier,
+18.8 Corporate Venture Capital 415
+                                                Longer (Abridged) 563
+18.9 Valuation 417
+                                                Cooliris: Building An A+ Team 575
+18.10 Initial Public Offering 421
+18.11 Spotlight on Tesla 435               Glossary     581
+18.12 Summary 435                          Index     590
+                                                                                 FOREWORD
+
+
+           by John L. Hennessy, President of Stanford University
+
+I am delighted to introduce this book on technology entrepreneurship by Profes-
+sors Byers, Dorf, and Nelson. Technology and similar high-growth enterprises
+play a key role in the development of the global economy and offer many young
+entrepreneurs a chance to realize their dreams.
+     Unfortunately, there have been few complete and analytical books on tech-
+nology entrepreneurship. Professors Byers, Dorf, and Nelson bring years of
+experience in teaching and direct background as entrepreneurs to this book,
+and it shows. Their connections and involvement with start-ups—ranging from
+established companies like Facebook and Genentech to new ventures delivering
+their first products—add real-world insights and relevance.
+     One of the most impressive aspects of this book is its broad coverage of the
+challenges involved in technology entrepreneurship. Part I talks about the core
+issues around deciding to pursue an entrepreneurial vision and the characteris-
+tics vital to success. Key topics include building and maintaining a competitive
+advantage and market timing. As recent history has shown, it is easy to lose
+sight of these principles. Although market trends in technology are ever shifting,
+entrepreneurs are rewarded when they maintain a consistent focus on having a
+sustainable advantage, creating a significant barrier to entry, and leading when
+both the market and the technology are ready. The material in these chapters will
+help entrepreneurs and investors respond in an informed and thoughtful manner.
+     Part II examines the major strategic decisions with which every entrepreneur
+grapples: how to balance risk and return, what entrepreneurial structure to pur-
+sue, and how to develop innovative products and services for the right users and
+customers. It is not uncommon for start-ups led by a technologist to question the
+role of sales and marketing. Sometimes, you hear a remark like: “We have great
+technology and that will bring us customers; nothing else matters!” But without
+sales, there is no revenue, and without marketing, sales will be diminished. It is
+important to understand these vital aspects of any successful business. These are
+challenges faced by every company, and the leadership in any organization must
+regularly examine them.
+     Part III discusses operational and organizational issues as well as the vital
+topic in technology-intensive enterprises of intellectual property. Similar mat-
+ters of building the organization, thinking about acquisitions, and managing
+operations are also critical. If you fail to address them, it will not matter how
+good your technology is.
+     Finally, Part IV talks about putting together a solid financial plan for the
+enterprise including exit and funding strategies. Such topics are crucial, and they
+are often the dominant topics of “how-to” books on entrepreneurship. While the
+
+                                                                                        xi
+xii   Foreword
+
+
+      financing and the choice of investors are key, unless the challenges discussed in
+      the preceding sections are overcome, it is unlikely that a new venture, even if
+      well financed, will be successful.
+           In looking through this book, my reaction was, “I wish I had read a book like
+      this before I started my first company (MIPS Technologies in 1984).” Unfortu-
+      nately, I had to learn much of this in real-time, often making mistakes on the
+      first attempt. In my experience, the challenges discussed in the earlier sections
+      are the real minefields. Yes, it is helpful to know how to negotiate a good deal
+      and to structure the right mix of financing sources, especially so employees can
+      retain as much equity as possible. However, if you fail to create a sustainable
+      advantage or lack a solid sales and marketing plan, the employees’ equity will
+      not be worth much.
+           Those of us who work at Stanford and live near Silicon Valley are in the
+      heartland of technology entrepreneurship. We see firsthand the tenacity and
+      intelligence of some of the world’s most innovative entrepreneurs. With this
+      book, many others will have the opportunity to tap into this experience. Expo-
+      sure to the extensive and deep insights of Professors Byers, Dorf, and Nelson
+      will help build tomorrow’s enterprises and business leaders.
+                                                                                       PREFACE
+
+
+
+
+E
+        ntrepreneurship is a vital source of change in all facets of society, empow-
+        ering individuals to seek opportunities where others see insurmount-
+        able problems. For the past century, entrepreneurs have created many
+great enterprises that subsequently led to job creation, improved productivity,
+increased prosperity, and a higher quality of life. Entrepreneurship is now play-
+ing a vital role in finding solutions to the huge challenges facing civilization,
+including health, communications, security, infrastructure, education, energy,
+and the environment.
+     Many books have been written to help educate others about entrepreneurship.
+Our textbook was the first to thoroughly examine a global phenomenon known as
+“technology entrepreneurship.” Technology entrepreneurship is a style of busi-
+ness leadership that involves identifying high-potential, technology-intensive
+commercial opportunities, gathering resources such as talent and capital, and man-
+aging rapid growth and significant risks using principled decision-making skills.
+Technology ventures exploit breakthrough advancements in science and engineer-
+ing to develop better products and services for customers. The leaders of technol-
+ogy ventures demonstrate focus, passion, and an unrelenting will to succeed.
+     Why is technology so important? The technology sector represents a significant
+portion of the economy of every industrialized nation. In the United States, more
+than one-third of the gross national product and about half of private-sector spend-
+ing on capital goods are related to technology. It is clear that national and global
+economic growth depends on the health and contributions of technology businesses.
+     Technology has also become ubiquitous in modern society. Note the pro-
+liferation of smartphones, personal computers, tablets, and the Internet in the
+past two decades and their subsequent integration into everyday commerce and
+our personal lives. When we refer to “high-technology” ventures, we include
+information technology enterprises, biotechnology and medical businesses,
+energy and sustainability companies, and those service firms where technology
+is critical to their missions. At the beginning of the twenty first century, many
+technologies show tremendous promise, including computational systems, Inter-
+net advancements, mobile communications platforms, networks and sensors,
+medical devices and biotechnology, artificial intelligence, robotics, 3D manu-
+facturing, nanotechnology, and clean energy. The intersection of these technolo-
+gies may indeed enable the most promising opportunities.
+     The drive to understand technology venturing has frequently been associ-
+ated with boom times. Certainly, the often-dramatic fluctuations of economic
+cycles can foster periods of extreme optimism as well as fear with respect to
+entrepreneurship. However, some of the most important technology compa-
+nies have been founded during recessions (e.g., Intel, Cisco, and Amgen). This
+book’s principles endure regardless of the state of the economy.
+
+                                                                                            xiii
+xiv   Preface
+
+
+      APPROACH
+      Just as entrepreneurs innovate by recombining existing ideas and concepts, we
+      integrate the most valuable entrepreneurship and technology management theo-
+      ries from the world’s leading scholars to create a fresh look at entrepreneurship.
+      We also provide an action-oriented approach to the subject through the use of
+      examples, exercises, and lists. By striking a balance between theory and practice,
+      our readers gain from both perspectives.
+           Our comprehensive collection of concepts and applications provides the
+      tools necessary for success in starting and growing a technology enterprise. We
+      show the critical differences between scientific ideas and true business opportu-
+      nities. Readers benefit from the book’s integrated set of cases, examples, busi-
+      ness plans, and recommended sources for more information.
+           We illustrate the book’s concepts with examples from the early stages of
+      high-technology firms (e.g., Apple, Google, and Genentech) and traditional
+      firms that use technology strategically (e.g., FedEx and Wal-Mart). How did
+      they develop enterprises that have had such positive impact, sustainable perfor-
+      mance, and longevity? In fact, the book’s major principles are applicable to any
+      growth-oriented, high-potential venture, including high-impact nonprofit enter-
+      prises such as Conservation International and the Gates Foundation.
+
+      AUDIENCE
+      This book is designed for students in colleges and universities, as well as oth-
+      ers in industry and public service, who seek to learn the essentials of technol-
+      ogy and high-growth entrepreneurship. No prerequisite knowledge is necessary,
+      although an understanding of basic accounting principles will prove useful.
+           Entrepreneurship was traditionally taught only to business majors. Because
+      entrepreneurship education opportunities now span the entire campus, we wrote
+      this book to be approachable by students of all majors and levels, including under-
+      graduate, graduate, and executive education. Our primary focus is on science and
+      engineering majors enrolled in entrepreneurship and innovation courses, but the
+      book is also valuable to business students and others with a particular interest in
+      high-growth ventures.
+           For example, our courses at Stanford University, the University of Oregon,
+      and the University of California, Davis, based on this textbook regularly attract
+      students from majors as diverse as computer science, product design, political
+      science, economics, pre-med, electrical engineering, history, biology, and busi-
+      ness. Although the focus is on technology entrepreneurship, these students find
+      this material applicable to the pursuit of a wide variety of endeavors. Entre-
+      preneurship education is a wonderful way to teach universal leadership skills,
+      which include being comfortable with constant change, contributing to an inno-
+      vative team, and demonstrating passion in any effort. Anyone can learn entrepre-
+      neurial thinking and leadership. We particularly encourage instructors to design
+      courses in which the students form study teams early in the term and learn to
+      work together effectively on group assignments.
+                                                                           Preface   xv
+
+
+WHAT’S NEW
+Based upon feedback from readers and new developments in the field of tech-
+nology entrepreneurship, numerous enhancements appear in this fourth edition.
+Recent compelling academic theories and practitioner insights in entrepreneur-
+ship from leading scholarly journals, trade books, and popular blogs and press
+are included in the text. Special attention is given to business model develop-
+ment and measurement, lean start-ups, design thinking, intellectual property,
+and marketing and sales. All examples and exercises were reviewed to place
+even more emphasis on exciting technology ventures around the globe.
+     Chapters 1 and 2 have been extensively revised to better introduce the art
+and science of venturing. Chapter 3 now contains the latest techniques on busi-
+ness model development and lean start-up methodologies. The concept story and
+business plan development materials and tools are consolidated and improved
+in a new Chapter 6 to start Part II. Similarly, a new Chapter 8 consolidates and
+expands content regarding creativity and product development. Chapter 11 is
+solely focused on the vital topic of intellectual property. Chapter 12 now has
+all key material on teams and organizational learning in one place. Two new
+full-length cases regarding clean technology and sustainability are included in
+the appendix. The AgraQuest sequential case in each chapter has been replaced
+with an examination of an exemplary enterprise relevant to that material. Cases
+no longer in use from previous versions are available on our websites. Some
+reordering of sections within chapters streamlines the remaining content.
+
+FEATURES
+The book is organized in a modular format to allow for both systematic learning
+and random access of the material to suit the needs of any reader seeking to learn
+how to grow successful technology ventures. Readers focused on business plan
+and model development should consider placing a higher priority on Chapters 3,
+6, 9, 11, 12, 17, 18, and 19. Regardless of the immediate learning goals, the book
+is a handy reference and companion tool for future use. We deploy the follow-
+ing wide variety of methods and features to achieve this goal, and we welcome
+feedback and comments.
+    Principles and Chapter Previews—A set of 20 fundamental principles is
+    developed and defined throughout the book. They are listed in the inside
+    front cover as well. Each chapter opens with a key question and outlines its
+    content and objectives.
+    Examples and Exercises—Examples of cutting-edge technologies illustrate
+    concepts in a shaded-box format. Information technology is chosen for
+    many examples because students are familiar with its products and ser-
+    vices. Exercises are offered at the end of each chapter to test comprehen-
+    sion of the concepts.
+    Sequential Exercise and Spotlights—A special exercise called the “venture
+    challenge” guides readers through a chapter-by-chapter formation of a new
+xvi   Preface
+
+
+      TABLE P1 Overview of cases.
+       Cases in appendix B      Synopsis                     Issues
+      Method                    A start-up contemplates      Opportunities, vision and the
+                                a new product line           business model, marketing and
+                                                             sales
+      Method products           A product development        Innovation strategies, creativity,
+                                effort runs into problems    and product development
+      Biodiesel                 Three founders consider      Opportunity identification and
+                                an opportunity in the        evaluation, business model
+                                energy industry
+      Yahoo!                    Two founders face a          Vision and business model,
+                                decision on financing that   sources of capital, business
+                                forces them to confront      plan
+                                their vision
+      Barbara’s Options         A soon-to-be graduate        Stock options, finance
+                                weighs two job offers
+      Artemis Images            A promising image            Competitive strategy, business
+                                management company           model, team, finance
+                                runs into trouble
+      Sirtris Pharmaceuticals   A life sciences firm faces   Alliances, licensing,
+                                major decisions about        market strategy
+                                its future
+      Cooliris                  A young entrepreneur         Hiring process, scaling issues
+                                struggles to hire a team
+
+
+
+
+          enterprise. At the end of each chapter’s narrative, a successful enterprise is
+          profiled in a special “spotlight” section.
+          Business Plans—Methods and tools for the development of a business plan
+          are gathered into one special chapter, which includes a thoroughly anno-
+          tated table of contents. A sample business plan is provided in appendix A.
+          Cases—Eight comprehensive cases are included in appendix B. A short
+          description of each case is provided in Table P1. Additional cases from
+          Harvard and ECCH are recommended on this textbook’s websites.
+          References and Glossary—References are indicated in brackets [Smith, 2001]
+          and are listed as a complete set in the back of the book. This is followed by a
+          comprehensive glossary.
+          Chapter Sequence—The chapter sequence represents our best effort to
+          organize the material in a format that can be used in various types of entre-
+          preneurship courses. The chapters follow the four-part layout shown in
+          Figure P1. Courses focused on creating business plans and models can reor-
+          der the chapters with emphasis on Chapters 3, 6, 9, 11, 12, 17, 18, and 19.
+                                                                             Preface                        xvii
+
+
+                                          Part I                                                   Outcomes
+       1                   2                  3                 4                    5
+ The Role and         Opportunities        Vision          Competitive          Innovation       Venture
+   Promise of                              and the          Strategy             Strategies      opportunity
+Entrepreneurship                       Business Model                                            and strategy
+
+
+
+                                          Part II
+
+        6                   7                8                 9                    10
+                                                                                                 Concept
+The Business Story   Risk and Return   Creativity and      Marketing         Types of Ventures
+                                                                                                 development
+     and Plan                             Product          and Sales
+                                                                                                 and venture
+                                       Development
+                                                                                                 formation
+
+
+                                         Part III
+
+        11                12                 13                14                    15
+                                                                                                 Intellectual
+   Intellectual        The New           Acquiring        Management           Acquisitions
+                                                                                                 property,
+    Property           Enterprise      and Organizing     of Operations             and
+                                                                                                 organizations,
+                      Organization       Resources                           Global Expansion
+                                                                                                 and operations
+
+
+                                          Part IV
+
+       16                  17               18                 19                   20
+      Profit              The            Sources of     Deal Presentations   Leading Ventures    Financing
+   and Harvest          Financial         Capital       and Negotiations        to Success       and leading
+                          Plan                                                                   the enterprise
+
+
+
+
+FIGURE P1 Chapter sequence.
+
+
+
+
+    Video Clips—A collection of suggested videos from world-class
+    entrepreneurs, investors, and teachers is listed at the end of each chapter
+    and provided on this textbook’s websites. More free videos clips and
+    podcasts are available at Stanford’s Entrepreurship Corner website (see
+    http://ecorner.stanford.edu).
+    Websites and Social Networking—Please visit websites for this book at
+    both McGraw-Hill Higher Education (http://www.mhhe.com/byersdorf)
+    and Stanford University (http://techventures.stanford.edu) for supplemental
+    information applicable to educators, students, and professionals. For exam-
+    ple, a complete syllabus for an introductory course on technology entrepre-
+    neurship and additional learning resources for each chapter are provided for
+    instructors.
+xviii   Preface
+
+
+        ELECTRONIC TEXTBOOK OPTIONS
+        E-books are an innovative way for students to save money and create a greener
+        environment at the same time. An e-book can save students about half the cost of
+        a traditional textbook and offers unique features like a powerful search engine,
+        highlighting, and the ability to share notes with classmates using e-books.
+             McGraw-Hill offers this text as a CourseSmart ebook. With the CourseSmart
+        eTextbook version of this title, students can save over half off the cost of a print
+        book, reduce their impact on the environment, and access powerful Web tools for
+        learning. Faculty can also review and compare the full text online without having
+        to wait for a print desk copy. CourseSmart is an online eTextbook, which means
+        users need to be connected to the Internet in order to access. Students can also
+        print sections of the book for maximum portability.
+
+
+        ACKNOWLEDGMENTS
+        Many people have made this book possible. Our editors at McGraw-Hill were
+        Katie Neubeaur Carney and Samantha Donisi-Hamm. We thank all of them for
+        their insights and dedication. We also thank the McGraw-Hill production and
+        marketing teams for their diligent efforts. Our colleagues at Stanford University,
+        the University of Oregon, and the University of California, Davis, were helpful
+        in numerous ways. We are indebted to them for all of their great ideas and sup-
+        port. Lastly, we remain grateful for the continued support of educators, students,
+        and other readers of previous editions.
+                  Thomas H. Byers, Stanford University, tbyers@stanford.edu
+                  Richard C. Dorf, University of California, Davis, rcdorf@ucdavis.com
+                  Andrew J. Nelson, University of Oregon, ajnelson@uoregon.edu
+This page intentionally left blank
+Media Supplements for Students and Instructors
+
+
+The 4th edition is supplemented by
+two websites, collectively bringing stu-
+dents and instructors the most extensive
+resources available for technology and
+high-growth entrepreneurship courses.
+Visitors to either website can link to the
+authors’ social networking sites in order
+to interact with the authors and other
+readers.
+
+
+McGraw-Hill Website
+www.mhhe.com/byersdorf
+Accessed with a password, the McGraw-
+Hill website for instructors features:
+■   Answers to end-of-chapter exercises
+■   Teaching notes in Word and PDF for-
+    mat for the cases in appendix B
+■   Extensive sample presentations based
+    on the text
+
+
+
+
+Sample presentations provide instructors with
+a framework for organizing their lectures, and
+reference topic-related videos on the textbook’s
+websites.
+Media Supplements for Students and Instructors
+
+
+Stanford University Website
+http://techventures.stanford.edu
+Rich with content, the author-created
+Stanford website provides relevant media
+for each chapter in Technology Ventures,
+including:
+■   Video clips and podcasts of entrepre-
+    neurial leaders including founders,
+    CEOs, venture capitalists, authors, edu-
+    cators, and policy makers.
+■   Suggested case studies from Harvard
+    Business School and other universities
+    around the globe.
+■   Resources on how to best integrate the
+    book’s business plans and case studies
+    into entrepreneurship courses.
+■   Links to compelling resources on
+    entrepreneurship.
+■   Additional sample business plans to
+    augment the executive summary in
+    appendix A.
+■   Sample syllabi including one from an
+    actual Stanford University course for
+    students of all majors.
+■   A collection of the videos listed in the
+    “Video Resources” section at the end
+    of each chapter in this textbook.
+This page intentionally left blank
+                                                          P A R T                  I
+Venture Opportunity
+and Strategy
+
+
+E
+       ntrepreneurs create new businesses that fuel progress in societies world-
+       wide. They use innovation and technology to foster positive impact and
+       activity in all facets of life. Entrepreneurs identify, develop, and com-
+municate the essence of an opportunity that has attractive potential to become a
+successful venture. They describe the valuable contributions of the venture, and
+they design a business model that can adapt to changing circumstances. The ven-
+ture team creates a road map (strategy) that can, with good chance, effectively
+lead to the commercialization of the new product or service in the marketplace
+with a sustainable competitive advantage. ■
+
+
+
+
+                                                                                       1
+This page intentionally left blank
+                                                 C H A P T E R                           1
+The Role and Promise
+of Entrepreneurship
+
+ There are risks and costs to a program of action. But they are far less than the long-range risks and
+                                    costs of comfortable inaction.
+                                          John F. Kennedy
+
+
+                                                    What drives global entrepreneurship?
+CHAPTER OUTLINE
+
+
+
+
+                                                    E
+1.1   Entrepreneurship in Context                           ntrepreneurs strive to make a difference in
+1.2   Economics and the Firm                                our world and to contribute to its better-
+                                                            ment. They identify opportunities, mobilize
+1.3   Creative Destruction
+                                                    resources, and relentlessly execute on their visions.
+1.4   Innovation and Technology                     In this chapter, we describe how entrepreneurs act
+1.5   The Technology Entrepreneur                   to create new enterprises. We identify firms as key
+1.6   Spotlight on Facebook                         structures in the economy and the role of entrepre-
+                                                    neurship as the engine of economic growth. New
+1.7   Summary
+                                                    technologies form the basis of many important
+                                                    ventures where scientists and engineers combine
+                                                    their technical knowledge with sound business
+                                                    practices to foster innovation. Entrepreneurs are
+                                                    the critical people at the center of all of these
+                                                    activities. ■
+
+
+
+
+                                                                                                         3
+4      CHAPTER 1         The Role and Promise of Entrepreneurship
+
+
+    1.1 Entrepreneurship in Context
+       From environmental sustainability to security, from information management
+       to health care, from transportation to communication, the opportunities for
+       people to create a significant positive impact in today’s world are enormous.
+       Entrepreneurs are people who identify and pursue solutions among problems,
+       possibilities among needs, and opportunities among challenges.
+            Entrepreneurship is more than the creation of a business and the wealth asso-
+       ciated with it. It is focused on the creation of a new enterprise that serves society
+       and makes a positive change. Entrepreneurs can create great and reputable firms
+       that exhibit performance, leadership, and longevity. In Table 1.1, look at the
+       examples of successful entrepreneurs and the enterprises they created. What con-
+       tributions have these people and organizations made? What organization would
+       you add to the list? What organization do you wish you had created or been a part
+       of during its formative years? What organization might you create in the future?
+
+       TABLE 1.1 Selected entrepreneurs and the enterprises they started.
+                                                                         Age of
+                                                                    entrepreneur at   Year of
+        Entrepreneur              Enterprise started                  time of start    start
+
+       Benioff, Mark              Salesforce.com (USA)                     35          1999
+       Bezos, Jeff                Amazon.com (USA)                         31          1995
+       Brin, Sergey               Google (USA)                             27          1998
+       Dell, Michael              Dell Computer (USA)                      19          1984
+       Dorsey, Jack               Twitter, Square (USA)                    30          2006
+       Goyanechea, Rosalia        Zara (Spain)                             31          1975
+       Greene, Diane              VMWare (USA)                             42          1998
+       Huateng, Ma                Tencent Inc. (China)                     27          1998
+       Ibrahim, Mo                Celtel (Africa)                          42          1998
+       Lerner, Sandra             Cisco (USA)                              29          1984
+       Li, Robin                  Baidu (China)                            32          2000
+       Ma, Jack                   Alibaba.com (China)                      35          1999
+       Plattner, Hasso            SAP (Germany)                            28          1972
+       Rottenberg, Linda          Endeavor (Chile, Argentina)              28          1997
+       Shwed, Gil                 Check Point (Israel)                     25          1993
+       Tanti, Tulsi               Suzlon Energy (India)                    37          1995
+       Yunus, Muhammed            Grameen Bank (India)                     36          1976
+       Zennstrom, Nikalas         Skype, Kazaa (Sweden)                    37          2003
+       Zuckerberg, Mark           Facebook (USA)                           20          2004
+                                                      1.1   Entrepreneurship in Context   5
+
+
+     Entrepreneurs seek to achieve a certain goal by starting an organization
+that will address the needs of society and the marketplace. They are prepared to
+respond to a challenge to overcome obstacles and build a business. As Martin
+Luther King, Jr. (1963), said, “The ultimate measure of a man is not where he
+stands in moments of comfort and convenience, but where he stands at times of
+challenge and controversy.”
+     For an entrepreneur, a challenge is a call to respond to a difficult task and
+the commitment to undertake the required enterprise. Richard Branson, the cre-
+ator of Virgin Group, reported [Garrett, 1992]: “Ever since I was a teenager, if
+something was a challenge, I did it and learned it. That’s what interests me about
+life—setting myself tests and trying to prove that I can do it.”
+     Thus, entrepreneurs are resilient people who pounce on challenging prob-
+lems, determined to find a solution. They combine important capabilities and
+skills with interests, passions, and commitment. Over nearly a decade, Fred
+Smith worked on perfecting a solution to what he viewed as a growing prob-
+lem of organizations to find ways to rapidly ship products to customers. To
+address this challenge, Smith saw an opportunity to build a freight-only airline
+that would fly packages to a huge airport and then sort, transfer, and fly them
+to their destinations overnight. He turned in his paper describing this plan to
+his Yale University professor, who gave it an average grade, said to be a C.
+After he graduated, Smith served four years as a U.S. Marine Corps officer and
+pilot. Following his military service, he spent a few years in the aviation industry
+building up his experience and knowledge of the industry. Then, he prepared a
+fully developed business plan for an overnight freight service. By 1972, he had
+secured financial backing, and Federal Express took to the air in 1973. Federal
+Express became a new way of shipping goods that revolutionized the cargo ship-
+ping business worldwide.
+     Smith and other entrepreneurs recognize a change in society and its needs,
+and then, based on their knowledge and skill, they respond with a new way of
+doing things, typically by recombining people, concepts, and technologies into
+an original solution. Smith saw that the combination of dedicated cargo air-
+planes, computer-assisted tracking systems, and overnight delivery would serve
+a new market that required just-in-time delivery of critically important parts,
+documents, and other valuable items. Smith adapted computer technology to
+manage the complex task of tracking and moving packages. More fundamen-
+tally, Smith matched his passions and skills as a person with a good opportunity.
+     An opportunity is a favorable juncture of circumstances with a good chance
+for success or progress. Attractive opportunities combine good timing with real-
+istic solutions that address important problems in favorable contexts. It is the
+job of the entrepreneur to locate new ideas, to determine whether they are actual
+opportunities, and, if so, to put them into action. Thus, entrepreneurship may
+be described as the nexus of enterprising individuals and promising opportunities
+[Shane and Venkataraman, 2000]. As illustrated in Figure 1.1, the “sweet spot”
+exists where an individual’s or team’s passions and capabilities intersect with an
+attractive opportunity.
+6   CHAPTER 1       The Role and Promise of Entrepreneurship
+
+
+
+
+                                      Attractive opportunity
+                                       • Timely
+                                       • Solvable
+                                       • Important
+                                       • Profitable
+                                       • Favorable context
+
+
+
+
+                                               The
+                                              sweet
+                                               spot
+          Interest, passions,                                    Capabilities
+          and commitment                                         and skills
+           • Enjoys the tasks                                      • Good at the
+           • Enjoys the challenge                                    needed tasks
+           • Committed to do what                                  • Willingness
+             is necessary                                            to learn
+
+
+
+
+    FIGURE 1.1 Selecting the right opportunity by finding the sweet spot.
+
+
+        Entrepreneurship is not easy. Only about one-third of new ventures sur-
+    vive their first three years. As change agents, entrepreneurs must be willing
+    to accept failure as a potential outcome of their venture. But, regardless of
+    whether the right opportunity has emerged, a person can learn to act as an
+    entrepreneur by trying the activity in a low-cost manner. To avoid the realm
+    of daydreams and fantasy, a person needs to start the practice of experiment-
+    ing, testing, and learning about his or her entrepreneurial self [Ibarra, 2002].
+    The would-be entrepreneur should, therefore, engage in this sequence: do it,
+    then reflect on it.
+        The first step is to identify the hypotheses associated with an idea: what
+    assumptions is the entrepreneur making when concluding that an identified prob-
+    lem is really a problem and that a proposed solution is a good and realistic solution?
+    Then, the entrepreneur can test these hypotheses by engaging with knowledge-
+    able individuals, such as potential customers, employees, and partners. Through
+    these small experiments, the entrepreneur not only develops contacts and mentors

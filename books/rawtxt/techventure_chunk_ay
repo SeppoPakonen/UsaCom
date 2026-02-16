@@ -1,0 +1,1000 @@
+           golf clubs stashed against the walls, pizza cartons on the floor, and unwashed
+           clothes strewn around . . . it was every mother’s idea of the bedroom she
+           wished her sons never had.5
+
+
+      3
+        Jerry Yang (1995) interview in Red Herring (October), online back issue, p. 9.
+      4
+        Randall E. Stross (1998), “How Yahoo! Won the Search War,” Fortune, http://www.pathfinder.com.
+      fortune/1998/980302/yah.html, p. 2.
+      5
+        Rob Reid (1997), Architects of the Web, John Wiley and Sons, New York, p. 254.
+                                                                                           Yahoo!   525
+
+
+Mosaic and the World Wide Web
+In 1993, the University of Illinois-Urbana Champaign’s National Center for
+Supercomputing Applications (NCSA) revolutionized the growth and popular-
+ity of the World Wide Web by introducing a Web browser they had developed
+called Mosaic. Mosaic made the Web “an ideal distribution vehicle for all kinds
+of information in the professional and academic circles in which it was known.”6
+It provided an easy-to-use graphical interface that allowed users to travel from
+site to site simply by clicking on specified links. This led to the widespread prac-
+tice of surfing the Web, as people spent hours trying to find new and interesting
+sites. This easy-to-use browser for navigating the Internet was estimated to have
+2 million users worldwide in just over one year.
+
+Creating Jerry’s Guide to the World Wide Web
+With Mosaic’s introduction in late 1993, Filo and Yang, along with thousands
+of other students, began devoting large amounts of time to surfing the Web and
+exploring the vast content available. As they discovered interesting sites, they
+made bookmarks of the sites. The Mosaic Web browser had an option to store a
+bookmark list of your favorite sites. This feature allowed users to return directly
+to a page that they had visited, without having to navigate through several differ-
+ent links. As the popularity of the Web quickly increased, so did the total num-
+ber of sites created, which in turn led to an increase in the number of interesting
+sites that Filo and Yang wanted to bookmark. Eventually, their personal list of
+favorite Web sites grew large and unwieldy, due to the fact that the earliest ver-
+sions of Mosaic were unable to sort bookmarks in any convenient manner.
+     To address this problem, Filo and Yang wrote software using Tcl/TK and
+Perl scripts that allowed them to group their bookmarks into subject areas. They
+named their list of sites “Jerry’s Guide to the World Wide Web” and developed a
+Web interface for their list. People from all over the world started sending Jerry
+and Dave e-mail, saying how much they appreciated the effort. Yang explained:
+“We just wanted to avoid doing our dissertations.”7
+     The two set out to cover the entire Web. They tried to visit and categorize
+at least 1,000 sites a day. When a subject category grew too large, subcategories
+were created, and then sub-subcategories. The hierarchy made it easy for even
+novices to find websites quickly. “Jerry’s Guide” was a labor of love—lots of
+labor, since no software program could evaluate and categorize sites. Filo per-
+suaded Yang to resist the engineer’s first impulse to try to automate the process.
+“No technology could beat human filtering,” Filo argued.8
+
+
+6
+  Rob Reid (1997), Architects of the Web, John Wiley and Sons, New York, p. 11.
+7
+  Randall E. Stross (1998), “How Yahoo! Won the Search War,” Fortune, http://www.pathfinder.com.
+fortune/1998/980302/yah.html, p. 2.
+8
+  Randall E. Stross (1998), “How Yahoo! Won the Search War,” Fortune, http://www.pathfinder.com.
+fortune/1998/980302/yah.html, p. 3.
+526   APPENDIX        Cases
+
+
+          Though engineers, Yang and Filo had a great sense of what real people
+      wanted. Consider their choice of name. Jerry hated “Jerry’s Guide,” so he and
+      Filo opted for “Yahoo!,” a memorable parody of the tech community’s obses-
+      sion with acronyms (this one stood for “Yet Another Hierarchical Officious Ora-
+      cle”). Why the exclamation point? Said Yang: “Pure marketing hype.”9
+
+      Yahoo!’s Growing Popularity
+      At first, Yahoo! was only accessible by the two engineering students. Even-
+      tually, they created a Web interface that allowed other people access to their
+      guide. As knowledge of Yahoo!’s existence spread by word of mouth and e-mail,
+      more people began using their site, and Yahoo!’s network resource requirements
+      increased exponentially. Stanford provided them with sufficient bandwidth to
+      the Internet, but bottlenecks came from limitations in the number of TCP/IP con-
+      nections that could be made to the two students’ workstations.10 Additionally,
+      the time required to maintain the site was becoming unmanageable, as Yang
+      and Filo found themselves continually updating their Web site with new links.
+      Classes and research fell behind as Yang and Filo devoted more and more time
+      to their ever-expanding hobby.
+
+      Competing Services
+      A number of businesses already existed in the Internet search space. While none
+      offered the same service that Yahoo! did, these companies could definitely pro-
+      vide potential competition to any new business that Yahoo! would start. Among
+      the competitors were Architext, soon to be renamed Excite, Webcrawler at the
+      University of Washington, Lycos at Carnegie Mellon, the World Wide Web
+      Worm, and Infoseek, founded by Steven Kirsh. AOL and Microsoft in 1995 rep-
+      resented larger competitors who could enter the market either by building their own
+      capability or acquiring one of the other start-ups.
+           Yahoo!’s human-crafted hierarchical approach to organizing the information
+      for intuitive searches was a key component of its value proposition. Rob Reid, a
+      Venture Capitalist with 21st Century Internet Venture Partners, explained how
+      this made Yahoo! unique among Internet search providers.
+           The Yahoo! hierarchy is a handcrafted tool in that all of its . . . categories
+           were designated by people, not computers. The sites that they link to are
+           likewise deliberately chosen, not assigned by software algorithms. In this,
+           Yahoo! is a very labor intensive product. But it is also a guide with human
+           discretion and judgment built into it—and this can at times make it almost
+           uncannily effective. . . .
+
+
+      9
+        Randall E. Stross (1998), “How Yahoo! Won the Search War,” Fortune, http://www.pathfinder.com.
+      fortune/1998/980302/yah.html, p. 3.
+      10
+         Mark Holt and Marc Sacoolas (1995), “Chief Yahoos: David Filo and Jerry Yang,” Mark & Marc
+      Interviews, May, http://www.sun.com/950523/yahoostory.html.
+                                                                                           Yahoo!   527
+
+
+          This is the essence of Yahoo!’s uniqueness and (let’s say it) genius.
+     It isn’t especially interesting to point to information that many people are
+     known to find interesting. TV Guide does this. So do phone books, and
+     countless Web sites that cater to well-defined interest groups. . . . But
+     Yahoo! is able to build intuitive paths that might be singularly, or even tem-
+     porarily important to the people seeking it. And it does this in a way that no
+     other service has truly replicated.11
+    However, if Yahoo!, as a business, was to survive and flourish in the face
+of increasingly well-funded competition, it would quickly need to find some
+outside capital.
+
+Leaving Stanford and Starting the Business
+Yang and Filo had been in Silicon Valley long enough to realize that what they
+really wanted to do was to start their own business. They split much of their free
+time between their Internet hobby and sitting around thinking up possible busi-
+ness ideas.
+     “A considerable period of time passed before it occurred to them that the
+most promising idea was sitting under their noses, and some of the credit for
+their eventual illumination belongs to their PhD adviser, Giovanni De Micheli.
+Toward the end of 1994, De Micheli noted that inquiries to Yahoo! were rising
+at an alarming rate. In a single month, the number of hits jumped from thou-
+sands to hundreds of thousands daily. With their workstations maxed out, and
+the university’s computer system beginning to feel the load, De Micheli told
+them that they would have to move their hobby off campus if they wanted to
+keep it going.”12
+     By fall of 1994, the two received over two million hits a day on their site. It
+was then that Jerry and Dave commenced the search for outside backing to help
+them continue to build up Yahoo!, but with only modest hopes. Yang thought
+they might be able to bootstrap a workable system, using personal savings to buy
+a computer and negotiating the use of a network and a Web server in return for
+thank-you banners. Unexpected overtures from AOL and Netscape caused them
+to raise their sights, although both companies wanted to turn Filo and Yang into
+employees.
+     If they were going to abandon their academic careers (as they soon did, six
+months shy of their doctorates), they reasoned that they should hold out for some
+control. Filo and Yang had three main potential options to explore: (1) sell Yahoo!
+outright; (2) partner with a corporate sponsor; (3) start an independent business
+using venture capital financing.
+
+
+
+11
+   Rob Reid (1997), Architects of the Web, John Wiley and Sons, New York, pp. 243–244.
+12
+   James, Lardner, (1998), “Yahoo! Rising,” U.S. News, May 18, http://www.usnews.com.usnews/
+issue/80518/18yaho.html, p. 3.
+528   APPENDIX         Cases
+
+
+      The Search for Funding
+      Looking to receive funding and create a credible business out of Yahoo!, Filo
+      and Yang began preliminary discussions with potential partners in October
+      1994. One of the first people who contacted them was John Taysom, a vice-
+      president of marketing at Reuters, the London-based media service. Taysom
+      was interested in integrating Reuters’ news service into Yahoo!’s Web pages.
+      Yahoo! would gain the advantage of being able to provide news services from
+      a well-known source, while Reuters would be able to begin developing its own
+      presence on the Internet. Unfortunately, since Yahoo! did not generate revenues,
+      it was in a poor negotiating position. Talks between the two were cordial, but
+      they also progressed very slowly.
+           Yahoo! also talked to Randy Adams, founder of the Internet Shopping
+      Network (ISN), a company that styled itself as “the first online retailer in the
+      world.” ISN, funded by Draper Fisher Jurvetson, was one of the first venture
+      funded Internet companies. It had recently been purchased by the Home Shop-
+      ping Network, in order to expand its possible exposure. ISN was interested in
+      being a host site for Yahoo!, offering them the chance to finally generate some
+      revenue. However, there were also definite possible disadvantages that came
+      from being associated with a shopping network.
+           Another company that approached Yahoo! was Netscape Communications
+      Corporation. Founded in April 1994 by Jim Clark, who also founded Silicon
+      Graphics, and Marc Andressen, who created the NCSA Mosaic browser with
+      a team of other UIUC students and staff, Netscape was a hot private com-
+      pany developing an improved browser based on the old Mosaic technology.
+      Andressen contacted Yang and Filo over e-mail and, in Yang’s words said,
+      “Well, I heard you guys were looking for some space. Why don’t you come on
+      into the Netscape network? We’ll host you for free and you can give us some
+      recognition for it.”13 This was a fortuitous contact that allowed Yahoo! to move
+      itself off of Stanford’s campus. By early 1995, Yahoo! was running on four
+      Netscape workstations.
+           Soon after, Netscape offered to purchase Yahoo! outright in exchange for
+      Netscape stock. The advantage of this option was that Netscape was already
+      planning its initial public offering and had tremendous publicity and momen-
+      tum behind it. Coupled with high profile founders and backers like Clark, James
+      Barksdale, former president and CEO of AT&T Wireless Services, and the ven-
+      ture capital firm Kleiner Perkins Caufield & Byers, this offer was a potentially
+      lucrative one for the two Yahoo! founders. Additionally, Netscape’s company
+      culture was more in tune with what the two students were looking for, in com-
+      parison to some of the more established market players.
+
+
+
+      13
+        Jeff Ubois (1996), “One Thing Leads to Another,” Internet World, January,
+      http://www.Internetworld.com/print/monthly/1996/01/yahoo.html, p. 1.
+                                                                                      Yahoo!   529
+
+
+Corporate Partnerships
+Yahoo! was also feeling tremendous pressure to partner or accept corporate
+sponsorship from other large content companies and online service providers like
+America Online (AOL), Prodigy, and Compuserve. These companies offered
+the carrot of money, stock, and/or possible management positions. They argued
+that if Yahoo! did not partner with them, as large players they could develop
+their own competing services that would cause Yahoo! to fail. One potential
+disadvantage with corporate funding was the potential taint that came with such
+sponsorship. Yahoo! had started as a grass-roots effort, free of commercializa-
+tion. A second disadvantage was the lack of control that the two Yahoo! founders
+would have over their creation. “Building Yahoo! was fun, particularly without
+adult supervision. (Dave) and Jerry were also worried that selling to AOL would
+have ‘most likely killed’ Yahoo! in the end.”14
+     With partner discussions beginning to heat up, Yang requested help from Tim
+Brady, a friend and second-year Harvard Business School student. As a class proj-
+ect, Brady generated a business plan for Yahoo! during the 1994–1995 Christmas
+vacation. (See the Appendix for excerpts of the business plan circa 1995.)
+     With Brady’s business plan in hand, Filo and Yang began to approach dif-
+ferent venture capital firms on nearby Sand Hill Road. Venture capital firms
+brought experience, valuable contacts in the Silicon Valley, and most impor-
+tantly, money. However, they also required substantial ownership in return
+for their services. One venture firm that the Yahoo! founders approached was
+Kleiner Perkins Caufield & Byers. KPCB had an excellent reputation as one of
+the most prestigious VC firms in the Silicon Valley, and their list of successful
+investments included Sun Microsystems and Netscape. KPCB showed a defi-
+nite interest in Yahoo!; however, Vinod Khosla of KPCB and Geoffrey Yang
+of Institutional Venture Partners had just invested $0.5M in Architext (later
+renamed Excite), another company started by Stanford engineering students
+that was developing a search-and-retrieval text engine. Architext was receiv-
+ing increased press coverage, with a March 1995 Red Herring magazine spot-
+lighting the company and its venture capital partners. KPCB proposed to fund
+Yahoo!, but only if they agreed to merge with Architext.
+
+Sequoia Capital
+Another venture capital firm that Yahoo! approached was Sequoia Capital. It
+was during partnership discussions with Adams at the Internet Shopping Net-
+work that Yang and Filo were first introduced to Michael Moritz, a partner at
+Sequoia Capital. Moritz went to visit Jerry and Dave, who were at the time
+still operating out of their tiny Stanford trailer. Said Yang, “The first time we
+sat down with Sequoia, Mike (Moritz) asked, ‘So, how much are you going to
+charge subscribers?’ Dave and I looked at each other and said, ‘Well, it’s going
+
+
+14
+     Rob Reid (1997), Architects of the Web, John Wiley and Sons, New York, p. 256.
+530   APPENDIX         Cases
+
+
+      to be a long conversation.”15 Fortunately, Moritz, who came from a journalistic
+      background at Time was flexible in his thinking. Some of the major advantages
+      that Moritz brought to the negotiating table were his contacts with publications
+      and knowledge about how to manage content. Moritz talked about the roots of
+      Sequoia’s interest in working with Yang and Filo. “I think we are always enam-
+      ored with people that seem to be on to something, even if they can’t define that
+      something. They had a real passion and a real spark.”16
+           Sequoia Capital had a long tradition of success in the venture capital mar-
+      ket, citing that the total market capitalization for Sequoia backed companies
+      exceeded that of any other venture capital firm. Sequoia’s trademark modus ope-
+      randi was funding successful companies using only a small amount of capital.
+      Its list of successful investments included Apple Computer, Oracle, Electronic
+      Arts, Cisco Systems, Atari, and LSI Logic. Said Moritz, Sequoia preferred
+      “to start wicked infernos with a single match rather than 10 million gallons of
+      kerosene.”17
+           In February 1995, Filo and Yang were weighing a number of possibilities
+      and in no hurry to accept any of them, when Michael Moritz made them an offer.
+      Sequoia Capital would fund Yahoo! for $1 million and would help them to assem-
+      ble a top management team. In return, Sequoia would receive a 25 percent share
+      of the company. Additionally, Moritz gave them only 24 hours to accept the deal
+      before it was pulled off the table. “I felt a need to deliver them from the agony
+      of indecision,” claimed Moritz. With the deadline quickly approaching, Yang
+      and Filo sat down to weigh their options. The decisions that they made that night
+      would determine the direction of their careers as well and the future of Yahoo!
+
+      The Decision
+      Sitting in their tiny office on the Stanford campus, Jerry and Dave shared a late-
+      night pepperoni and mushroom pizza as they explored their options and tried
+      to come to a decision. It was already getting pretty late, and they only had until
+      noon the next day to make their decision.
+           Yang took a bite from his pizza as he looked over the terms sheet that
+      Sequoia had given them.
+           We have some pretty tough decisions to make, and Michael has really forced
+           the issue now with this 24-hour deadline. As I see it, we have a couple of
+           options. The first is to accept Sequoia’s offer and launch Yahoo! as our own
+           company. We would be giving up a significant percentage of Yahoo!, but
+           we really need the money if we are going to survive. Moritz and the rest
+           of the resources at Sequoia could also prove to be invaluable as we try to
+           assemble the rest of our management team.
+
+
+      15
+         Jerry Yang, “Found You on Yahoo!” Red Herring, October 1995, p. 3.
+      16
+         Michael Moritz, personal interview, November 10, 1998.
+      17
+         Anthony Perkins, Red Herring, June 1996.
+                                                                            Yahoo!   531
+
+
+         Our second option is to accept corporate sponsorship. This would allow
+    us to get the funding we need and still retain 100 percent ownership of
+    Yahoo!. However, I am worried about selling out to corporate America. We
+    were fortunate to be able to develop our site in an educational setting as a
+    noncommercial free site. I am afraid if we accept the corporate sponsorship,
+    it will taint Yahoo!’s image.
+         Finally, we could agree to merge with an existing corporation. The
+    word is that Netscape is pretty close to their IPO, and Architext has some
+    really big time investors behind it. If we merge with Netscape or Architext
+    in exchange for stock options, it could mean a lot of money for us in the next
+    couple of years.
+         Filo got up from his seat and kicked aside some of the empty pizza
+    boxes that had started to accumulate. He walked over to Yahoo!’s tiny
+    office window and stared at Stanford’s Hoover Tower, which was barely
+    visible in the distance.
+         It’s true that we could make some money if we sell to Netscape or
+    Architext, but we would have to give up primary control of Yahoo! if we
+    did. We would never know what we could have done if we would have
+    maintained control of the site ourselves.
+         There is also a fourth option you forgot to mention. I’m excited by
+    Sequoia’s offer, but I’m wondering if maybe we are giving up too much
+    of our company. A fourth option could be to not decide tonight and look
+    for better terms with another VC firm. I know Michael said that we should
+    decide quickly, but I would hate to give up 25 percent of our company, only
+    to find out in a week that another firm would have offered us $3 million for
+    the same percentage. I know that time is really important, and we like work-
+    ing with Michael Moritz. On the other hand, I don’t want to be regretting
+    our decision two months from now.
+    As they grappled with the alternatives facing them, Filo and Yang began to
+envision life outside of the Stanford trailer in which Yahoo! was born. It was
+well past 2 a.m., and they had to make a decision in less that ten hours. What
+should they do?
+Questions
+1. What makes Yahoo! an attractive opportunity (and not just a good idea)?
+2. How will Yahoo! make money (i.e., business model)?
+3. Identify the major risks in each of these categories: technology, market,
+   team, and financial. Rank order them.
+4. What are the advantages and disadvantages of each of the funding options
+   they could pursue? Which one do you recommend?
+Video Resources
+Visit http://techventures.stanford.edu to view a video of the founders of Yahoo!
+and others discussing the outcome of the case.
+532   APPENDIX      Cases
+
+
+      EXHIBIT 1 Yahoo! Founders and Potential Investor
+      Jerry Yang
+      Jerry Yang was a Taiwanese native who was raised in San Jose, California.
+      He co-created the Yahoo! online guide in April of 1994. Jerry took a leave of
+      absence from Stanford University’s electrical engineering PhD program after
+      earning both his BS and MS degrees in electrical engineering from Stanford
+      University.
+      David Filo
+      David Filo, a native from Moss Bluff, Louisiana, co-created the Yahoo! online
+      guide in April 1994 and took a leave of absence from Stanford University’s
+      electrical engineering PhD program in April 1995 to co-found Yahoo!, Inc. Filo
+      received a BS degree in computer engineering from Tulane University and a MS
+      degree in electrical engineering from Stanford University.
+      Michael Moritz, Partner, Sequoia Capital
+      Moritz was a general partner at Sequoia Capital since 1988 and focused on
+      information technology investments. Moritz served as a director of Flextron-
+      ics International and Global Village Communication, as well as several private
+      companies. Between 1979 and 1984, Moritz was employed in a variety of posi-
+      tions by Time, Inc. Moritz had an MA degree in history from Oxford University
+      and an MBA from the Wharton School.
+
+      Appendix Selected Excerpts from the Yahoo! Business Plan.
+      Yahoo!’s first business plan was developed by Tim Brady as part of a course
+      project at the Harvard Business School. The plan was continuing to evolve dur-
+      ing discussions between Jerry Yang and David Filo at Yahoo! and Michael
+      Moritz of Sequoia Capital. For this case, the company has provided excerpts of
+      this business plan that are not proprietary.
+           The case writers thank Mr. J. J. Healy, director of corporate development,
+      and others at Yahoo! for their efforts in providing this original archival informa-
+      tion to enhance the learning experience of future entrepreneurs.
+
+      Business Strategy
+      Yahoo!’s goal is to remain the most popular and widely used guide to informa-
+      tion on the Internet. The Internet is in a period of market development char-
+      acterized by extremely high rates of both user traffic growth and entry of new
+      companies focused on various products and services. By virtue of its early entry,
+      Yahoo! has developed its current position as the leader in this segment. Yahoo!’s
+      ability to expand its position and develop long-term, sustainable advantages will
+      depend on a number of things. Some of these relate to its current position and
+      others relate to its future strategy.
+           Today, Yahoo! solves the main problem facing all Internet users. It is next
+      to impossible for users, faced with millions of pieces of information scattered
+                                                                          Yahoo!   533
+
+
+globally on the Internet, to easily find that what is relevant to them without a
+guide like Yahoo! Not only is the amount of information huge, it is expanding
+almost exponentially.
+     All enhancements to Yahoo! will be governed by the goal of making useful
+information easy to find for individuals.
+     We believe that Yahoo’s enormous following has been generated by the
+following list:
+
+■   Yahoo! was the first company to create a fast, comprehensive and enjoy-
+    able guide to the Internet, and in so doing, built a strong brand early and
+    created momentum.
+■   The unique interest-area based structure of Yahoo! makes it an easier and
+    more enjoyable way for the user to find relevant information than the clas-
+    sic search engine approach where key words and phrases are used as the
+    starting point.
+■   Through its editorial efforts, Yahoo! has continually built a guide which
+    is noticeably better than its competition through a combination of
+    comprehensiveness and high quality.
+
+     The company will focus on the directory and the guide business and gener-
+ate revenue from advertising and sponsorship.
+     Yahoo!’s strategy is to:
+
+■   Continue to build user traffic and brand strength on the primary server
+    site through product enhancements and extensions as well as through an
+    aggressive marketing communications program.
+■   Develop and integrate the leading technology required to maintain
+    a leadership position. Underlying the extremely appealing guide is
+    Yahoo!’s scaleable core technology in search engine, database struc-
+    ture, and communication software. These core technologies are relevant
+    to the user’s experience to the extent that it enables Yahoo! customers’
+    access to a broader array of high quality information in an intuitive
+    way, faster than any competitors product. Yahoo! is discussing a full
+    license to advanced web-wide search engine technologies, web-wide
+    index data, and crawler services with Open Text of Waterloo, Canada.
+    Yahoo! will be the first guide with a seamless integrated directory/
+    web-wide search product. The proposed agreement with Open Text also
+    includes ongoing joint development of advanced search and database
+    technologies leveraging the strengths of both companies. All jointly
+    developed products will be distributed by Yahoo! allowing the company
+    to continue to introduce advanced features on a regular and aggressive
+    basis.
+■   Extend the reach to a broader audience through establishment of
+    contractual relationships with Internet access providers such as MSN,
+    America Online, and Compuserve and very popular web sites.
+534   APPENDIX      Cases
+
+
+      ■   Extend the reach and appeal to international users through partnerships
+          with international access providers who can operate foreign mirror sites for
+          Yahoo and add localization in the form of foreign language, local advertis-
+          ers, and local content.
+      ■   Retain the users (“readership”) of Yahoo! through constant enhancements
+          to the content and interface of the guide.
+      ■   Rapidly extend the product line by introducing regional guides, vertical
+          market guides, and more importantly, individually personalizeable guides.
+          Our intention is to be the first to market in all or most of these categories
+          and outrun our competition by constantly “changing the competitive rules
+          and targets.” Our introduction of personalized guides will be a first in the
+          market and will leverage core technology owned both internally as well as
+          through our license with Open Text.
+
+      Market Analysis
+      The Internet, whose roots trace back almost 20 years, is experiencing a period
+      of incredibly rapid growth in the area of online access base and user popula-
+      tion. According to IDC and a recent report by Montgomery Securities, there
+      are approximately 40 million users of the Internet, a majority using it only for
+      email. However, it is estimated that about 8 million people have access to the
+      Internet and World Wide Web. Most of these access the Web from the work-
+      place because of the availability of high bandwidth hardware and communica-
+      tions ports there. It is expected that over the next two to four years as higher
+      bandwidth modems, home-based ISDN lines and cable modems are adopted,
+      that both the growth and penetration of Web access into the home will increase
+      dramatically. IDC estimates that by 2000, 40 percent of the homes and 70 per-
+      cent of all businesses in the United States will have access to the Internet. In the
+      Western European and Japan markets, the comparable penetration rates might
+      be as high as 25 percent and 40 percent respectively. If this holds true, there
+      will be as many as 200 million users on the Internet and Web by the year 2000.
+
+      Market Segmentation and Development
+      We believe that between now and the year 2000 there will be three principal user
+      groups driving the growth of the Web:
+      ■   Large businesses using the Internet for both internal wide area information
+          management and communication as well as intrabusiness communication
+          and commerce.
+      ■   Small home based businesses using it for retrieval of information relevant to
+          the business as well as for vendor communication and commerce.
+      ■   The individual user/consumer using it initially to find and access informa-
+          tion which is relevant to their personal entertainment and learning and later
+          to make purchases of products and services.
+                                                                            Yahoo!   535
+
+
+   We also believe that the evolution of the Internet will include three stages of
+market development:
+■   Availability and proliferation of enabling technology.
+■   Establishment of widespread access and communication services.
+■   Widespread distribution of high value content.
+    We are currently in the first stage of market development consisting pri-
+marily of infrastructure building and including rapid growth in the adoption
+and sale of computer, network, and communication products and entering into
+the second stage involving the initial establishment of “access” service based
+businesses.
+
+Internet Market Size
+Estimates of the amount of current and projected revenue for Internet related
+business vary. However, primary research conducted by both Montgomery
+Securities as well as Goldman Sachs indicate that the total served market for
+Internet hardware, software, and services will total approximately $1B in 1995,
+up from approximately $300M in 1994. Projections are that these categories
+might grow to a total of $10B by the year 2000. Several research firms including
+Forrester and Alex Brown & Sons have estimated the revenues to be produced
+by Web-based advertising at approximately $20M in 1995, $200M in 1996, and
+over $2B by the year 2000.
+
+Market Trends
+During the current, rapidly expanding stages of market and industry develop-
+ment, the following trends are clear:
+■   There is large scale adoption of enabling technology in the areas of network
+    hardware and software, as well as communication hardware and software.
+    The World Wide Web with its inherent support of multimedia begs for
+    the adoption of higher and higher bandwidth platform and communication
+    hardware and software.
+■   Telecommunication companies and newly entering Internet access providers
+    are rushing to put in place basic “hook-ups” in high bandwidth form.
+■   The price for high-speed computer and communication “port” hardware
+    and software of adequate bandwidth to support acceptable levels of trans-
+    port and display is still somewhat high. Partly for this reason, the adop-
+    tion of fully capable ports onto the Web is still principally occurring at
+    businesses.
+■   With the availability of 28.8K baud modems, ISDN lines and high
+    performance/low price personal computers, home adoption of
+    Internet access is on the rise and slated to have extremely high growth
+    over the next five years. Adoption of cable modems could accelerate this
+    trend.
+536   APPENDIX      Cases
+
+
+      ■   Formerly closed network online services such as America Online, Com-
+          puserve, and Prodigy are now offering Internet access and opening up their
+          services. Other companies such as Microsoft as well as divisions of MCI,
+          AT&T, and others are attempting to put in place Internet online services in
+          which a range of programming content is presented.
+      ■   Companies such as Yahoo! which provide means to navigate the Web are
+          growing rapidly as measured by amount of end user traffic.
+      ■   These high traffic sites already provide a high volume platform for
+          delivering electronic advertising.
+          During this stage, and sustainably for all stages to come, there is one funda-
+      mental need which users have: The location of meaningful information easily and
+      quickly on this large and exponentially growing source called the Internet.
+      Competition
+      Yahoo! intends to effectively beat any emerging competitors by:
+      ■   Establishing broader distribution earlier than any other competitor in order
+          to maintain the Yahoo! guide as the most widely used in its class.
+      ■   Broadening the product line faster than the competition through the intro-
+          duction of vertical market focused guides and personalizeable editions of
+          the guide.
+      ■   Staying ahead of the competition with regular core product updates which
+          continue to make it faster, easier to use, and more effective.
+      ■   Delivering high quality audiences and compelling results to advertisers.
+
+      Risks
+      The main risks facing Yahoo! are:
+      ■ The ability to increase traffic and enhance the Yahoo! brand. Management
+          believes it can achieve both these goals.
+      ■ Ability to introduce key new products faster and better than the competi-
+          tion. We believe that our current core technologies and platform will allow
+          us to do this if supplemented by funded expansion of product development
+          and marketing functions.
+      ■ Ability to develop an international presence and leading brand internation-
+          ally before the competition. At the present time, Yahoo! is being pursued
+          by a number of very high visibility and capable international affiliates. The
+          funded addition of limited marketing and business development resources
+          will allow us to respond to these opportunities in a timely way.
+      ■ The introduction of competitive products internally developed by access
+          providers. While there is no assurance that this will not happen, we have
+          secured relationships with several of the leading providers already in which
+          the Yahoo! product is featured and are in advanced discussions with others.
+                                                                            Yahoo!   537
+
+
+    We believe that many of the access providers already respect Yahoo!’s
+    strong brand, comprehensive guide and focus and are concluding that they
+    will not be inclined to reinvent this late in lieu of a mutually favorable
+    affiliate business relationship with Yahoo!.
+■   Ability to scale our support of both the traffic through our main site as well
+    as mirror sites of our affiliates. If the demands of traffic outgrow the band-
+    width of servers we install, then response rates might go down and lead to
+    customer dissatisfaction. Yahoo! has successfully scaled and operated its
+    server site. We believe we will be able to support the needed growth.
+■   That the growth of the Internet industry as a whole slows significantly, or
+    that the adoption of the Web as a significant platform for advertising does
+    not grow as projected. These are both out of Yahoo!’s control. However,
+    the company believes that the industry is in a secure phase of adoption
+    which should fuel growth.
+
+Yahoo!’s sustainable advantages
+The Internet is in a period of market development characterized by extremely
+high rates of both user traffic growth and entry of new companies focused on
+various products and services. By virtue of its early entry, Yahoo! has developed
+its current position as the leader in its segment. Yahoo!’s ability to sustain and
+grow its position will depend on a number of things. Some of these relate to its
+current core advantages and others relate to future execution of its strategy.
+     At present, Yahoo!’s core strategic advantages include:
+■   It’s strong brand. The company executed early and well with its unique,
+    context focused, quick and intuitive guide and benefited from the wide-
+    spread adoption of the Yahoo! product. The guide is the standard in the
+    world of Web navigation.
+■   Yahoo!’s scalable core technology in search engine, database structure,
+    and communication software. These core technologies are relevant to the
+    user’s experience to the extent that it enables the Yahoo! customer’s access
+    to a broader array of high quality information in an intuitive way, faster
+    than any competitor’s product.
+538   APPENDIX           Cases
+
+
+      BARBARA’S OPTIONS
+      Introduction
+      Barbara Arneson strolled through the campus of the University of Maryland at
+      College Park on a Spring evening in 2014. She often came to the quad at the end
+      of a day for some quiet reflective time. Tonight she was mulling over her career
+      options and the path her life would take in the next few years. Graduation was
+      only five days away, and tomorrow Barbara would pick up her parents at the air-
+      port for a short visit and the ceremony. She hoped to be able to share her career
+      decision with them and then relax over the next few days.
+           Having completed an undergraduate degree in biology a year prior, Barbara
+      would soon be receiving her masters degree in computer science from Maryland
+      before beginning a career in high technology. Barbara felt lucky that she had
+      been offered a number of career options, thanks to the strong high-tech economy
+      and growth of investment in the new field of bioinformatics, which applied soft-
+      ware and Internet technology to the process of identifying and using genetic
+      information for the life sciences industries. Barbara’s personal objective was to
+      work in product development and eventually move into management and maybe
+      someday start her own company. As an interim step, she thought she might
+      return to graduate school for an MBA in a few years.
+           On this beautiful evening, however, Barbara had to make a decision between
+      two attractive job offers.
+
+      Barbara’s Dilemma
+      Barbara had interviewed extensively with high-technology companies, and had
+      decided BioGene Systems, Inc., and InterWeb Genetics Corp. were her top
+      choices. She had hoped to receive an offer from at least one of them, but had
+      received offers from both. Now she had a tough decision.
+           BioGene was a 7-year-old company that was successful and had grown rap-
+      idly. Its product-development group was highly regarded technically, and Rasha
+      Motwani, to whom Barbara would report, had more than 10 years of develop-
+      ment experience in several product areas in which Barbara was interested. She
+      liked Rasha and felt she would learn a lot from her.
+           InterWeb was a start-up that had been funded about a year ago by two ven-
+      ture capital investors, both of whom had successfully funded technology com-
+      panies. The InterWeb team was hard at work on its first product, which would
+
+      This case was created and revised by various instructors and teaching assistants at Stanford University.
+      This case is prepared as basis for class discussion rather than to illustrate effective or ineffective handling
+      of a situation. This case is based on a combination of experiences rather than on a particular person.
+      Copyright © 2014 by the Board of Trustees of the Leland Stanford Junior University and Stanford Tech-
+      nology Ventures Program (STVP). No part of this publication may be reproduced, stored in a retrieval
+      system, used in a spreadsheet, or transmitted in any form or by any means—electronic, mechanical,
+      photocopying, recording, or otherwise—without the permission of Stanford Technology Ventures
+      Program.
+                                                                   Barbara’s Options   539
+
+
+launch in about a year. Barbara would be joining a team of about 10 engineers,
+most of whom had extensive experience in the areas relating to the product they
+were developing. The technical team leader was Robert Jackson, one of the com-
+pany founders, who was only a few years older than Barbara and had a reputa-
+tion as a technical “visionary.”
+     Barbara had been trying to decide for several days. As she strolled toward
+her dorm, she reflected on her thoughts. “Okay, I’ve been trying to make a deci-
+sion on the basis of my key priorities, namely the types of projects I would be
+working on, the quality of the people I would be working with, and the oppor-
+tunities for personal growth. Although BioGene and InterWeb are not directly
+comparable—each has potential strengths and weaknesses—the fact is that I
+think I would be equally happy with either one. For me, the decision is a toss-
+up. I guess the only way to determine which is better is to evaluate the financial
+offers. Because both proposed similar salaries and benefits, that means analyz-
+ing the stock option offers.”
+
+The Stock Option Packages
+Not all companies offer stock options to new college graduates. Because of Bar-
+bara’s success at school and a hot job market in bioinformatics, both BioGene and
+InterWeb had included a stock option package in their offers.
+     A stock option gives an individual the right to purchase, during a fixed time
+period called the “term,” a certain number of shares of stock from the company
+at a fixed price, called the “exercise price.” The option expires at the end of the
+term, but it can be “exercised” (or bought) all or partially during the term, usu-
+ally subject to certain conditions such as “vesting.” Options have no financial
+risk to the employee—if the value of the stock remains below the exercise price,
+he or she need not ever exercise the option.
+     BioGene had offered Barbara options for 6,000 shares at an exercise price of
+$16.00 per share. BioGene had gone public in June 2008 at $10 per share, and
+the stock was currently selling for roughly $16. In extending the offer to Barbara,
+Karen Hershfield, manager of recruiting for BioGene, had said, “We have a proven
+record of rapid, profitable growth, and we expect that kind of growth to continue.
+You should receive a handsome return on this option package.”
+     InterWeb had offered 60,000 shares at an exercise price of $0.10 per share.
+Because the company was private, this price reflected a favorable pricing deci-
+sion at the time of the venture capital investment received by the company. Rob-
+ert Jackson, in discussing the offer with Barbara, had commented, “The great
+thing about going with a start-up is that if it is successful, everybody gets rich.
+Our business plan shows that we should be in a position to do our IPO (initial
+public offering) in 3 or 4 years, and because companies usually go public at $10
+to $15 per share, you can see that this option could be worth almost a million
+dollars!”
+     Both options had identical restrictions. Vesting was 25% per year with a
+term of 4 years. This meant that at the end of one year of employment, Barbara had
+540   APPENDIX     Cases
+
+
+      the right to exercise 25% of the shares at her discretion any time. At the end of
+      two years of employment, she would vest for another 25%, and so on. If at any
+      time she left the company, she could, within 90 days, exercise any options for
+      which she was vested, but any unvested options would terminate. Any unexer-
+      cised portion of the option would expire at the end of 10 years from the start of
+      employment.
+           Having decided that she would be equally satisfied with joining either com-
+      pany, Barbara was understandably excited by the prospect of big financial gains
+      on stock options. She had even begun day-dreaming about what she could do
+      with a financial windfall—travel abroad for a year, buy a new car for her par-
+      ents, and pay for an MBA without worrying about 2 years of no salary and huge
+      loan payments. Because she had learned a lot about financial analysis in her
+      entrepreneurship courses, she had obtained and analyzed financial data from
+      both companies, as shown in Exhibits 1 and 2. She also had analyzed the oppor-
+      tunity and strategies of both companies, and felt each had excellent prospects of
+      achieving its objectives. She had examined stock market data for public high-
+      tech companies and knew that the price/earnings (PE) ratios of bioinformatics
+      companies averaged 25. InterWeb had offered a lot more shares than BioGene,
+      but there was a higher element of risk. She knew that many start-ups failed to be
+      successful.
+           She recalled that autumn day 5 years ago when her parents had dropped her
+      off at school for the start of her freshman year. When she picked them up at the
+      airport tomorrow, she wanted to share her career decision with them and make
+      them proud of her.
+
+      Questions
+      1. What is the number of shares outstanding at BioGene as of May 31, 2014?
+         What is its current PE ratio? Why do you think it is higher than the cur-
+         rent average of other bioinformatics companies (Hint: consider the recent
+         annual growth rates of revenues and profits)?
+      2. What is Barbara’s potential percentage ownership in each firm?
+      3. Compare the firms in 4 years (i.e., 2018) when the stock options will be
+         fully vested. Assuming Barbara remains employed until that time, which
+         stock option offer is better? Make sure to include the cost of the stock
+         options and state all critical assumptions.
+      4. In addition to compensation matters, what other factors would you suggest
+         Barbara consider in making her decision?
+                                                                                    Barbara’s Options    541
+
+
+EXHIBIT 1 BioGene Systems profit and loss history.
+                                    FY10           FY11           FY12           FY13          FY14
+Revenue:                            10.1           17.1           25.6           42.4           74.6
+Cost of revenue                      4.0            6.8           10.2           17.0           29.8
+Gross margin                         6.1           10.3           15.4           25.4           44.8
+Expenses:
+Engineering                          1.2            2.1            3.1             5.1           9.0
+Marketing                            2.5            4.3            6.4           10.6           18.7
+G&A                                  0.6            1.0            1.5             2.5           4.5
+Total expenses                       4.3            7.4           11.0           18.2           32.2
+Pretax profit                        1.7            2.9            4.4             7.2          12.7
+Taxes                                0.7            1.2            1.7             2.9           5.1
+After-tax profit                     1.0            1.7            2.6             4.3           7.6
+EPS (earnings per share)            $0.06          $0.08          $0.12          $0.19          $0.33
+Note: (1) All numbers in millions except EPS. (2) Stock is traded on NASDAQ. Closing price on
+5/31/14 was $16.25. (3) End of fiscal year for 2014 is June 30. FY14 numbers are estimates by stock
+market analysts and consistent with guidance by management.
+
+
+
+
+EXHIBIT 2 InterWeb proforma profit and loss projections from business plan.
+                        FY13           FY14          FY15          FY16           FY17         FY18
+Sales                     0.0              0.0        5.0           20.0           41.0         62.0
+Cost of sales             0.0              0.0        2.0             8.0          16.4         24.8
+Engineering               0.7              1.0        1.5             2.4           4.9           7.4
+Marketing                 0.3              0.5        1.3             5.0          10.3         15.5
+G&A                       0.1              0.2        0.3             1.2           2.5           3.7
+Total expenses            1.1              1.7        3.1             8.6          17.7         26.6
+Pretax profit           21.1          21.7            0.0             3.4           7.0         10.5
+Taxes                     0.0              0.0        0.0             0.2           2.8           4.2
+After-tax profit        21.1          21.7            0.0             3.2           4.2           6.3
+Note: (1) 118.6 million shares outstanding as of 5/31/14. Management’s business plan requires no addi-
+tional venture capital or other funding. (2) End of fiscal year for 2014 is June 30.
+542   APPENDIX          Cases
+
+
+      ARTEMIS IMAGES
+      Christine Nazarenus tried to retain her optimism. Thirteen had always been
+      a lucky number for her, but Friday, the thirteenth of July, 2001, had the
+      earmarks of being the unluckiest day of her life. She was more than disap-
+      pointed. She was shattered. Yet she knew that she had hard facts, not just
+      gut feel, that offering images and products on the World Wide Web was
+      the wave of the future. She was sure that the management team she had put
+      together had the creativity and skills to turn her vision into reality. Man-
+      aging her own company had seemed the obvious solution, but she hadn’t
+      counted on how overwhelming the start-up process would be. Now, two
+      years later, she was trying to figure out what went wrong and if the company
+      could survive.
+           It had been so clear on day one. Archived photographs and images had
+      tremendous value if they could be efficiently digitized and catalogued. Sports
+      promoters and publishers had stores of archived information, most of it inac-
+      cessible to those who wanted it. Owners and fans represented only part of the
+      untapped markets that the Internet and digital technology could serve. She had
+      conceived a simple business model: digitize documents using the latest tech-
+      nology, tag them with easy-to-read labels, and link them to search engines for
+      easy retrieval and widespread use. But over the ensuing months, so many fac-
+      tors affected the look, feel and substance of the company that Artemis Images
+      would become.
+           So many things seemed outside her control that she wondered how she
+      could have been so sure of herself back in February of 1999. Enthusiasti-
+      cally, Chris had approached a number of friends and acquaintances to help
+      in the formation of a new “dot.com” company that seemed a sure bet. Frank
+      Costanzo, a former colleague from Applied Graphics Technologies (AGT),
+      shared Chris’s enthusiasm, as did long-time friend George Dickert. George,
+      in turn, contacted Greg Hughes, who was enrolled in a Business Planning
+      course. Grateful for the opportunity to help launch a real company, Greg
+      took the idea and honed it as part of a class assignment. The plan was a con-
+      firmation of Chris’s confidence in the venture. But as she looked over the
+      original plan, she knew there was a lot of work yet to do. Greg understood
+      the business idea, but he didn’t understand the work involved to actually run
+      a business. George and Frank understood digital technology and project man-
+      agement, but, like Chris, had never launched, much less worked for, a start-
+      up company. Chris knew that she had the technology and talent she needed
+
+      © 2002 by Joseph R. Bell, University of Northern Colorado, and Joan Winn, University of Denver.
+      Published in Entrepreneurship Theory & Practice, 28(2) Winter 2003. The authors wish to thank Chris
+      Nazarenus and the staff of Artemis Images for their cooperation in the preparation of this case. Special
+      thanks to Herbert Sherman, Southampton College, Long Island University, and Dan Rowley, University
+      of Northern Colorado. This case is intended to stimulate class discussion rather than to illustrate the
+      effective or ineffective handling of a managerial situation. All events and individuals in this case are
+      real, but some names may have been disguised.
+                                                                    Artemis Images   543
+
+
+and felt confident that the four friends could construct a business model that
+would put Artemis ahead of the current image providers. Greg’s business
+plan looked like the perfect vehicle to appeal to investors for the funds they
+needed to proceed.
+
+The Business Idea
+In 1999, Chris had been working for three years as VP-Sales out of the Colorado
+office of AGT, a media management company that provided digital imaging
+management and archiving services for some of the largest publishers and adver-
+tisers in the world. AGT had sent Chris to Indianapolis to present a content man-
+agement technology solution to the Indianapolis Motor Speedway Corporation
+(IMSC) as it prepared marketing materials for the 2001 Indy 500. IMSC is the
+host of the 80-plus-year-old Indy 500, the largest single-day sporting event in
+the world, NASCAR’s Brickyard 400, the second-largest single-day sporting
+event in the world, and other events staged at the track. Chris’s original assign-
+ment was a clear one: IMSC needed to protect its archive of photographs, many
+of which had begun to decay with age. The archive included five million to
+seven million photographs and dynamically rich multimedia formats of video,
+audio, and in-car camera footage.
+     Chris discovered that the photo archives at IMSC were deluged with
+requests (personally or via letters) from fans requesting images. She was
+amazed that a relatively unknown archive had generated nearly $500,000 in
+revenues in 1999 alone. Further discussions with IMSC researchers revealed
+that requests often took up to two weeks to research and resulted in a sale of
+only $60 to $100. However, IMSC was not in a position, strategically or finan-
+cially, to acquire a system to digitize and preserve these archives. Not willing
+to leave the opportunity on the table, Chris asked herself, “What is the value of
+these assets for e-commerce and retail opportunities?” Without a doubt, IMSC
+and some of her other clients (Conde Nast, BBC, National Motor Museum)
+would be prime customers for digitization and content management of their
+collections.
+     Chris knew that selling photos on the Internet could generate substan-
+tial revenue. She conceived of a business model where the system would be
+financed through revenue-sharing, rather than the standard model where the
+organization paid for the system up front. IMSC was interested in this arrange-
+ment, but it was outside the normal business practices of AGT. AGT wanted
+to sell systems, not give them away. They couldn’t see the value of managing
+other organizations’ content.
+     As Chris told the story, her visit to the archives at IMSC was her Jerry
+Maguire experience. In the movie, Jerry is sitting on the bed when everything
+suddenly becomes clear and now he must pursue his dream. Like Jerry, Chris
+believed so passionately that her idea would bear fruit that when AGT turned
+down Chris’s request for the third time, she quit her job to start Artemis Images
+on her own.
+544   APPENDIX        Cases
+
+
+      Building a Team
+      When AGT was not interested in Chris’s idea of on-site digitization and sale of
+      IMSC’s photo archives, Chris was not willing to walk away from what she saw
+      as a gold mine. She contacted her friends and colleagues from AGT. Swept up
+      in the dot.com mania, Chris named her company “e-Catalyst.” e-Catalyst was
+      incorporated as an S-corporation on May 3, 1999, by a team of four people:
+      Christine Nazarenus, George Dickert, Frank Costanzo, and Greg Hughes. (See
+      Exhibit 1 for profiles of these partners.) Expecting that they would each con-
+      tribute equally, each partner was given a 25 percent interest in the company.
+      Chris fully expected them to work as a team, so no formal titles were assigned,
+      largely as a statement to investors that key additions to the team might be needed
+      and welcomed. As another appeal to potential investors—and to broaden the
+      team’s expertise—Chris and George put together a roster of experts with content
+      management, systems and technology experience as their first advisory board.
+      Greg’s professor and several local business professionals agreed to serve on the
+      board of advisors, along with an Indy 500 winning driver-turned-entrepreneur,
+      and Krista Elliott Riley, president of Elliott Riley, the marketing and public
+      relations agency that represented Indy 500 and Le Mans Sports Car teams and
+
+      EXHIBIT 1 Artemis Images management team 1999–2000.
+      Christine Nazarenus, 34, was formerly vice president of national accounts for AGT, one of
+      the top three content management system providers in the world securing million dollar deals
+      for this $500 million company. She is an expert in creating digital workflow strategies and
+      has designed and implemented content management solutions for some of the largest corpo-
+      rations in the world including Sears, Conde Nast, Spiegel, Vio, State Farm, and Pillsbury.
+      Ms. Nazarenus has extensive general management experience and has managed a division of
+      over one hundred people. Chris holds a BA in communications from the University of Puget
+      Sound.
+          George Dickert, 32, most recently worked as a project manager for the Hibbert Group, a
+      marketing materials distribution company. He has experience with e-commerce, Web-enabled
+      fulfillment, domestic and international shipping, call centers and CD-ROM. He has over-
+      seen the implementation of a million-dollar account, has managed over $20 million in sales,
+      and has worked with large companies including Hitachi, Motorola, ON Semiconductor, and
+      Lucent Technologies. Mr. Dickert has an MBA from the University of Colorado. George and
+      Christine have been friends since high school.
+          Frank Costanzo, 40, is currently a senior vice president at Petersons.com. Petersons.com
+      has consistently been ranked as one of the top one hundred sites worldwide. Mr. Costanzo is
+      an expert in content management technology and strategy and was previously a vice presi-
+      dent at AGT. Mr. Costanzo has done in-depth business analysis and created on-site service
+      solutions in the content management industry. He has worked on content management solu-
+      tions for the world’s top corporations including General Motors, Hasbro, Bristol-Meyers
+      Squibb, and Sears.
+          Greg Hughes, 32, is currently a senior sales executive with one of the largest commercial
+      printers in the world. Mr. Hughes has 10 years’ sales experience and has sold million-dollar
+      projects to companies like US West, AT&T, R. R. Donnelly, and MCI. His functional exper-
+      tise includes financial and operational analysis, strategic marketing, fulfillment strategies
+      and the evaluation of start to finish marketing campaigns. Mr. Hughes has an MBA from the
+      University of Colorado.
+                                                                     Artemis Images   545
+
+
+drivers. Chris felt confident that her team had the expertise she needed to launch
+a truly world-class company.
+     Chris and George quit their jobs and took the challenge of building a com-
+pany seriously. They contacted one of the Rocky Mountain region’s oldest and
+most respected law firms for legal advice. They worked with two lawyers, one
+who specialized in representing Internet companies as general counsel and
+one who specialized in intellectual property rights. With leads from her many
+contacts at AGT, Chris contacted venture capitalists to raise money for the
+hardware, software licensing, and personnel costs of launching the business.
+     The dot.com bust of 2000 did not make things easy. Not wanting to look
+like “yet another dot.com” in search of money to throw to the wind, Chris and
+her team changed their name to Artemis Images. Artemis, the Greek goddess of
+the hunt, had been the name of Chris’s first horse as well as her first company,
+Artemis Graphics Greeting Cards, her first entrepreneurial dabble at the age of
+16. Chris had always been enthralled with beautiful images.
+
+Artemis Images’s Niche
+In her work at AGT, Chris had observed that many organizations had vast stores
+of intellectual property (photos, videos, sounds and text), valuable assets often
+underutilized because they exist in analog form and may deteriorate over time.
+Chris’s vision was to preserve and enable the past using digital technology and
+the transportability of the World Wide Web. Chris envisioned a company that
+would create a digitized collection of image, audio and video content that she
+could sell to companies interested in turning their intellectual property into a
+source of revenue.
+     Publishers and sports promoters were among the many organizations with
+large collections of archived photos and videos. Companies like Boeing, General
+Motors, and IMSC are in the business of producing planes, cars, or sporting events,
+not selling memorabilia. However, airplane, car, and sports fans are a ready market
+for photos of their favorite vehicle or videos of their favorite sports event.
+     Proper storage and categorization of archived photos and videos is complex
+and expensive. In 2000, the two common solutions were to sell the assets out-
+right or to set up an in-house division devoted to managing and marketing them.
+Most organizations were unwilling to sell their assets, as they represented their
+priceless brand and heritage. Purchasing software and hiring specialized person-
+nel to digitize and properly archive their assets was a costly proposition that
+lay beyond the core competence of most companies. Chris’s work with AGT
+convinced her that there were literally thousands of companies with millions
+of assets that would be interested in a company that would digitize and manage
+their photo and video archives.
+     Chris understood a company’s resistance to selling its archives, and the
+high cost of obtaining and scanning select images for sale. However, she also
+understood the value to an organization of having its entire inventory digitized,
+thus creating a permanent history for the organization. She proposed a revenue
+546   APPENDIX      Cases
+
+
+      sharing model whereby Artemis Images would digitize a client’s archives but
+      would not take ownership. Instead, her company would secure exclusive license
+      to the archive, with 85 percent of all revenue retained by Artemis Images and 15
+      percent paid to the archive owner. She expected that the presence of viewable
+      archives on the Artemis Images website would lure buyers to the site for subse-
+      quent purchases.
+           The original business model was a “B2C” (business-to-consumer) model.
+      Starting with the IMSC contract, Artemis Images would work with IMSC to
+      promote the Indy 500 and draw the Indy race fans to the Artemis Images website.
+      Photos of the current-year Indy 500 participants—and historical photos includ-
+      ing past Indy participants, winners, entertainers, celebrities (e.g., Arnold Palmer
+      on the Indy golf course)—would be added to IMSC’s archived images and sold
+      for $20 to $150 apiece to loyal fans. A customer could review a variety of photo
+      options on the Artemis website, then select and order a high-resolution image.
+      The order would be secured through the Web with a credit card, the image trans-
+      ferred to the fulfillment provider, and a hard copy mailed to the eager recipient.
+      The website was sure to generate revenue easier than IMSC’s traditional sales
+      model of the past.
+           Having established the model with IMSC content in the auto racing market,
+      Chris and George built the business plan around obvious market possibilities that
+      might appeal to a wider range of consumers and create a comprehensive resource

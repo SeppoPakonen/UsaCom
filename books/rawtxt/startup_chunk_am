@@ -1,0 +1,1000 @@
+      Invites more users to the product to test the acquisition and activation
+       tactics
+     Architected to deliver customer and product behavior data
+
+Exit criteria:
+      A High Fidelity MVP, which will be used to generate a steady stream
+       of customer and product behavior data to refine the business model
+       and product
+Get Ready to Sell: Build a Metrics Toolset
+
+
+
+
+      Web/mobile businesses focus on data collection, analysis and
+optimization from the day they go live till the day the doors close. A
+web/mobile startup’s conversion funnel monitors customers through their
+entire life cycle. The entire process is driven by a never-ending campaign to
+test, measure, and optimize every step in the funnel, from awareness to
+purchase. It’s a 24/7 process of “try it, measure it, tweak it.”
+
+Web/mobile businesses focus on data collection,
+analysis and optimization from the day they go live
+til the day the doors close.
+     The products you build should be instrumented to measure every click
+on the website or app, its source, and the action it causes or doesn’t. As a
+result, the management team should have at its fingertips a dashboard that
+summarizes every key, actionable user behavior, and delivers insights and
+trends that drive continual business improvement. There are two parts to
+building a metrics tool set:
+
+    determining which key business metrics need to be measured
+    developing a dashboard or system to collect and monitor the data
+
+Key Metrics to Measure
+Long before the web was born, 19th-century retailer John Wanamaker of
+Philadelphia summarized the challenge that online and mobile marketers
+would face nearly two centuries later: “I know I’m wasting half of my
+advertising budget. I only wish I knew which half.” In the web/mobile
+channels, this process is far easier than it was for Wanamaker’s newspaper
+and radio ads, because every click and consumer action can be recorded.
+Determining what to measure is where the process begins.
+     Using your customer relationships hypotheses, identify the metrics for
+success in the business model. Prioritize and limit the number of metrics to
+fewer than a dozen, and the only metrics to be measured are those that can be
+acted on or improved. Think: “how many, how fast, how much, and how
+good?”
+
+    How many customers are acquired, and how many of those are
+    activated? (And how many are lost? And where in the purchase process
+    do you lose them?)
+    How fast do they arrive and how fast do they activate? After one page
+    view or visit, or 20 of either?
+    How much does each acquisition and activation cost?
+    How good are the customers who are being acquired? Active users/
+    spenders who return again and again or visitors with no “stickiness” at
+    all?
+       Metrics to Measure, in the “Get Customers” Funnel Web/Mobile
+                            Channels (Figure 8.9)
+
+    For consistency’s sake, consider organizing the metrics the way the sales
+funnel is organized—by acquisition and activation metrics. For example:
+
+Acquisition metrics:
+     Total number of visits by visitor type, time of day, and source, and page
+     views per visit
+     Paid and referred traffic conversion rates by source (how many links or
+     banners, and at what cost, to generate one visitor or user) and cost per
+     acquired/activated user
+     Quantities and percentages of referred traffic by source
+     Unique behaviors or actions of subsets or segments of the customer
+     universe
+
+I know I’m wasting half of my ad budget. I only
+wish I knew which half...
+
+Activation metrics
+
+     Total number of activations: another percentage of hourly/daily/weekly
+     acquisitions
+     Number/percentage of activations, tracked back to the original source
+     Number/percentage/cost per activation, based on quality (heavy users
+     and big spenders or modest spenders and inactive users?), wherever
+     identifiable, preferably by source
+     Number of visits, page views, referrals per activated user, by source and
+     by cost
+
+     Activation metrics also capture user behavior for assessment and
+improvement. Typical behavior metrics include the number and percentage of
+people who download or otherwise activate, register or engage within a
+certain number of visits or page views.
+     Monitor people who take an activation action, like watching a demo, and
+then don’t activate, as well as those who abandon during the enrollment or
+registration process. Again, the list is endless, so be careful not to measure
+more than the team can manage or improve on effectively.
+     This list is the tip of a huge iceberg. Focus on the ones that help you
+understand customer behavior to efficiently drive acquisition and activation
+and ultimately drive revenue!
+
+
+
+
+          “Grow Customer” Referrals happen through “Viral loops.”
+                              (Figure 8.10)
+
+Referral Metrics
+     Referral metrics are important because recommendations from existing
+customers are the most cost-effective source of new customers. Key referral
+metrics are:
+
+     number and percentage of users referred
+     average number of prospects existing customers
+     referral acceptance rate
+
+     Assess referral incentive programs to determine which incentives
+motivate the most new users to refer others and the cost per referral.
+     At this point in the customer validation process, it’s too early to worry
+much about customer retention (discussed in depth in Phase 2), since the
+company’s overwhelming early focus is on getting its first customers. When
+designing the metrics system, make sure it can accommodate metrics that will
+be needed later to monitor retention and referral, including user cohorts
+described in detail in Phase 2.
+
+Use a dashboard or system to collect and monitor
+data
+Your startup’s future lies in its customer acquisition, activation and retention
+data. This is so important that many web businesses actually display their
+real-time site-performance data on a jumbo flat-screen monitor in the office
+so that it’s always the center of attention. Off-the-shelf dashboard systems are
+available, and home-grown solutions are readily built using tools as simple as
+Excel.
+
+Be careful not to overdo it with metrics. A small
+number of metrics tell the overall “health” story of
+the business.
+    Be careful not to overdo it with metrics. Generally, a relatively small
+number of metrics tell the overall “health” story of the business, so resist the
+temptation to generate complex, overwhelming collections of data that take
+management eyes off the key issues. Those issues usually revolve around
+“how many, how much, how fast”: how many customers are activated (or
+lost), at what cost, and how quickly. Good CEOs have these key statistics as
+well as their improvement trends and key drivers at their fingertips and can
+recite them almost on cue. Equally important, they can be measured on a
+whiteboard or a simple spreadsheet.
+      The metrics you use to measure and monitor your business ought to be
+the same ones you and your board are looking at during board meetings. If
+they’re only asking you for income statement, balance sheet and cash flow
+and not looking at these numbers, you’ve failed as a CEO. It’s your job to get
+your board to agree that the numbers you’re worrying about are the numbers
+they’re worrying about.
+      Figure 8.11 shows a dashboard for a simple content site where the
+business goals are increased page views, customer referrals, and e-mail
+delivery.
+                  Example of a Simple Dashboard (Figure 8.11)
+
+     In the next step, if your startup doesn’t already have one, you’ll recruit
+and install a “data chief” to manage the data and its interpretation. He’ll also
+quarterback the company’s plan to use that data to drive continuous
+improvement in the way customers discover, engage with, and use the
+product and how they help sell it to their friends and colleagues.
+Checklist 30: Build Metrics Toolset
+Goal: Determine which key business metrics to measure and develop a
+system or dashboard for collecting and monitoring data
+
+Reference: Chapter 8, Customer Validation Phase 1: Get Ready to Sell
+
+   12 key metrics identified: Basic visit metrics (page views, unique
+   visitors, pages/visit)
+     Acquisition activities and behaviors
+     Activation activities and behaviors
+     Referral activities and behaviors
+
+  Dashboard created or purchased to collect and monitor data
+    Focused on key metrics, not all metrics
+    Easy, at-a-glance format
+      Able to accommodate metrics needed later to monitor retention and
+      referral, including user cohorts
+
+Exit criteria:
+      List of key metrics to measure for customer acquisition, activation and
+       referral efforts
+      System for monitoring metrics near real-time
+Get Ready to Sell: Hire a Data Analytics Chief
+
+
+
+
+    In a startup that’s selling physical goods, it was the founders who first had
+to find the sales roadmap and then hired a sales closer to assist them.
+Likewise, a web/mobile company needs a dedicated data analytics chief after
+the founders have discovered the key customer acquisition and activation
+metrics. The analytics chief will drive “continuous improvement,” not just in
+the customer validation process but in perpetuity.
+
+The analytics chief will drive “continuous
+improvement,” not just in the customer validation
+process but in perpetuity.
+      At first, one of the founders may take on this role. (Extra credit if he’s
+an experienced “data junkie,” statistical analyst, or “quant” who loves to
+collect and pore over data, looking for anomalies, opportunities, trends and
+weaknesses.) Whether the person’s called the chief marketing officer, the
+data analytics chief, the database or online marketing director, or just plain
+“founder” is irrelevant. Agility with numbers and tools are critical job skills,
+as is innate curiosity. Also required: the “clout” to make things happen in the
+company once the data shows that something isn’t happening per plan and
+requires a pivot. Responsibilities include:
+
+     online optimization of targeted campaigns, managing all aspects of
+     customer behavior reporting, tracking, analysis, and optimization
+     management of all internal research, sponsorship, lead generation, and
+     promotion programs
+     development and management of plans, budgets costs and results of
+     marketing programs
+     management of budgets, forecasts, tracking and administration of
+     program costs and results
+     assuring the data is available to all key team members
+
+     If this person is not a founder, he or she must be a part of the senior
+management team, reporting to and updating it regularly. He or she should be
+hired as early as possible, ideally in time to participate in development of the
+dashboard system and selection of the metrics it will track. He or she must
+fully understand the business model and key business drivers, as he or she
+will be a loud voice driving pivots and iterations. The person must be a good
+collaborator, easy to work with, and highly creative—a rare combination.
+
+This person must be a part of the senior
+management team.
+
+    Agree on how often the CEO should be briefed. The management team?
+The entire staff? Remember to focus the person on prioritizing and collecting
+only key, actionable data, not reams of useless information. Craft both
+compensation and confidentiality/no-compete agreements with this person,
+who will know more about the company’s business drivers than virtually
+anyone else. Losing this person prematurely can be a major setback.
+Checklist 31: Hire a Data Analytics Sales Chief
+Goal: Have a dedicated analytics expert on the senior management team
+
+Reference: Chapter 8, Customer Validation Phase 1: Get Ready to Sell
+
+  Analytics chief identified
+    Agility with numbers and analytics tools
+    Innate curiosity
+    Highly creative
+    Good collaborator
+    Easy to work with
+    Clout to make things happen when a pivot is required
+
+  Reporting schedule devised
+
+Exit criteria:
+       Data Analytics expert hired to drive continuous improvement for the
+       company
+Get Ready to Sell: Formalize the Advisory Board
+
+
+
+
+Hopefully, you’ve asked for help from advisers on an informal basis in
+customer discovery. In this phase, it’s time to formally engage them. There
+are no hard and fast rules for how large an advisory board should be or
+whether it should be a “board” at all. Basically, you want two things from
+advisors: great introductions you can’t get any other way to key customers,
+talent or investors; and bold, out-of-the-box business model design thinking
+that will have dramatic impact on your strategy. All the rest is window
+dressing.
+      Think strategically, not tactically, about advisors’ reach and sphere of
+influence. Recruit only advisors who will make a serious impact on the
+company in one way or another—think quality, not quantity. (If you’re
+raising money having a cloud of “impressive names” may help, but don’t
+confuse them with these people.) Formal advisory board meetings aren’t
+required, at least for now, but this process should deliver access to experts
+who can help.
+      Begin by assembling an advisory board road map, much like the
+collateral roadmap developed earlier. As shown in Table 8.3, the roadmap is
+an organized list of the key advisors needed. (Don’t feel compelled to put
+advisors in every box on the chart.)
+      In this example, the roadmap differentiates how each advisor will be
+used (technical, business, customer, industry or marketing). Usually, the most
+important advisors your startup can have are the ones with “golden
+rolodexes” who can make high-level introductions to early customers,
+channel partners, or partners who can deliver significant web traffic. Product
+Development may need technical advisors as early as Phase 1 of customer
+discovery. The technical advisory board is staffed with advisors from
+academia or industry who can offer technical advice and pointers to technical
+talent. As the company begins to sell product, these advisors are used as
+technical references for customers.
+     Where possible, particularly in enterprise sales situations, put key
+potential customers on the customer advisory board. These are people met in
+customer discovery who can advise about the product from the customer’s
+perspective. I always tell these advisors, “I want you on my advisory board so
+I can learn how to build a product you’ll buy. We both fail if I can’t.” They’ll
+serve as a customer conscience for the product, and later some will be great
+references for, or introducers to, other customers. Use them for insight and
+one-on-one meetings with the company’s business and Customer
+Development staff—and don’t be afraid to ask them for specific
+introductions.
+                         Advisory Board Roles (Table 8.3)
+
+     Two other sets of advisors to consider: an industry advisory board of
+domain experts who bring credibility to the company’s specific market or
+technology; and an advisor to the CEO who’s a “been there, done that” CEO
+type who can bring practical, how-to advice.
+
+Make sure that, for people that count to you, you
+count to them.
+     The number of advisors for each domain will obviously vary with
+circumstances, but there are some rules of thumb. Both sales and marketing
+advisors tend to have large egos. You can usually only manage only one of
+them at a time. Industry advisors like to think of themselves as the pundits for
+particular industries. Have them give you their opinions without being in the
+same room or showing up on the same day—this allows you to sort through
+whose advice you want to follow. Business advisors are much like marketing
+advisors, but some have expertise in different stages of the company.
+Consider keeping a few on hand to make you smarter. Finally, our product
+development team could never get enough of the technical advisors. They’d
+come in and make us smarter about specific technical issues. The same was
+true for the customer advisors. Be sure to learn something new every time
+they come by.
+
+Compensating Advisors
+The Oracle of Omaha, Warren Buffet, says it best: “Make sure that, for
+people that count to you, you count to them.” That about sums it up. Advisers
+typically receive common stock without precise correlation to the hours
+they’ll give your company or exactly what they’ll do to help. The stock
+typically vests over time, in monthly increments, so it’s easily adjusted based
+on the adviser’s value to the company.
+
+The best advisors of all pay you to become advisors.
+They often make a modest cash investment.
+      The best advisors of all pay you to become advisors. They often make a
+modest cash investment of, say, $20,000 or $100,000 for some of the
+company’s preferred stock, and their investment is “boosted” with a generous
+allocation of common shares that pay for the advisory services. Sophisticated
+investors recognize the importance of advisors’ willingness to not only lend
+their names but also invest some personal cash in what they clearly believe is
+a significant opportunity.
+Checklist 32: Formalize Advisory Board
+Goal: Formally engage advisors who can facilitate high-level introductions
+and are top-notch “out of the box” thinkers
+
+Reference: Chapter 8, Customer Validation Phase 1: Get Ready to Sell
+
+  Advisory board roadmap assembled
+    Size – quality vs. quantity
+    Ability to make high-level introductions
+    Technical expertise
+    Meetings or no meetings?
+    Key potential customers
+    Domain experts
+    A seasoned CEO type
+    Decide about compensation
+
+Exit criteria:
+      Formal depiction of the size, makeup and operation of the company’s
+       advisory board(s)
+                            CHAPTER 9
+
+ Customer Validation, Phase Two: Get Out
+        of the Building and Sell!
+IN THIS PHASE OF CUSTOMER VALIDATION, it’s time to try to sell. Customer
+discovery had you get out of the building twice, first to understand
+customers’ problems and how they work and second to determine how well
+the new product solves that problem. And while you’ve no doubt conducted
+hundreds of tests to iterate and pivot your business model, there is no better
+“pass/fail” test than asking a customer to give you an order or spend time
+with your app or website.
+      In a physical channel, nothing validates a hypothesis better than a signed
+order, especially when it’s signed before the product is either complete or
+actually shipping. In the web/mobile channel, the equivalent validation is
+attracting users or payers at the rate your hypotheses said you would. (In a
+multi-sided market, even if you’re getting great traffic and growth, be sure
+the “other” side, usually the advertisers or payers, are eager to spend to reach
+your traffic.)
+      Your job in this phase is not to scale a revenue plan but to validate your
+business model hypotheses with pass/fail tests that feel an awful lot like
+selling or building web traffic. But revenue or traffic at full scale doesn’t
+happen until the next step, customer creation. Customer validation is the test
+sales process that—while it makes real sales—is principally aimed at
+answering a long list of questions, including:
+
+     Are customers enthusiastic about the product’s value proposition?
+     Does the company understand its customer segments and their needs?
+     Do customers truly value the product features? Are any key features
+     missing?
+     Is the product pricing right, and can the product be sold at a reasonable
+     cost?
+     What’s the purchasing and approval process inside a customer’s
+     company?
+     Are the sales roadmap and channel strategy valid for scaling the sales
+     team?
+     Are there enough customers to make this a real business?
+
+      “Get out of the building” means one thing for companies with physical
+goods or those primarily using the physical channel, and it means something
+radically different for companies in the web/mobile channels. Figure 9.1
+shows the differences.
+      In customer validation, the testing process is a series of elegantly simple
+pass/fail tests where the answer is binary, and never “it feels good” or “they
+like it.” Some examples:
+
+If your physical channel business model says...
+
+     you will close two sales for every 10 sales calls, do you?
+     an average customer will buy six widgets in three months, do they?
+     $5,000 at spent at a tradeshow (or in direct mail) will generate 25 leads,
+     does it?
+     2/3 of the prospects you pitch will refer you to three friends each, do
+     they?
+
+   If your web/mobile channel business model says...
+
+     two of five acquired users will activate, do they?
+     four in 10 activators will pass your free trial offer to five friends, do
+     they?
+     $100 spent on AdWords will generate 50 clicks to your site, does it
+     happen?
+     one in four advertisers in your multi-sided market will sit still for your
+     advertising sales pitch (even though they probably won’t buy till you
+     have lots more traffic), do they?
+Here are the next steps you’ll undertake, by channel:
+
+
+
+
+      Steps for “Get Out of the Building and Sell” by Channel (Figure 9.1)
+
+Get Out of the Building: Prepare Optimization
+Plans/Tools
+
+
+
+
+   The job of optimization is to squeeze more out of each of the “get, keep
+and grow” steps. Squeeze more of what, you ask? More of everything. For
+example:
+
+     If 6 percent of visitors activate at launch, try to increase it to 10 percent
+     or more
+     When visitors abandon after two page views, can navigation increase it
+     to three?
+     If 5 percent of visitors post a comment, how can you encourage more to
+     do so?
+     If the average cost per activated user is $1, how can you lower it to
+     $0.75 or $0.80?
+     Can you improve e-mail open rates from 22 percent to 30 percent?
+     Getting more is what optimization is all about, and you’ll do it from this
+moment until the moment you’re selling off your furniture or ringing the bell
+at NASDAQ. This and the next two web/mobile sections provide a primer on
+optimization, the subject of many full-length texts. In this section, you will:
+
+     Get a basic primer on optimization strategy
+     Take a look at how optimization goes to work at a hypothetical web
+     startup
+     and learn about the key optimization tools and how they work
+
+     The next optimize “Get” web/mobile section will take what you learn
+from this section and show you how to put your “new” tools to work. And the
+third section will do the same for “keep” and “grow” customers activities.
+      The “Get Customers” Funnel in Web/Mobile Channels (Figure 9.2)
+
+Before you start
+
+Before you start optimizing your site/app, just as a reminder that the
+following building blocks must be in place:
+
+ 1. A hi-fidelity MVP. It must be live and the product should look “finished”
+    (even if the MVP isn’t fully featured). This ensures clear product
+    feedback and the most accurate measurement of “get customers”
+    program results.
+ 2. The Acquire plan and tools. E-mails, AdWords, banners, pr efforts, viral
+    programs and other tools that will drive consumers to engage with the
+    product.
+ 3. The Activate plan and tools. Home and landing pages encourage people
+    to buy, engage, or activate, supported with activation tools such as
+    follow-up e-mails, calls, or viral and promotion programs for those who
+    don’t buy or engage at once.
+ 4. A dashboard to monitor customers’ behavior. It should be working and
+    the product should be instrumented to deliver real-time data on results of
+    acquisition and activation programs.
+
+Customer Optimization Strategy
+Optimization efforts should focus on:
+
+    Volume: Acquire as many visitors as possible and drive to them to the
+    product
+    Cost: Steadily improve the cost per activated customer
+    Conversion: Increase the number of visitors who activate and become
+    customers or users
+
+    The first question to address is “What do I optimize?” Different types of
+web business optimize for entirely different things.
+
+The first question to address is, “What do I
+optimize?”
+Here’s how three types of web/mobile business should be thinking about their
+“Get” customers optimization:
+
+    E-commerce sites should start by optimizing traffic and initial orders, of
+   course, and then move on to focus on average order size, repeat orders,
+   and customer referrals
+   Multi-sided markets (usually ad-supported) should focus first on total
+   traffic, then on members or subscribers, DAU (daily active users),
+   minutes of engagement, repeat visits, and referrals. They should then
+   move to the “other side” to maximize ad revenue, CPM, and sales
+   pipeline
+   Marketplaces should focus on everything an e-commerce site would
+   optimize as well as the number of vendors, seller acquisition and
+   retention and liquidity (how many of the items for sale actually get
+   sold). Then they should try to optimize daily transactions and average
+   transaction size
+
+More Keys to Successful Optimization Strategy:
+   Know exactly why you’re testing, as in “to see if we can improve
+   registrations” or “to see if free shipping materially increases orders.”
+
+Don’t test everything, test the important things.
+
+   Don’t overtest. This is a major mistake made by many web startups
+   because testing is just so easy online. Don’t test everything, test the
+   important things. Don’t test more than two changes to a page at a time,
+   to avoid confusing your visitors so you can tell which change drove
+   which improvement. When a test “succeeds,” be sure you know what
+   made the difference
+   Run controlled tests to guarantee randomness and validity. A strict A/B
+   test, the most common controlled test, shows every other visitor version
+   “A” or version “B” of a page or an offer. It rigorously controls the
+   variables. It doesn’t show “A” on Monday and “B” on Tuesday, since
+   there’s no way to determine what else might have influenced customer
+   behavior in the test, which could be almost anything: a sale at a
+   competitive site, a change in the weather, or even the time of day
+   (people mostly surf at work during lunchtime)
+     Always keep lifetime value in mind. The cost of getting a customer is
+     nowhere near as important as the revenue that customer brings you over
+     time, and the lifetime value math for “get customers” is pretty simple:
+
+                                  LTV=>CAQ
+
+      LTV or Lifetime value (the total amount of money you’ll make from this
+customer) must be more than the CAQ or customer acquisition cost (costs to
+acquire and activate the customer).
+      Too many companies go out of business telling themselves, “This
+customer will be worth ‘X’ over five years,” forgetting the second part: “only
+if we’re still here and they’re still with us.” Use a reasonable, not-too-long
+lifetime value. For example, how many months of subscription revenue will it
+take to repay my “get customers” cost?
+      In summary: The optimization plan will change often, perhaps as often
+as every day. Start by defining the specific acquisition metrics to optimize.
+Don’t tackle too many at once, and always know what your goal is when you
+begin the experiment. As you’re running your tests, create alternatives for the
+tactics that don’t perform well after optimization.
+
+Optimization is a never-ending data-driven process
+of “test, measure, tweak.”
+     Optimization is a never-ending data-driven process of “test, measure,
+tweak” that stops only when the company closes its doors. Founders should
+be intimately involved with, if not leading, the process, since it’s vital to your
+company’s efficiency, scalability, and future.
+
+A Lesson in Optimization Tactics
+Let’s look at how optimization works in real time in a hypothetical company
+selling the first in a series of downloadable $39.95 software apps for home-
+based businesspeople. The CEO has focused her team on two key metrics at
+the widest part of the funnel: the total cost of activating a customer (including
+the cost of acquiring him or her), and the ultimate value of each activated
+customer individually. Let’s follow along, starting with a look at the data
+chief’s first analysis of acquisition and activation programs. Here’s how it
+looks in chart form:
+
+
+
+
+                   Example of Optimization Tactics Chart (Table 9.1)
+
+Walking through the example one line at a time provides a wealth of insights
+into the optimization process itself.
+        •     Acquisition delivered 200 “lookers” at an average cost of $5 per
+            customer click, or $1,000 (clicks can cost as little as pennies or as
+            much as $50 or more, depending on demand for the AdWords). If we
+            could reduce the cost per looker by 20 percent we would deliver 25
+            percent more prospects to the company without increasing the budget
+                Acquisition Improvements to test: Stop using the most expensive
+                AdWords. Try alternative sources of traffic beyond Google.
+                Explore alternative programs like banners and textlinks. Reduce
+                daily AdWords budgets or hours or geography (eliminate
+                overnight hours, Europe, or weekends for example). Increase viral
+                marketing at low cost
+    • Activation 40 people (20 percent of the 200 who clicked to the site)
+      activated – meaning they took a demo or provided their contact
+      information. Therefore the cost of each activation was $25 (or $1,000
+      spent divided by 40 people). Yet at this point no one has bought
+      anything
+         Activation Improvements to test: Intensify or enlarge calls to action
+          or graphics. Improve or increase activation incentives. Change
+          price or introductory offer. Reorganize the way features/benefits
+          are prioritized and explained. Consider a free trial
+   • Purchase – half the activated customers buy an application for $39.95.
+      In this example that’s 20 people, each spending $40, for a total of
+      $800 in sales. These customers, while apparently profitable (on a
+      gross profit basis), are “losers” because it cost $25 to get someone to
+      spend $40—63 percent of the sale—which can’t be viable for most
+      businesses, as it leaves very little to cover product, staff, overhead
+      and, profit. But, if the funnel delivered just five more customers, the
+      same $1,000 investment would deliver $200 more in sales.
+   • Purchase Improvements to test
+          Deploy activation improvements, but also research non-buyers to
+         understand why they’re non-buyers
+        Add a demo
+        Add “click to call” contact option
+        Conduct A/B tests of price and offer
+        Consider follow-up e-mail or phone calls to close
+
+      Now take a last look at Table 9.1. Imagine that in addition to the 20
+buyers of our $39.95 software package, the company acquires 10 additional
+Valued Customers. Instead of just buying one software product, these
+customers buy on average 2.5 software packages, spending $100 each to do
+so. That generates $1,000 in revenue from valued customers. Over time, these
+Valued Customers are probably worth even more, since they may also
+generate referrals to others and buy more packages themselves later.
+      In all, this test would be labeled at best a modest victory for some
+(where the cost of goods is very low, as it is for software downloads).
+Generating $1,800 in revenue as well as future prospects—activators who
+never bought—with $1,000 on marketing spending reflects a software
+company with a promising future, assuming it can further optimize its funnel
+for the long term.) Clearly, improvements at every step of the funnel process
+can deliver big incremental revenue and profit improvements.
+      Apply this kind of thinking and detailed analysis to every key program
+outlined in your “get” plan. Test a program, measure the results, and
+brainstorm ways to improve the results. Change some aspect of the program
+(the offer, the graphics, the messaging, as outlined in your plan) and test it
+and measure it again. Once it’s measured, assess the results, develop the next
+improvement idea, and test it again... and again... and again. As we said at the
+outset, this is the lifeblood of web/mobile startups, and the process truly
+never ends.
+Optimization Tools:
+Like any good craftsperson, good tools are essential to doing a good job.
+Here is an overview of the key tools used most often by web and mobile
+marketers. In the next two web/mobile sections, we’ll talk to you about where
+and how to use each one. In most cases, they’re used in each of the three get,
+keep and grow optimizations, since most (but not all) customer interaction
+happens online.
+
+
+
+
+     Sample A/B Tests Compare Changing Home Page Results (Figure 9.3)
+
+A/B Testing
+A/B testing is the most widely used way to optimize web and mobile “get,
+keep and grow” activities. It can also be used to optimize web/mobile product
+performance (the subject of a different book). A/B testing compares one web
+page version with another to see which produces the best results. It’s the most
+used method for testing key landing-page elements. Did a big blue button get
+more activations than a small line of text? Which headline, picture, or product
+offer generated more sign-ups, sales or abandons?
+
+Activation mantra: The more we test, the better we
+do.
+      Identify the key elements of your landing page that drive activation, and
+test them carefully, fairly, and sequentially. Think of the process as “try it,
+measure it, tweak it.” The activation mantra: The more we test, the better we
+do. Remember to maintain a clear control group: change the presentation to
+half the audience, ideally alternating from one visitor to the next (in A/B,
+every second visitor sees “b”). Many testers drive 80% of the traffic to one
+alternative, and 20% to the other, which can test on high-traffic pages well.
+
+Usability Tests
+Usability testing checks whether the users of the site/app/product use it the
+way you intended them to. It can be as informal as inviting consumers into
+the conference room and watching them spend time on the website or as
+comprehensive as a formal focus-group testing. It can identify weaknesses in
+the site’s explanation of the product, its benefits, and the reasons to buy. It
+can trace users’ behavior on the site to determine ways to optimize the
+conversion rates, enhance online product demonstrations, or find confusing
+copy, diagrams, or navigation. Inexpensive tools and expensive services can
+both help with the testing.
+        Usability Tests happen in Starbucks or test facilities (Figure 9.4)
+
+     Invite your target customers to the office and watch as they engage with
+the site or app (and use any of the online services like Userfy or Usertesting
+that do low-cost user testing). Watch these customers explore uninterrupted
+while watching over their shoulder. Make notes about where they went and
+where they didn’t, and follow up to learn why they did what they did.
+Obviously, as you learn about confusing or suboptimal locations or
+navigation on the site, test and measure alternatives until the problem goes
+away. Consider conducting user testing with a laptop at Starbucks, where
+random customers get coffee or a gift card for spending 10 minutes with you,
+exploring and discussing the new product, app or site.
+
+Heat Maps
+Heat maps use eye tracking to show where most people look or click on a
+website or page. Software tracks a user’s gaze and translates them into
+regions colored yellow, orange and red. The richer the color, the more
+eyeballs are focused on the button, headline or graphic.
+                     Example of Heat Mapping (Figure 9.5)
+
+      If too many customers are drawn to the “demo” button instead of the
+“try now” button, perhaps the sizes or locations or both should be changed.
+The heat map indicates high-traffic spots on a page, where the most important
+product features or offers should be located. Heat maps may even show that
+visitors are clicking on graphics or copy that aren’t linked to anything.
+
+Eye Tracking
+Eye tracking uses heat-map technology in a different way. When people visit
+a website, what do they look at first, second, or third?
+                      Example of Eye Tracking (Figure 9.6)
+
+     The “Z” pattern is considered the most common way Americans read a
+web page, starting across the top, from left to right, and then skimming
+diagonally downward across the page. Eyes move at astounding speeds, and
+users are known to spend as little as a few seconds scanning a page to find
+something of interest. It pays to put key content and invitations for user
+interaction in the places where the users tend to go. (Keep in mind that web
+pages in other languages may scan differently.)
+
+Copy Testing
+While copy isn’t a tool the way a heat map or an A/B test might be, using
+those and other tools to test copy makes the “copy buffer” a very important
+tool. It’s almost axiomatic that no headline is ever the best possible headline,
+and there’s always a way to improve “sell” copy, offer copy, and the way you
+get people excited about your product, its features, and the reasons they
+should buy. Copy testing can happen on the site, in focus groups, or through
+web surveys. Bigger sites create alternate mirror sites to A/B-test different
+copy versions. This is a powerful optimization tool.
+
+Visitors focus on headlines, highlighted words and
+bulleted lists but scan the text.
+     No matter how polished the prose or how many people edit the copy,
+few visitors read all or even many of the words. Tests by industry expert
+Jakob Nielsen suggest that most visitors focus on headlines, highlighted
+words and bulleted lists but scan the text. He notes that the three most
+effective design elements are plain text, faces, and cleavage and other body
+parts.
+     In the next web/mobile section, you’ll strap on your e-toolbelt and go to
+work, optimizing your “get” customers activities.
+Checklist 33: Prepare Optimization Plans And
+Tools
+Goal: Prepare tools for testing the business model
+
+Reference: Chapter 9, Customer Validation Phase 2: Get Out of the Building
+and Sell!
+
+  Optimization metrics identified
+  Optimization priorities set
+
+  Testing tools in place
+    Dashboard for monitoring results
+    High-Fidelity MVP
+    Acquire plan, tools
+    Activation plan, tools
+
+Exit criteria:
+      Plan that defines acquisition metrics to optimize
+      Plan for how customer behavior will be monitored/optimized
+
+  Pass/Fail tests identified
+Get Out of the Building: Optimize Getting More
+Customers
+
+
+
+
+    In the prior phase, you got basic lessons in web and mobile performance
+optimization, had some basic training in how optimization works, and
+reviewed the tools and techniques you’ll use to create your optimization
+strategy. This phase takes that learning and puts it to work at the widest part
+of the “get customers” funnel—where customers come from—the acquire
+and activate steps of “get, keep and grow.”
+      The “Get Customers” Funnel in Web/Mobile Channels (Figure 9.7)
+
+     For some websites 98 percent of people who visit (“acquired”) never
+ever return. That means only two percent of acquired prospects have a chance
+of becoming a customer or user, even after you’ve spent many millions
+acquiring them. If that statistic doesn’t call attention to the need for
+optimizing activation efforts, nothing will!
+98 percent of people who visit never ever return...
+
+How will Your Startup Optimize its “Get
+Customers” Efforts?
+Optimization objectives vary by your business model. For example:
+
+    Subscription products (e.g., software as a service) try to get customers to
+    explore, try, or use the product any way they’ll agree to do so, often with
+    freemium or low-cost trials
+    Expensive products and services strive to ensure that customers will be
+    driven to, and continue to engage with, the appropriate sales channel
+    Inexpensive apps and games often try to sell as soon as they engage
+    customers
+    Social networks will encourage first-timers to engage with the network,
+    participating at least a few times to get “hooked,” and then to invite
+    friends
+    Multi-sided market businesses try to attract users who will use the site
+    frequently, stay a long time, and bring their friends
+    Marketplaces (think Etsy or eBay) encourage sellers to join, list multiple
+    items, and enjoy early success on the site
+
+
+
+    PROCEED WITH CAUTION: Remember, this is an overview and a
+    tutorial. There’s no way to implement or even process this in one sitting.
+
+
+
+
+How to Run the “Get” Optimization Process
+Review the results of the “get” programs you’ve done to date, always asking
+your data and team, which program:
+
+ 1. is most important to us? Start with the free “get” programs for because if
+    they’re working they are the easiest to scale up. Accelerate the most
+    productive program. If you’re getting tons of customers from SEO or
+    bloggers, for example, start here to optimize that effort.
+ 2. is the most disappointing? When you launched your “get” programs,
+    you had great expectations for certain programs, whether it was an
+    AdWords campaign, referrals to friends, natural search or a blimp flying
+    over your city. Design pass/fail tests to improve the results.
+ 3. gives you the best customers? If, for example, an e-mail campaign gets
+    you customers who buy faster, spend more, or visit more often and stay
+    longer, you obviously want more of those folks. So prioritize the plan to
+    optimize that program.
+ 4. gives you early customers with high lifetime value (LTV)? Get and seek
+    more that look like them. Identify high-LTV behavior (frequent visits,
+    purchasing, posting or referrals, for example) in specific customers and
+    track back to their source, demography, or other common traits. Then go
+    find more customers like them. This is hardest in the company’s early
+    days, when few customers exist and there’s less time to observe them.
+
+Test a wide range of offers, incentives, deals and
+discounts.
+Finally, test a wide range of offers, incentives, deals and discounts. While
+alternatives are almost as obvious as they are endless, here are a few to try:
+Offer a gift with purchase instead of a discount. Consider a time limit on the
+offer, as in “until midnight only” or “this week’s special.” Create limited
+offers, as in “for the first 500 to sign up.”
+     Always review the top 10 or 12 performance metrics daily, led by the
+data chief recruited earlier. That’s a dozen metrics, not dozens—on the “get
+customers” program results. Prepare to be disappointed often, but the review
+—good or bad—always ends with the same question: “how do we improve
+it?”
+For less experienced web marketers
+
+If you’re not an experienced web/mobile marketer, and don’t know an
+important program from a disappointing one, try this approach instead. First,
+focus on increasing the number of activations, since activations matter most.
+(If you’ve acquired only a handful or a few dozen visitors, start talking about
+possible pivots instead.)
+     Find the largest single source of customers and figure out how to
+increase the volume. How does more spending, improved creative, different
+offers or greater frequency improve the result? Test each one, one at a time,
+and often more than once per test.
+     Remember, don’t optimize too many programs at once, or the results
+will be confusing—you won’t be able to tell what worked and what didn’t.
+Recognize “getting customers” means that the acquire and activate programs
+work hand in hand. You need both parts to work to truly “get” a customer...
+not just someone who comes to your site or app, but who buys and engages.
+
+Common Optimization Opportunities and Problems
+If this book were to list every possible way to optimize getting customers, it
+would be impossible to carry. The balance of this section addresses the most
+common problems where optimization can help—getting more clicks to your
+site and more out of every click. Since we hear these questions from
+entrepreneurs so often, we’ve organized the approaches to optimization based
+on the questions we hear most.
+
+Problem: I have a website but nobody visits...
+
+Other than perhaps CIA.gov, we don’t think there’s been a web business yet
+that didn’t want more people exposed to its product or service, or more
+visitors to its home page. Visitors are clearly the lifeblood of every
+web/mobile business.
+Diagnosis: You are perilously close to extinction. There are tens of millions
+of websites, and just “being there” doesn’t drive traffic as a rule.
+
+You are perilously close to extinction. Use every tool
+we have described in the prior pages.
+Solution:
+
+ 1. Return to the start of “Get Customers” web/mobile. Read it again and
+    get to work.
+ 2. Find more e-mails, Tweet more people, beg friends to invite their
+    friends, create a funny YouTube and try to viralize it.
+ 3. Consider changing the URL to something people will find more
+    naturally (your site’s promise, like “instantlove.com” rather than
+    “socialdatinginc.com, for example).
+ 4. Pay the smartest people you can find to optimize your site for natural
+    search in a hurry.
+ 5. Do something crazy.... big events, promotions, hand out flyers on street
+    corners, scream, set your hair on fire, but do it fast!
+
+    Tools to use: Use every tool we have described in the prior pages, then
+go online and find dozens more. Start at www.steveblank.com for a thorough
+updated list.
+
+Problem: Visitors come to my site or app, but don’t stay...
+
+This common problem presents many optimization opportunities.
+
+Diagnosis: The most likely problem: something isn’t “clicking” with your
+value proposition and product positioning, so start testing alternate versions.
+Then look at the acquisition tactics you’re using and rank them based on
+productivity (the most acquisitions with the least money or effort). Start with
+the worst performing tactics and test alternatives.
+
+Solution:
+
+ 1. Start by changing your messaging, whether you’re using e-mail, banner
+    ads, or banners pulled by WWII biplanes.
+ 2. If it’s AdWords, for example, pause all programs and start over. Spend
+     more per click, change the geography or hours your keywords are active
+     and for sure experiment by buying different AdWords and testing
+     alternate ad copy.
+ 3. Test alternative calls to action. Offer something for free, whether it’s a
+    trial or a prize for visiting the site. And keep running this optimization
+    process forever.
+ 4. Change the offer. If you’re offering annual signups, test monthly or
+    “first 30 days free.” Develop other reasons why people should come
+    visit your site.
+ 5. Interview lots of customers face-to-face. Find out what they like and,
+    more important, what they don’t.
+ 6. Be sure you have multiple calls to action on the home page (like “take a
+    tour,” “try now for free,” “learn more” and “get more info”).
+
+    Tools to Use: Copy testing, A/B testing, and another look at your value
+proposition messaging (unique selling proposition, features you’re
+promoting, introductory offer, to name a few).
+
+Problem: People Visit the Site, but don’t Click (no Activation)...
+
+Diagnosis: This deadly problem is often masked by “vanity metrics,” where
+the team high-fives and celebrates because unique visitors and page views are
+increasing every day. So what!! If people come to the site or app and don’t
+engage, try it, do something, sign up or pay up, your business is simply dead.
+Period.
+      If we just described your site, ring the alarm bell and if your “data chief”
+and marketing person aren’t sure what to do or test, it may be time to call in
+(preferably smart freelance) consultants, buy the tons of other books on
+optimization, and call home and tell’em you won’t be home for a while...
+your business is at serious risk of implosion.
+
+Solution: Pull out all the stops, remembering not to test too many things all at
+once. Start by talking to customers who’ve been acquired but not activated
+(hopefully you have some of their e-mails, but call or ask them to call you—
+don’t just e-mail) and find out what was uninteresting or unappealing to them
+(that’s why it’s called Customer Development).
+Then start to implement some optimization tactics.
+
+ 1. Find the page where most users abandon ship. Start testing stronger calls
+    to action and improved navigation on this page fast
+ 2. Test a variety of calls to action... click here to do this, sign up and get a
+    free...
+ 3. Do some heat mapping studies to see what people are looking at on the
+    page, and move calls to action closer to where their eyeballs go
+ 4. Test bigger, smaller, or different calls to action: louder copy, bigger
+    buttons, maybe a blinking or brightly-colored “try now,” for example
+ 5. Be sure your “no spam” guarantee/promise is visible in every
+    communication
+ 6. Conduct usability testing where you watch actual customers as they
+    review your home page. What questions do they ask, what do they click
+    on, do they get confused? Then ask them flat-out: “what don’t you like
+    about my site, product, or offer?”
+ 7. Buttons: Do more people click on a big ugly button or a small pink one?
+    Do they like round or square, a midpage location or lower left?
+ 8. “Sell” and body copy: constantly test new copy versions to see which
+    gets more response
+ 9. Graphics: Test alternative product pictures, illustrations, how-to
+    graphics and other elements to see better activations
+
+     Tools to Use: Every tool in the toolbox works overtime on this crisis.
+A/B test everything. Spend money on usability testing and one-on-one
+customer interviews. Use heat maps, magic tricks, anything you can find, as
+your business is clearly threatened with extinction right now.
+
+Problem: We’re Getting Some Customers, but they don’t refer others...
+
+Diagnosis: While this is certainly a “get” customers problem, we consider it a
+“grow” problem and address it in the next section. After all, to be technical,
+first you have to acquire and activate a customer to “grow” him or her. There
+are two ways to “grow” a customer: get them to spend more, or to refer
+others. Both are addressed in the next web/mobile section.
+
+Problem: People are engaging, but not doing what you want...
+
+Diagnosis: You’re getting good traffic, and people are clicking or at least
+viewing multiple pages. But nobody’s signing up, posting comments, playing
+the game, adding pictures, spending money, or doing whatever you want
+them to do.
+
+Solution: Once again, you need to put almost the entire optimization toolbox
+to work.
+
+ 1. Start with heat maps and eye tracking to see what people are actually
+    doing when they’re on the site
+ 2. Start A/B testing by first testing your calls to action. Make the graphics
+    different or bigger; consider adding demos or animation; Simplify the
+    messaging to make it clearer, and A/B test it both onsite and in person
+ 3. Develop more “pathways” through the site—make the navigation bigger
+    and test providing at least a few more options (“read more,” “free trial,”
+    and so forth)
+ 4. Can users easily sign up, post a comment, upload a picture, or buy
+    something on the site? If not, fix it.
+ 5. Do users make lots of errors downloading the app, a pdf or a picture? If
+    so, improve the process by rewriting the copy, adding graphics,

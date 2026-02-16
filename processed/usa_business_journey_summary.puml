@@ -1,0 +1,48 @@
+@startuml USA_Business_Journey_Summary
+!theme plain
+title USA Business Journey - Phase Overview
+legend
+    High-level view of the business formation journey
+    5 regions, 18 locations
+endlegend
+
+skinparam rectangle {
+  BackgroundColor<<phase>> LightBlue
+  BorderColor<<phase>> DarkBlue
+  BackgroundColor<<start>> LightGreen
+  BorderColor<<start>> DarkGreen
+  BackgroundColor<<end>> LightCoral
+  BorderColor<<end>> Red
+}
+
+
+rectangle "**Phase 1**\nThe Planning Peaks\n3 locations" <<start>> as region_1
+
+rectangle "**Phase 2**\nThe Legal Labyrinth\n4 locations" <<phase>> as region_2
+
+rectangle "**Phase 3**\nCompliance Canyon\n3 locations" <<phase>> as region_3
+
+rectangle "**Phase 4**\nOperations Ocean\n4 locations" <<phase>> as region_4
+
+rectangle "**Phase 5**\nGrowth Galaxy\n4 locations" <<end>> as region_5
+
+' Phase progression
+region_1 --> region_2 : Complete Phase 1
+region_2 --> region_3 : Complete Phase 2
+region_3 --> region_4 : Complete Phase 3
+region_4 --> region_5 : Complete Phase 4
+
+note bottom
+    <b>Journey Path:</b>
+    Start: Planning Peaks (Business Concept)
+    → Legal Labyrinth (Structure & Registration)
+    → Compliance Canyon (Licenses & Permits)
+    → Operations Ocean (Business Setup)
+    → Growth Galaxy (Scaling & Expansion)
+    
+    <b>Estimated Time:</b> 3-12 months
+end note
+
+skinparam shadowing false
+
+@enduml
