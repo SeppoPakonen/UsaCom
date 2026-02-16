@@ -1,0 +1,87 @@
+{
+  "test_timestamp": "2026-02-16T21:44:20.036719",
+  "system_version": "1.0.0",
+  "tests_run": 14,
+  "tests_passed": 14,
+  "tests_failed": 0,
+  "test_results": [
+    {
+      "test_name": "Initialize Analytics System",
+      "status": "PASSED",
+      "details": "Analytics system initialized"
+    },
+    {
+      "test_name": "Start Session",
+      "status": "PASSED",
+      "details": "Session started for TestPlayer"
+    },
+    {
+      "test_name": "Track Action",
+      "status": "PASSED",
+      "details": "Action tracked"
+    },
+    {
+      "test_name": "Track Decision",
+      "status": "PASSED",
+      "details": "Decision tracked"
+    },
+    {
+      "test_name": "Track Challenge",
+      "status": "PASSED",
+      "details": "Challenge tracked"
+    },
+    {
+      "test_name": "Get Action Analytics",
+      "status": "PASSED",
+      "details": "Total actions: 1"
+    },
+    {
+      "test_name": "Get Decision Analytics",
+      "status": "PASSED",
+      "details": "Total decisions: 1"
+    },
+    {
+      "test_name": "Get Challenge Analytics",
+      "status": "PASSED",
+      "details": "Success rate: 100.0%"
+    },
+    {
+      "test_name": "Generate Summary Report",
+      "status": "PASSED",
+      "details": "Summary report generated"
+    },
+    {
+      "test_name": "End Session",
+      "status": "PASSED",
+      "details": "Session ended and recorded"
+    },
+    {
+      "test_name": "Get Session Analytics",
+      "status": "PASSED",
+      "details": "Total sessions: 1"
+    },
+    {
+      "test_name": "Export Sample Report",
+      "status": "PASSED",
+      "details": "Report saved to /home/sblo/Dev/UsaCom/analytics/sample_analytics_report.json"
+    },
+    {
+      "test_name": "Player Profile",
+      "status": "PASSED",
+      "details": "Profile created for TestPlayer"
+    },
+    {
+      "test_name": "Reset Analytics",
+      "status": "PASSED",
+      "details": "Analytics reset"
+    }
+  ],
+  "analytics_tested": [
+    "session",
+    "action",
+    "decision",
+    "challenge",
+    "report",
+    "profile"
+  ]
+}

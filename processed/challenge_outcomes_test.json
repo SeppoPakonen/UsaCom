@@ -1,0 +1,100 @@
+{
+  "test_timestamp": "2026-02-16T21:31:06.200467",
+  "system_version": "1.0.0",
+  "tests_run": 12,
+  "tests_passed": 12,
+  "tests_failed": 0,
+  "test_results": [
+    {
+      "test_name": "Initialize Challenge System",
+      "status": "PASSED",
+      "details": "Loaded 12 challenges"
+    },
+    {
+      "test_name": "Challenge Types Distribution",
+      "status": "PASSED",
+      "details": "Types: {'environmental': 4, 'enemy': 4, 'resource': 4}"
+    },
+    {
+      "test_name": "Difficulty Settings",
+      "status": "PASSED",
+      "details": "All difficulty levels configured"
+    },
+    {
+      "test_name": "Challenge Generation",
+      "status": "PASSED",
+      "details": "No challenge generated (within probability)"
+    },
+    {
+      "test_name": "Apply Challenge Effects",
+      "status": "PASSED",
+      "details": "Effects applied: {'capital': -500.0}"
+    },
+    {
+      "test_name": "Mitigation Effectiveness",
+      "status": "PASSED",
+      "details": "Without mitigation: {'capital': -500.0}, With 50%: {'capital': -250.0}"
+    },
+    {
+      "test_name": "Challenge Resolution",
+      "status": "PASSED",
+      "details": "Success: True, Narrative: The Deadline Dragons was tough, but you managed it..."
+    },
+    {
+      "test_name": "Get Mitigation Strategies",
+      "status": "PASSED",
+      "details": "Strategies: ['General liability insurance', 'Professional liability insurance', 'Proper business structure']"
+    },
+    {
+      "test_name": "Challenge Outcomes Summary",
+      "status": "PASSED",
+      "details": "Total: 1, Success rate: 100.0%"
+    },
+    {
+      "test_name": "Multiple Challenge Scenarios",
+      "status": "PASSED",
+      "details": "Tested 3 scenarios"
+    },
+    {
+      "test_name": "Severity Scaling",
+      "status": "PASSED",
+      "details": "Easy freq: 0.1, Expert freq: 0.6"
+    },
+    {
+      "test_name": "System Reset",
+      "status": "PASSED",
+      "details": "System reset successfully"
+    }
+  ],
+  "outcomes_tested": [
+    {
+      "outcome_id": "outcome_deadline_dragons_10",
+      "challenge_id": "deadline_dragons",
+      "player_actions": [
+        "Set calendar reminders",
+        "Hired accountant"
+      ],
+      "resources_lost": {
+        "capital": 200.0,
+        "reputation": 4.0
+      },
+      "resources_saved": {
+        "capital": 300.0,
+        "reputation": 6.0
+      },
+      "success": true,
+      "narrative": "The Deadline Dragons was tough, but you managed it well.",
+      "turn_resolved": 10,
+      "lessons_learned": [
+        "Preparation is key to handling enemy challenges.",
+        "Implementing mitigation strategies reduces impact significantly.",
+        "Stay vigilant about compliance deadlines."
+      ]
+    }
+  ],
+  "summary": {
+    "pass_rate": 100.0,
+    "total_tests": 12,
+    "outcomes_tested_count": 1
+  }
+}

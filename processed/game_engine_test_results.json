@@ -1,0 +1,73 @@
+{
+  "test_timestamp": "2026-02-16T21:23:14.109299",
+  "engine_version": "1.0.0",
+  "tests_run": 12,
+  "tests_passed": 12,
+  "tests_failed": 0,
+  "test_results": [
+    {
+      "test_name": "Initialize Engine",
+      "status": "PASSED",
+      "details": "Engine initialized successfully with all configuration files"
+    },
+    {
+      "test_name": "Start New Game",
+      "status": "PASSED",
+      "details": "Game started with 5 resources, 5 phases"
+    },
+    {
+      "test_name": "Resource Initialization",
+      "status": "PASSED",
+      "details": "All 5 resources initialized: ['Capital', 'Time', 'Knowledge', 'Network', 'Reputation']"
+    },
+    {
+      "test_name": "Get Available Actions",
+      "status": "PASSED",
+      "details": "Found 5 available actions in Phase 1"
+    },
+    {
+      "test_name": "Execute Action",
+      "status": "PASSED",
+      "details": "Action 'Conduct Market Research' executed successfully"
+    },
+    {
+      "test_name": "Phase Gating System",
+      "status": "PASSED",
+      "details": "Phase 2 entry check: Insufficient Knowledge: need 25, have 13.591991086613572"
+    },
+    {
+      "test_name": "Progress Tracking",
+      "status": "PASSED",
+      "details": "Progress: 4.2%, Phase 1"
+    },
+    {
+      "test_name": "Turn Advancement",
+      "status": "PASSED",
+      "details": "Turn advanced from 1 to 2"
+    },
+    {
+      "test_name": "Multiple Action Execution",
+      "status": "PASSED",
+      "details": "Successfully executed 3 actions"
+    },
+    {
+      "test_name": "Game State Serialization",
+      "status": "PASSED",
+      "details": "Game state serialized successfully with all required fields"
+    },
+    {
+      "test_name": "Different Scenario Loading",
+      "status": "PASSED",
+      "details": "Successfully loaded scenarios: ['SCN001', 'SCN002', 'SCN003']"
+    },
+    {
+      "test_name": "Score Calculation",
+      "status": "PASSED",
+      "details": "Score: 47.3, Grade: F"
+    }
+  ],
+  "summary": {
+    "pass_rate": 100.0,
+    "total_tests": 12
+  }
+}

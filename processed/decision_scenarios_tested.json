@@ -1,0 +1,145 @@
+{
+  "test_timestamp": "2026-02-16T21:28:32.777771",
+  "engine_version": "1.0.0",
+  "tests_run": 12,
+  "tests_passed": 12,
+  "tests_failed": 0,
+  "test_results": [
+    {
+      "test_name": "Initialize Decision Engine",
+      "status": "PASSED",
+      "details": "Loaded 3 decisions, 8 events"
+    },
+    {
+      "test_name": "Get Available Decisions",
+      "status": "PASSED",
+      "details": "Found 1 decisions for phase 1"
+    },
+    {
+      "test_name": "Decision Requirements Check",
+      "status": "PASSED",
+      "details": "Decision available"
+    },
+    {
+      "test_name": "Make Business Structure Decision",
+      "status": "PASSED",
+      "details": "Consequence severity: medium"
+    },
+    {
+      "test_name": "Make Funding Strategy Decision",
+      "status": "PASSED",
+      "details": "Immediate effects: {}"
+    },
+    {
+      "test_name": "Make Market Entry Decision",
+      "status": "PASSED",
+      "details": "Narrative: You entered the market with a MVP Launch approach. ..."
+    },
+    {
+      "test_name": "Random Event Triggering",
+      "status": "PASSED",
+      "details": "No event triggered (within probability)"
+    },
+    {
+      "test_name": "Choice History Tracking",
+      "status": "PASSED",
+      "details": "Tracking 3 decisions"
+    },
+    {
+      "test_name": "Consequences Summary",
+      "status": "PASSED",
+      "details": "Total effects: {'capital': -2191.3015575722025, 'time': -5.524157413064891}"
+    },
+    {
+      "test_name": "Decision Recommendation",
+      "status": "PASSED",
+      "details": "Recommended: Sole Proprietorship - Low-risk businesses, testing ideas, side hustles"
+    },
+    {
+      "test_name": "Engine Reset",
+      "status": "PASSED",
+      "details": "Engine reset successfully"
+    },
+    {
+      "test_name": "Multiple Scenario Testing",
+      "status": "PASSED",
+      "details": "Tested 3 scenarios"
+    }
+  ],
+  "scenarios_tested": [
+    {
+      "scenario": "business_structure_llc",
+      "consequence": {
+        "consequence_id": "cons_business_structure_1",
+        "decision_id": "business_structure",
+        "option_chosen": "LLC",
+        "immediate_effects": {
+          "capital": -203.4233949822681,
+          "time": -1.9215896101379824
+        },
+        "delayed_effects": {
+          "capital": -20.169455979982473,
+          "network": 0.6765657653415774
+        },
+        "narrative": "The LLC structure is now in place. Pass-through taxation, flexible management, moderate liability protection",
+        "turn_triggered": 1,
+        "severity": "medium"
+      }
+    },
+    {
+      "scenario": "funding_bootstrapping",
+      "consequence": {
+        "consequence_id": "cons_funding_strategy_2",
+        "decision_id": "funding_strategy",
+        "option_chosen": "Bootstrapping",
+        "immediate_effects": {},
+        "delayed_effects": {
+          "capital": 497.14557234347615,
+          "knowledge": 3.884798068842066
+        },
+        "narrative": "Your funding strategy: Bootstrapping. ",
+        "turn_triggered": 2,
+        "severity": "low"
+      }
+    },
+    {
+      "scenario": "market_entry_mvp",
+      "consequence": {
+        "consequence_id": "cons_market_entry_3",
+        "decision_id": "market_entry",
+        "option_chosen": "MVP Launch",
+        "immediate_effects": {
+          "time": -3.6025678029269095,
+          "capital": -1987.8781625899342
+        },
+        "delayed_effects": {
+          "capital": 187.93048538412143,
+          "network": 4.344352287709845
+        },
+        "narrative": "You entered the market with a MVP Launch approach. ",
+        "turn_triggered": 3,
+        "severity": "high"
+      }
+    },
+    {
+      "scenario_name": "Tech Startup",
+      "starting_capital": 75000,
+      "decisions_made": 2
+    },
+    {
+      "scenario_name": "Solo Consultant",
+      "starting_capital": 10000,
+      "decisions_made": 2
+    },
+    {
+      "scenario_name": "Retail Store",
+      "starting_capital": 120000,
+      "decisions_made": 2
+    }
+  ],
+  "summary": {
+    "pass_rate": 100.0,
+    "total_tests": 12,
+    "scenarios_tested_count": 6
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "test_timestamp": "2026-02-16T21:33:37.163706",
+  "system_version": "1.0.0",
+  "tests_run": 12,
+  "tests_passed": 12,
+  "tests_failed": 0,
+  "test_results": [
+    {
+      "test_name": "Initialize Assessment Integration",
+      "status": "PASSED",
+      "details": "Loaded 40 feedback templates, 12 milestones"
+    },
+    {
+      "test_name": "Feedback Template Loading",
+      "status": "PASSED",
+      "details": "Types: {'progress': 10, 'resource': 7, 'compliance': 5, 'decision': 6, 'encouragement': 12}"
+    },
+    {
+      "test_name": "Get Feedback Message",
+      "status": "PASSED",
+      "details": "Welcome to Planning Peaks! This is where every great business begins. Take your "
+    },
+    {
+      "test_name": "Random Encouragement",
+      "status": "PASSED",
+      "details": "Progress, not perfection, is the goal. Celebrate every step "
+    },
+    {
+      "test_name": "Milestone Checking",
+      "status": "PASSED",
+      "details": "Found 1 milestones"
+    },
+    {
+      "test_name": "Progress Metrics Calculation",
+      "status": "PASSED",
+      "details": "Calculated 4 metrics"
+    },
+    {
+      "test_name": "Corrective Guidance",
+      "status": "PASSED",
+      "details": "No guidance needed"
+    },
+    {
+      "test_name": "Assessment Summary",
+      "status": "PASSED",
+      "details": "Summary includes 4 metrics"
+    },
+    {
+      "test_name": "Milestone Rewards",
+      "status": "PASSED",
+      "details": "Reward: {'knowledge': 5, 'confidence': 10}"
+    },
+    {
+      "test_name": "Feedback History Tracking",
+      "status": "PASSED",
+      "details": "Tracking 1 feedback messages"
+    },
+    {
+      "test_name": "System Reset",
+      "status": "PASSED",
+      "details": "System reset successfully"
+    },
+    {
+      "test_name": "Multiple Game State Scenarios",
+      "status": "PASSED",
+      "details": "Tested 3 scenarios"
+    }
+  ],
+  "integrations_tested": [
+    {
+      "timestamp": "2026-02-16T21:33:37.166186",
+      "metrics": {
+        "overall_progress": {
+          "metric_id": "overall_progress",
+          "name": "Overall Journey Progress",
+          "metric_type": "percentage",
+          "current_value": 35,
+          "target_value": 100,
+          "unit": "%",
+          "status": "making_progress"
+        },
+        "capital_health": {
+          "metric_id": "capital_health",
+          "name": "Capital Health",
+          "metric_type": "percentage",
+          "current_value": 53.333333333333336,
+          "target_value": 100,
+          "unit": "%",
+          "status": "stable"
+        },
+        "time_efficiency": {
+          "metric_id": "time_efficiency",
+          "name": "Time Efficiency",
+          "metric_type": "rate",
+          "current_value": 66.66666666666666,
+          "target_value": 100,
+          "unit": "actions/100 turns",
+          "status": "on_track"
+        },
+        "compliance_score": {
+          "metric_id": "compliance_score",
+          "name": "Compliance Score",
+          "metric_type": "percentage",
+          "current_value": 75,
+          "target_value": 100,
+          "unit": "%",
+          "status": "compliant"
+        }
+      },
+      "new_milestones": [
+        {
+          "milestone_id": "MS002",
+          "name": "Business Planner",
+          "trigger": "complete_phase_1",
+          "badge_name": "Business Planner",
+          "badge_icon": "\ud83d\udccb",
+          "message": "You've completed your business plan! A solid foundation is the key to success.",
+          "reward": {
+            "knowledge": 15,
+            "network": 5,
+            "unlock": "investor_pitch_template"
+          },
+          "achieved": true,
+          "turn_achieved": 12
+        }
+      ],
+      "celebrations": [
+        {
+          "name": "Business Planner",
+          "badge": "\ud83d\udccb Business Planner",
+          "message": "You've completed your business plan! A solid foundation is the key to success.",
+          "reward": {
+            "knowledge": 15,
+            "network": 5,
+            "unlock": "investor_pitch_template"
+          }
+        }
+      ],
+      "feedback": [],
+      "interventions": [],
+      "encouragement": "Building a business is a marathon, not a sprint. You're making great progress!",
+      "total_milestones_achieved": 2
+    },
+    {
+      "scenario": "Struggling",
+      "metrics_count": 4
+    },
+    {
+      "scenario": "On Track",
+      "metrics_count": 4
+    },
+    {
+      "scenario": "Thriving",
+      "metrics_count": 4
+    }
+  ],
+  "summary": {
+    "pass_rate": 100.0,
+    "total_tests": 12,
+    "integrations_tested_count": 4
+  }
+}

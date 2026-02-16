@@ -1,0 +1,104 @@
+{
+  "report_type": "sample_analytics_report",
+  "generated_at": "2026-02-16T21:44:20.138321",
+  "game_version": "1.0.0",
+  "sample_data": true,
+  "player_analytics": {
+    "player_name": "Sample Player",
+    "total_sessions": 5,
+    "total_play_time_minutes": 180,
+    "scenarios_completed": 2,
+    "average_score": 78.5,
+    "play_style": "balanced",
+    "strengths": [
+      "Resource Management",
+      "Decision Making"
+    ],
+    "improvements": [
+      "Challenge Preparation"
+    ]
+  },
+  "action_analytics": {
+    "total_actions": 45,
+    "actions_by_phase": {
+      "1": 12,
+      "2": 10,
+      "3": 9,
+      "4": 8,
+      "5": 6
+    },
+    "most_common_actions": [
+      "Market Research",
+      "Business Registration",
+      "License Application"
+    ],
+    "average_actions_per_turn": 0.85
+  },
+  "decision_analytics": {
+    "total_decisions": 15,
+    "outcomes": {
+      "positive": 8,
+      "neutral": 5,
+      "negative": 2
+    },
+    "positive_outcome_rate": 53.3,
+    "average_decision_time_seconds": 45.2,
+    "decisions_by_type": {
+      "business_structure": 3,
+      "funding_strategy": 4,
+      "market_entry": 5,
+      "hiring": 3
+    }
+  },
+  "challenge_analytics": {
+    "total_challenges": 12,
+    "success_rate": 66.7,
+    "by_type": {
+      "environmental": {
+        "total": 4,
+        "successes": 3
+      },
+      "enemy": {
+        "total": 5,
+        "successes": 3
+      },
+      "resource": {
+        "total": 3,
+        "successes": 2
+      }
+    },
+    "by_severity": {
+      "low": {
+        "total": 4,
+        "successes": 4
+      },
+      "medium": {
+        "total": 5,
+        "successes": 3
+      },
+      "high": {
+        "total": 3,
+        "successes": 1
+      }
+    },
+    "total_resources_lost": {
+      "capital": 4500,
+      "time": 8,
+      "reputation": 15
+    }
+  },
+  "session_analytics": {
+    "total_sessions": 5,
+    "average_turns_per_session": 25.4,
+    "average_actions_per_session": 21.6,
+    "average_progress_per_session": 18.5,
+    "best_session_score": 92.0,
+    "completion_rate": 40.0
+  },
+  "recommendations": [
+    "Focus on building capital reserves before major expansions",
+    "Consider more thorough preparation before facing high-severity challenges",
+    "Your decision-making is strong - continue researching before major choices",
+    "Try different scenarios to develop diverse business skills"
+  ]
+}

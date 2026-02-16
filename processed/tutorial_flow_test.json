@@ -1,0 +1,85 @@
+{
+  "test_timestamp": "2026-02-16T21:42:13.578434",
+  "system_version": "1.0.0",
+  "tests_run": 15,
+  "tests_passed": 13,
+  "tests_failed": 1,
+  "test_results": [
+    {
+      "test_name": "Initialize Tutorial System",
+      "status": "PASSED",
+      "details": "Loaded 24 messages, 6 hints"
+    },
+    {
+      "test_name": "Start Tutorial",
+      "status": "PASSED",
+      "details": "Tutorial started for TestPlayer"
+    },
+    {
+      "test_name": "Get Phase Introduction",
+      "status": "PASSED",
+      "details": "Got intro: Planning Peaks - Introduction"
+    },
+    {
+      "test_name": "Get Tutorial Steps",
+      "status": "PASSED",
+      "details": "Found 3 steps for phase 1"
+    },
+    {
+      "test_name": "Complete Tutorial Step",
+      "status": "PASSED",
+      "details": "Step completed successfully"
+    },
+    {
+      "test_name": "Get Contextual Hints",
+      "status": "PASSED",
+      "details": "Got 2 contextual hints"
+    },
+    {
+      "test_name": "Get Message for Trigger",
+      "status": "PASSED",
+      "details": "Got message: Capital Warning"
+    },
+    {
+      "test_name": "Update Phase",
+      "status": "PASSED",
+      "details": "Phase updated to 2"
+    },
+    {
+      "test_name": "Get Tutorial Status",
+      "status": "PASSED",
+      "details": "Completion: 9.1%"
+    },
+    {
+      "test_name": "Get Help Topic",
+      "status": "PASSED",
+      "details": "Got help: Business Structures"
+    },
+    {
+      "test_name": "Tutorial Disabled Mode",
+      "status": "PASSED",
+      "details": "Messages suppressed when disabled"
+    },
+    {
+      "test_name": "Reset Tutorial",
+      "status": "PASSED",
+      "details": "Tutorial reset successfully"
+    },
+    {
+      "test_name": "Complete Tutorial Flow",
+      "status": "PASSED",
+      "details": "Flow completed: 45.5%"
+    },
+    {
+      "test_name": "Message History Tracking",
+      "status": "FAILED",
+      "error": "No history recorded"
+    }
+  ],
+  "flow_tested": [
+    "start",
+    "step_complete",
+    "phase_change",
+    "full_flow"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "test_timestamp": "2026-02-16T21:37:34.865613",
+  "runner_version": "1.0.0",
+  "tests_run": 14,
+  "tests_passed": 14,
+  "tests_failed": 0,
+  "test_results": [
+    {
+      "test_name": "Initialize Scenario Runner",
+      "status": "PASSED",
+      "details": "Loaded 12 scenarios"
+    },
+    {
+      "test_name": "Get Scenario List",
+      "status": "PASSED",
+      "details": "Found 12 scenarios"
+    },
+    {
+      "test_name": "Get Scenario Details",
+      "status": "PASSED",
+      "details": "Retrieved details for Tech Startup - SaaS Platform"
+    },
+    {
+      "test_name": "Start Scenario",
+      "status": "PASSED",
+      "details": "Started Solo Tech Consultant"
+    },
+    {
+      "test_name": "Starting Conditions",
+      "status": "PASSED",
+      "details": "Capital: $10,000"
+    },
+    {
+      "test_name": "Objectives Creation",
+      "status": "PASSED",
+      "details": "Created 5 objectives"
+    },
+    {
+      "test_name": "Resource Modification",
+      "status": "PASSED",
+      "details": "Capital changed from $10,000 to $9,000"
+    },
+    {
+      "test_name": "Advance Turn",
+      "status": "PASSED",
+      "details": "Turn advanced to 1"
+    },
+    {
+      "test_name": "Objectives Progress Tracking",
+      "status": "PASSED",
+      "details": "Tracking 5 objectives"
+    },
+    {
+      "test_name": "Win/Loss Condition Checks",
+      "status": "PASSED",
+      "details": "Conditions checked correctly for early game"
+    },
+    {
+      "test_name": "Bankruptcy Loss Condition",
+      "status": "PASSED",
+      "details": "Bankruptcy detected correctly"
+    },
+    {
+      "test_name": "Scenario End and Result",
+      "status": "PASSED",
+      "details": "Scenario ended with score 90.0"
+    },
+    {
+      "test_name": "Difficulty Modifiers",
+      "status": "PASSED",
+      "details": "Easy: $15,000, Hard: $7,000"
+    },
+    {
+      "test_name": "Scenario History",
+      "status": "PASSED",
+      "details": "History contains 1 scenarios"
+    }
+  ],
+  "scenarios_tested": [
+    "SCN001",
+    "SCN002",
+    "SCN003",
+    "SCN004",
+    "SCN005"
+  ]
+}
