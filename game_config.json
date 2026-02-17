@@ -1,0 +1,10 @@
+{
+  "tutorial_enabled": true,
+  "auto_save_enabled": true,
+  "auto_save_interval": 5,
+  "hint_frequency": "normal",
+  "difficulty": "normal",
+  "sound_enabled": false,
+  "analytics_enabled": true,
+  "default_scenario": "SCN002"
+}

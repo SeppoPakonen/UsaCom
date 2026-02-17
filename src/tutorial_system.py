@@ -661,10 +661,19 @@ class TutorialSystem:
         hints = []
         current_phase = game_state.get("current_phase", 1)
 
-        # Check capital
+        # Check capital - resources are stored as dicts with 'current' key
         resources = game_state.get("resources", {})
-        capital = resources.get("Capital", 10000)
-        starting_capital = game_state.get("starting_capital", 15000)
+        capital_data = resources.get("Capital", {})
+        if isinstance(capital_data, dict):
+            capital = capital_data.get("current", 10000)
+        else:
+            capital = capital_data  # Fallback if it's already a number
+        
+        starting_capital_data = game_state.get("starting_capital", 15000)
+        if isinstance(starting_capital_data, dict):
+            starting_capital = starting_capital_data.get("value", 15000)
+        else:
+            starting_capital = starting_capital_data
 
         if starting_capital > 0 and (capital / starting_capital) < 0.3:
             hint = self.get_hint_for_context("capital_low", current_phase)
