@@ -1,0 +1,1000 @@
+
+=
+
+available
+for sale
+$95,000
+(Inventory Bin . (inventory
+remaining) . ¥ sold)
+Ending |
+ee |
+(Balance (Income
+Sheet) Statement)
+
+Let’s examine the relationship between cost of goods sold on the income statement and
+inventory on the balance sheet. Harley-Davidson starts each accounting period with a stock
+of inventory called beginning inventory (BI). During the accounting period, new purchases
+(P) are added to inventory. The sum of the two amounts is the goods available for sale during
+that period. What remains unsold at the end of the period becomes ending inventory (EJ) on
+the balance sheet. The portion of goods available for sale that is sold becomes cost of goods
+sold on the income statement. The ending inventory for one accounting period then becomes
+the beginning inventory for the next period. The relationships between these various inventory
+amounts are brought together in the cost of goods sold equation:
+
+Blt P—e=cos |
+
+To illustrate, assume that Harley-Davidson began the period with $40,000 worth of Motor-
+clothes in beginning inventory, purchased additional merchandise during the period for
+$55,000, and had $35,000 left in inventory at the end of the period. These amounts are com-
+bined as follows to compute cost of goods sold of $60,000:
+
+Beginning inventory $40,000
++ Purchases of merchandise during the year 55,000
+Goods available for sale 95,000
+— Ending inventory 35,000
+Cost of goods sold $60,000
+
+These same relationships are illustrated in Exhibit 7.3 and can be represented in the merchan-
+dise inventory T-account as follows:
+
+Merchandise Inventory (A)
+
+Beginning inventory 40,000
+Add: Purchases of inventory 55,000 | Deduct: Cost of goods sold 60,000
+Ending inventory 35,000
+
+If three of these four values are known, either the cost of goods sold equation or the inventory
+T-account can be used to solve for the fourth value.
+
+
+--- PAGE 369 ---
+CHAPTER 7 _— Reporting and Interpreting Cost of Goods Sold and Inv
+
+PAUSE FOR FEEDBACK
+
+Inventory should include all items owned that are held for resale. Costs flow into inventory when [
+goods are purchased or manufactured. They flow out (as an expense) when they are sold or disposed
+of. The cost of goods sold equation describes these flows.
+
+SELF-STUDY QUIZ
+
+1. Assume the following facts for Harley-Davidson’s Motorclothes leather baseball jacket
+product line for the year 2016.
+Beginning inventory: 400 units at unit cost of $75.
+Purchases: 600 units at unit cost of $75.
+Sales: 700 units at a sales price of $100 (cost per unit $75).
+
+Using the cost of goods sold equation, compute the dollar amount of goods available for
+sale, ending inventory, and cost of goods sold of leather baseball jackets for the period.
+
+Beginning inventory
++ Purchases of merchandise during the year
+
+Goods available for sale
+— Ending inventory
+
+Cost of goods sold
+
+2. Assume the following facts for Harley-Davidson’s Motorclothes leather baseball jacket
+product line for the year 2017.
+
+Beginning inventory: 300 units at unit cost of $75.
+Ending inventory: 600 units at unit cost of $75.
+Sales: 1,100 units at a sales price of $100 (cost per unit $75).
+
+Using the cost of goods sold equation, compute the dollar amount of purchases of leather
+baseball jackets for the period. Remember that if three of these four values are known, the
+cost of goods sold equation can be used to solve for the fourth value.
+
+Beginning inventory
++ Purchases of merchandise during the year
+— Ending inventory
+
+Cost of goods sold
+
+After you have completed your answers, check them below.
+
+4 GUIDED HELP 7-1
+
+For additional step-by-step video instruction on using the cost of goods sold equation to compute
+relevant income statement amounts, go to http://www.mhhe.com/ibby9e_7a.
+
+Solutions to
+
+inning i x $75 $30,000 7
+" oP Lo ae ene year (600 x $75) 45,000 SELF-STUDY QUIZ
+Goods available for sale (1,000 x $75) 75,000
+— Ending inventory (300 x $75) 22,500
+Cost of goods sold (700 x $75) $52,500
+2. BI = 300 x $75 = $22,500 BI + P—EI=CGS
+EI = 600 x $75 = $45,000 22,500 + P — 45,000 = 82,500
+
+CGS = 1,100 x $75. = $82,500 P = 105,000
+
+
+
+--- PAGE 370 ---
+340 CHAPTER 7 Reporting and Interpreting Cost of Goods Sold and Inventory
+
+LEARNING OBJECTIVE 7-2
+
+Report inventory and cost
+
+of goods sold using the four
+inventory costing methods.
+CL ALLL ALAA
+
+Perpetual and Periodic Inventory Systems
+
+The amount of purchases for the period is always accumulated in the accounting system. The
+amount of cost of goods sold and ending inventory can be determined by using one of two dif-
+ferent inventory systems: perpetual or periodic.
+
+Perpetual Inventory System
+
+To this point in the text, all journal entries for purchase and sale transactions have been recorded
+using a perpetual inventory system. In a perpetual inventory system, purchase transactions are
+recorded directly in an inventory account. When each sale is recorded, a companion cost of goods
+sold entry is made, decreasing inventory and recording cost of goods sold. You have already
+experienced the starting point for that process when your purchases are scanned at the checkout
+counter at Walmart or Target. Not only does that process determine how much you must pay the
+cashier, it also removes the sold items from the store inventory records. As a result, information
+on cost of goods sold and ending inventory is available on a continuous (perpetual) basis.
+
+In a perpetual inventory system, a detailed record is maintained for each type of merchan-
+dise stocked, showing (1) units and cost of the beginning inventory, (2) units and cost of each
+purchase, (3) units and cost of the goods for each sale, and (4) units and cost of the goods on
+hand at any point in time. This up-to-date record is maintained on a transaction-by-transaction
+basis. Most modern companies could not survive without this information. As noted at the
+
+beginning of the chapter, cost and quality pressures brought on by increasing competition.
+combined with dr: ic declines in the cost of computers, have made pec ni ae
+nies. As a consequence, we will
+
+continue to focus on perpetual inventory systems throughout the book.
+
+Periodic Inventory System
+
+Under the periodic inventory system, no up-to-date record of inventory is maintained during
+the year. An actual physical count of the goods remaining on hand is required at the end of
+each period. The number of units of each type of merchandise on hand is multiplied by unit
+cost to compute the dollar amount of the ending inventory. Cost of goods sold is calculated
+using the cost of goods sold equation.
+
+Because the amount of inventory is not known until the end of the period when the inventory
+count is taken, the amount of cost of goods sold cannot be reliably determined until the inven-
+tory count is complete. The primary disadvantage of a periodic inventory system is the lack of
+inventory information. Managers are not informed about low or excess stock situations.
+
+INVENTORY COSTING METHODS
+
+In the Motorclothes example presented in the Self-Study Quiz, the cost of all units of the leather
+baseball jackets was the same—$75. If inventory costs normally did not change. this would be
+the end of our discussion. As we are all aware, however, the prices of most goods do change.
+In recent years, the costs of many manufactured items such as automobiles and motorcycles
+have risen gradually. In some industries such as computers, costs of production have dropped
+dramatically along with retail prices.
+
+When inventory costs have changed, which inventory items are treated as sold or remaining
+in inventory can turn profits into losses and cause companies to pay or save millions in taxes. A
+simple example will illustrate these dramatic effects. Do not let the simplicity of our example
+mislead you. It applies broadly to actual company practices.
+
+Assume that a Harley-Davidson dealer made the following purchases:
+
+Jan. 1 Had beginning inventory of two units of a Model A leather jacket at $70 each.
+
+Jan. 12 Purchased four units of the Model A leather jacket at $80 each.
+
+Jan. 14 Purchased one unit of the Model A leather jacket at $100.
+
+Jan. 15 Sold four units of the Model A leather jacket for $120 each.
+
+
+--- PAGE 371 ---
+CHAPTER 7 Reporting and Interpreting Cost of Goods Sold and inventory 341
+
+Note that the cost of the leather jacket rose rapidly during January. On January 15, four
+units are sold for $120 each and revenues of $480 are recorded. What amount is recorded as
+cost of goods sold? The answer depends on which specific goods we assume are sold. Four
+generally accepted inventory costing methods are available for determining cost of goods sold:
+
+1. Specific identification.
+2. First-in, first-out (FIFO).
+3. Last-in, first-out (LIFO).
+4. Average cost.
+
+The four inventory costing methods are alternative ways to assign the total dollar amount of
+goods available for sale between (1) ending inventory and (2) cost of goods sold. The first
+method identifies individual items that remain in inventory or are sold. The remaining three
+methods assume that the inventory costs follow a certain flow.
+
+Specific Identification Method
+
+When the specific identification totais used. the cost of each item sold is individually
+identified and recorded as cost of goods sold. This method requires keeping track of the pur-
+chase cost of each item. In the leather jacket example, any four of the items could have been
+sold. If we assume that one of the $70 items, two of the $80 items, and the one $100 item have! specific
+been sold, the cost of those items ($70 + $80 + $80 + $100) would become cost of goods sold :
+($330). The cost of the remaining items would be ending inventory.
+
+ne al when large qu
+
+elry, a e. As a consequence, most inventory items are accounted for
+using one of three cost flow assumptions.
+
+y ethod pprop
+
+Cost Flow Assumptions
+
+The choice of an inventory costing method is NOT based on the physical flow of goods on
+and off the shelves. That is why they are called cost flow assumptions. A useful tool for repre-
+senting inventory cost flow assumptions is a bin, or container. Try visualizing these inventory
+costing methods as flows of inventory in and out of the bin.
+
+First-In, First-Out Method
+The first-in, first-out method, frequently called | 1, assumes that the earliest goods purchased
+
+(iMRI tha Setssoodsisold and sed are |
+Under FIFO, cost of goods sold and ending inventory are compute ie flows in and out of
+
+the FIFO inventory bin in Exhibit 7.4A had taken place. First, each purchase is treated as if it were
+deposited in the bin from the top in sequence (two units of beginning inventory at $70 followed by
+purchases of four units at $80 and one unit at $100), producing goods available for sale of $560.
+Each good sold is then removed from the bottom in sequence (two units at $70 and two at $80);
+first in is first out. These goods totaling $300 become cost of goods sold (CGS). The remaining
+units (two units at $80 and one unit at $100 = $260) become ending inventory. FIFO allocates the
+oldest unit costs to cost of goods sold and the newest unit costs to ending inventory.
+
+Gast of Goods Sold Calculation (FIFO)
+Beginning inventory (2 units at $70 each) $140
++ Purchases (4 units at $80 each) 320
+(1 unit at $100) 100
+Goods available for sale 560
+— Ending inventory (2 units at $80 each and 1 unit at $100) 260
+
+Cost of goods sold (2 units at $70 each and 2 units at $80 each) $300
+
+
+--- PAGE 372 ---
+342 CHAPTER 7 __ Reporting and Interpreting Cost of Goods Sold and Inventory
+
+FIFO and LIFO
+Inventory Flows
+
+LAST-IN, FIRST-OUT (LIFO)
+METHOD
+
+An inventory costing method that
+assumes that the most recently
+purchased units (the last in) are
+sold first.
+
+A. FIFO Step 1: Purchase Step 2: Sell
+Merchandise Merchandise
+Units
+purchased Y
+Ending
+inventory
+pa Goods $260
+available
+for sale
+$560
+Beginning
+inventory
+$140
+Cost of
+goods sold
+$300
+B. LIFO Step 4: Purchase Step 2: Sell
+Merchandise Merchandise
+Cost of
+goods sold
+$340
+Units
+purchased Y
+i
+Purchases ! Goods |
+$420 available
+for sale
+$560 Ending
+i inventory
+Beginning : ! $220
+inventory j
+$140
+
+Last-In, First-Out Method
+The tase den. Finest ceyat cpag fined,
+
+inventory, It is illus-
+trated by the LIFO inventory bin in pers ree 7 4B. As in FIFO, each purchase is treated as if it
+were deposited in the bin from the top (two units of beginning inventory at $70 followed by
+purchases of four units at $80 and one unit at $100), resulting in the goods available for sale
+of $560. Unlike FIFO, however, each good sold is treated as if it were removed from the top in
+
+
+--- PAGE 373 ---
+CHAPTER 7 R
+
+orting and interpreting Cost of G
+
+sequence (one unit at $100 followed by three units at $80). These goods totaling $340 become
+cost of goods sold (CGS). The remaining units (one at $80 and two at $70 = $220) become
+ending inventory. LIFO allocates the newest unit costs to cost of goods sold and the oldest unit
+costs to ending inventory.
+
+Cost of Goods Sold Calculation (LIFO)
+
+Beginning inventory (2 units at $70 each) $140
+
++ Purchases (4 units at $80 each) 320
+(1 unit at $100) 100
+
+Goods available for sale 560
+
+— Ending inventory (2 units at $70 each and 1 unit at $80) 220
+Cost of goods sold (3 units at $80 each and 1 unit at $100) $340
+
+The LIFO cost flow assumption is the exact opposite of the FIFO cost flow assumption:
+
+FIFO LIFO
+Cost of goods sold on income statement Oldest unit costs Newest unit costs
+Inventory on balance sheet Newest unit costs Oldest unit costs
+
+Average Cost Method
+
+The average cost method (weighted average cost method) uses the weighted average unit cost
+of the goods available for sale for both cost of goods sold and ending inventory. The weighted
+average unit cost of the goods available for sale is computed as follows.
+
+Number of Units x Unit Cost = Total Cost
+2 x $ 70 = $140
+4 x $ 80 = 320
+q x $100 = 100
+u $560
+le
+ale
+$560 P
+= —— = $80 per Unit
+Average cost == $80 pi
+
+Cost of goods sold and ending inventory are assigned the same weighted average cost per unit
+of $80.
+
+E- = _ a Cost of Goods Sold Calculation (Average Cost)
+Beginning inventory (2 units at $70 each) $140
++ Purchases (4 units at $80 each)
+(1 unit at $100)
+Goods available for sale (7 units at $80 average cost each)
+— Ending inventory (3 units at $80 average cost each)
+
+Cost of goods sold (4 units at $80 average cost each)
+
+is Sold and (nventory
+
+343
+
+
+
+--- PAGE 374 ---
+344 CHAPTER 7 _— Reporting and Interpreting Cost of Goods Sold and Inventory
+
+Perpetual Inventory Systems and Cost Flow Assumptions in Practice
+
+You should have noted that, in our example, all inventory units were purchased before a sale
+was made and cost of goods sold recorded. In reality, most companies make numerous pur-
+chases and sales of the same inventory item throughout the accounting period. How can we
+apply our simple example to these circumstances given that companies normally employ per-
+petual inventory systems?
+
+First, it is important to know that FIFO inventory and cost of goods sold are the same
+whether computed on a perpetual or periodic basis. Second, accounting systems that keep track
+of the costs of individual items normally do so on a FIFO or average cost basis, regardless of
+the cost flow assumption used for financial reporting. As a consequence, companies that wish
+to report under LIFO convert the outputs of their perpetual inventory system to LIFO with an
+adjusting entry at the end of each period. By waiting until the end of the period to calculate this
+LIFO adjustment, LIFO ending inventory and cost of goods sold are calculated as if all pur-
+chases during the period were recorded before cost of goods sold was calculated and recorded.
+In other words, our simple example of how to calculate cost of goods sold applies even though
+a company actually tracks the number of units bought and sold on a perpetual basis.”
+
+While U.S. GAAP allows companies to choose between FIFO, LIFO, and average cost inventory account-
+ing methods, International Financial Reporting Standards (IFRS) currently prohibit the use of LIFO. U.S.
+GAAP also allows different inventory accounting methods to be used for different types of inventory
+items and even for the same item in different locations. IFRS requires that the same method be used for
+all inventory items that have a similar nature and use. These differences can create comparability prob-
+lems when one attempts to compare companies across international borders. For example, Ford uses
+LIFO to value most U.S. inventories and average cost or FIFO for non—U.S. inventories, while Honda (of
+Japan) uses FIFO for all inventories. Each individual country’s tax laws determine the acceptability of
+different inventory methods for tax purposes.
+
+Financial Statement Effects of inventory Methods
+
+Each of the four alternative inventory costing methods is in conformity with GAAP and the tax law.
+To understand why managers choose different methods in different circumstances, we must first
+understand their effects on the income statement and balance sheet. Exhibit 7.5 summarizes the
+financial statement effects of the FIFO, LIFO, and average cost inventory methods in our example.
+Remember that the methods differ only in the dollar amount of goods available for sale allocated to
+cost of goods sold versus ending inventory. For that reason, the method that gives the highest end-
+ing inventory amount also gives the lowest cost of goods sold and the highest gross profit, income
+tax expense, and income amounts, and vice versa. The weighted average cost method generally
+gives income and inventory amounts that are between the FIFO and LIFO extremes.
+
+In our example, recall that unit costs were increasing. it ee
+produces lower income and a lower inventory valuatio . Even in inflation-
+ary times, some companies’ costs decline. i es
+
+higher income and higher inventory valuation than FIFO. These effects. which hold as long
+
+as inventory quantities are constant or rising,” are summarized in the following table:
+
+We show an example comparing calculation of cost of goods sold under perpetual versus periodic FIFO and LIFO
+in Chapter Supplement B.
+>The impact of a decline in inventory quantity on LIFO amounts is discussed in Supplement A to this chapter.
+
+
+--- PAGE 375 ---
+CHAPTER 7 Reporting and interpreting Cost of Goods Sold and Inventory 345
+
+tlle) LIFO Average Cost
+
+, Effect on the Income Statement
+
+Sales $480 $480 $480 , of
+Costofgoodssold 300 ;
+ae) _ Inventory Co: ods
+Gross profit 180 140 160
+Other expenses 80 80 80
+Income before income taxes 100 60 80
+Income tax expense (25%) 25 15 20
+Net income 715 45 60
+
+Effect on the Balance Sheet
+
+i a a: 7
+
+Increasing Costs: Normal Financial Statement Effects
+
+FIFO LIFO
+Cost of goods sold on income statement Lower Higher
+Net income Higher Lower
+Income taxes Higher Lower
+Inventory on balance sheet Higher Lower
+Decreasing Costs: Normal Financial Statement Effects
+
+FIFO LIFO
+Cost of goods sold on income statement Higher Lower
+Net income Lower Higher
+Income taxes Lower Higher
+Inventory on balance sheet Lower Higher
+
+Managers’ Choice of Inventory Methods
+
+What motivates companies to choose different inventory costing methods? Most managers
+
+choose accounting methods based on two factors: Decide when the use of
+different inventory costing
+
+methods is beneficial to a
+te company.
+. _
+
+LEARNING OBJECTIVE 7-3
+
+ies).
+
+b).
+
+Any conflict between the two motives is normally resolved by choosing one accounting method
+for external financial statements and a different method for preparing the company’s tax return.
+The choice of inventory costing methods is a special case, however, because of what is called
+
+the a
+fe atements.
+
+Increasing Cost Inventories
+
+. ——eeEeEe—vV—X——v—V—V—X—n——_—Vv—_—
+
+
+
+--- PAGE 376 ---
+346 CHAPTER 7 __ Reporting and Interpreting Cost of Goods Sold and inventory
+
+This is illustrated in Exhibit 7.5, where income before income taxes was lowered from $100
+under FIFO to $60 under LIFO. On the income tax expense line, this lowers income taxes from
+$25 under FIFO to $15 under LIFO, generating cash tax savings of $10 under LIFO.* The
+LIFO conformity rule leads companies to adopt LIFO for both tax and financial reporting pur-
+poses for increasing cost inventories located in the United States. Harley-Davidson is a fairly
+typical company facing increasing costs. It has saved approximately $17 million in taxes from
+the date it adopted the LIFO method through 2014.
+
+For inventory located in countries that do not allow LIFO for tax purposes or that do not
+have a LIFO conformity rule, companies with increasing costs most often use FIFO or average
+cost to report higher income on the income statement.
+
+Decreasing Cost Inventories
+Using this method (along with lower of cost or market valuation, discussed later) produces the
+lowest tax payments for companies with decreasing cost inventories. Many high-technology
+
+companies are facing declining costs. In such circumstances, the FIFO method, in which the
+oldest, most expensive goods become cost of goods sold, produces the highest cost of goods
+
+sold. the lowest pretax earnings, and thus the lowest income tax liability. For example, Apple
+
+Since most companies in the same industry face similar cost structures. clusters of compa-
+nies in the same industries often choose the same accounting method.
+
+Consistency in Use of Inventory Methods
+
+It is important to remember that regardless of the physical flow of goods, a company can use
+any of the inventory costing methods. Also, a company is not required to use the same inven-
+tory costing method for all inventory items, and no particular justification is needed for the
+selection of one or more of the acceptable methods. Harley-Davidson, and most large com-
+panies, use different inventory methods for different inventory items. However, accounting
+rules require companies to apply their accounting methods on a consistent basis over time. A
+company is not permitted to use LIFO one period, FIFO the next, and then go back to LIFO.
+A change in method is allowed only if the change will improve the measurement of financial
+results and financial position.
+
+#& = LIFO and Conflicts between Managers’ and Owners’ Interests
+
+—
+
+We have seen that the selection of an inventory method can have significant effects on the financial
+statements. Company managers may have an incentive to select a method that is not consistent with
+the owners’ objectives. For example, during a period of rising prices, using LIFO may be in the best
+interests of the owners because LIFO often reduces a company’s tax liability. However, if manag-
+ers’ compensation is tied to reported profits, they may prefer FIFO, which typically results in higher
+profits.
+
+While a well-designed compensation plan should reward managers for acting in the best interests
+of the owners, that is not always the case. Clearly, a manager who selects an accounting method that
+is not optimal for the company solely to increase his or her compensation is engaging in questionable
+ethical behavior.
+
+“In theory, LIFO cannot provide permanent tax savings because (1) when inventory levels drop or (2) costs drop, the
+income effect reverses and the income taxes deferred must be paid, The economic advantage of deferring income
+taxes in such situations is due to the fact that interest can be earned on the money that otherwise would be paid as
+taxes for the current year.
+
+
+--- PAGE 377 ---
+CHAPTER 7 Rep Sold and Inventory 347
+
+PAUSE FOR FEEDBACK
+
+Four different inventory costing methods may be used to allocate costs between the units remaining |
+in inventory and the units sold, depending on economic circumstances. The methods include specific
+
+identification, FIFO, LIFO, and average cost. Each of the inventory costing methods conforms to
+
+GAAP. Remember that the cost flow assumption need not match the physical flow of inventory. The
+
+following questions test your understanding of the FIFO and LIFO methods.
+
+SELF-STUDY QUIZ
+
+1. Compute cost of goods sold and pretax income for 2015 under the FIFO and LIFO accounting
+methods. Assume that a company’s beginning inventory and purchases for 2015 included:
+
+Beginning inventory 10 units @$ 6 each
+Purchases January 5 units @ $10 each
+Purchases May 5 units @ $12 each
+
+During 2015, 15 units were sold for $20 each, and other operating expenses totaled $100.
+
+2. Compute cost of goods sold and pretax income for 2016 under the FIFO and LIFO account-
+ing methods. (Hint: The 2015 ending inventory amount from Part 1 becomes the 2016
+beginning inventory amount.) Assume that the company’s purchases for 2016 included:
+
+Purchases March 6 units @ $13 each
+Purchases November 5 units @ $14 each
+
+During 2016, 10 units were sold for $24 each, and other operating expenses totaled $70.
+3. Which method would you recommend that the company adopt? Why?
+
+After you have completed your answers, check them below.
+
+GUIDED HELP 7-2
+
+For additional step-by-step video instruction on computing ending inventory and cost of goods sold
+using different cost flow assumptions, go to hftp://www.mhhe.com/libby9e_7b.
+
+1. 2015 FIFO FIFO LIFO
+Beginning inventory $ 60 Sales revenue (15 X $20) $300 $300 SELF-STUDY QUIZ
+Purchases (5 x $10) + (5 x $12) 110 Cost of goods sold 110 _140
+Goods available for sale 170 Gross profit 190 160
+Ending inventory* 60 Other expenses 100 100
+Cost of goods sold $110 Pretax income $ 90 $ 60
+
+*FIFO ending inventory = (5 x $12) = $60
+Cost of goods sold = (10 « $6) + (5 X $10) = $110
+LIFO ending inventory = (5 X $6) = $30
+Cost of goods sold = (5 x $12) + (5 x $10) + (S x $6) = $140
+2. 2016 FIFO LIFO FIFO LIFO
+
+Beginning inventory $ 60 $ 30 Sales revenue (10 x $24) $240 $240
+Purchases (6 x $13) + (5 x $14) 148 148 Cost of goods sold 125 135
+Goods available for sale 208 178 Gross profit 115 105
+Ending inventory" 83 43 Other expenses 70 70
+Cost of goods sold $125 $135 Pretax income $ 45 $ 35
+
+‘FIFO ending inventory = (5 x $14) + (1 x $13) = $83
+Cost of goods sold = (5 x $12) + (5 x $13) = $125
+LIFO ending inventory = (5 x $6) + (i X $13) = $43
+Cost of goods sold = (5 x $14) + (5 x $13) = $135
+3. LIFO would be recommended because it produces lower pretax income and lower taxes when inventory
+
+costs are rising. _
+
+
+
+--- PAGE 378 ---
+348 CHAPTER 7 _ Reporting and Interpreting Cost of Goods Sold and Inventory
+
+LEARNING OBJECTIVE 7-4
+
+Report inventory at the lower of
+cost or market (LCM).
+a
+
+NET REALIZABLE VALUE
+The expected sales price less
+selling costs (e.g., repair and
+disposal costs).
+
+LOWER OF COST OR
+MARKET (LCM)
+
+Valuation method departing
+
+from the cost principle; it serves
+to recognize a loss when net
+realizable value drops below cost.
+
+VALUATION AT LOWER OF COST OR MARKET
+(NET REALIZABLE VALUE)
+
+Inventories should be measured initially at their purchase cost in conformity with the cost prin-
+
+his departure from the cost principle is based on the conservatism constraint, which
+requires special care to avoid overstating assets and income. It is particularly important for two
+types of companies: (1) high-technology companies such as HP that manufacture goods for
+which costs of production and selling price are declining and (2) companies such as American
+Eagle Outfitters that sell seasonal goods such as clothing, the value of which drops dramati-
+cally at the end of each selling season (fall or spring).
+
+Under LCM, companies recognize a “holding” loss in the period in which the net realizable
+value of an item drops, rather than in the period the item is sold. The holding loss is the difference
+between the purchase cost and the lower net realizable value. It is added to the cost of goods sold for
+the period. To illustrate, assume that HP had the following in the current period ending inventory:
+
+Net Realizable Lower of Cost
+Costper Value (Market) or Market Total Lower of
+Item Quantity Item per Item per Item Cost or Market
+
+intel chips 1000 $250 = $200 $200 1,000 x $200 = $200,000
+Disk drives 400 Ale aor 100, 400 x $100= 40,000
+
+The 1,000 Intel chips should be recorded in the ending inventory at the current net realizable
+value ($200) because it is lower than the cost ($250). HP makes the following journal entry to
+record the write-down:
+
+i
+
+Assets Liabilities ap Stockholders’ Equity
+
+Inventory —50,000 Cost of Goods Sold (+E) —50,000
+
+Since the market price of the disk drives ($110) is higher than the original cost ($100), no
+write-down is necessary. The drives remain on the books at their cost of $100 per unit ($40,000
+in total). Recognition of holding gains on inventory is not permitted by GAAP.
+
+The write-down of the Intel chips to market produces the following effects on the income
+statement and balance sheet:
+
+Effects of LCM Write-Down Current Period Next Period (if sold)
+Cost of goods sold Increase $50,000 Decrease $50,000
+Pretax income Decrease $50,000 Increase $50,000
+Ending inventory on balance sheet Decrease $50,000 Unaffected
+
+Note that the effects in the period of sale are the opposite of those in the period of the write-
+down. Lower of cost or market changes only the timing of cost of goods sold. It transfers cost
+of goods sold from the period of sale to the period of write-down.
+
+Note that in the two examples that follow, both Harley-Davidson, which is a mixed LIFO
+company, and HP, which is a FIFO company, report the use of lower of cost or market for finan-
+cial statement purposes.°
+
+*For tax purposes, lower of cost or market may be applied with all inventory costing methods except LIFO.
+
+
+--- PAGE 379 ---
+CHAPTER 7 Reporting and Interpreting Cost o
+
+Se ee ee
+HARLEY-DAVIDSON, INC.
+Notes to Consolidated Financial Statements
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Inventories—Inventories are valued at the lower of cost or market. Substantially all inventories
+located in the United States are valued using the last-in, first-out (LIFO) method. Other inventories
+totaling $232.8 million at December 31, 2014, and $210.7 million at December 31, 2013, are
+valued at the lower of cost or market using the first-in, first-out (FIFO) method.
+
+HEWLETT-PACKARD COMPANY AND SUBSIDIARIES
+
+Notes to Consolidated Financial Statements
+NOTE 1: Summary of Significant Accounting Policies
+
+Inventory
+
+HP values inventory at the lower of cost or market. . .. Adjustments to reduce the cost of inventory
+to its net realizable value are made, if required, for estimated excess, obsolete or impaired
+
+balances. Inventories are stated at the lower of cost or market with cost being determined on a
+first-in, first-out basis.
+
+EVALUATING INVENTORY MANAGEMENT
+
+Measuring Efficiency in inventory Management
+
+As noted at the beginning of the chapter, the primary goals of inventory management are to
+have sufficient quantities of high-quality inventory available to serve customers’ needs while
+minimizing the costs of carrying inventory (production, storage, obsolescence, and financing).
+The inventory turnover ratio is an important measure of the company’s success in balancing
+these conflicting goals.
+
+Inventory Turnover
+
+HARLEY-DAVIDSON, INC.
+REAL WORLD EXCERPT:
+Annual Report
+
+HEWLETT-PACKARD
+REAL WORLD EXCERPT:
+Annual Report
+
+LEARNING OBJECTIVE 7-5
+Evaluate inventory management
+using the inventory turnover
+ratio.
+
+KEY RATIO
+
+ANALYSIS
+
+| ANALYTICAL QUESTION
+
+a RATIO AND COMPARISONS.
+
+Inventory Turnover = a entory
+
+The 2014 ratio for Harley-Davidson (see Exhibit 7.1 for the inputs to the equation):
+$3,542,601
+
+—_25 06" ___ =81
+($448,871 + 424,507)/2
+| COMPARISONS OVERTIME | | COMPARISONS WITH COMPETITORS
+| Harley-Davidson | | Polaris ie __Honda Motor
+2012 «.2013-=—2014= «204 2014
+{2 8.3 81 | | 64 7.0
+
+(continued) |
+
+
+
+--- PAGE 380 ---
+350 CHAPTER 7 Rep
+
+Selected Focus
+Companies’ Inventory
+Turnover e
+
+National Beverage 10.19
+Home Depot 472
+
+Deckers AS
+
+rting and
+
+a INTERPRETATIONS
+
+In General The inventory turnover ratio reflects how many times average inventory was produced and
+sold during the period. A higher ratio indicates that inventory moves more quickly through the production
+process to the ultimate customer, reducing storage and obsolescence costs. Because less money is tied up
+in inventory, the excess can be invested to earn interest income or reduce borrowing, which reduces inter-
+est expense. More efficient purchasing and production techniques, such as just-in-time inventory, as well
+as high product demand cause this ratio to be high. Analysts and creditors also watch the inventory turn-
+over ratio because a sudden decline may mean that a company is facing an unexpected drop in demand for
+its products or is becoming sloppy in its production management. Many managers and analysts compute
+the related number average days to sell inventory, which, for Harley-Davidson, is equal to:
+
+It indicates the average time it takes the company to produce and deliver inventory to customers.
+
+Focus Company Analysis Harley-Davidson’s inventory turnover was generally stable from 2012 to
+2014. fluctuating around a ratio of 8.1 during those three years. Harley’s ratio is higher than that of related
+company Polaris and also higher than that of giant Japanese auto and motorcycle manufacturer Honda.
+A Few Cautions Differences across industries in purchasing, production, and sales processes cause dra-
+matic differences in this ratio. For example, restaurants such as Papa John’s, which must turn over their per-
+ishable inventory very quickly, tend to have much higher inventory turnover. A particular firm’s ratio should
+be compared only with its figures from prior years or with figures for other firms in the same industry.
+
+PAUSE FOR FEEDBACK
+
+SELF-STUDY
+
+LEARNING OBJECTIVE 7-6
+
+Compare companies that use
+different inventory costing
+methods.
+
+The inventory turnover ratio measures the efficiency of inventory management. It reflects how many
+times average inventory was produced and sold during the period. Analysts and creditors watch this
+ratio because a sudden decline may mean that a company is facing an unexpected drop in demand for its
+products or is becoming sloppy in its production management. When a net decrease in inventory for
+the period occurs, sales are more than purchases; thus, the decrease must be added in computing cash
+flows from operations. When a net increase in inventory for the period occurs, the opposite is true.
+Before you move on, complete the following questions to test your understanding of these concepts.
+
+Quiz
+
+Refer to the Key Ratio Analysis for Harley-Davidson’s inventory turnover. Based on the computa-
+tions for 2014, answer the following question. If Harley-Davidson had been able to manage its inven-
+tory more efficiently and decrease purchases and ending inventory by $10,000 for 2014, would its
+inventory turnover ratio have increased or decreased? Explain.
+
+After you have completed your answer, check it below.
+
+Inventory Methods and Financial Statement Analysis
+
+What would analysts do if they wanted to compare two companies that prepared their state-
+ments using different ihnvetiongy accounting methods? Before meaningful comparisons could
+be made, one company’s statements would have to be converted to a comparable basis. Mak-
+
+ing such a conversion is eased by the requirement that U.S. public companies using LIFO also
+
+Inventory turnover would have increased because the denominator of the ratio (average inventory) would have
+decreased by $5,000.
+
+$3,542,601
+($448,871 + $414 S072
+
+
+
+--- PAGE 381 ---
+CHAPTER 7
+
+HARLEY-DAVIDSON, INC.
+Notes to Consolidated Financial Statements
+2. ADDITIONAL BALANCE SHEET AND CASH FLOWS INFORMATION
+(in thousands)
+
+December 31,
+2014 2013
+Inventories:
+Inventory at FIFO $498,773 $473,233
+Excess of FIFO over LIFO cost 49,902
+| Inventory at LIFO $448,871
+
+nding inventory on a FIFO basis in the notes if the FIFO values are
+We can use this information along with the cost of goods sold equation to
+
+convert the balance sheet and income statement to the FIFO basis.
+
+Converting the Income Statement to FIFO
+
+Recall that the choice of a cost flow assumption affects how goods available for sale are allo-
+cated to ending inventory and cost of goods sold. It does not affect the recording of purchases.
+Ending inventory will be different under the alternative methods, and, because last year’s end-
+ing inventory is this year’s beginning inventory, beginning inventory will also be different:
+
+Beginning inventory Different
++ Purchases of merchandise during the year Same
+— Ending inventory Different
+Cost of goods sold Different
+
+This equation suggests that if we know the differences between a company’s inventory valued
+at LIFO and FIFO for both beginning and ending inventory, we can compute the difference in
+cost of goods sold. Exhibit 7.6 shows Harley-Davidson’s 2014 disclosure of the differences
+between LIFO and FIFO values for beginning and ending inventory. These amounts, referred
+to as the LIFO reserve or “Excess of FIFO over LIFO,” are disclosed by LIFO users in their
+inventory footnotes.
+
+Using Harley-Davidson’s LIFO reserve values reported in the footnote presented in
+Exhibit 7.6, we see that cost of goods sold would have been $1,176 lower had it used FIFO.
+
+have been
+
+351
+
+==
+
+Financial Statement Effects of
+Inventory Costing Methods
+
+HARLEY-DAVIDSON, INC.
+REAL WORLD EXCERPT:
+Annual Report
+
+48,726 <—LIFO Reserve
+$424,507 <— Inventory reported
+
+on the balance sheet
+
+LIFO RESERVE
+A contra-asset for the excess of
+FIFO over LIFO inventory.
+
+
+--- PAGE 382 ---
+352 CHAPTER 7
+
+IANTTN
+
+ANALYS
+
+DEERE & COMPANY
+REAL WORLD EXCERPT:
+Annual Report
+
+~ and Interpreting Cost of Goods Sold and In
+
+Combining the two effects, net income would be increased by the change in cost of goods sold
+of $1,176 and decreased by the change in income tax expense of $412, resulting in an overall
+increase in net income of $764.
+
+These Harley-Davidson computations are for 2014. It is important to note that even compa-
+nies that usually face increasing costs occasionally face decreasing costs. For example, during
+2000, Harley-Davidson’s costs of new inventory declined due to manufacturing efficiencies. As
+a result, even though LIFO usually saves the company taxes, Harley paid extra taxes in 2000.
+
+Converting Inventory on the Balance Sheet to FIFO
+
+You can adjust the inventory amounts on the balance sheet to FIFO by substituting the FIFO
+values in the note ($498,773 and $473,233 for 2014 and 2013, respectively) for the LIFO val-
+ues (see Exhibit 7.6). Alternatively, you can add the LIFO reserve to the LIFO value on the
+balance sheet to arrive at the same numbers.
+
+FO and invenio
+
+For many LIFO companies, the inventory turnover ratio can be deceptive. Remember that, for these
+companies, the beginning and ending inventory numbers that make up the denominator of the ratio
+will be artificially small because they reflect old lower costs. Consider Deere & Co., manufacturer
+of John Deere farm, lawn, and construction equipment. Its inventory note lists the following values:
+
+DEERE & COMPANY
+Notes to Consolidated Financial Statements
+(dollars in millions)
+
+2014 2013
+Inventories:
+Total FIFO value $5,738 $6,464
+Adjustment to LIFO basis 1,528 1,529
+Inventories $4,210 $4,935
+
+John Deere’s cost of goods sold for 2014 was $24,775.8 million. If the ratio were computed
+using the reported LIFO inventory values for the ratio, it would be
+
+$24,775.8
+
+($4,210 + $4952
+
+Inventory Turnover Ratio =
+Converting cost of goods sold (the numerator) to a FIFO basis and using the more current FIFO
+inventory values in the denominator, it would be
+
+$24,758 +1 _ 4,
+($5,738 + $6,464)/2 .
+Note that the major difference between the two ratios is in the denominator. FIFO inventory
+values are roughly 36 percent higher than the LIFO values. The LIFO beginning and ending
+inventory numbers are artificially small because they reflect older lower costs.
+
+Inventory Turnover Ratio =
+
+
+--- PAGE 383 ---
+The selection of an inventory costing method is important because it will affect reported income,
+income tax expense (and hence cash flow), and the inventory valuation reported on the balance sheet.

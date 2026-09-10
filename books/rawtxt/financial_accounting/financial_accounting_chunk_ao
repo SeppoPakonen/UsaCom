@@ -1,0 +1,1000 @@
+change each period.
+
+Recall that the cash owed for interest is computed by multiplying the bond’s face value ($100,000)
+by the coupon rate per period (10% X Y% year). Thus, Amazon owes bondholders cash of $5,000
+each June 30 and again on December 31. The first interest payment on the bonds is made on June 30,
+2016. Following the three steps outlined above, interest expense and the amount of the bond discount
+amortized are:
+
+Step 1: Interest expense: $96,535 (0.12 x % year] = $5,792
+Step 2: Cash owed for interest: $100,000 x (0.10 x 1 year) = $5,000
+
+Step 3: Amortized amount: $5,792 — $5,000 = $792
+
+The journal entry Amazon would enter is:
+
+Assets
+
+Liabilities aF Equity
+
+Cash —5,000 Bonds payable +792 Interest expense (+E) 5 JEP
+
+Bonds payable book value: $97,327
+($96,535 + $792)
+
+Each period, the amortization of the bond discount increases the bond’s book value, bringing it closer
+to the $100,000 that is due at maturity. The amortization of the bond discount can be thought of as the
+amount of interest earned by the bondholders in a given period that will be paid to them when the bonds
+mature. During the first interest period, Amazon’s bondholders earned interest of $5,792 but received
+only $5,000 in cash. The additional $792 was added to the book value of the bond and will be paid to
+bondholders when the bonds mature.
+
+Interest expense for the next interest period must reflect the change in the bonds payable book value.
+Amazon calculates interest expense for the second half of 2016 by multiplying the bonds payable book
+value on June 30, 2016 ($97,327) by the market rate of interest per period ($97,327 x (12% X Y year) =
+$5,840). With interest expense equal to $5,840 and cash owed for interest equal to $5,000, the amount of
+the bond discount amortized on December 31, 2016, is $840:
+
+Assets = Liabilities ap Stockholders’ Equity
+
+Cash —5,000 Bonds payable +840 Interest expense (+E) —5,840
+
+Bonds payable book value: $98,167
+($96,535 + $792 + $840)
+
+Notice that interest expense for December 31, 2016, is more than interest expense for June 30, 2016.
+Amazon effectively borrowed more money during the second half of the year because of the unpaid inter-
+est accrued during the first half of the year. Because of the amortization of the bond discount, the book
+value of the bond and interest expense increase each year during the life of the bond. This process can be
+illustrated with the amortization schedule shown below:
+
+
+--- PAGE 561 ---
+CHAPTER 10
+
+BOND DISCOUNT AMORTIZATION SCHEDULE
+
+Date (a) | (b) (c) | (4)
+Ou ite |
+(10: Amortization —| Bonds
+Cash Owed { | of Bond | Payable
+for Interest Interest Expense | Discount | Book Value
+Beginning of Period | | Beginning |
+$100,000 x | Book Value x | | Book Value |
+d ; (10% x % year) (12% x % year) | (b) — (a) | +(c) |
+— 1 01/01/2016 at | $96,535
+06/30/2016 | $5,000 | $5,792 $792 97,327 |
+) 12/31/2016 | 5,000 | 5,840 | 840 98,167 |
+) 06/30/2017 5,000 | 5,890 | 390 | 99,057 |
+121312017 | 5,000 | 5,943 | 943 | 100,000
+Note that:
+
+* Cash owed for interest (column a) is computed by multiplying the bond’s face value by the coupon
+rate per period.
+
++ Interest expense (column b) is computed by multiplying the book value of the bonds at the beginning
+of the period (column d) by the market interest rate. Note that the book value of a bond at the begin-
+ning of a period is the book value of the bond at the end of the previous period.
+
+* Amortization of the bond discount is computed by subtracting cash owed for interest (column a)
+from interest expense (column b).
+
+¢ The new book value of the bonds (column d) is computed by adding amortization of the bond dis-
+count (column c) to the book value at the beginning of the period.
+
+In summary, under the effective-interest amortization method, interest expense changes each accounting
+period as the effective amount of the liability changes.
+
+PAUSE FOR FEEDBACK
+
+SELF-STUDY QUIZ
+
+Assume that Amazon issued bonds with a face value of $100,000 and a coupon rate of 5 percent.
+The bonds mature in 10 years and pay interest annually. The bonds were sold when the annual market
+
+interest rate was 6 percent at a price of $92,640.
+1. What amount of cash was owed for interest at the end of the first year?
+2. Using the effective-interest amortization method, what amount of interest expense would
+Amazon report at the end of the first year?
+
+After you have completed your answers, check them below.
+
+1. Cash oneal for interest: $100,000 x 5% = $5,000
+2. Interest expense: $92,640 x 6% = $5,558
+
+
+
+--- PAGE 562 ---
+532 CHAPTER 10 _ Reporting and interpreting Bond Securities
+
+Bonds Issued at a Premium
+Bond Contract Market Rate Bond Price
+
+iol —- ae
+——
+
+Recall that bonds sell at a discount when the market interest rate is greater than the bond’s coupon rate.
+When the market interest rate is less than the bond’s coupon rate, the bonds sell at a premium. To dem-
+onstrate how to account for bonds issued at a premium, let’s use the same Amazon example as before
+but assume that the market interest rate is now 8 percent while the coupon rate remains the same, at
+10 percent. Like before, the bonds are issued on January |, 2016, pay interest semiannually, and mature
+in two years.
+
+The present value of the bonds described above can be computed from the tables contained in Appen-
+dix E using the factor for four periods and an interest rate of 4 percent per period (8% X ¥/ year):
+
+Present Value
+
+Single principal payment at maturity: $100,000 x 0.85480 $ 85,480
++ Annuity cash interest payment: $5,000 x 3.62990 18,150
+Issue (sale) price of bonds $103,630
+
+From Table E.1: interest rate (i) = 4%, periods (n) = 4: Factor = 0.85480
+
+From Table E.2: interest rate (i) = 4%, periods (n) = 4; Factor = 3.62990
+
+Using Excel: rate (i) = .04, nper (n) = 4, pmt = —$5,000, FV = —$100,000
+Using Calculator: rate (i) = 4, periods (n) = 4, pmt = —$5,000, FV = —$100,000
+
+Accounting for bonds issued at a premium is similar to accounting for bonds issued at a discount.
+Companies can explicitly use a bond premium account in their journal entries or implicitly keep track of.
+the premium amount. We show both side-by-side below and then, as we did in our discussion of bond dis-
+counts, we present all subsequent journal entries without using a bond premium account. The January 1,
+2016, issuance of Amazon’s bonds at a premium would be recorded as follows:
+
+Bonds payable book value: $103,630
+($100,000 + $3,630)
+
+Stockholders’ Stockholders’
+Assets = Liabilities sr Equity Assets = Liabilities ar Equity
+Cash +103,630 Bonds payable +100,000 Cash  +103,630 Bonds payable +103,630
+Bond premium +3,630
+
+Bonds payable book value: $103,630
+
+
+--- PAGE 563 ---
+CHAPTER 10 _ Reporting and interpreting Bond Securities 533
+
+Like the bond discount account, the bond premium account is not separately disclosed on Amazon’s
+balance sheet. Instead, the balance sheet reports the bonds payable at their book value ($103,630), which
+is their face value plus the unamortized premium ($100,000 + $3,630). Note that reporting bonds pay-
+able at its book value results in the same amount being reported on the balance sheet ($103,630), regard-
+less of whether a bond premium is explicitly recorded in the journal entry.
+
+Reporting Interest Expense on Bonds Issued at a Premium Using
+Effective-Interest Amortization (without Premium Account)
+
+As with a discount, the recorded premium of $3,630 must be apportioned to each interest period so
+that interest expense reflects the market (effective) interest rate that Amazon is actually paying. To
+compute interest expense and the amount of the premium we will amortize each period, we follow
+the same three steps that we followed to compute these amounts when the bonds were issued at a
+discount:
+
+Step 2: Compute cash owed for interest
+Bond Face Value x Coupon Rate per Period
+
+Y
+Menem Ere
+
+Step 1: Interest expense: $103,630 >< (0.08 x % year) = $4,145
+Step 2: Cash owed for interest: $100,000 x (0.10 x % year) = $5,000
+Step 3: Amortized amount: $4,145 — $5,000 = —$855
+
+The journal entry Amazon would enter is:
+
+Assets = Liabilities oF Stockholders’ Equity
+
+Cash —5,000 Bonds payable Sed Interest expense (+E) —4,145
+
+Bonds payable book value: $102,775
+($103,630 — $855)
+
+The basic difference between effective-interest amortization of a bond discount and a bond pre-
+mium is that the amortization of a discount inereases the book value of the liability and the amortiza-
+tion of a premium decreases it. Both serve the same purpose: to bring the liability to the bond’s face
+value at the maturity date. The following schedule illustrates the amortization of a premium over the
+
+life of a bond.
+
+
+
+--- PAGE 564 ---
+534 CHAPTER 10 _ Reporting and interpreting Bond Securities
+
+BOND PREMIUM AMORTIZATION SCHEDULE
+
+(a) (b) ) (2)
+Amortization Bonds
+Cash Owed | | of Bond | Payable
+for Interest | Interest Expense | Premium | Book Value
+t Beginning of Period | | Beginning
+nS $100,000 x Book Value x | | Book Value
+(10% x ¥2 year) (8% X 2 year) { (b) — (a) | + (c) |
+| _01/01/2016 f | | $103,630
+——— = - =
+06/30/2016 $5,000 $4,145 | $(855) | 102,775
+12/31/2016 5,000 4111 | (889) | 101,886
+06/30/2017 | 5,000 | 4,075 | (925) 100,961 |
+12/31/2017 | 5,000 | 4,039" | (961) | 100,000 |
+
+“Rounded
+
+Regardless of whether a company issues bonds at par, at a discount, or at a premium, the company
+will enter the same journal entry when the bonds mature. For our Amazon example, the journal entry
+would be:
+
+Assets = Liabilities ar Stockholders’ Equity
+
+Cash — 100,000 Bonds payable —100,000
+
+FEEOBACK
+
+SELF-STUDY QUIZ
+
+Assume that Amazon issued bonds with a face value of $100,000 and a coupon rate of 9 percent.
+The bonds mature in 10 years and pay interest annually. The bonds were sold when the annual market
+interest rate was 8 percent at a price of $106,710.
+
+1. What amount of cash was owed for interest at the end of the first year?
+
+2. Using the effective-interest amortization method, what amount of interest expense would
+Amazon report at the end of the first year?
+
+After you have completed your answers, check them below.
+
+4 GUIDED HELP 10-2
+
+For additional step-by-step instruction on how to account for a bond issued at a premium without a
+premium account, go to www.mhhe.com/libby9e gh10b.
+
+olutions to 1. Cash owed for interest: $100,000 x 9% = $9,000
+LE-STUL 2. Interest expense: $106,710 x 8% = $8,537
+
+
+
+--- PAGE 565 ---
+CHAPTER 10 _ Reporting and Interpreting Bond Securities 535
+
+CHAPTER TAKE-AWAYS
+
+10-1. Describe the characteristics of bond securities, p. 508
+
+Bond securities are commonly referred to as just “bonds.” Bonds have a number of characteristics
+designed to meet the needs of both the issuing company and the bondholder. We discussed many
+of those characteristics in this chapter.
+
+Companies issue bonds to raise long-term capital. Bonds offer a number of advantages com-
+pared to stock, including the tax deductibility of interest and the fact that control of the company
+is not diluted when a company issues bonds instead of stock. Bonds do carry additional risk, how-
+ever, because interest and principal payments are not discretionary.
+
+10-2. Report bonds payable and intcrest expense for bond securities issued at par. p. 514
+
+Three types of events must be recorded over the life of a typical bond: (1) the receipt of cash when
+the bond is sold, (2) the periodic payment of interest, and (3) the repayment of the bond’s face
+value at maturity. The amount of cash a company receives when it issues bonds is the present value
+of the future cash flows associated with the bonds. When the market interest rate and the coupon
+rate are the same, the bond will sell at par (face value).
+
+10-3. Compute and analyze the times interest earned ratio. _p. 516
+
+The times interest earned ratio reflects the amount of income earned for each dollar of interest
+expense. It is a measure of a company’s ability to meet its interest obligations. It is computed
+by comparing interest expense to net income after adding back interest expense and income tax
+expense.
+
+10-4. Report bonds payable and interest expense for bond securities issued at a discount. pp. 517
+& 529
+Bonds are sold at a discount whenever the coupon rate is less than the market interest rate. A
+discount is the difference between the selling price of a bond and the bond’s face value when the
+bond is sold for less than its face amount. Companies have the option of explicitly keeping track
+of the bond discount by incorporating it into journal eniries or implicitly keeping track of the bond
+discount and not including it in journal entries. Regardless, the same amount is reported as bonds
+payable on a company’s balance sheet.
+
+10-5. Report bonds payable and interest expense for bond securities issued at a premium.
+pp. 521 & 532
+Bonds are sold at a premium whenever the coupon rate is greater than the market interest rate. A
+premium is the difference between the selling price of a bond and the bond’s face value when the
+bond is sold for more than its face value. Companies have the option of explicitly keeping track of
+the bond premium by incorporating it into journal entries or implicitly keeping track of the bond
+premium and not including it in journal entries. Regardless, the same amount is reported as bonds
+payable on a company’s balance sheet.
+
+10-6. Compute and analyze the debt-to-equity ratio. p. 526
+The debt-to-equity ratio compares the amount of debt to the amount of equity on a company’s
+balance sheet. It is an important ratio because of the high risk associated with debt capital; debt
+capital requires interest and principal payments.
+
+10-7. Report the early retirement of bond securities. p. 527
+A company may retire bonds before their maturity date, by either purchasing the bonds in the open
+market or activating a call feature if the bonds contain such a feature. The difference between the
+book value of the bonds and the amount paid to retire the bonds ts reported as a gain or loss on the
+company’s income statement.
+
+10-8. Explain how bond securities are reported on the statement of cash flows. p. 528
+Cash received from issuing bonds and cash paid to retire bonds at maturity are financing cash
+flows. Cash paid for interest and any gain or loss on the early retirement of bonds are operating
+
+cash flows.
+
+
+--- PAGE 566 ---
+536 CHAPTER 10
+
+RATIOS
+
+Times interest earned ratio reflects the amount of income earned for each dollar of interest expense.
+It is a measure of a company’s ability to meet its interest obligations. The ratio is computed as follows
+(see the “Key Ratio Analysis” box in the Reporting Bond Transactions section):
+
+Net Income + Interest Expense + Income Tax Expense
+Interest Expense
+
+Times Interest Earned =
+
+Debi-to-equity ratio compares the amount of debt on a company’s balance sheet to the amount of
+equity. The ratio is computed as follows (see the “Key Ratio Analysis” box in the Reporting Bond
+Transactions section):
+
+Totai Liabilities
+
+Debt-to-Equity = —————____—-
+auity Stockholders’ Equity
+
+FINDING FINANCIAL INFORMATION
+
+Balance Sheet
+Bonds are normally listed as long-term liabili-
+ties. An exception occurs when the bonds are
+
+within one year of maturity, in which case they
+
+are reported as current liabilities with the title
+“Current Portion of Long-Term Debt.”
+
+Statement of Cash Flows
+
+Under Financing Activities
++ Cash inflows from issuing bonds
+— Cash outflows from paying off principal
+when bonds mature or are retired
+Under Operating Activities
+— Cash outflows for interest payments activity
+— Cash outflows associated with a loss from
+early retirement
++ Cash inflows associated with a gain from
+early retirement
+
+KEY TERMS
+
+Bond Certificate p. 511
+
+Bond Discount p. 512
+
+Bond Premium p. 512
+
+Bond Principal (Par Value, Face Value,
+Maturity Value) p. 509
+
+Callable Bonds p. 510
+
+Convertible Bonds p. 510
+
+Nominal Rate) p. 509
+Covenants p. 5!1
+Debenture  p. 510
+Effective-Interest Amortization
+
+Coupon Rate (Stated Rate, Contract Rate,
+
+Income Statement
+Issuing bonds and paying off bonds at maturity
+do not affect the income statement. Recogniz-
+ing interest expense and any gain or loss from
+early retirement does affect the income state-
+ment. Most companies report interest expense
+in a separate category on the income statement.
+
+Notes
+
+Under Summary of Significant Accounting
+Policies
+
+A brief description of how a company accounts
+
+for long-term liabilities, including bonds.
+
+Under a Separate Note
+
+Most companies include a separate note where
+
+they describe in more detail their accounting
+
+for long-term debt, including the type of debt,
+
+maturity dates, and interest rates. The note also
+
+typically describes any special features associ-
+ated with the debt. such as whether bonds can be
+called early. Typically in a company’s financial
+statements and footnotes. bonds are referred to
+as “notes.”
+
+Indenture p. 510
+
+Market Interest Rate (Yield. Effective
+Interest Rate) p. 512
+
+Prospectus p. 510
+
+Straight-Line Amortization p. 525
+
+p. 518 Trustee p. 511
+
+
+--- PAGE 567 ---
+SAAARYN >
+
+so
+
+11.
+2,
+
+. When calculating the present value of a bond’s future cash flows, do investors use the coupon rate or
+
+. What is the book value of a bond?
+. What is the formula used for calculating the cash payment bond investors will receive for interest
+
+. Annual interest expense for a single bond issue continues to increase over the life of the bonds.
+
+. Which of the following is not an advantage of issuing bonds when compared to issuing additional
+
+. A bond with a face value of $100,000 has a coupon rate of 8 percent. The bond matures in 10 years.
+
+. Which account would not be included in the debt-to-equity ratio calculation?
+
+. Which of the following is false when a bond is issued at a premium?
+
+CHAPTER 10 _ Reporting and Interpreting Bond Securities 587
+
+QUESTIONS
+
+From the perspective of the issuer, what are some advantages of issuing bonds instead of stock?
+What are the primary characteristics of a bond? For what purposes are bonds usually issued?
+What is the difference between an unsecured and a secured bond?
+
+Differentiate between a bond indenture and a bond prospectus.
+
+What is a bond covenant?
+
+Differentiate between a bond coupon rate and the market rate of interest.
+
+Explain what determines whether a bond is issued at a discount or a premium.
+
+market interest rate as the discount rate?
+
+each period? What is the formula used to calculate interest expense each period?
+How is the debt-to-equity ratio computed? What does the debt-to-equity ratio tell you?
+When market interest rates increase, do bond prices increase or decrease?
+
+MULTIPLE-CHOICE QUESTIONS
+
+Which of the following explains this?
+
+a. The market rate of interest has increased since the bonds were sold.
+b. The coupon rate has increased since the bonds were sold.
+
+c. The bonds were sold at a discount.
+
+d. The bonds were sold at a premium.
+
+shares of stock in order to obtain additional capital?
+
+a. Stockholders maintain proportionate ownership percentages.
+
+b. Interest expense reduces taxable income.
+
+c. The payment of interest is flexible and at the discretion of the issuing firm.
+d. All of the above are advantages associated with bonds.
+
+When the bond is issued, the market rate of interest is 10 percent. What amount will investors pay for
+this bond?
+
+a. $100,000 c. $49,157
+
+b. $87,707 d. $113,421
+
+a. Unearned Revenue. c. Income Taxes Payable.
+b. Retained Earnings. d. All of the above are included.
+
+a. The bond will issue for an amount above its par value.
+
+b. Bonds payable will be credited for an amount greater than the bond’s face value.
+
+c. Interest expense will exceed the cash interest payments.
+
+d. All of the above are false.
+
+A bond with a face value of $100,000 was issued for $93,500 on January 1 of this year. The stated
+rate of interest was 8 percent and the market rate of interest was 10 percent when the bond was sold.
+Interest is paid annually. How much interest will be paid on December 31 of this year?
+
+a. $10,000 c. $7,480
+
+b. $8.000 d. $9.350
+
+To determine whether a bond will be sold at a premium, at a discount, or at face value, one must
+know which of the following pairs of information?
+
+a. Face value and the coupon rate on the date the bond is issued.
+
+b. Face value and the market rate of interest on the date the bond is issued.
+
+c. The coupon rate and the market rate of interest on the date the bond is issued.
+
+d. The coupon rate and the stated rate on the date the bond is issued.
+
+
+--- PAGE 568 ---
+538 CHAPTER 10 Reporting and Interpreting Bond Securiti
+
+8. When using the effective-interest method of amortization, interest expense reported in the income
+statement is impacted by the
+a. Face value of the bonds.
+
+b. Coupon rate stated in the bond certificate.
+c. Market rate of interest on the date the bonds were issued.
+d. Both (a) and (b).
+
+9. A bond with a face value of $100,000 is sold on January 1. The bond has a coupon rate of 10 percent
+and matures in 10 years. When the bond was issued, the market rate of interest was 10 percent. On
+December 31, the market rate of interest increased to 11 percent. What amount should be reported
+on December 31 as the bond liability on the balance sheet?
+
+a. $100,000 c, $94,460
+b. $94,112 d. $87,562
+10. When using the effective-interest method of amortization, the book value of a bond changes by what
+amount on each interest payment date?
+a. Interest expense
+b. Cash interest payment
+c. The difference between interest expense and the cash interest payment
+d. None of the above
+
+M10-1
+LO10-1, 10-2, 10-8
+
+M10-2
+1010-2
+
+M10-3
+LO10-3, 10-6
+M10-4
+1010-3
+
+Finding Financial Information
+
+For each of the following items, specify whether the information would be found in the balance sheet, the
+income statement, the statement of cash flows, or the notes to the statements.
+1. The amount of a bond liability.
+A description of any bond covenants.
+The coupon rates associated with bond issuances.
+Interest expense for the period.
+The maturity dates associated with bond issuances.
+Cash interest paid for the period.
+
+eo
+
+EN ss
+
+Computing the Price of a Bond Issued at Par
+
+Williams Company plans to issue bonds with a face value of $600,000 and a coupon rate of 8 percent.
+The bonds will mature in 10 years and pay interest semiannually every June 30 and December 31. All
+of the bonds are sold on January | of this year. Determine the issuance price of the bonds assuming an
+annual market rate of interest of 8 percent.
+
+Understanding Financial Ratios
+
+The debt-to-equity and times interest earned ratios were discussed in this chapter. Which is a better indi-
+cator of a company’s ability to meet its required interest payment? Explain.
+
+Computing the Times Interest Earned Ratio
+
+Oak Corporation’s financial statements for the current year showed the following:
+
+Income Statement
+
+Revenues $800,000
+
+Expenses (620,000)
+Interest expense (12,600)
+Pretax income 167,400
+Income tax (30%) (50,220)
+Net income $117,180
+
+Compute Oak’s times interest earned ratio.
+
+
+--- PAGE 569 ---
+CHAPTER 10
+
+Computing the Price of a Bond Issued at a Discount
+
+Trew Company plans to issue bonds with a face value of $900,000 and a coupon rate of 6 percent. The
+bonds will mature in 10 years and pay interest semiannually every June 30 and December 31. All of the
+bonds are sold on January | of this year. Determine the issuance price of the bonds assuming an annual
+market rate of interest of 8.5 percent.
+
+Recording the Issuance and Interest Payments of a Bond Issued at a Discount (with Discount
+Account)
+
+Coffman Company sold bonds with a face value of $1,000,000 for $940,000. The bonds have a coupon
+rate of 10 percent, mature in 10 years, and pay interest semiannually every June 30 and December 31. Al
+of the bonds were sold on January | of this year. Using a discount account, record the sale of the bonds
+on January 1 and the payment of interest on June 30 of this year. Coffman uses the effective-interest
+amortization method. Assume an annual market rate of interest of 11 percent.
+
+(Chapter Supplement) Recording the Issuance and Interest Payments of a Bond Issued at a
+Discount (without Discount Account)
+
+Coffman Company sold bonds with a face value of $1,000,000 for $940,000. The bonds have a coupon
+rate of 10 percent, mature in 10 years, and pay interest semiannually every June 30 and December 31.
+All of the bonds were sold on January | of this year. Record the sale of the bonds on January 1 and the
+payment of interest on June 30 of this year, without the use of a discount account. Coffman uses the
+effective-interest amortization method. Assume an annual market rate of interest of 11 percent.
+
+Computing the Price of a Bond Issued at a Premium
+
+Waterhouse Company plans to issue bonds with a face value of $500,000 and a coupon rate of 10 percent.
+The bonds will mature in 10 years and pay interest semiannually every June 30 and December 31. All
+of the bonds are sold on January | of this year. Determine the issuance price of the bonds assuming an
+annual market rate of interest of 8 percent.
+
+Recording the Issuance and Interest Payments of a Bond Issued at a Premium (with Premium
+Account)
+
+RKO Company sold bonds with a face value of $850,000 for $910,000. The bonds have a coupon rate of
+8 percent, mature in 10 years, and pay interest annually every December 31. All of the bonds were sold
+on January | of this year. Using a premium account, record the sale of the bonds on January | and the
+payment of interest on December 31 of this year. RKO uses the effective-interest amortization method.
+Assume an annual market rate of interest of 7 percent.
+
+(Chapter Supplement) Recording the Issuance and Interest Payments of a Bond Issued at a
+Premium (without Premium Account)
+
+RKO Company sold bonds with a face value of $850,000 for $910,000. The bonds have a coupon rate
+of 8 percent, mature in 10 years, and pay interest annually every December 31. All of the bonds were
+sold on January 1 of this year. Record the sale of the bonds on January | and the payment of interest on
+December 31 of this year, without the use of a premium account. RKO uses the effective-interest amorti-
+zation method. Assume an annual market rate of interest of 7 percent.
+
+Recording the Issuance and Interest Payments of a Bond Issued at a Discount (Straight-Line
+Amortization with a Discount Account)
+
+Wefald Company sold bonds with a face value of $600,000 for $580,000. The bonds have a coupon rate of
+10 percent, mature in 10 years, and pay interest semiannually every June 30 and December 31. All of the
+bonds were sold on January | of this year. Using a discount account, record the sale of the bonds on January 1
+and the payment of interest on June 30 of this year. Wefald uses the straight-line amortization method.
+
+(Chapter Supplement) Recording the Issuance and Interest Payments of a Bond Issued at a
+Discount (Straight-Line Amortization without a Discount Account)
+
+Wefald Company sold’bonds with a face value of $600,000 for $580,000. The bonds have a coupon rate
+of 10 percent. mature in 10 years, and pay interest semiannually every June 30 and December 31. All of
+
+M10-5
+LO10-4
+
+M10-6
+LO10-4
+
+M10-7
+LO10-4
+
+M10-8
+1040-5
+
+M10-9
+LO10-5
+
+M10-10
+LO10-5
+
+M10-11
+LO10-4
+
+M10-12
+LO10-4
+
+539
+
+
+
+--- PAGE 570 ---
+540
+
+CHAPTER 10 _ Reporting and Interpreting Bond Securities
+
+M10-13
+L010-7
+
+M10-14
+LO10-8
+
+E10-1
+LO10-1
+
+E10-2
+LO10-1
+
+\
+
+E10-3
+LO10-2, 10-4, 10-5
+
+E10-4
+LO10-2, 10-4, 10-5
+
+the bonds were sold on January | of this year. Record the sale of the bonds on January 1 and the payment
+of interest on June 30 of this year, without the use of a discount account. Wefald uses the straight-line
+amortization method.
+
+Interest Rates and the Early Retirement of Debt
+
+If interest rates fell after the issuance of a bond and the company decided to retire the debt early. would
+you expect the company to report a gain or loss on debt retirement? How would the company’s balance
+sheet and income statement be affected?
+
+The Cash Flow Effects of Retiring Bonds and Paying Interest
+
+In what section of the statement of cash flows would you find cash paid for principal when a bond
+matures? In what section would you find cash paid for interest each period?
+
+Interpreting Information Reported in the Business Press
+Apple recently issued a series of bonds with various maturity dates. The information below pertains to
+one of Apple’s bonds:
+
+Issuer Coupon (%) Maturity Current ($} Yield (
+
+Apple 3.45 2024 101.29 329
+
+Explain why investors would care about knowing the coupon rate and yield percentages. Assume that
+over the next several weeks the yield went down to 3.10. How would this decrease affect Apple's finan-
+cial statements?
+
+Evaluating Bond Features
+
+You are a personal financial planner working with a married couple in their early 40s who have decided
+to invest $100.000 in corporate bonds. You have found two bonds that you think will interest your clients.
+One is a zero coupon bond issued by PepsiCo with an effective interest rate of 9 percent and a maturity
+date of 2025. It is callable at par. The other is a Walt Disney bond that matures in 2093. It has an effee-
+tive interest rate of 9.5 percent and is callable at 102 percent of par. Which of the two bonds is less likely
+to be called if interest rates fall over the next few years?
+
+Computing Issue Prices of Bonds Sold at Par, at a Discount, and at a Premium
+
+LaTanya Corporation is planning to issue bonds with a face value of $100.000 and a coupon rate of
+8 percent. The bonds mature in seven years. Interest is paid annually on December 31. All of the bonds
+will be sold on January | of this year.
+
+Required:
+Compute the issue (sale) price on January | of this year for each of the following independent cases
+(show computations):
+
+a. Case A: Market interest rate (annual): 8 percent.
+b. Case B: Market interest rate (annual): 6 percent.
+c. Case C: Market interest rate (annual): 9 percent.
+
+Computing Issue Prices of Bonds Sold at Par, at a Discount, and at a Premium
+
+James Corporation is planning to issue bonds with a face value of $500.000 and a coupon rate of
+6 percent. The bonds mature in 10 years and pay interest semiannually every June 30 and December 31.
+All of the bonds will be sold on January | of this year.
+
+
+--- PAGE 571 ---
+CHAPTER 10 541
+
+Required:
+
+Compute the issue (sale) price on January 1 of this year for cach of the following independent cases
+(show computations):
+
+a, Case A: Market interest rate (annual): 4 percent.
+b. Case B: Market interest rate (annual): 6 percent.
+c. Case C: Market interest rate (annual): 8.5 percent.
+
+Determining the Effects of Issuing Bonds on the Debt-to-Equity Ratio E10-5
+
+On January | of this year, Denver Corporation sold bonds with a face value of $300,000 and a coupon 1010-2, 10-6
+rate of 6 percent. The bonds mature in 10 years and pay interest annually every December 31. At the time :
+
+the bonds were issued, the annual market rate of interest was 6 percent. The company uses the effective- Ip)
+
+interest amortization method.
+
+Required:
+1. When the bonds were issued, did Denver's debt-to-equity ratio increase, decrease, or stay the same?
+2. At the end of the first year, when Denver recorded its first interest expense and paid cash to investors
+for interest, did its debt-to-equity ratio increase, decrease, or stay the same?
+
+Analyzing Financial Ratios E10-6
+
+You have just started your first job as a financial analyst for a large stock brokerage company. Your boss, a LO10-3, 10-6
+senior analyst, has finished a detailed report evaluating bonds issued by two different companies. She stopped ; -rar
+by your desk and asked for help: “I have compared two ratios for the companies and found something inter- wy ‘\
+esting.” She went on to explain that the debt-to-equity ratio for Applied Engineering is much lower than the -
+
+industry average and that the one for Innovative Engineering is much higher, On the other hand, the times
+
+interest earned ratio for Applied Engineering is much higher than the industry average, and the ratio for Inno-
+
+vative Engineering is much lower. Your boss then asked you to think about what the ratios indicate about the
+
+two companies so that she could include the explanation in her report. How would you respond to your boss?
+
+Computing the Price of a Bond Issued at a Discount E10-7
+
+GMAC Corporation is planning to issue bonds with a face value of $250,000 and a coupon rate of LO10-4
+
+6 percent. The bonds mature in five years and pay interest semiannually every June 30 and December 31.
+All of the bonds were sold on January | of this year. Determine the issuance price of the bonds assuming
+an annual market rate of interest of 8 percent.
+
+Recording and Reporting a Bond Issued at a Discount (with Discount Account} E10-8
+
+Park Corporation is planning to issue bonds with a face value of $600,000 and a coupon rate of 7.5 per- 1010-4
+
+cent. The bonds mature in four years and pay interest semiannually every June 30 and December 31. All
+of the bonds were sold on January 1 of this year. Park uses the effective-interest amortization method and
+also uses a discount account. Assume an annual market rate of interest of 8.5 percent.
+
+Required:
+I. Provide the journal entry to record the issuance of the bonds.
+2. Provide the journal entry to record the interest payment on June 30 of this year.
+3. What bonds payable amount will Park report on its June 30 balance sheet?
+
+(Chapter Supplement) Recording and Reporting a Bond Issued at a Discount (without E10-9
+Discount Account) 1010-4
+
+Park Corporation is planning to issue bonds with a face value of $600,000 and a coupon rate of 7.5 per-
+cent. The bonds mature in four years and pay interest semiannually every June 30 and December 31. All
+of the bonds were sold on January | of this year. Park uses the effective-interest amortization method and
+does not use a discount account, Assume an annual market rate of interest of 8.5 percent.
+
+Required:
+1. Provide the journal entry to record the issuance of the bonds. ;
+2. Provide the journal entry to record the interest payment on June 30 of this year.
+3. What bond payable amount will Park report on its June 30 balance sheet?
+
+
+
+--- PAGE 572 ---
+542 CHAPTER 10 _ Reporting and Interpreting Bond Securities
+
+E10-10 Preparing a Bond Amortization Schedule for a Bond Issued at a Discount and Determining
+1010-4 Reported Amounts
+
+On January 1 of this year, Ikuta Company issued a bond with a face value of $100,000 and a coupon
+rate of 5 percent. The bond matures in three years and pays interest every December 31, When the bond
+was issued, the annual market rate of interest was 6 percent. Ikuta uses the effective-interest amortiza-
+tion method.
+
+Required:
+1, Complete a bond amortization schedule for all three years of the bond’s life.
+2. What amounts will be reported on the income statement and balance sheet at the end of Year | and
+Year 2?
+
+E10-11 Interpreting a Bond Amortization Schedule
+
+1010-4 Santa Corporation issued a bond on January | of this year with a face value of $1,000. The bond’s cou-
+
+pon rate is 6 percent and interest is paid once a year on December 31. The bond matures in three years.
+The annual market rate of interest was 8 percent at the time the bond was sold. The following amortiza-
+tion schedule pertains to the bond issued:
+
+Cash Paid Interest Expense = Amortization Balance
+January 1, Year | $ 948
+December 31, Year | $60 $76 $16 964
+December 31, Year 2 60 77 17 981
+December 31. Year 3 60 719 19 1,000
+
+Required:
+1. What was the bond’s issue price?
+2. Did the bond sell at a discount or a premium? How much was the premium or discount?
+3. What amount(s) should be shown on the balance sheet for bonds payable at the end of Year | and
+Year 2?
+4. Show how the following amounts were computed for Year 2: (a) $60, (b) $77, (c) $17, and (d) $981.
+
+E10-12 Explaining Why Debt Is Issued at a Price Other Than Par
+
+LO10-4, 10-5 The annual report of American Airlines contained the following note:
+-
+} The Company recorded the issuance of $775 million in bonds (net of $25 million discount) ay
+= long-term debt on the consolidated balance sheet. The bonds bear interest at fixed rates, with
+
+an average effective rate of 8.06 percent, and mature over various periods of time, with a final
+maturity in 2031.
+
+After reading this note, an investor asked her financial advisor why the company didn’t simply sell the
+notes for an effective yield that equaled the coupon rate. thereby avoiding the need to account for a small
+discount over the next 20 years. Prepare a written response to this question.
+
+€10-13 Recording and Reporting a Bond Issued at a Premium (with Premium Account)
+
+LO10-5 Park Corporation is planning to issue bonds with a face value of $2,000,000 and a coupon rate of
+
+10 percent. The bonds mature in 10 years and pay interest semiannually every June 30 and December 31.
+All of the bonds were sold on January | of this year. Park uses the effective-interest amortization method
+and also uses a premium account. Assume an annual market rate of interest of 8.5 percent.
+
+Required:
+1. Provide the journal entry to record the issuance of the bonds.
+2. Provide the journal entry to record the interest payment on June 30 of this year.
+3. What bonds payable amount will Park report on its June 30 balance sheet?
+
+
+
+--- PAGE 573 ---
+CHAPTER 10 — Reporting and Interpreting Bond Securities
+
+(Chapter Supplement) Recording and Reporting a Bond Issued at a Premium (without
+Premium Account)
+
+Park Corporation is planning to issue bonds with a face value of $2,000,000 and a coupon rate of 10
+percent. The bonds mature in 10 years and pay interest semiannually every June 30 and December
+31. All of the bonds were sold on January 1 of this year. Park uses the effective-interest amortization
+method and does not use a premium account. Assume an annual market rate of interest of 8.5 percent.
+
+Required:
+1. Provide the journal entry to record the issuance of the bonds.
+2. Provide the journal entry to record the interest payment on June 30 of this year.
+3. What bonds payable amount will Park report on its June 30 balance sheet?
+
+Preparing a Bond Amortization Schedule for a Bond Issued at a Premium and Determining
+Reported Amounts
+
+On January 1 of this year, Houston Company issued a bond with a face value of $10,000 and a coupon
+rate of S percent. The bond matures in three years and pays interest every December 31. When the bond
+was issued, the annual market rate of interest was 4 percent. Houston uses the effective-interest amortiza-
+tion method.
+
+Required:
+1. Complete a bond amortization schedule for all three years of the bond’s life.
+2. What amounts will be reported on the income statement and balance sheet at the end of Year | and
+Year 2?
+
+Recording and Analyzing the Cash Flow Effects of a Bond Issued at a Premium (with Premium
+Account)
+
+On January | of this year, Gateway Company issued bonds with a face value of $1 million and a cou-
+pon rate of 9 percent. The bonds mature in 10 years and pay interest semiannually every June 30 and
+December 31. When the bonds were issued, the annual market rate of interest was 8 percent. Record the
+issuance of the bonds on January 1 of this year. How will Gateway’s statement of cash flows be affected
+on January 1, June 30, and December 31 of this year?
+
+Recording the Early Retirement of a Bond
+
+Several years ago, Walters Company issued bonds with a face value of $1,000,000 at par. As a result of
+declining interest rates, the company has decided to call the bond at a call premium of 5 percent over par.
+Record the retirement of the bonds.
+
+Recording the Early Retirement of a Bond Issued at a Discount (with Discount Account)
+
+Several years ago, Nicole Company issued bonds with a face value of $1,000,000 for $945,000. As a
+result of declining interest rates, the company has decided to call the bond at a call premium of 5 percent
+over par. The bonds have a current book value of $984,000, Record the retirement of the bonds, using a
+
+discount account.
+
+(Chapter Supplement) Recording the Early Retirement of a Bond Issued at a Discount
+(without Discount Account)
+Several years ago, Nicole Company issued bonds with a face value of $1,000,000 for $945,000. As a
+
+result of declining interest rates, the company has decided to call the bond at a call premium of 5 percent
+over par. The bonds have a current book value of $984,000. Record the retirement of the bonds without
+
+using a discount account.
+Recording and Reporting a Bond Issued at a Discount (Straight-Line Amortization with

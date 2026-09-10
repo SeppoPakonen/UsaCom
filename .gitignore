@@ -3,3 +3,7 @@ books/Technology Ventures.pdf
 books/The_Startup_Owner s_Manual-A step by step guide for building a great company.pdf
 trash/**
 
+.kilo/
+tmp/
+books/Financial_Accounting.pdf
+books/Fundamentals of Financial Management 15th edition*.pdf

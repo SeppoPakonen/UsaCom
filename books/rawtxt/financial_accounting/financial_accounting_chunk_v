@@ -1,0 +1,999 @@
+Decreases Increases
+
+What if both the numerator and denominator are affected
+
+but by different amounts?
+
+Example 2: Consider the same transaction as in Example 1. What would be the effect on the
+return on assets ratio? Note that the transaction would decrease the numerator Net Income by
+$1,000. It would also decrease the ending total assets by $1,000 but have no effect on begin-
+ning total assets. So the denominator, average total assets, would only decrease by $500:
+
+Avg. Total Assets = ($207,000 + $231,839 — $1,000) + 2 = $218,920
+
+The ratio was 0.180 in Exhibit 5.9. It would decrease as follows:
+
+Avg. Return on
+NetIncome +  TotalAssets = Assets
+As reported: $39,510 + $219,420 = 0.180
+Transaction effect: - 1,000 —500
+After transaction: $38,510 + $218,920 = 0.176
+
+This example illustrates a second general point about the effect of transactions on ratios. If a
+transaction affects the numerator by more than it affects the denominator, or if it affects the
+denominator by more than it affects the numerator, you must compute the effect with the num-
+
+bers given.
+
+municating and Interpreting Ai
+
+253
+
+
+--- PAGE 284 ---
+254 CHAPTER 5 Commun
+
+PAUSE FOR
+
+What if the numerator and denominator are affected by the same amount?
+
+Example 3: Apple paid $4,000 of accounts payable in cash (all numbers in millions). What
+would be the effect on the current ratio? The entry would be:
+
+Accounts payable (—L)
+
+Cash (—A) 4,000
+
+Note that the transaction would decrease the numerator, Current Assets, and the denominator,
+Current Liabilities, by the same amount. The ratio was 1.08 (using numbers from Exhibit 5.4).
+It would increase as follows.
+
+Current Assets + CurrentLiabilities = Current Ratio
+As reported: $68,531 + $63,448 = 1.08
+Transaction effect: — 4,000 — 4,000
+After transaction: $64,531 = $59,448 = 1.09
+
+This example illustrates a third general point about the effect of transactions on ratios. If a
+transaction affects the numerator and denominator of the ratio by the same amount, the
+effect will depend on whether the original ratio value was greater or less than 1.00:
+
+Ratio Changes Given Same Change in
+Numerator and Denominator
+
+Numerator and
+
+Denominator Ratio <1 Ratio >1
+Increase both Increases Decreases
+Decrease both Decreases Increases
+
+FEEDBACK
+
+SELF-STUDY
+
+Net Profit
+Margin
+
+ROA Py
+
+0.0
+
+Total Asset
+Turnover
+
+0.50 100 150
+
+2014 2013
+HM Apple ™ Apple
+
+ROA measures how well management used the company’s invested capital during the period. Its two
+determinants, net profit margin and asset turnover, indicate why ROA differs from prior levels or the
+ROAs of competitors, They also suggest strategies to improve ROA in future periods. The effect of an
+individual transaction on a financial ratio depends on its effects on both the numerator and denomina-
+tor of the ratio.
+
+QUIZ
+
+1. We used profit driver analysis in Exhibit 5.9 to explain why a company has an ROA different
+from its competitors at a single point in time. This type of analysis is called cross-sectional
+analysis. Profit driver analysis can also be used to explain how changes in net profit margin
+(Net Income/Net Sales) and total asset turnover (Net Sales/Average Total Assets) changed
+Apple’s ROA over time. This type of analysis is often called time-series analysis. Follow-
+ing is the recent year’s ROA analysis for Apple Inc. Using profit driver analysis, explain how
+Apple has increased its ROA.
+
+ROA Profit Drivers 2014 2013
+
+Net Income/Net Sales 0.216 0.217
+Net Sales/Average Total Assets 0.833 0.892
+= Net Income/Average Total Assets 0.180 0.193
+
+
+--- PAGE 285 ---
+CHAPTER § 255
+
+2. What would be the direction of the effect of the following transactions on the following ratios
+(+ for increase, — for decrease, and NE for no effect)? Consider each item independently.
+
+a. Recorded and paid rent expense of $200.
+
+b. Recorded the sale of services on account for $400,
+
+Transaction Gross Profit Margin Return on Assets Current Ratio
+
+a.
+b.
+
+After you have completed your answers, check them below.
+
+DEMONSTRATION CASE
+
+Complete the following requirements before proceeding to the suggested solution. Microsoft
+Corporation is the developer of a broad line of computer software, including the Windows operat-
+ing systems and Word (word processing) and Excel (spreadsheet) programs. Following is a list of the
+financial statement items and amounts adapted from a recent Microsoft income statement and balance
+sheet. These items have normal debit and credit balances and are reported in millions of dollars. For
+that year, 8,299 million (weighted average) shares of stock were outstanding. The company closed its
+
+books on June 30, 2014.
+Accounts payable $ 7,432 Other current liabilities $ 9,464
+Accounts receivable (net) 19,544 Other income, net 61
+
+| Accrued compensation 4,797 Other investments 14,597
+
+| Cash and short-term investments 85,709 Other noncurrent assets 30,530
+Common stock and paid-in capital 68,366 Property, plant, and equipment (net) 13,011
+
+| Cost of goods sold 26,934 Provision for income taxes 5,746
+General and administrative 4,948 Research and development 11,381
+
+| Income taxes payable 782 Retained earnings 21,418
+Long-term liabilities 36,975 Sales and marketing 15,811
+Net revenue 86,833 Unearned revenue 23,150
+Other current assets 8,993
+
+Required:
+
+1. Prepare in good form a classified (multiple-step) income statement (showing gross profit, operat-
+ing income, income before income taxes, net income, and earnings per share) and a classified bal-
+ance sheet for the year.
+
+2. Compute the company’s ROA. Briefly explain its meaning using ROA profit driver analysis.
+(Microsoft’s total assets at the beginning of the year were $142,431 million.)
+
+3. If Microsoft had an additional $1,500 in general and administrative expenses (paid for in cash),
+what would be the effect on its ROA (increase, decrease, or no effect)?
+
+Py fin Solutions to
+1. Apple’s 1.3% decline (19.3% — 18.0%) in ROA resulted from a decline in its total asset turnover. The
+
+management discussion and analysis in its 10-K indicates that most of this decrease resulted from SELF-STUDY QUiz
+increases in total assets, mainly marketable securities.
+2. a. Rent expense (+E, —SE) 200 b. Accounts receivable (+A) 400
+Cash (—A) 200 Sales revenue (+R, +SE) 400
+
+NE, —. - araaro SP
+
+
+
+--- PAGE 286 ---
+256 CHAPTER 5 Communicating and Interpreting Accounting intormation
+
+SUGGESTED SOLUTION
+1.
+MICROSOFT CORPORATION | MICROSOFT CORPORATION
+Income Statement | } Balance Sheet
+For the Year Ended June 30, 2014 | | June 30, 2014
+(in millions, except per share amounts) | | (In millions)
+Net revenue $86,833 | | ASSETS
+Cost of goods sold 26,934 | | Current assets
+| Gross profit 59,899 | Cash and short-term investments $ 85,709
+. — | Accounts receivable (net) 19,544
+OEIC EEE | Other current assets 8,993
+Research and development 11,381 | — —t
+Sales and marketing 15,811 | Total current assets 114,246
+General and administrative 4,948 | Noncurrent assets:
+. _ . Property, plant, and equipment (net) 13,011
+Total operating expenses 32,140 | Other investments 14,597
+| Operating income 27,759 | | Other noncurrent assets 30,530
+Nonoperating income and expenses: | | Total assets $172,384
+Other income, net oF, | —— a A
+a. | LIABILITIES AND STOCKHOLDERS’
+Income before income taxes 27,820 | i
+Provision for income taxes 5,746 | / quae
+—— | Current liabilities
+Net income $22,074 | | Accounts payable $ 7,432
+Earnings per share $ 2.66 | | Accrued compensation. 4,797
+| Income taxes payable 782
+Unearned revenue 23.150
+Other current liabilities 9.464
+Total current liabilities 45,625
+| Long-term liabilities 36,975
+Stockholders’ equity:
+Common stock and paid-in capital 68,366
+Retained earnings 21,418
+Total stockholders’ equity 89,784
+Total liabilities and stockholders’ equity $172,384
+2.
+Fiscal Year Ending June 30, 2014
+Net Income/Net Sales 0.25
+x Net Sales/Average Total Assets 0.55
+| = Net Income/Average Total Assets 0.14
+
+For the year ended June 30, Microsoft earned an ROA of 14 percent. Microsoft maintains high
+profit margins, earning $0.25 of net income for every $1 of net sales, but the company has a lower
+asset efficiency with only $0.55 in sales generated for each $1 of assets. The analysis also indicates
+Microsoft’s dominance of the computer software business, which allows the company to charge pre-
+mium prices for its products.
+
+General and administrative expenses (+E, -SE)................. 1,500
+Cash (-A) oo... eee cc tect eee ence eet nent ences 1,500
+
+The numerator Net Income would decrease by $1,500 and the denominator Average Total Assets
+would decrease by $750. As a consequence, ROA would decrease.
+
+
+--- PAGE 287 ---
+CHAPTERS ¢
+
+5-i. Recognize the people involved in the accounting communication process (regulators, manag-
+ers, directors, auditors, information intermediaries, and users), their roles in the process, and
+
+the guidance they receive from legal and professional standards. _p. 233
+
+Management of the reporting company must decide on the appropriate format (categories) and
+level of detail to present in its financial reports. Independent audits increase the credibility of the
+information, Directors monitor managers’ compliance with reporting standards and hire the auditor.
+Financial statement announcements from public companies usually are first transmitted to users
+through electronic information services. The SEC staff reviews public financial reports for com-
+pliance with legal and professional standards, investigates irregularities, and punishes violators.
+Analysts play a major role in making financial statement and other information available to average
+investors through their stock recommendations and earnings forecasts.
+
+5-2. Identity the steps in the accounting communication pr
+
+, including th ance of
+releases, annual reports, quarterly reports, and iling: yell as the role of electronic
+information services in this proc p. 238
+
+Earnings are first made public in press releases. Companies follow these announcements with
+annual and quarterly reports containing statements, notes, and additional information. Public com-
+panies must file additional reports with the SEC, including the 10-K, 10-Q, and 8-K, which contain
+more details about the company. Electronic information services are the key source of dissemina
+tion of this information to sophisticated users.
+
+5-3. Recognize and apply the different financial statement and disclosure forr
+nies in practice and analyze the gross profit percentage. p. 240
+
+s used by compa-
+
+Most statements are classified and include subtotals that are relevant to analysis. On the balance
+sheet, the most important distinctions are between current and noncurrent assets and liabilities. On
+the income and cash flow statements, the distinction between operating and nonoperating items is
+most important. The notes to the statements provide descriptions of the accounting rules applied,
+add more information about items disclosed on the statements, and present information about eco-
+nomic events not included in the statements.
+
+5-4. Analyze a company’s performance based on return on assets and its components and the
+effects of transactior financial ratios 250)
+ROA measures how well management used the company’s invested capital during the period. Its
+two determinants, net profit margin and asset turnover, indicate why ROA differs from prior levels
+or the ROAs of competitors. They also suggest strategies to improve ROA in future periods. The
+effect of an individual transaction on a financial ratio depends on its effects on both the numerator
+and denominator of the ratio
+
+In Chapter 6, we will begin our in-depth discussion of individual items presented in financial state-
+ments. We will start with two of the most liquid assets, cash and accounts receivable, and transactions
+that involve revenues and certain selling expenses. Accuracy in revenue recognition and the related
+recognition of cost of goods sold (discussed in Chapter 7) are the most important determinants of the
+accuracy—and, thus, the usefulness—of financial statements. We will also introduce concepts related to
+the management and control of cash and receivables, a critical business function. A detailed understand-
+ing of these topics is crucial to future managers, accountants, and financial analysts
+
+KEY RATIOS
+
+Gross profit percentage measures the excess of sales prices over the costs to purchase or produce the
+goods or services sold as a percentage. It is computed as follows (see the “Key Ratio Analysis” box in
+the A Closer Look at Financial Statement Formats and Notes section):
+
+Gross Profit
+
+ntage =
+Gross Profit Percentag NaGacs
+
+CHAPTER TAKE-AWAYS
+
+257
+
+
+
+--- PAGE 288 ---
+258
+
+CHAPTER 5 Communicating and Interpreting Accounting Information
+
+Return on assets (ROA) measures how much the firm earned for each dollar of investment. It is
+computed as follows (see the “Key Ratio Analysis” box in the Return on Assets section):
+
+Return on Assets =
+
+FINDING FINANCIAL INFORMATION
+
+Balance Sheet
+
+Assets (by order of liquidity)
+Current assets (short-term)
+Noncurrent assets
+Total assets
+Liabilities (by order of time to maturity)
+Current liabilities (short-term)
+Long-term liabilities
+Total liabilities
+Stockholders’ equity (by source)
+Common stock and Additional paid-in capital (by owners)
+Retained earnings (accumulated earnings minus accumulated dividends
+declared)
+Total stockholders’ equity
+Total liabilities and stockholders’ equity
+
+Statement of Stockholders’ Equity
+
+Total
+Common Add] Paid-in. Retained — Stockholders’
+
+Stock Capital Earnings Equity
+Beginning balance XX XX XX XX
+Net income XX XX
+Dividends (xx) (xx)
+declared
+Stock issued XX XX xXx
+Stock retired (xx) (xx) (xx)
+Ending balance XX XX XX XX
+
+Board of Directors p. 234 Form 8-K  p. 240
+
+Corporate Governance p. 231 Form 10-K  p. 239
+Cost-Effectiveness p, 237 Form 10-Q _ p. 240
+Earnings Forecasts p. 235 Gross Profit (Gross Margin) p. 242
+
+Financial Accounting Standards Board
+(FASB) _ p. 233
+
+Income before Income Taxes (Pretax
+Earnings) p. 242
+
+Net Income
+
+Average Total Assets
+
+Income Statement
+
+Net sales
+— Cost of goods sold
+
+Gross margin
+— Operating expenses
+
+Income from operations
+
++/— Nonoperating revenues/expenses and gains/
+
+losses
+
+Income before income taxes
+— Income tax expense
+
+Net income
+
+Earnings per share
+
+Statement of Cash Flows
+
+Operating activities:
+
+Net income
++/— Adjustments for noncash items
+Cash provided by operating activities
+
+Investing activities:
+
+Financing activities:
+
+Notes
+Key Classifications
+
+Descriptions of accounting rules applied in the
+
+Statements
+
+Additional detail supporting reported numbers
+
+Relevant financial information not disclosed on
+the statements
+
+Institutional Investors p. 237
+
+Lenders (Creditors) p. 237
+
+Material Amounts _ p. 237
+
+Operating Income (Income from
+Operations) p. 242
+
+Press Release p. 238
+
+
+--- PAGE 289 ---
+Private Investors p. 237 Sarbanes-Oxley Act p. 232 Unqualified (Clean) Audit Opinion _ p. 234
+Public Company Accounting Oversight Securities and Exchange Commission
+Board (PCAOB) _ p. 233 (SEC)  p. 233
+
+Bw
+
+Wh.
+12.
+13.
+
+. Describe the roles and responsibilities of management and independent auditors in the financial
+. Define the following three users of financial accounting disclosures and the relationships among
+. Briefly describe the role of information services in the communication of financial information,
+
+. Explain what a material amount is.
+
+. What basis of accounting (cash or accrual) does GAAP require on the (a) income statement, (b) bal-
+. Briefly explain the normal sequence and form of financial reports produced by private companies in
+. Briefly explain the normal sequence and form of financial reports produced by public companies in
+. What are the four major subtotals or totals on the income statement?
+
+. List the six major classifications reported on a balance sheet.
+. For property, plant, and equipment, as reported on the balance sheet, explain (a) cost, (b) accumu-
+
+. Briefly define return on assets and what it measures.
+
+. If average total assets increase, but net income, net sales, and average stockholders’ equity remain
+
+. If acompany plans to differentiate its products by offering low prices and discounts for items pack-
+
+CHAPTER 5 Communicating and Interpreting Accounting Information 259
+
+QUESTIONS
+
+reporting process.
+
+them: (a) financial analysts, (6) private investors, and (c) institutional investors.
+
+ance sheet, and (c) statement of cash flows?
+a typical year.
+
+a typical year.
+
+lated depreciation, and (c) net book value.
+Briefly explain the major classifications of stockholders’ equity for a corporation.
+
+What are the three major classifications on a statement of cash flows?
+
+What are the three major categories of notes or footnotes presented in annual reports? Cite an exam-
+ple of each.
+
+QUESTIONS
+
+the same, what is the impact on the return on assets ratio?
+a. Increases.
+
+b. Decreases.
+
+c. Remains the same.
+
+d. Cannot be determined without additional information.
+
+aged in bulk (like a discount retailer that requires memberships for its customers), which component
+in the ROA profit driver analysis is the company attempting to boost?
+
+a. Net profit margin. c. Financial leverage.
+
+b. Asset turnover. d. All of the above.
+
+If a company reported the following items on its income statement (cost of goods sold $6,000,
+income tax expense $2,000, interest expense $500, operating expenses $3,500, sales revenue
+$14,000), what amount would be reported for the subtotal “income from operations”?
+
+a. $8,000 c, $4,500
+
+b. $2,000 d. $4,000
+
+Which of the following is one of the possible nonrecurring items that must be shown in a separate
+line item below the Income from Continuing Operations subtotal in the income statement?
+
+a. Gains and losses from the sale of fixed assets. c. Extraordinary items.
+
+b. Discontinued operations. d. Both a and b.
+
+Which of the following reports is filed annually with the SEC?
+
+a. Form 10-Q c, Form 8-K
+
+b. Form 10-K d. Press release
+
+
+--- PAGE 290 ---
+260 CHAPTER 5 Communicating and Interpreting Accounting Information
+
+6. Which of the following would normally not be found in the notes to the financial statements?
+a. Accounting rules applied in the company’s financial statements.
+b. Additional detail supporting numbers reported in the company’s financial statements.
+c. Relevant financial information not presented in the company’s financial statements.
+d. All of the above would be found in the notes to the financial statements.
+
+7. Which of the following is not a normal function of a financial analyst?
+a. Issue earnings forecasts.
+b. Examine the records underlying the financial statements to certify their conformance
+
+with GAAP.
+
+c. Make buy, hold, and sell recommendations on companies’ stock.
+d. Advise institutional investors on their securities holdings.
+
+8. The classified balance sheet format allows one to ascertain quickly which of the following?
+a. The most valuable asset of the company.
+b. The specific due date for all liabilities of the company.
+c. What liabilities must be paid within the upcoming year.
+d. None of the above
+
+9. When a company issues stock with a par value, what columns are typically presented in the state-
+ment of stockholders’ equity?
+a. Common Stock; Additional Paid-In Capital; and Property, Plant, and Equipment, Net.
+b. Cash; and Property, Plant, and Equipment, Net.
+c. Common Stock; Additional Paid-In Capital; and Retained Earnings.
+d. Common Stock; Additional Paid-In Capital; and Cash.
+
+10. Net income was $850,000. Beginning and ending assets were $8,500,000 and $9,600,000,
+
+respectively. What was the return on assets (ROA)?
+a. 9.39% c. 9.94%
+b. 10.59% d. 10.41%
+
+connect
+
+M5-1 Matching Players in the Accounting Communication Process with Their Definitions
+
+Lo5-1 Match each player with the related definition by entering the appropriate letter in the space provided.
+Players Definitions
+___ (1) Independent auditor A. Adviser who analyzes financial and other economic
+__ (2) CEO and CFO information to form forecasts and stock recommendations.
+(3) Users B. Institutional and private investors and creditors
+
+(among others).
+
+C. Chief executive officer and chief financial officer who have
+primary responsibility for the information presented in
+financial statements.
+
+D. Independent CPA who examines financial statements and
+attests to their fairness.
+
+__ (4) Financial analyst
+
+M5-2 __ Identifying the Disclosure Sequence
+LO5-2
+
+Indicate the order in which the following disclosures or reports are normally issued by public companies.
+
+No. litle
+
+— Form 10-K
+— Earnings press release
+
+— Annual report
+
+
+--- PAGE 291 ---
+CHAPTER 5
+
+Finding Financial Information: Matching Financial Statements with the Elements
+of Financial Statements
+
+Match each financial statement with the items presented on it by entering the appropriate letter in the
+space provided.
+
+Elements of Financial Statements Financial Statements
+—— (1) Expenses A. Income statement
+—_ (2) Cash from operating activities B. Balance sheet
+___(3) Losses C. Cash flow statement
+—_ (4) Assets D. None of the above
+
+(5) Revenues
+
+(6) Cash from financing activities
+
+(7) Gains
+
+(8) Owners’ equity
+
+__._ (9) Liabilities
+
+___. (10) Assets personally owned by a stockholder
+
+Determining the Effects of Transactions on Balance Sheet and Income Statement Categories
+
+Complete the following tabulation, indicating the sign of the effect (+ for increase, — for decrease, and
+NE for no effect) of each transaction. Consider each item independently.
+
+a. Recorded sales on account of $300 and related cost of goods sold of $200.
+b, Recorded advertising expense of $10 incurred but not paid for.
+
+Transaction Current Assets Gross Profit Current Liabilities
+
+(a)
+(b)
+
+Determining Financial Statement Effects of Sales and Cost of Goods Sold and Issuance of Stock
+
+Using the following categories, indicate the effects of the following transactions. Use + for increase and
+— for decrease and indicate the accounts affected and the amounts.
+
+a. Sales on account were $1,800 and related cost of goods sold was $1,200.
+b. Issued 5,000 shares of $1 par value stock for $60,000 cash.
+
+Event Assets = Liabilities ar Stockholders’ Equity
+
+(a)
+(by
+Recording Sales and Cost of Goods Sold and Issuance of Stock
+
+Prepare journal entries for each transaction listed in M5-S.
+
+Computing and Interpreting Return on Assets
+
+Saunders, Inc., recently reported the following December 31 amounts in its financial statements (dollars
+in thousands):
+
+Current Year Prior Year
+Gross profit $ 200 $120
+Net income 100 40
+Total assets 1,000 800
+Total shareholders’ equity 800 600
+
+Compute return on assets for the current year. What does this ratio measure?
+
+iv trv 0 261
+
+
+
+--- PAGE 292 ---
+262 CHAPTER 5 Communicating and Interpreting Accounting Information
+
+E5-1
+LO5-1
+
+E5-2
+LO5-2
+
+E5-3
+LO5-2
+
+Matching Players in the Accounting Communication Process with Their Definitions
+
+Match each player with the related definition by entering the appropriate letter in the space provided.
+
+Players Definitions
+_— (J) Financial analyst A. Financial institution or supplier that lends money to the
+_ (2) Creditor company.
+___ (3) Independent auditor B. Chief executive officer and chief financial officer who
+_— (4) Private investor have primary responsibility for the information present-
+—_— (5) SEC ed in financial statements.
+__ (6) Information service C. Manager of pension, mutual, and endowment funds that
+_— (7) Institutional investor invest on the behalf of others.
+__ (8) CEO and CFO D. Securities and Exchange Commission, which regulates
+
+financial disclosure requirements.
+
+E. A company that gathers, combines, and transmits (paper
+and electronic) financial and related information from
+various sources.
+
+F. Adviser who analyzes financial and other economic in-
+formation to form forecasts and stock recommendations.
+
+G. Individual who purchases shares in companies.
+
+H. Independent CPA who examines financial statements
+and attests to their fairness.
+
+Matching Definitions with Information Releases Made by Public Companies
+
+Following are the titles of various information releases. Match each definition with the related release by
+entering the appropriate letter in the space provided.
+
+Information Release Definitions
+__ (1) Form 10-Q A. Report of special events (e.g., auditor changes, mergers)
+_— (2) Quarterly report filed by public companies with the SEC.
+__ (3) Press release B. Brief unaudited report for quarter normally containing
+__. (4) Annual report summary income statement and balance sheet.
+__ (5) Form 10-K C. Quarterly report filed by public companies with the
+_ (6) Form 8-K SEC that contains additional unaudited financial
+
+information.
+
+D. Written public news announcement that is normally
+distributed to major news services.
+
+E. Annual report filed by public companies with the
+SEC that contains additional detailed financial
+information.
+
+F. Report containing the four basic financial statements for
+the year, related notes, and often statements by manage-
+ment and auditors.
+
+Finding Financial Information: Matching Information Items to Financial Reports
+
+Following are information items included in various financial reports. Match each information item
+with the report(s) where it would most likely be found by entering the appropriate letter(s) in the space
+provided.
+
+
+--- PAGE 293 ---
+CHAPTER 5 Communicating and Interpreting Accounting Information 263
+
+Information Item Report
+—— (1) Summarized financial data for 5-year period. . Form 10-Q
+__ (2) Notes to financial statements. Annual report
+_— (3) The four basic financial statements for the year. Form 8-K
+
+_ (4) Summarized income statement information for the quarter.
+__. (5) Detailed discussion of the company’s competition.
+___ (6) Initial announcement of hiring of new vice president for sales. Form 10-K
+_ (7) Initial announcement of quarterly earnings. None of the
+____ (8) Description of those responsible for the financial statements. above
+_ (9) Complete quarterly income statement, balance sheet, and cash
+
+flow statement.
+___ (10) Announcement of a change in auditors.
+
+. Press release
+Quarterly report
+
+Qnmoung>
+
+Ordering the Classifications on a Typical Balance Sheet E5-4
+
+Following is a list of classifications on the balance sheet. Number them in the order in which they nor- L05-3
+mally appear on a balance sheet.
+
+No. Title
+
+Long-term liabilities
+
+Current liabilities
+
+Long-term investments
+
+Intangible assets
+
+Common stock and additional paid-in capital
+Current assets
+
+Retained earnings
+
+Property, plant, and equipment
+
+Other noncurrent assets
+
+Preparing a Classified Balance Sheet E5-5
+Campbell Soup Company is the world’s leading maker and marketer of soup and sells other well-known LO5-3
+brands of food in 120 countries. Presented here are the items listed on its recent balance sheet (dollars in
+
+millions) presented in alphabetical order:
+
+Accounts payable $ 585 Other assets $ 136
+
+Accounts receivable 560 Other current assets 152
+
+Accrued expenses 619 Other current debt 785
+
+Cash and cash equivalents 484 Other noncurrent liabilities 3,777
+
+Common stock, $0.0375 par value 351 Property, plant, and equipment, net 2,103
+
+Intangible assets 2,660 Retained earnings 745
+
+Inventories 767
+
+Required:
+
+Prepare a classified consolidated balance sheet for Campbell Soup for the current year (ended July 31)
+
+using the categories presented in the chapter.
+
+Preparing and Interpreting a Classified Balance Sheet with Discussion of Terminology E5-6
+(Challenging) LO5-3
+
+Snyder’s-Lance manufactures, markets, and distributes a variety of snack food products including
+pretzels, sandwich crackers, kettle chips, cookies, potato chips, tortilla chips, other salty snacks, sugar
+
+
+
+--- PAGE 294 ---
+264
+
+CHAPTER 5
+
+Communicating and interpreting Accounting Information
+
+wafers, nuts, and restaurant-style crackers. These items are sold under trade names including Snyder’s of
+Hanover, Lance, Cape Cod, Krunchers!, Jays, Tom’s, Archway, and others. Presented here are the items
+listed on its recent balance sheet (dollars in millions) in alphabetical order:
+
+Accounts payable $ 52,930
+Accounts receivable, net 143,238
+Accrued compensation 29,248
+Additional paid-in capital 730,338
+Cash and cash equivalents 20,841
+Common stock, 67,820,798 shares
+
+outstanding 56,515
+Goodwill 367,853
+Inventories 106,261
+Long-term debt 253,939
+
+Required:
+
+Other assets (noncurrent) $ 21,804
+Other current assets 96,983
+Other intangible assets, net 376,062
+Other long-term liabilities 219,114
+Other payables and accrued
+
+liabilities 68,712
+Prepaid expenses and other 20,705
+Property, plant, and equipment, net 313,043
+Retained earnings 51,738
+Short-term debt 4,256
+
+1. Prepare a classified consolidated balance sheet for Snyder’s-Lance for the current year (ended
+December 31) using the categories presented in the chapter.
+2. Three of the items end in the term net. Explain what this term means in each case.
+
+E5-7 Preparing a Classified (Multiple-Step) Income Statement
+LO5-3 Macy’s, Inc., operates the two best-known high-end department store chains in North America: Macy’s
+and Bloomingdale’s. The following data (in millions) were taken from its recent annual report for the
+year ended February 1:
+Cost of sales $16,725
+Federal, state, and local income tax expense 804
+Interest expense 390
+Interest income 2
+Net sales 27,931
+Other operating expenses 88
+Selling, general, and administrative expenses 8,440
+Required:
+Prepare a complete classified (multiple-step) consolidated statement of income for the company (show-
+ing gross margin, operating income, and income before income taxes).
+E5-8 Preparing a Classified (Multiple-Step) Income Statement and Computing the Gross Profit
+LO5-3 Percentage
+The following data were taken from the records of Township Corporation at December 31 of the current
+year:
+Sales revenue $85,000
+Gross profit 30,000
+Selling (distribution) expense 7,000
+Administrative expense ?
+Pretax income 13,000
+Income tax rate 35%
+Shares of stock outstanding 2,500
+Required:
+
+Prepare a complete classified (multiple-step) income statement for the company (showing both gross
+profit and income from operations). Show all computations. (Hint: Set up the side captions or rows start-
+ing with sales revenue and ending with earnings per share; rely on the amounts and percentages given to
+infer missing values.) What is the gross profit percentage?
+
+
+--- PAGE 295 ---
+CHAPTER 5 Communicating and Interpreting Accounting Information 265
+
+Preparing a Classified (Multiple-Step) Income Statement (Challenging) E5-9
+
+Most people know Hewlett Packard Company (HP) as a leading supplier of personal computers, printers LO5-3
+and scanners, and storage and networking products for large and small customers alike. However, HP also is
+
+a major provider of technology consulting, outsourcing, and services to business, educational, and govern-
+
+ment organizations. Finally, HP also provides financing for products and services to its larger customers. As a
+consequence, its income statement shows three sources of operating revenues (goods/services/financing) and
+
+three related costs of goods/services/financing provided to customers. Presented below are the items adapted
+
+from its recent income statement for the year ended October 31 (in millions, except per share amounts). Net
+
+earnings per share was $3.78 and the weighted-average shares used in the computation was 2.319.
+
+Acquisition-related charges $ 293 Product sales $84,799
+Amortization of purchased intangible assets 1,484 Provision for taxes 2,213
+Cost of financing 302 Research and development 2,959
+Cost of products 65,064 — Restructuring charges 1,144
+Cost of services 30,590 Selling, general. and administrative 12,718
+Financing income 418 — Service sales 40.816
+Interest expense 505
+
+Required:
+
+1. Recognizing that HP has three sources of operating revenues, prepare a classified (multiple-step)
+income statement for HP following the format and using the subtotals presented in Exhibit 5.5.
+(Hint: The term “charge” is a synonym for “expense.”)
+
+2. Which source of operating revenues produces the highest gross profit?
+
+Inferring Income Statement Values E5-10
+Supply the missing dollar amounts for the current year income statement of NexTech Company for each LOs-3
+of the following independent cases. (Hint: Organize each case in the format of the classified or multiple-
+step income statement discussed in the chapter. Rely on the amounts given to infer the missing values.)
+Case A Case B Case C Case D Case E
+Sales revenue $800 $600 $500 $ ? $ ?
+Selling expense ? 50 80 350 240
+Cost of goods sold ? 150 ? 500 320
+Income tax expense ? 30 20 50 20
+Gross margin 375 ? ? ? 440
+Pretax income 200 300 ? 200 ?
+Administrative expense 125 ? 70 120 80
+Net income 150 ? 50 ? 100
+Inferring Income Statement Values E5-11
+LO5-3
+
+Supply the missing dollar amounts for the current year income statement of BGT Company for each of
+the following independent cases. (Hint: Organize each case in the format of the classified or multiple-
+step income statement discussed in the chapter. Rely on the amounts given to infer the missing values.)
+
+Case A Case B Case C Case D Case FE
+Sales revenue $770 $ ? $ ? $600 $1.050
+Pretax income ? ? 150 130 370
+Income tax expense 65 210 60 45 ?
+Cost of goods sold ? 320 125 250 ?
+Gross margin ? 880 ? ? 630
+Selling expense 90 275 45 70 ?
+Net income 115 275 ? 2 240
+
+Administrative expense 200 120 80 ? 175
+
+
+
+--- PAGE 296 ---
+266
+
+CHAPTER 5
+
+Communicating and Interpreting Accounting Information
+
+E5-12
+LO5-3
+
+E5-13
+LO5-3
+
+E5-14
+LO5-3
+
+E5-15
+LO5-3
+
+Stock issuances and the Statement of Stockholders’ Equity
+
+In a recent year, Coach, Inc., a designer and marketer of handbags and other accessories, issued 12,100
+shares of its $0.01 par value stock for $344,000 (these numbers are rounded). These additional shares
+were issued under an employee stock option plan. Prepare the line on the statement of stockholders’
+equity that would reflect this transaction. The statement has the following columns:
+
+Total
+Stockholders”
+Equity
+
+Additional
+Paid-in
+Capital
+
+Common Stock
+
+Retained
+
+Amount Earnings
+
+Shares
+
+Inferring Stock issuances and Cash Dividends from Changes in Stockholders’ Equity

@@ -1,0 +1,1000 @@
+Bond prices are reported each day in the business press based on transactions that have occurred on the bond
+exchange. Though formats differ across news outlets, the following is typical of the information you will find:
+
+| Issuer Coupon (%) _ Maturity 7 Current ($) x Yield (%)
+
+| Apple 3.45 2024 101.29 3.29
+Amazon 2.50 2022 94.92 3.20
+
+| Walmart 3.30 2024 101.36 3.13
+
+The above reflects that the Amazon bond pays a coupon rate of 2.5 percent, will mature in the year 2022,
+and is currently selling for $94.92. The bond’s “yield” reflects that investors who purchase the bond at its
+current price and hold it to maturity will earn a return on their investment of 3.2 percent.
+
+It is important to remember that the current price listed above does not affect Amazon’s financial
+statements—Amazon is not a part of the transaction when one investor decides to sell his or her bond
+to another investor. For financial reporting purposes, Amazon uses the market interest rate that existed
+when the bonds were first issued to the public.
+
+In the next section of this chapter, we will see how to account for bonds issued at par, at a dis-
+count, and at a premium.
+
+PAUSE FOR FEEDBACK
+
+SELF-STUDY QUIZ |
+
+Before we move on, it is important that you understand the new terminology introduced in this chap-
+ter. Let’s review some of the terms. Define the following:
+
+Market interest rate.
+
+Synonyms for market interest rate.
+
+Coupon rate.
+
+Synonyms for coupon rate.
+
+Ys PY S
+
+Bond discount.
+6. Bond premium.
+
+After you have completed your answers, check them below.
+
+1. The market interest rate is the interest rate demanded by investors for a bond at the time the bond is issued. It
+is the rate investors use in their present value computations to determine how much they will pay for the bond.
+
+2. The market interest rate is also called a bond’s yield or its effective interest rate.
+
+3. Coupon rate is a bond’s stated interest rate.
+
+4. Coupon rate is also called the stated rate, contract rate, or nominal rate.
+
+5. A bond that sells for less than its face value is sold at a discount. This occurs when the coupon rate is
+Jess than the market interest rate:
+
+6. A bond that sells for more than its face value is sold at a premium. This occurs when the coupon rate is
+greater than the market interest rate.
+
+
+
+--- PAGE 544 ---
+514 CHAPTER 10 _ Reporting and Interpreting Bond S
+
+LEARNING OBJECTIVE 10-2
+Report bonds payable and
+interest expense for bond
+
+" securities issued at par.
+bo ——
+
+Bonds Issued at Par
+
+Bond Contract Market Rate Bond Price
+
+n rate
+7: ~~
+
+Bonds sell at their face (par) value when the market interest rate that investors demand is equal
+to the interest rate stated in the bond contract, or the coupon rate. To illustrate, let’s assume that
+on January 1, 2016, Amazon issues bonds with a coupon rate of 10 percent and a face value of
+$100,000. On the date of issuance, investors are willing to pay Amazon $100,000 in cash (which
+means that the bonds are being sold at par). The bonds start accruing interest on January 1,
+2016, and will pay interest each June 30 and December 31. The bonds mature in two years on
+December 31, 2017.
+
+Term
+
+Coupon Rate
+
+The amount of money a company receives when it sells bonds is the present value of the
+future cash flows associated with the bonds. In issuing the bonds described above, Amazon
+agrees to make two types of payments in the future: a single payment of $100,000 when the
+bond matures in two years and an annuity of $5,000 [$100,000 x (10% Xx ¥% year)] payable
+twice a year for two years. The 10% in the above equation is the bond’s coupon rate. The bond
+payments can be shown graphically as follows:
+
+VV/2016 6/30/2016 12/31/2016 6/30/2017 12/31/2017 x
+Present value $100,000 ~~ eed
+$5,000 $5,000 $5,000 $5,000 eq interest
+
+We use the bond’s market interest rate per period (in this case 10% + 2 = 5%) to compute
+the bond’s present value. As we discussed in the previous chapter, the present value of the bond
+payments can be computed using Excel, a financial calculator, or the tables in Appendix E:
+
+Present Value
+
+Single principal payment at maturity: $100,000 x 0.82270 $ 82,270
++ Annuity cash interest payment: $5,000 x 3.54595 17,730
+
+Issue (sale) price of bonds $ 100,000
+
+
+
+--- PAGE 545 ---
+CHAPTER 10 _ Reporting and Interpreting Bond Securtties eit'5)
+
+From Table E.1: interest rate (i) = 5%, periods (n) = 4: Factor = 0.82270 ‘|
+From Table E.2: interest rate (i) = 5%, periods (n) = 4: Factor = 3.54595
+
+Using Excel: rate (7) = .05, nper (n) = 4, pmt = —$5,000, FV = —$100,000
+
+Using Calculator: rate (7) = 5, periods (n) = 4, pmt = —$5,000, FV = —$100,000
+
+When the market rate of interest equals the coupon rate, the present value of the future cash
+flows associated with a bond always equals the bond’s face value amount. Remember a bond’s
+selling price is determined by the present value of its future cash flows, not the face value. On
+the date Amazon issues the bonds, it records a bond liability equal to the amount investors are
+willing to pay for the bonds:
+
+Pe
+
+Assets = Liabilities Stockholders’ Equity
+
+Cash + 100,000 Bonds payable + 100,000
+
+Bonds may pay interest each month, each quarter, each half-year, or each year. In all cases, to
+determine the bond’s selling price, you would determine the present value of the bond’s cash flows
+using the number of interest periods in the bond’s life as well as the market interest rate per period.
+
+OR FEEDBACK
+
+SELF-STUDY QUIZ |
+
+Assume that Amazon issues bonds with a face value of $500,000 that will mature in two years. The
+bonds pay interest at the end of each year. On the date of issuance, the coupon rate and market rate of
+interest are the same: 8 percent. Compute the selling price of the bonds.
+
+After you have completed your answer, check it below.
+
+Reporting Interest Expense for Bonds Issued at Par
+
+Continuing with our example, the investors who bought the Amazon bonds did so with the
+expectation that they would earn interest over the life of the bond. Amazon will pay interest
+at 10 percent per year on the face value of the bonds each June 30 and December 31 until the
+bond’s maturity date. The amount of interest each period will be $5,000 ($100,000 x 0.10 x %
+year). The entry to record each interest payment is as follows:
+
+Assets = Liabilities aP Stockholders’ Equity
+
+Cash —5,000 Interest expense (+E) | —5,000
+
+Solution to
+
+SELF-STUDY QUIZ
+
+$500,000 x 0.85734 = $428,670
+($500,000 x 0.08) x 1.78326 71,330
+
+$500,000
+
+il
+
+
+
+--- PAGE 546 ---
+516 CHAPTER 10 Reporting and Interpreting Bond Securities
+
+Interest expense is reported on the income statement. Because interest is related to financing
+activities rather than operating activities, it is normally not included in operating expenses on
+the income statement. Instead, interest expense is typically reported just below “income from
+operations” on the income statement. A portion of the income statement for Amazon shows
+how interest expense is usually reported.
+
+Or. O00. 8a et
+
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+{in millions, except per share data)
+:
+Year Ended December 31
+
+2014 2013 2012
+:
+
+AMAZON Income from operations 178 745 676
+
+REAL WORLD EXCERPT: Uaygucttt ame ) ot ~
+
+Partial Income Statement Unssikest espense (20) oe) v2
+Other income (expense), net (118) (136) (07 |
+
+Total non-operating income (expense) (280) 039) (25)
+
+Income before income taxes dil 506 544
+
+Bond interest payment dates rarely coincide with the last day of a company’s fiscal year.
+Under the expense recognition principle introduced in Chapter 3, interest expense that has
+been incurred but not paid must be accrued at the end of the accounting period. If Amazon’s
+fiscal year ended on May 31 instead of December 31, the company would accrue interest for
+five months and report that amount as interest expense on its income statement and the same
+amount as interest payable on its balance sheet.
+
+Because interest payments are a legal obligation for the borrower, financial analysts want to
+be certain that a business is generating sufficient resources to meet its interest obligations. The
+times interest earned ratio is useful when making this assessment.
+
+mes Interest Earned
+
+Lx} ANALYTICAL QUESTION
+
+LEARNING OBJECTIVE 10-3
+
+Compute and analyze the time
+st earned ratio. —
+
+_ obligations?
+a RATIO AND COMPARISONS
+The times interest earned ratio is computed as follows:
+
+Times ntres Bare = nana erest Empense
+
+The 2014 ratio for Amazon (dollars in millions):
+
+[$(241) + $210 + $167] + $210 = 0.65
+
+
+--- PAGE 547 ---
+CHAPTER 10
+
+COMPARISONS OVERTIME | | COMPARISONS WITH COMPETITORS
+Amazon | "i ___ eBay _ Walmart
+2014 2013 2012 | | 2014 2014
+07 41 5.2 4) 26.8 3.3
+
+a INTERPRETATIONS
+
+In General
+
+Analysts view a hi
+
+es an extta
+margin of protection in case profitability deteriorates. Analysts are particularly interested in a company’s
+ability to meet its required interest payments because failure to do so could result in bankruptcy.
+
+Focus Company Analysis In 2014, profit-making activities for Amazon generated only $0.65 for each
+dollar of interest. The ratio has declined over time for two reasons: Net income has decreased over time.
+while interest expense has increased. Given the sharp decline over time, analysts are likely keeping an eye on
+Amazon’s times interest earned ratio. eBay and Walmart both have higher ratios, indicating a safer margin
+of error with respect to their ability to pay interest with earnings generated during the period.
+
+A Few Cautions The times interest earned ratio is often misleading for new or rapidly growing com-
+panies, which tend to invest considerable resources to build their capacity for future operations. In such
+cases, the times interest earned ratio will reflect significant amounts of interest expense associated with
+borrowing to support expansion plans but not the future income that will likely come from expanding. For
+this reason, analysts should consider the company’s long-term strategy when interpreting this ratio.
+
+Bonds Issued at a Discount
+
+Bond Contract Market Rate Bond Price
+
+Coupon rate
+is 10%
+
+. sr! Greater than 10% —_—=—_—a Discount
+
+Bonds sell at a discount when the market interest rate is greater than the coupon rate. To illus-
+trate, let’s assume that the market interest rate is 12 percent on January 1, 2016, when Amazon
+sells its bonds (which have a face value of $100,000). The bonds mature in two years and have
+a coupon rate of 10 percent. Interest is payable twice a year on June 30 and December 31.
+Because the coupon rate (10 percent) is less than the market interest rate (12 percent) on the
+date of issuance, the bonds sell at a discount.
+
+To compute what investors will be willing to pay for the bonds given the difference in inter-
+est rates, we can use the tables in Appendix E. As in the previous example, the number of
+periods is four and the interest rate is the market interest rate per period; in this case 6 percent
+(12% x % year). With this information, we can compute the cash issue price of the Amazon
+bonds as follows:
+
+Present Value
+Single principal payment at maturity:
+$100,000 x 0.79209 $79,209
++ Annuity cash interest payment: $5,000 x 3.46511 17,326
+Issue (sale) price of bonds $96,535
+
+Si?
+
+LEARNING OBJECTIVE 10-4
+Report bonds payable and
+interest expense for bond
+securities issued at a discount.
+
+
+--- PAGE 548 ---
+518 CHAPTER 10 _ Reporting and interpreting Bond Securities
+
+é
+a
+ser
+4b From Table E.1: interest rate (i) = 6%, periods (n) = 4: Factor = 0.79209
+we From Table E.2: interest rate (7) = 6%. periods (77) = 4: Factor = 3.46511
+\ } Using Excel: rate (/) = .06, nper (1) = 4. pmt = —$5,000, FV = —$100.000
+
+Using Calculator: rate (/) = 6, periods (7) = 4. pmt = —$5.000, FV = —$100,000
+
+. Some people refer to this price as 96.5, which indicates
+
+the selling price was 96.5 percent of the bond’s face value (96.5 = $96,535 + $100,000)
+There are two acceptable methods for recording a bond that is sold at a Ateocmts both result
+
+in the same dollar value being reported on a company’s balance sheet. The first meth
+
+The second
+
+entries. Regardless 0 the method used, the dollar value reported on the balance sheet (the bond
+payable book value) is identical, as shown in the example below. Using both methods, the jour-
+nal entries to record the sale of Amazon’s bonds issued at a discount are:
+
+Stockholders’ Stockholders’
+Assets = Liabilities + Equity Assets = Liabilities + Equity
+Cash +96,535 Bonds payable +100,000 Cash +96,535  Bondspayable +96,535
+Bond discount —3,465
+Bonds payable book value: $96,535 Bonds payable book value: $96,535
+
+($100,000 — $3,465)
+
+Bond discount is a contra-liability account, which is why it is debited in the journal entry
+above and shown as a negative number under liabilities. This account is not separately dis-
+closed on Amazon’s balance sheet. Instead, the balance sheet reports the bonds payable at
+its book value ($96,535), which is the face value of the bonds less the unamortized discount
+($100,000 — $3,465). Note that reporting bonds payable at their book value results in the same
+amount being reported on the balance sheet ($96,535), regardless of whether a bond discount is
+explicitly recorded in the journal entry.
+
+referre 2
+re he accounting
+
+EFFECTIVE-INTEREST sta
+
+AMORTIZATION Throughout the remainder of Chapter 10 we use the bond discount account in all jour-
+A method of amortizing a bond nal entries. We duplicate the text and show all journal entries without the bond discount
+discount or bond premium that account in the Chapter Supplement at the end of the chapter.
+
+reflects the effective interest rate
+a company pays bondholders over
+the life of a bond. Reporting Interest Expense on Bonds Issued at a Discount Using
+
+Effective-Interest Amortization (with Discount Account)
+Under the effective-interest amortization method, a company computes interest expense in a
+given period by multiplying the bonds payable book value times the market rate of interest on
+
+
+--- PAGE 549 ---
+CHAPTER 10 _ Repo
+
+the date of issuance. When bonds are issued at a discount, using a market interest rate that is
+greater than the coupon rate results in interest expense each period being greater than the cash
+owed for interest each period. The difference between interest expense and the cash owed for
+interest is the amount of the bond discount amortized during the period. This process can be
+summarized as follows:
+
+Y
+SET
+
+Recall that the cash owed for interest is computed by multiplying the bond’s face value
+($100,000) by the coupon rate per period (10% x 2 year). Thus, Amazon owes bondholders.
+cash of $5,000 each June 30 and again on December 31. The first interest payment on the bonds
+is made on June 30, 2016. Following the three steps outlined above, interest expense and the
+amount of the bond discount amortized are:
+
+Assets = Liabilities ar Stockholders’ Equity
+
+Cash —5,000 Bond discount +792 Interest expense (+E) =o
+
+Bonds payable book value: $97,327
+($100,000 — $3,465 + $792)
+
+Each period, the amortization of the bond discount increases the bond’s book value,
+bringing it closer to the $100,000 that is due at maturity. The amortization of the bond
+discount can be thought of as the amount of interest earned by the bondholders in a given
+period that will be paid to them when the bonds mature. During the first interest period,
+Amazon’s bondholders earned interest of $5,792 but received only $5,000 in cash. The addi-
+tional $792 was added to the book value of the bond and will be paid to bondholders when
+the bonds mature.
+
+Interest expense for the next interest period must reflect the change in the bonds payable
+book value. Amazon calculates interest expense for the second half of 2016 by multiplying
+the bonds payable book value on June 30, 2016 ($97,327) by the market rate of interest per
+
+and Interpreting Bond Securities
+
+Effective-interest
+amortization causes
+these amounts to
+
+change each period.
+
+519
+
+
+--- PAGE 550 ---
+pertod ($987 327 \ (L2% & be year) = $5,840]. With interest expense equal to $5,840 and cash
+owed for interest equal to $3,000, the amount of the bond discount amortized on December
+SL. 2Wlo, is S80:
+
+Assets = Liabilities ct Stockholders’ Equity
+
+~See Bead dsvount +840 Int. expense (+E) —5,840
+
+$98,167
++ $8aes
+
+otice that interest expense for December 31, 2016, is more than interest expense for June
+. TOLo. Amazon effectively borrowed more money during the second half of the year
+bovause of the unpaid taterest accrued during the first half of the year. Because of the amor-
+teatwn of the bend discount. the book value of the bond and interest expense increase
+each vear during the lite of the boad. This process can be illustrated with the amortization
+schedule shown below:
+
+BOND DISCOUNT AMORTIZATION SCHEDULE
+
+(b) (c) (d)
+Amortization Bonds
+Cast Owed of Bond i Payable
+for Ioterest Interest Expense Discount 4 Book Value
+Beginning of Period Beginning
+, $100,000 \ Book Value \ Book Value
+TR Syren | (2% Ysyear) (fa) +(0) |
+: é : $96.535
+? '
+: : = ; Sei 90327
+| so sae i 98.167
+ast a } 99,057
+—_- — +
+
+Neto chat
+
+» Cash owed for interest (column a) is computed by multiplying the bond's face value by the
+coupon nite per period.
+
+« Interest expense (column b) is computed by multiplying the book value of the bonds at the
+b ning of the period (column d) by the market interest rate. Note that the book value of a
+road atthe beginning of a pened is the book value of the bond at the end of the previous period.
+
+* Amortization of the bond discount is computed by subtracting cash owed for interest
+vealuaim a) front interest expense (column b).
+
+
+--- PAGE 551 ---
+CHAPTER 10 _ Reporting and interpreting Bond Securities §21
+
++ The new book value of the bonds (column d) is computed by adding amortization of the
+bond discount (column c) to the book value at the beginning of the period.
+
+In summary, under the effective-interest amortization method, interest expense changes each
+accounting period as the effective amount of the liability changes.
+
+PAUSE FOR FEEDBACK
+
+SELF-STUDY QUIZ
+
+Assume that Amazon issued bonds with a face value of $100,000 and a coupon rate of 5 percent.
+The bonds mature in 10 years and pay interest annually. The bonds were sold when the annual market
+interest rate was 6 percent at a price of $92,640.
+
+1, What amount of cash was owed for interest at the end of the first year?
+
+2. Using the effective-interest amortization method, what amount of interest expense would
+Amazon report at the end of the first year?
+
+After you have completed your answers, check them below.
+
+Bonds Issued at a Premium
+
+Bond Contract Market Rate Bond Price
+
+wr Less than 10% —=—>—
+Coupon fate F — = t H
+
+4
+is 10%
+
+LEARNING OBJECTIVE 10-5
+Report bonds payable and
+interest expense for bond
+securities issued at a premium.
+
+= QT 6-4
+Recall that bonds sell at a discount when the market interest rate is greater than the bond’s O78 441 j
+
+coupon rate. When the market interest rate is less than the bond’s coupon rate, the bonds sell at
+a premium. To demonstrate how to account for bonds issued at a premium, let’s use the same
+Amazon example as before but assume that the market interest rate is now 8 percent while the
+coupon rate remains the same, at 10 percent. Like before, the bonds are issued on January 1, Ose MPA azzlk £
+2016; pay interest semiannually; and mature in two years. —_
+
+The present value of the bonds described above can be computed from the tables contained 2. 3256
+in Appendix E using the factor for four periods and an interest rate of 4 percent per period i,
+
+(8% X Ye year):
+
+_Jeerk 7.01989 = 672359, 024
+
+Present Value
+
+Single principat payment at maturity: $100,000 x 0.85480 $ 85,480
++ Annuity cash interest payment: $5,000 x 3.62990 18,150
+Issue (sale) price of bonds $103,630
+
+From Table E.1: interest rate (i) = 4%, periods (n) = 4: Factor = 0.85480
+
+From Table E.2: interest rate (i) = 4%, periods (n) = 4: Factor = 3.62990
+
+Using Excel: rate (i) = .04, nper (n) = 4, pmt = —$5,000, FV = —$100,000
+Using Calculator: rate (i) = 4, periods (n) = 4, pmt = —$5,000, FV = —$100,000
+
+1. Cash owed for interest: $100,000 x 5% = $5,000 Solutions to
+
+2. Interest expense: $92,640 x 6% = $5,558 SELF-STUDY QUIZ
+
+
+
+--- PAGE 552 ---
+522 CHAPTER 10 _ Reporting and Interpreting Bond Securities
+
+Accounting for bonds issued at a premium is similar to accounting for bonds issued at a
+discount. Companies can explicitly use a bond premium account in their journal entries or
+implicitly keep track of the premium amount. We show both side-by-side below, and then, as
+we did with bond discounts, we present al! subsequent journal entries using a bond premium
+account. We duplicate the text and show all journal entries without the bond premium
+account in the Chapter Supplement at the end of the chapter. The January 1, 2016, issuance
+of Amazon’s bonds at a premium would be recorded as follows:
+
+Stockholders’ Stockholders’
+
+Assets = Liabilities + Equity Assets = Liabilities ae Equity
+
+Cash +103,630 Bonds payable
+Bond premium
+
+Bonds payable book value: $103,630
+($100,000 + $3,630)
+
++100,000 ie +103,630 Bonds payable +103,630
++3,630
+Bonds payable book value: $103,630
+
+Like the bond discount account, the bond premium account is not separately disclosed on
+Amazon's balance sheet, Instead, the balance sheet reports the bonds payable at their book
+value ($103,630), which is their face value plus the unamortized premium ($100,000 +
+$3,630). Note that reporting bonds payable at their book value results in the same amount being
+reported on the balance sheet ($103,630), regardless of whether a bond premium is explicitly
+recorded in the journal entry.
+
+Reporting Interest Expense on Bonds Issued at a Premium Using
+Effective-Interest Amortization (with Premium Account)
+
+As with the discount account, the recorded premium of $3,630 must be apportioned to each
+interest period so that interest expense reflects the market (effective) interest rate that Amazon
+is actually paying. To compute interest expense and the amount of the premium to be amortized
+each period, we follow the same three steps that we followed to compute these amounts when
+the bonds were issued at a discount:
+
+SE
+
+Step 2: Compute cash owed for interest
+Bond Face Value x Coupon Rate per Period
+
+Y
+
+
+--- PAGE 553 ---
+CHAPTER 10 — Reporting and Interpreting Bond
+
+The journal entry Amazon would enter is:
+
+Assets = Liabilities 3° Stockholders’ Equity
+
+Cash —5,000 Bond premium —855 Interest expense (+E} —4,145
+
+Bonds payable book value: $102,775
+{$100,000 + $3,630 — $855)
+
+The basic difference between effective-interest amortization of a bond discount and a bond
+premium is that the amortization of a discount increases the book value of the liability and the
+amortization of a premium decreases it. Both serve the same purpose: to bring the liability to
+the bond’s face value at the maturity date. The following schedule illustrates the amortization
+of a premium over the life of a bond.
+
+; BOND PREMIUM AMORTIZATION SCHEDULE
+
+:
+
+7
+(a) | (b) (c) (d)
+}
+| Amortization Bonds
+Cash Owed of Bond Payable
+for Interest Interest Expense Premium Book Value H
+Beginning of Period Beginning
+$100,000 x Book Value x Book Value
+| | (10% x % year) (8% X % year) (b) — (a) +(9 |
+i. 012016 | $103,630 |
+== f
+06/30/2016 $5,000 $4,145 $(855) 102,775
+=| — j = ;
+4 12/31/2016 | 5,000 | Z 4111 —— (889) | 101,886
+@ 06/30/2017 | 5,000 4,075 (925) 100,961
+12/31/2017 | 5,000 4,039* (961) 100,000 ad
+“Rounded
+
+Regardless of whether a company issues bonds at par, at a discount, or at a premium,
+the company will enter the same journal entry when the bonds mature. For our Amazon
+
+example, the journal entry would be:
+
+Assets = Liabilities or Stockholders’ Equity
+
+Cash —100,000 Bonds payable — 100,000
+
+
+--- PAGE 554 ---
+524 CHAPTER 10.) Reverting and nterpretina Bond
+
+PAUSE FOR FEEDBACK
+
+| SELF-STUDY QUIZ
+
+Assume that Amazon issued bonds with a face value of $100,000 and a coupon rate of 9 percent.
+The bonds mature in 10 years and pay interest annually. The bonds were sold when the annual market
+interest rate was 8 percent at a price of $106,710.
+
+1. What amount of cash was owed for interest at the end of the first year?
+2. Using the effective-interest amortization method, what amount of interest expense would
+Amazon report at the end of the first year?
+
+After you have completed vour answers, check them below.
+
+ cuiveD HELP 10-1
+
+For additional step-by-step instruction on how to account for a bond issued at a premium. go to
+wwwmhhecom libby ghia.
+
+The Book Value of a Bond over Time
+
+Exhibit 10.2 reflects how the book value of a bond changes over its life when the bond is issued
+at par, at a discount, or at a premium.
+
+Issue Maturity
+Date Date
+
+Bond
+Issue
+
+The Change in the Book
+Value of a Bond Over Time
+
+Bond payable book value at end of period
+
+Ata 1 2 3
+premium Be $103.630
+
+$100,000
+
+— maturity
+
+amount
+
+Ata
+discount > $96.535 2
+
+PERIOD
+
+Solutions to 1. Cash owed for interest: $100,000 x 9% = $9,000
+SELE-STUDY QUIZ 2. Interest expense: $106,710 X 8% = $8,337
+
+
+
+--- PAGE 555 ---
+CHAPTER 10 Reporting and Interpreting Bond Securities 525
+
+So far, we have discussed bonds that pay interest over their life and have a principal payment due at the
+end of their life, which are the most common type of bond issued by companies to raise capital. For a
+number of reasons, companies may choose to issue bonds that have unique features. The concepts you
+have learned will help you understand these bonds. For example, a company might issue a bond that
+does not pay periodic cash interest. These bonds are typically called zero coupon bonds, Why would an
+investor buy a bond that did not pay interest? Our discussion of bond discounts has probably given you a
+good idea of the answer. The coupon interest rate on a bond can be virtually any amount (including zero)
+and investors will price the bond so that they earn the market rate of interest. A bond with a zero coupon
+interest rate is simply a deeply discounted bond that will sell for substantially less than its maturity value.
+
+Let’s use the $100,000 Amazon bond to illustrate a zero coupon rate. Assume that the market interest
+rate is 10 percent and the bond does not make any cash interest payments to bondholders over its life
+The bond matures in five years. The selling price of the bond is the present value of the maturity amount
+because no other cash payments will be made over the life of the bond. We can compute the present
+value with the tables contained in Appendix E, using the factor for five periods and an interest rate of 10
+percent:
+
+Present Value
+Single principal payment at maturity: $100,000 x 0.62092 $62,092
+
+From Table E.1: interest rate (1) = 10%, periods (n) = 5: Factor = 0.62092
+Using Excel: rate (i) = .10, nper (n) = 5, pmt = $0, FV = —$100,000
+Using Calculator: rate (i) = 10, periods (n) = 5, pmt = $0, FV = —$100,000
+
+Accounting for a zero coupon bond is no different than accounting for other bonds issued
+at a discount. However, the amount of the discount is much larger. For example, the bond dis-
+count in the above example is $37,908. Over the five-year life of the bond, this amount will
+decrease until it is zero at the end of the bond’s life.
+
+While zero coupon bonds do not pay cash interest, they have been priced to provide inves-
+tors with a market rate of interest. Notice that the bonds payable book value in our example
+($62,092) is much lower than the maturity value ($100,000). This is because the price investors —
+are willing to pay has been discounted such that when they receive the $100,000 at the end of
+the five years, they will have earned an interest rate of 10 percent, the market rate of interest on
+the issue date.
+
+Accounting for Issuance Costs
+
+For the sake of simplicity, the examples in this chapter assume that the company issuing bonds
+
+does not incur any issuance costs. This is not typically the case in the business world. When
+
+companies issue bonds, they almost always hire another company (or companies) to help them
+
+with the offering. These companies are called underwriters, and they charge a fee. Accounting
+
+for this fee is quite simple. The amount of the fee is deducted from the proceeds of the bond
+
+issuance. As a result, the fee increases the bond discount if the bonds were issued at a discount, STRAIGHT-LINE
+and reduces the bond premium if the bonds were issued at a premium. AMORTIZATION
+
+Reporting Interest Expens:
+
+e Using Straight-Line Amortization
+
+yeV to use straight-line
+Ww sults do erially di res sing S id.
+With straight-line amortization a company simply takes the total amount of the discount or
+
+
+
+--- PAGE 556 ---
+526 CHAPTER 10 _ Reporting and Interpreting Bond Securities
+
+the premium at issuance, divides it by the number of periods in the bond’s life, and amortizes
+that amount each period. For example, the total amount of the premium in the Amazon
+example above was $3,630 and the bonds paid interest over four periods. Using straight-line
+amortization, Amazon would amortize $907.50 each period over the life of the bonds. The
+amortization schedule would reflect:
+
+BOND PREMIUM AMORTIZATION SCHEDULE (STRAIGHT-LINE AMORTIZATION)
+| Date | (a) | (b) | (c)
+
+(a)
+
+: Cash Owed for Interest Interest Expense __ Amortization of | Bond Premium Bonds Payable Book Value
+
+ii $100,000 x (10% Xk year) bul : : 4 periods Beginning Book Value + r (c)
+01/01/2016 ia - $103,630.00
+06/30/2016 $5,000.00 - $4,092.50 ; $(907.50) = Al 102,722.50
+© 12/31:2016 5,000.00 4,092.50 (907.50) | 101,815.00
+06/30/2017 5,000.00 4,092.50 | (907.50) 400,907.50
+12/31/2017 5,000.00 4,092.50 : (907.50) 100,000 00
+
+Other than the amounts, the journal entries using straight-line amortization and effective-
+interest amortization are the same. Because straight-line amortization is only permitted by
+GAAP under specific circumstances, we focus on the effective-interest method in this chapter.
+
+Debt-to-Equity
+
+° ANALYTICAL QUESTION
+
+LEARNING OBJECTIVE 10-6 y F
+Whi
+?
+
+Compute and analyze the debt- ”
+to-equity ratio.
+wT RATIO AND COMPARISONS
+
+I The debt-to-equity ratio is computed as follows:
+The 2014 ratio for Amazon is:
+$43,764 + $10,741 = 41
+
+COMPARISONS OVERTIME | | COMPARISONS WITH COMPETITORS |
+2014 2013 2012 | 2014 2014
+44 34 30 | | 13 1
+
+a INTERPRETATIONS
+
+Focus Company Analysis The debt-to-equity ratio for Amazon has increased over the past few years,
+and in 2014, the ratio reflects that for each dollar of stockholders’ equity, Amazon has $4.1 of liabilities.
+Both eBay and Walmart have considerably lower amounts of liabilities relative to their stockholders’
+
+
+--- PAGE 557 ---
+CHAPTER 10 — Reporting and Interpreting Bond Securities 527
+
+equity. Given the increase in Amazon’s ratio over time, and the fact that its ratio is higher than that of its
+competitors, analysts would likely keep an eye on this ratio going forward.
+
+A Few Cautions The debt-to-equity ratio tells only part of the story with respect to the risks associated
+with a company’s debt. It does not help the analyst understand whether the company’s operations can
+support its debt. As a result, most analysts would evaluate the debt-to-equity ratio within the context of
+the amount of cash the company can generate from operating activities.
+
+EARLY RETIREMENT OF BONDS
+
+Bonds are often issued for long periods, such as 20 or 30 years. As mentioned earlier, bond-
+holders who need cash prior to the maturity date can simply sell their bond securities on a bond RNIN
+
+exchange to another investor. This transaction does not affect the books of the company that rt
+
+issued the bonds; it is a transaction between two investors. Some bonds have a call feature that bondleceuntiaa.
+
+allows the issuing company to call (retire) the bonds early. A call feature most often requires 3
+
+the issuing company to pay investors an amount greater than the bond’s face value to retire the
+bonds before their maturity date. The amount is often stated as a percentage of the bond’s face
+value and is described in the bond indenture or bond prospectus.
+
+Assume that several years ago, Amazon issued callable bonds with a face value of
+$100,000. The bonds were issued at a premium, and the call feature allows Amazon to retire
+the bonds early by paying bondholders 102 percent of face value. If Amazon decides to call
+the bonds early, it will pay bondholders $102,000 cash and remove the bond liability from its
+balance sheet. Any difference between the cash paid to retire the bonds and the book value
+of the bond liability is recorded as a gain or loss on the income statement. For example, if
+the book value of Amazon’s bonds was $101,000 at the time the bonds were retired, Amazon
+would recognize a loss on early retirement of $1,000 on its income statement; Amazon had
+to pay bondholders $102,000 cash to remove a $101,000 liability from its balance sheet. The
+journal entry is:
+
+Stockholders’ Stockholders’
+
+Assets = Liabilities + Equity | Assets = Liabilities + Equity
+
+Cash —102,000 Bonds payable —101,000  Losson
+
+Cash —102,000 Bonds payable —100,000 Loss on
+bond call —1,000
+
+Bond premium —1,000 bond call —1,000
+
+In some cases, a company may elect to retire bonds early by purchasing them on the open
+market, just as an investor would. This approach is necessary when the bonds do not have a call
+feature. Even when the bonds have a call feature, retiring them by purchasing them on the open
+market is attractive when the cost of doing so is less than the cost of paying the call premium.
+What could cause the price of a bond to fall? The most common cause is a rise in interest rates.
+As you may have noticed during our discussion of present values, bond prices move in the
+opposite direction of interest rates. If interest rates g0 up, bond prices fall, and vice versa. If
+interest rates go up enough, a company may decide that it makes good economic sense to retire
+
+its bonds early by purchasing them on the open market.
+
+
+--- PAGE 558 ---
+528 CHAPTER 10
+
+market
+
+| a ES ] ais
+
+LEARNING OBJECTIVE 10-8
+
+Explain how bond securities are
+reported on the statement of
+cash flows.
+
+AMAZON
+REAL WORLD EXCERPT:
+
+Cash Flow Statement
+
+The cash a company receives when it issues bonds is reported as a cash inflow from financing activities
+on the statement of cash flows. The repayment of principal is reported as a cash outflow from financing
+activities. Many students are surprised to learn that the payment of interest is not reported as a financ-
+ing activity on the statement of cash flows. Interest expense, as well as any gain or loss that results from
+retiring bonds early, is reported on the income statement and is a component of net income. As a result,
+GAAP requires that interest payments and any gain or loss from early retirement be reported as operating
+activities on the statement of cash flows.
+
+EFFECT ON STATEMENT OF CASH FLOWS
+
+In General Cash paid for interest is a component of net income and is considered a cost of doing
+business during each accounting period. It is therefore reported in the operating section of the cash flow
+statement. Cash received from issuing debt and cash paid for principal are financing activities and are
+therefore reported in the financing section of the cash flow statement, as shown in the following table:
+
+Effect on Cash Flows
+
+| Financing activities:
+Cash received from bondholders when bonds are issued +
+Cash paid to bondholders when bonds mature or are retired = |
+
+Focus Company Analysis Below is an excerpt from Amazon’s cash flow statement showing its financ-
+ing activities. The excerpt reflects the cash inflows and outflows Amazon experienced during the period
+associated with issuing and paying back debt. Analysts are particularly interested in the Financing Activi-
+ties section of the statement of cash flows because it provides important insights about the capital struc-
+ture of a company.
+
+AMAZON.COM, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+
+| 2014 2013 2012, |
+FINANCING ACTIVITIES |
+
+| Repurchase of common stock = = (960)
+Proceeds from issuance of long-term debt 6,359 394 3,378
+
+| Repayment of long-term debt (513) (231) (82)
+Repayment of capital lease obligations (1,285) (775) (486)
+
+| Other (129) 73 409
+
+Net Cash Used in Financing Activities 4,432 (539) 2,259 |
+
+
+
+--- PAGE 559 ---
+Accounting for Bonds without a Discount Account or Premium Account
+In this chapter supplement we duplicate the text from Chapter 10 but show all journal entries without the
+bond discount or bond premium accounts.
+
+Reporting Interest Expense on Bonds Issued at a Discount Using
+
+results in interest expense each period being greater than the cash owed for interest each period. The
+difference between interest expense and the cash owed for interest is the amount of the bond discount
+amortized during the period. This process can be summarized as follows:
+
+CHAPTER 10 Rep
+
+snd Securities 529
+
+DEMONSTRATION CASE
+
+(Try to answer the questions below before reading the suggested solution that follows.)
+To raise funds to build a new plant, the managers of Zeus Company decide to issue bonds. The bond
+prospectus states the following:
+
+Face value of the bonds: $100,000.
+Date of issue: January 1, 2016; due in 10 years.
+Coupon rate: 12 percent per year, payable semiannually on June 30 and December 31.
+
+The bonds were sold on January |, 2016, at 106 percent of face value. Assume the annual market
+rate of interest on the date of issue was 11 percent.
+
+Required:
+1. How much cash did Zeus Company receive from the sale of the bonds? Show computations.
+. Were the bonds issued at a discount or a premium? What was the amount of the discount or premium?
+
+2
+3. How much cash does Zeus owe bondholders for interest on June 30, 2016?
+4
+
+. Assume Zeus uses the effective-interest amortization method. What amount of interest expense
+will Zeus recognize on June 30, 2016?
+
+SUGGESTED SOLUTION
+
+1. Sale price of the bonds: $100,000 x 1.06 = $106,000.
+
+2. The bonds were issued at a premium. The amount of the premium is $6,000 ($106,000 — $100,000).
+3. Cash paid for interest on June 30, 2016: $100,000 x (12% x % year) = $6,000.
+
+4. Interest expense recognized on June 30, 2016: $106,000 x (11% x % year) = $5,830.
+
+CHAPTER SUPPLEMENT
+
+Effective-Interest Amortization (without Discount Account) LEARNING OBJECTIVE 10-4
+
+Under the effective-interest amortization method, a company computes interest expense in a given period Report bonds payable and
+by multiplying the bonds payable book value times the market rate of interest on the date of issuance. interest expense for bond
+When bonds are issued at a discount, using a market interest rate that is greater than the coupon rate securities issued at a discount. —
+
+a aaa
+
+Step 2: Compute cash owed for interest
+Bond Face Value x Coupon Rate per Period
+
+Y
+SEES
+
+
+--- PAGE 560 ---
+530 CHAPTER 10 _ Reporting and interpreting Bond Securities
+
+Effective-interest amortization
+causes these amounts to
